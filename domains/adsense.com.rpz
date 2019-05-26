@@ -1,0 +1,5 @@
+adsense.com                     CNAME .
+*.adsense.com                   CNAME .
+24.0.17.217.172.rpz-ip          CNAME . ; adsense.com
+24.0.17.217.172.rpz-client-ip   CNAME . ; adsense.com
+# 24.0.17.217.172..rpz-drop       CNAME . ; adsense.com
