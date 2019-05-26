@@ -1,0 +1,3 @@
+24.0.127.177.108.rpz-ip         CNAME . ; adwords.com
+24.0.127.177.108.rpz-client-ip  CNAME . ; adwords.com
+# 24.0.127.177.108.rpz-drop       CNAME . ; adwords.com
