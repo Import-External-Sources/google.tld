@@ -1,1 +1,7 @@
-24.0.20.217.172.rpz-ip      CNAME . ; AS15169
+24.0.20.217.172.rpz-ip              CNAME . ; AS15169
+19.0.192.58.216.rpz-ip              CNAME . ; AS15169
+19.0.192.58.216.rpz-client-ip       CNAME . ; AS15169
+24.0.20.217.172.rpz-client-ip       CNAME . ; AS15169
+48.zz.4000.f8b0.2607.rpz-ip         CNAME . ; AS15169
+48.zz.4000.f8b0.2607.rpz-client-ip  CNAME . ; AS15169
+# 48.zz.4000.f8b0.2607.rpz-drop       CNAME . ; AS15169
