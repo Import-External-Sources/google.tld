@@ -1,0 +1,6 @@
+19.0.32.239.216.rpz-ip          CNAME . ; chromium.org
+19.0.32.239.216.rpz-client-ip   CNAME . ; chromium.org
+19.0.32.239.216.rpz-drop        CNAME . ; chromium.org
+32.zz.4860.2001.rpz-ip          CNAME . ; chromium.org
+32.zz.4860.2001.rpz-client-ip   CNAME . ; chromium.org
+32.zz.4860.2001.rpz-drop        CNAME . ; chromium.org
