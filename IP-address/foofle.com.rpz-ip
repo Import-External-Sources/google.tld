@@ -1,0 +1,9 @@
+24.0.16.217.172.rpz-ip							CNAME .
+48.zz.4001.1450.2a00.rpz-ip					CNAME .
+24.0.210.58.216.rpz-ip							CNAME .
+24.0.16.217.172.rpz-client-ip				CNAME .
+48.zz.4001.1450.2a00.rpz-client-ip	CNAME .
+24.0.210.58.216.rpz-client-ip				CNAME .
+24.0.16.217.172.rpz-drop						CNAME .
+48.zz.4001.1450.2a00.rpz-drop				CNAME .
+24.0.210.58.216.rpz-drop						CNAME .
