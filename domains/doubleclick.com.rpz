@@ -1,2 +1,6 @@
-doubleclick.com     CNAME .
-*.doubleclick.com   CNAME .
+dart.l.doubleclick.net.								CNAME .
+*.doubleclick.com   									CNAME .
+doubleclick.com     									CNAME .
+s0-2mdn-net.l.google.com							CNAME .
+static-doubleclick-net.l.google.com		CNAME .
+www3.l.google.com											CNAME .
