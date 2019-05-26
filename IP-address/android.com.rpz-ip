@@ -1,0 +1,6 @@
+48.zz.400e.1450.2a00.rpz-ip         CNAME . ; android.com
+48.zz.400e.1450.2a00.rpz-client-ip  CNAME . ; android.com
+48.zz.400e.1450.2a00.rpz-drop       CNAME . ; android.com
+24.0.17.217.172.rpz-ip              CNAME . ; android.com
+24.0.17.217.172.rpz-client-ip       CNAME . ; android.com
+24.0.17.217.172.rpz-drop            CNAME . ; android.com
