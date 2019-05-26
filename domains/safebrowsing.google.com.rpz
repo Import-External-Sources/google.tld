@@ -1,0 +1,3 @@
+safebrowsing.google.com     CNAME .
+sb.l.google.com             CNAME .
+24.0.20.217.172.rpz-ip      CNAME . ; AS15169
