@@ -1,0 +1,17 @@
+24.0.168.217.172.rpz-client-ip			CNAME . ; doubleclick.com
+24.0.168.217.172.rpz-drop						CNAME . ; doubleclick.com
+24.0.168.217.172.rpz-ip							CNAME . ; doubleclick.com
+24.0.17.217.172.rpz-client-ip				CNAME . ; doubleclick.com
+24.0.17.217.172.rpz-drop						CNAME . ; doubleclick.com
+24.0.17.217.172.rpz-ip							CNAME . ; doubleclick.com
+24.0.19.217.172.rpz-client-ip				CNAME . ; doubleclick.com
+24.0.19.217.172.rpz-drop						CNAME . ; doubleclick.com
+24.0.19.217.172.rpz-ip							CNAME . ; doubleclick.com
+24.0.20.217.172.rpz-client-ip				CNAME . ; doubleclick.com
+24.0.20.217.172.rpz-drop						CNAME . ; doubleclick.com
+24.0.20.217.172.rpz-ip							CNAME . ; doubleclick.com
+24.0.208.58.216.rpz-client-ip				CNAME . ; doubleclick.com
+24.0.208.58.216.rpz-drop						CNAME . ; doubleclick.com
+24.0.208.58.216.rpz-ip							CNAME . ; doubleclick.com
+48.zz.400e.1450.2a00.rpz-client-ip	CNAME . ; doubleclick.com
+48.zz.400e.1450.2a00.rpz-drop				CNAME . ; doubleclick.com
