@@ -1,0 +1,7 @@
+adwords.com                     CNAME .
+*.adwords.com                   CNAME .
+adwords.l.google.com            CNAME .
+*.adwords.l.google.com          CNAME .
+24.0.127.177.108.rpz-ip         CNAME .
+24.0.127.177.108.rpz-client-ip  CNAME .
+# 24.0.127.177.108.rpz-drop       CNAME .
