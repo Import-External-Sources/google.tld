@@ -1,0 +1,3 @@
+24.0.17.217.172.rpz-ip          CNAME . ; abc.xyz
+24.0.17.217.172.rpz-client-ip   CNAME . ; abc.xyz
+# 24.0.17.217.172.rpz-drop        CNAME . ; abc.xyz
