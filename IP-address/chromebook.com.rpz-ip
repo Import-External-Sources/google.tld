@@ -1,0 +1,6 @@
+19.0.192.58.216.rpz-ip              CNAME . ; chromebook.com
+19.0.192.58.216.rpz-client-ip       CNAME . ; chromebook.com
+19.0.192.58.216.rpz-drop            CNAME . ; chromebook.com
+48.zz.400e.1450.2a00..rpz-ip        CNAME . ; chromebook.com
+48.zz.400e.1450.2a00..rpz-client-ip CNAME . ; chromebook.com
+48.zz.400e.1450.2a00..rpz-drop      CNAME . ; chromebook.com
