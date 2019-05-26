@@ -1,8 +1,8 @@
-doubleclick.net							CNAME .
-*.doubleclick.net						CNAME .
-appspot.l.google.com					CNAME .
-*.doubleclick.net.edgesuite.net			CNAME .
-s0-2mdn-net.l.google.com				CNAME .
-static-doubleclick-net.l.google.com		CNAME .
-video-stats.l.google.com				CNAME .
-www3.l.google.com						CNAME .
+doubleclick.net                         CNAME .
+*.doubleclick.net                       CNAME .
+appspot.l.google.com                    CNAME .
+*.doubleclick.net.edgesuite.net         CNAME .
+s0-2mdn-net.l.google.com                CNAME .
+static-doubleclick-net.l.google.com     CNAME .
+video-stats.l.google.com                CNAME .
+www3.l.google.com                       CNAME .
