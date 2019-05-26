@@ -1,0 +1,8 @@
+blogspot.com                        CNAME .
+*.blogspot.com                      CNAME .
+16.0.0.217.172.rpz-ip               CNAME .
+16.0.0.217.172.rpz-client-ip        CNAME .
+# 16.0.0.217.172.rpz-drop           CNAME .
+48.zz.400e.1450.2a00.rpz-ip         CNAME .
+48.zz.400e.1450.2a00.rpz-client-ip  CNAME .
+# 48.zz.400e.1450.2a00.rpz-drop     CNAME .
