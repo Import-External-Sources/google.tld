@@ -1,6 +1,6 @@
 16.0.0.217.172.rpz-ip               CNAME . cobrasearch.com
 16.0.0.217.172.rpz-client-ip        CNAME . cobrasearch.com
-16.0.0.217.172.rpz-drop             CNAME . cobrasearch.com
+# 16.0.0.217.172.rpz-drop             CNAME . cobrasearch.com
 48.zz.4001.1450.2a00.rpz-ip         CNAME . cobrasearch.com
 48.zz.4001.1450.2a00.rpz-client-ip  CNAME . cobrasearch.com
-48.zz.4001.1450.2a00.rpz-drop       CNAME . cobrasearch.com
+# 48.zz.4001.1450.2a00.rpz-drop       CNAME . cobrasearch.com
