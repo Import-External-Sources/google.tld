@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt install -y curl wget dos2unix
+#apt install -y curl wget dos2unix
 
 curltemp=$(mktemp /tmp/curl_temp.XXXXXXXXXX) || { echo "Failed to create temp file"; exit 1; }
 chmod +x {$curltemp,,}
