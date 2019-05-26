@@ -1,1 +1,4 @@
-24.0.126.177.108.rpz-ip CNAME . ; AS15169
+24.0.126.177.108.rpz-ip             CNAME . ; admob.com
+48.zz.4013.1450.2a00.rpz-ip         CNAME . ; admob.com
+48.zz.4013.1450.2a00.rpz-client-ip  CNAME . ; admob.com
+#48.zz.4013.1450.2a00.rpz-drop       CNAME . ; admob.com
