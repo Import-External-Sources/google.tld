@@ -1,0 +1,8 @@
+chromium.org                    CNAME .
+*.chromium.org                  CNAME .
+19.0.32.239.216.rpz-ip          CNAME .
+19.0.32.239.216.rpz-client-ip   CNAME .
+#19.0.32.239.216.rpz-drop        CNAME .
+32.zz.4860.2001.rpz-ip          CNAME .
+32.zz.4860.2001.rpz-client-ip   CNAME .
+#32.zz.4860.2001.rpz-drop        CNAME .
