@@ -21,7 +21,7 @@ do
     done
 done
 
-for i in "${c[@]}"
+for i in ${c[@]}
 do
     printf "$i\n" >> ${input}
 done
