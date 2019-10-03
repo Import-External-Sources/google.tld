@@ -1,0 +1,10 @@
+{
+    "../domain.list": {
+        "INACTIVE": [
+            "1e100.aaa",
+            "1e100.aarp",
+            "1e100.abarth",
+            "1e100.abb"
+        ]
+    }
+}
