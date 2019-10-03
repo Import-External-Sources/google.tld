@@ -28,6 +28,8 @@ done
 
 rm $TLD
 
+head ${input}
+
 #PyFunceble --travis -db -ex --autosave-minutes 20 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Google temp test]" \
 #	--commit-results-message "Live google domains tested ${yeartag}.${monthtag}.`date +%s`" \
 #	--cmd-before-end "bash ${CI_PROJECT_DIR}/dev-tools/FinalCommit.sh" -f ${input}
