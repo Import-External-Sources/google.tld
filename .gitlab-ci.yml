@@ -27,6 +27,7 @@ before_script:
 
 build:
   script:
+    - echo $CI_BUILDS_DIR
     - bash dev-tools/domain_combine.sh
 
 #pages:
