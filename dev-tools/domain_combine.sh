@@ -48,7 +48,7 @@ RunFunceble () {
     monthtag=$(date +%m)
     ulimit -u
     cd ${TRAVIS_BUILD_DIR}/dev-tools
-    echo $PWD
+    echo "$PWD"
 
     hash PyFunceble
 
