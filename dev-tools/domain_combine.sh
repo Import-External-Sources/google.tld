@@ -37,8 +37,8 @@ cd ./dev-tools/
 # Set our Input File
 # ******************
 
-pyfuncebleConfigurationFileLocation=${CI_PROJECT_DIR}/dev-tools/.PyFunceble.yaml
-pyfuncebleProductionConfigurationFileLocation=${CI_PROJECT_DIR}/dev-tools/.PyFunceble_production.yaml
+pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
+pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
 
 # Run PyFunceble Testing
 RunFunceble () {
@@ -63,7 +63,7 @@ RunFunceble () {
 #        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 
-   PyFunceble --travis -db -ex -dbr 30 -psl --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash FinalCommit.sh" -f ../domain.list
+   PyFunceble --travis -db -ex -dbr 30 -psl --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash TRAVIS_BUILD_DIR/dev-tools/FinalCommit.sh" -f TRAVIS_BUILD_DIR/domain.list
 
 #cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
 }
