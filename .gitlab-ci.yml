@@ -29,7 +29,7 @@ build:
   script:
     - echo $CI_PROJECT_DIR
     - echo $PWD
-    - bash domain_combine.sh
+    - bash dev-tools/domain_combine.sh
 
 #pages:
 #  script:
