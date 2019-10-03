@@ -29,10 +29,6 @@ done
 
 rm $TLD
 
-git add dev-tools/domain.test
-git commit -m "${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}"
-git push -u origin master
-
 #head domain.list
 head -n 5 dev-tools/domain.test
 
@@ -66,7 +62,7 @@ RunFunceble () {
 #        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 
-   PyFunceble --travis -db -ex -dbr 30 --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash TRAVIS_BUILD_DIR/dev-tools/FinalCommit.sh" -f domain.test
+   PyFunceble --travis -db -ex -dbr 30 --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" -f domain.test
 
 #cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
 }
