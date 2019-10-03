@@ -3,7 +3,7 @@
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
 
-input=${CI_BUILDS_DIR}/PULL_REQUESTS/domains.txt
+input=${CI_BUILDS_DIR}/PULL_REQUESTS/domain.list
 
 rm domains.list
 
