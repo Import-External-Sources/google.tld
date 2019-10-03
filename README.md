@@ -1,6 +1,7 @@
 # google.tld
 
-The rpz files needed to entirely block anything google, but do note that some of the zones also ***will*** inflict other domains as they are hosted on Google's network
+The rpz files needed to entirely block anything google, but do note that some of the 
+zones also ***will*** inflict other domains as they are hosted on Google's network
 
 # Keywords that descripes Google
 
@@ -29,11 +30,12 @@ Do to all the above you have any good reason to do what ever posibe to stop Goog
  from having any access to any parts of your Internet connected devices.
 
 The worst of them are `safebrowsing.google.com` which is implamentd into almost
- any modern browser, and nearly imposible to get rid of. `safebrowsing.google.com` 
- Is not to protect you, but to protect Google's business by collecting all you
- internet activites, nothing more, nothing less. Google isn't for you, you are 
- the product for Google, don't forget that. Everything Google do "for you" is 
- ***BATE*** to get you stucked in a zombie mode.
+any modern browser, and nearly imposible to get rid of. `safebrowsing.google.com` 
+Is not to protect you, but to protect Google's business by collecting all you
+internet activites, nothing more, nothing less. Google isn't for you, you are 
+the `Google`'s product, don't ever forget that. Everything Google do "for you"
+is ***BAIT*** to get you stucked in a zombie mode for easies brainwashing and
+manipulation.
 
 # ***WAKE UP***
 
