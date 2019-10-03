@@ -34,7 +34,7 @@ any modern browser, and nearly imposible to get rid of. `safebrowsing.google.com
 Is not to protect you, but to protect Google's business by collecting all you
 internet activites, nothing more, nothing less. Google isn't for you, you are 
 the `Google`'s product, don't ever forget that. Everything Google do "for you"
-is ***BAIT*** to get you stucked in a zombie mode for easies brainwashing and
+is ***BAIT***^[1] to get you stucked in a zombie mode for easies brainwashing and
 manipulation.
 
 # ***WAKE UP***
@@ -42,3 +42,14 @@ manipulation.
 ![Morpheus](/images/morpheus-the-matrix-neo-red-pill-and-blue-pill.jpg)
 
 ![Flow Diagram](/images/pill_flow_chart.png)
+
+##### 1
+From the [dictionary.com](https://www.dictionary.com/browse/bait?s=ts) 
+You'll learn that bait pretty negative
+
+- food, or some substitute, used as a lure in fishing, trapping, etc.
+- a poisoned lure used in exterminating pests.
+
+- to prepare (a hook or trap) with bait.
+
+Bait -> Line-up -> hooked......

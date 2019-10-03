@@ -31,7 +31,7 @@ rm $TLD
 
 head domain.list
 
-cd dev-tools/
+cd ./dev-tools/
 
 # ******************
 # Set our Input File
@@ -63,8 +63,8 @@ RunFunceble () {
 #        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 
-PyFunceble --travis -db -ex -dbr 30 --autosave-minutes 2 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Google temp test]" \
-	--commit-results-message "Live google domains tested ${yeartag}.${monthtag}.`date +%s`" \
+PyFunceble --travis -db -ex -dbr 30 -psl --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" \
+	--commit-results-message "Live google domains tested ${yeartag}.${monthtag}." \
 	--cmd-before-end "bash FinalCommit.sh" -f ../domain.list
 
 #cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
