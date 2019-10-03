@@ -3,7 +3,7 @@
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
 
-input=${CI_PROJECT_DIR}/domain.list
+input=domain.list
 
 #rm ${input}
 
@@ -21,7 +21,7 @@ do
     done
 done
 
-for i in ${c[@]}
+for i in "${c[@]}"
 do
     printf "$i\n" >> ${input}
 done
