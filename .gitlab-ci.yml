@@ -27,7 +27,7 @@ before_script:
 
 build:
   script:
-    - echo $CI_BUILDS_DIR
+    - echo $CI_PROJECT_DIR
     - echo $PWD
     - bash dev-tools/domain_combine.sh
 
