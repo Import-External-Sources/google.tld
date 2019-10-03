@@ -31,9 +31,11 @@ rm $TLD
 
 head domain.list
 
+cd dev-tools/
+
 PyFunceble --travis -db -ex --autosave-minutes 20 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Google temp test]" \
 	--commit-results-message "Live google domains tested ${yeartag}.${monthtag}.`date +%s`" \
-	--cmd-before-end "bash dev-tools/FinalCommit.sh" -f domain.list
+	--cmd-before-end "bash FinalCommit.sh" -f ../domain.list
 
 #cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
 
