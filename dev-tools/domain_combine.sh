@@ -63,7 +63,7 @@ RunFunceble () {
 #        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 
-PyFunceble --travis -db -ex -dbr 30 --autosave-minutes 20 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Google temp test]" \
+PyFunceble --travis -db -ex -dbr 30 --autosave-minutes 2 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Google temp test]" \
 	--commit-results-message "Live google domains tested ${yeartag}.${monthtag}.`date +%s`" \
 	--cmd-before-end "bash FinalCommit.sh" -f ../domain.list
 
