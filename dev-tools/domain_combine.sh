@@ -24,13 +24,13 @@ done
 
 for i in "${c[@]}"
 do
-    printf "$i\n" >> domain.list
+    printf "$i\n" >> dev-tools/domain.test
 done
 
 rm $TLD
 
-head domain.list
-
+#head domain.list
+cat dev-tools/domain.test
 
 echo $PWD
 
@@ -48,7 +48,6 @@ RunFunceble () {
     monthtag=$(date +%m)
     ulimit -u
     cd ${TRAVIS_BUILD_DIR}/dev-tools
-    echo "$PWD"
 
     hash PyFunceble
 
@@ -65,7 +64,7 @@ RunFunceble () {
 #        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 
-   PyFunceble --travis -db -ex -dbr 30 -psl --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash TRAVIS_BUILD_DIR/dev-tools/FinalCommit.sh" -f ../domain.list
+   PyFunceble --travis -db -ex -dbr 30 --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash TRAVIS_BUILD_DIR/dev-tools/FinalCommit.sh" -f domain.test
 
 #cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
 }
