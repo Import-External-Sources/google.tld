@@ -29,10 +29,12 @@ done
 
 rm $TLD
 
-#head domain.list
-cat dev-tools/domain.test
+git add dev-tools/domain.test
+git commit -m "${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}"
+git push -u origin master
 
-echo $PWD
+#head domain.list
+head -n 5 dev-tools/domain.test
 
 # ******************
 # Set our Input File
