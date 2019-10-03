@@ -30,7 +30,8 @@ done
 rm $TLD
 
 #head domain.list
-head -n 5 dev-tools/domain.test
+head -n 5 ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
+
 
 # ******************
 # Set our Input File
@@ -55,16 +56,8 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-#    PyFunceble --travis -db -ex --dns 95.216.209.53 116.203.32.67 \
-#        --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" \
-#        --plain --autosave-minutes 20 \
-#        --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Auto Saved]" \
-#        --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+   PyFunceble --travis -db -ex --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" -f ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
 
-
-   PyFunceble --travis -db -ex -dbr 30 --http --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" --commit-results-message "Live google domains tested ${yeartag}.${monthtag}." --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" -f domain.test
-
-#cat output/domains/ACTIVE/list | awk '/^#/{ next }; { printf("%s\n",tolower($1)) }' >> ?
 }
 
 RunFunceble
