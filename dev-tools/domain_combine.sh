@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-#yeartag=$(date +%Y)
-#monthtag=$(date +%m)
-
-#input=domain.list
-
-#rm ${input}
 rm domain.list
 
 TLD=`(mktemp)`
@@ -29,7 +23,7 @@ done
 
 rm $TLD
 
-source ${TRAVIS_BUILD_DIR}/dev-tools/PrepareTravis.sh
+bash ${TRAVIS_BUILD_DIR}/dev-tools/PrepareTravis.sh
 
 bash ${TRAVIS_BUILD_DIR}/dev-tools/DataTesting.sh
 
