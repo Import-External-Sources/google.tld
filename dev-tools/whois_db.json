@@ -2074,6 +2074,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "admob.best": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
     "admob.biz": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -3754,6 +3759,11 @@
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
+    "adwords.best": {
+        "epoch": 1587513600,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
     "adwords.bet": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -4067,6 +4077,11 @@
     "adwords.fr": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "adwords.frl": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "adwords.ga": {
@@ -5204,6 +5219,11 @@
         "expiration_date": "31-dec-2037",
         "state": "future"
     },
+    "android.ceo": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "android.cf": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
@@ -6077,6 +6097,11 @@
     "android.tg": {
         "epoch": 1611878400,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "android.tickets": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "android.tirol": {
@@ -6999,6 +7024,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "blog.frl": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
     "blog.fund": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -7027,6 +7057,556 @@
     "blog.ge": {
         "epoch": 1590537600,
         "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "blog.gl": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "blog.global": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "blog.gold": {
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
+    "blog.golf": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "blog.google": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "blog.gratis": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
+    "blog.group": {
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "blog.gs": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "blog.guide": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "blog.guru": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "blog.gy": {
+        "epoch": 1621296000,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "blog.hamburg": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "blog.haus": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "blog.healthcare": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "blog.help": {
+        "epoch": 1828742400,
+        "expiration_date": "14-dec-2027",
+        "state": "future"
+    },
+    "blog.hk": {
+        "epoch": 1622851200,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "blog.hn": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "blog.hockey": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "blog.holiday": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "blog.house": {
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "blog.hr": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "blog.id": {
+        "epoch": 1686614400,
+        "expiration_date": "13-jun-2023",
+        "state": "future"
+    },
+    "blog.im": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "blog.immo": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "blog.immobilien": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "blog.in": {
+        "epoch": 1613520000,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "blog.info": {
+        "epoch": 1607385600,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "blog.institute": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "blog.insure": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "blog.international": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "blog.investments": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "blog.io": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "blog.irish": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "blog.is": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "blog.ist": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "blog.istanbul": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "blog.it": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "blog.jetzt": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "blog.jewelry": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
+    "blog.jobs": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "blog.kaufen": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "blog.kim": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "blog.kiwi": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "blog.koeln": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "blog.kr": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "blog.kred": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "blog.la": {
+        "epoch": 1606953600,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "blog.land": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "blog.law": {
+        "epoch": 1817424000,
+        "expiration_date": "05-aug-2027",
+        "state": "future"
+    },
+    "blog.lc": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "blog.lease": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "blog.legal": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "blog.life": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "blog.lighting": {
+        "epoch": 1631664000,
+        "expiration_date": "15-sep-2021",
+        "state": "future"
+    },
+    "blog.link": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "blog.loans": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "blog.lotto": {
+        "epoch": 1469059200,
+        "expiration_date": "21-jul-2016",
+        "state": "past"
+    },
+    "blog.lt": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "blog.ltd": {
+        "epoch": 1687392000,
+        "expiration_date": "22-jun-2023",
+        "state": "future"
+    },
+    "blog.ltda": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "blog.ly": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "blog.ma": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "blog.maison": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "blog.management": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "blog.marketing": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "blog.markets": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "blog.mba": {
+        "epoch": 1605744000,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "blog.md": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "blog.me": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "blog.media": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "blog.mg": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "blog.mk": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "blog.mn": {
+        "epoch": 1798675200,
+        "expiration_date": "31-dec-2026",
+        "state": "future"
+    },
+    "blog.mom": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "blog.money": {
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "blog.moscow": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "blog.movie": {
+        "epoch": 1572566400,
+        "expiration_date": "01-nov-2019",
+        "state": "future"
+    },
+    "blog.mr": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "blog.ms": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "blog.mu": {
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "blog.mx": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "blog.net": {
+        "epoch": 1608508800,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "blog.network": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "blog.neustar": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "blog.ng": {
+        "epoch": 4073414400,
+        "expiration_date": "30-jan-2099",
+        "state": "future"
+    },
+    "blog.ngo": {
+        "epoch": 1489104000,
+        "expiration_date": "10-mar-2017",
+        "state": "past"
+    },
+    "blog.nu": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "blog.okinawa": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "blog.one": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "blog.ong": {
+        "epoch": 1489104000,
+        "expiration_date": "10-mar-2017",
+        "state": "past"
+    },
+    "blog.org": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
+    "blog.page": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "blog.partners": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "blog.parts": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "blog.pet": {
+        "epoch": 1484179200,
+        "expiration_date": "12-jan-2017",
+        "state": "past"
+    },
+    "blog.photography": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "blog.photos": {
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "blog.pics": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "blog.pictures": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "blog.pink": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "blog.pizza": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "blog.pl": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "blog.plus": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "blog.pm": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "blog.porn": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "blog.pro": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "blog.productions": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "blog.promo": {
+        "epoch": 1492041600,
+        "expiration_date": "13-apr-2017",
+        "state": "past"
+    },
+    "blog.properties": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "blog.pub": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "blogger.ac": {
@@ -7287,6 +7867,11 @@
     "blogger.co": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "blogger.college": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
         "state": "future"
     },
     "blogger.cologne": {
@@ -7869,6 +8454,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "blogger.pl": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "blogger.pm": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
@@ -8317,6 +8907,61 @@
     "blogger.xn--jvr189m": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "blogger.xn--mk1bu44c": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "blogger.xn--nyqy26a": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "blogger.xn--q9jyb4c": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "blogger.xn--rhqv96g": {
+        "epoch": 1573430400,
+        "expiration_date": "11-nov-2019",
+        "state": "future"
+    },
+    "blogger.xn--rovu88b": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "blogger.xn--ses554g": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "blogger.xn--t60b56a": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "blogger.xn--tckwe": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "blogger.xn--vuq861b": {
+        "epoch": 1615334400,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "blogger.xn--xhq521b": {
+        "epoch": 1614384000,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "blogger.yoga": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
         "state": "future"
     }
 }
