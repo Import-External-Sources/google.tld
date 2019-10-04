@@ -2059,6 +2059,11 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "abc.xyz": {
+        "epoch": 1742428800,
+        "expiration_date": "20-mar-2025",
+        "state": "future"
+    },
     "abc.yokohama": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
@@ -7699,6 +7704,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "blog.press": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "blog.pro": {
         "epoch": 1582243200,
         "expiration_date": "21-feb-2020",
@@ -8007,6 +8017,11 @@
     "blog.team": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "blog.tech": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "blog.technology": {
