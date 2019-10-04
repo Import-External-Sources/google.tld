@@ -244,6 +244,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "abc.best": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "abc.bet": {
         "epoch": 1581120000,
         "expiration_date": "08-feb-2020",
@@ -3199,6 +3204,11 @@
         "expiration_date": "07-nov-2019",
         "state": "future"
     },
+    "adsense.rent": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "adsense.review": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
@@ -3897,6 +3907,11 @@
     "adwords.cc": {
         "epoch": 1676592000,
         "expiration_date": "17-feb-2023",
+        "state": "future"
+    },
+    "adwords.ceo": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "adwords.cf": {
@@ -7179,6 +7194,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "blog.host": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "blog.house": {
         "epoch": 1602460800,
         "expiration_date": "12-oct-2020",
@@ -8107,6 +8127,11 @@
     "blog.watch": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "blog.website": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "blog.wf": {
@@ -9237,6 +9262,11 @@
     "blogger.tg": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "blogger.tickets": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "blogger.tips": {
@@ -10664,6 +10694,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "chromebook.online": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "chromebook.org": {
         "epoch": 1574553600,
         "expiration_date": "24-nov-2019",
@@ -10697,6 +10732,156 @@
     "chromebook.pro": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "chromebook.pw": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "chromebook.repair": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "chromebook.reviews": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "chromebook.ro": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "chromebook.ru": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "chromebook.sale": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "chromebook.sb": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "chromebook.se": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "chromebook.services": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "chromebook.sex": {
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "chromebook.shop": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "chromebook.si": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "chromebook.solutions": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "chromebook.soy": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "chromebook.space": {
+        "epoch": 1630540800,
+        "expiration_date": "02-sep-2021",
+        "state": "future"
+    },
+    "chromebook.support": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "chromebook.tc": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "chromebook.team": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "chromebook.technology": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "chromebook.tienda": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "chromebook.tk": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "chromebook.today": {
+        "epoch": 1731369600,
+        "expiration_date": "12-nov-2024",
+        "state": "future"
+    },
+    "chromebook.top": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "chromebook.training": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "chromebook.tv": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "chromebook.uk": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "chromebook.vip": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "chromebook.wang": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "chromebook.work": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "chromebook.world": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     }
 }
