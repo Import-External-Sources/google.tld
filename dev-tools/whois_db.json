@@ -4579,6 +4579,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "adwords.pt": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "adwords.qpon": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -12517,6 +12522,11 @@
     "chromium.xxx": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "cobrasearch.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     }
 }
