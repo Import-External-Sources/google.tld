@@ -1284,6 +1284,11 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "abc.monster": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
     "abc.moscow": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
@@ -6244,6 +6249,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "android.wiki": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
     "android.win": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
@@ -6574,6 +6584,11 @@
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
+    "blog.blog": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
     "blog.blue": {
         "epoch": 1587686400,
         "expiration_date": "24-apr-2020",
@@ -6612,6 +6627,11 @@
     "blog.cafe": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "blog.cam": {
+        "epoch": 1615507200,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "blog.camera": {
@@ -7612,6 +7632,11 @@
     "blog.pub": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "blog.pw": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "blog.re": {
@@ -9339,6 +9364,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "blogger.wiki": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
     "blogger.win": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
@@ -9964,6 +9994,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "blogspot.online": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "blogspot.org": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -10289,6 +10324,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "chrome.bar": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "chrome.barcelona": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -10552,6 +10592,111 @@
     "chromebook.it": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "chromebook.kaufen": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "chromebook.kr": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "chromebook.ky": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "chromebook.life": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "chromebook.link": {
+        "epoch": 1731369600,
+        "expiration_date": "12-nov-2024",
+        "state": "future"
+    },
+    "chromebook.lt": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "chromebook.management": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "chromebook.md": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "chromebook.me": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "chromebook.ml": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "chromebook.mx": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "chromebook.net": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "chromebook.news": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "chromebook.nu": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "chromebook.org": {
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "chromebook.page": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "chromebook.parts": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "chromebook.pics": {
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "chromebook.pl": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "chromebook.porn": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "chromebook.pro": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
         "state": "future"
     }
 }
