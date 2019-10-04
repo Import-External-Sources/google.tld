@@ -35,7 +35,7 @@ install:
   - pip3 install ultimate-hosts-blacklist-whitelist
 
 git:
-  depth: 25
+  depth: 5
 
 matrix:
   fast_finish: true
