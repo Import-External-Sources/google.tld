@@ -26,6 +26,7 @@ addons:
     packages:
     - dos2unix
     - msttcorefonts
+    - unbound
     update: true
 
 install:
