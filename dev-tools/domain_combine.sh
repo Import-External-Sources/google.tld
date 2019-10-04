@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 rm domain.list
-OUTPUT=`(mktemp)`
+
 TLD=`(mktemp)`
 wget -qO- 'http://data.iana.org/TLD/tlds-alpha-by-domain.txt' | awk '/^#/{ next }; { printf("%s\n",tolower($1))}' > ${TLD}
 
@@ -18,10 +18,10 @@ done
 
 for i in "${c[@]}"
 do
-    printf "$i\n" >> ${OUTPUT}
+    printf "$i\n" >> ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
 done
 
-sort -u -i -f ${OUTPUT} -o ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
+sort -u -i -f ${TRAVIS_BUILD_DIR}/dev-tools/domain.test -o ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
 
 rm ${TLD} ${OUTPUT}
 
