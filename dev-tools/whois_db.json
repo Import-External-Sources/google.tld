@@ -3964,6 +3964,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "adwords.college": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "adwords.cologne": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -4589,6 +4594,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "adwords.rest": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "adwords.review": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
@@ -5022,6 +5032,11 @@
     "adwords.xxx": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "adwords.xyz": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "adwords.yoga": {
@@ -5924,6 +5939,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "android.pw": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "android.qpon": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -5957,6 +5977,11 @@
     "android.ren": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "android.rent": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "android.review": {
@@ -8769,6 +8794,11 @@
         "expiration_date": "05-oct-2019",
         "state": "future"
     },
+    "blogger.ink": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "blogger.io": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
@@ -9812,6 +9842,11 @@
     "blogspot.gallery": {
         "epoch": 1598832000,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "blogspot.gd": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.gl": {
@@ -11334,6 +11369,281 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "chrome.trade": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "chrome.trading": {
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "chrome.tube": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "chrome.tv": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "chrome.tw": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "chrome.ua": {
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
+    "chrome.uk": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "chrome.uno": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "chrome.uz": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "chrome.vegas": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "chrome.vet": {
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "chrome.vip": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "chrome.vlaanderen": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "chrome.vodka": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "chrome.vote": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "chrome.voting": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "chrome.voto": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "chrome.wales": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "chrome.wang": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "chrome.wien": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "chrome.win": {
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "chrome.xn--1ck2e1b": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--1qqw23a": {
+        "epoch": 1614384000,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "chrome.xn--3ds443g": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "chrome.xn--45q11c": {
+        "epoch": 1573862400,
+        "expiration_date": "16-nov-2019",
+        "state": "future"
+    },
+    "chrome.xn--55qx5d": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "chrome.xn--5tzm5g": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--6frz82g": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "chrome.xn--6qq986b3xl": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "chrome.xn--bck1b9a5dre4c": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--cck2b3b": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--czr694b": {
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--czru2d": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "chrome.xn--fct429k": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--fiq228c5hs": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "chrome.xn--fiqs8s": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--fiqz9s": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--gckr3f0f": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--hxt814e": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--imr513n": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "chrome.xn--io0a7i": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "chrome.xn--jvr189m": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--mk1bu44c": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "chrome.xn--nyqy26a": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "chrome.xn--q9jyb4c": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "chrome.xn--rhqv96g": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
+        "state": "future"
+    },
+    "chrome.xn--rovu88b": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "chrome.xn--ses554g": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "chrome.xn--t60b56a": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "chrome.xn--tckwe": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "chrome.xn--vuq861b": {
+        "epoch": 1615334400,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "chrome.xn--xhq521b": {
+        "epoch": 1614384000,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "chrome.xxx": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "chrome.yoga": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "chrome.yokohama": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "chromebook.academy": {
         "epoch": 1573516800,
         "expiration_date": "12-nov-2019",
@@ -11814,9 +12124,19 @@
         "expiration_date": "14-nov-2019",
         "state": "future"
     },
+    "chromebook.xyz": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "chromebook.zone": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "chromium.agency": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
         "state": "future"
     }
 }
