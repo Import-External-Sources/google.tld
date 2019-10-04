@@ -9379,6 +9379,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "blogspot.ga": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "blogspot.gallery": {
         "epoch": 1598832000,
         "expiration_date": "31-aug-2020",
@@ -9552,6 +9557,221 @@
     "blogspot.mg": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "blogspot.mk": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "blogspot.ml": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "blogspot.mobi": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "blogspot.ms": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.mu": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.mx": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "blogspot.net": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "blogspot.network": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "blogspot.nf": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.ng": {
+        "epoch": 4073414400,
+        "expiration_date": "30-jan-2099",
+        "state": "future"
+    },
+    "blogspot.ninja": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "blogspot.nu": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "blogspot.org": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "blogspot.photography": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "blogspot.pl": {
+        "epoch": 1641513600,
+        "expiration_date": "07-jan-2022",
+        "state": "future"
+    },
+    "blogspot.pr": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "blogspot.pro": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "blogspot.ps": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.pt": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "blogspot.re": {
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "blogspot.reisen": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
+    "blogspot.ro": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "blogspot.rocks": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "blogspot.rs": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "blogspot.ru": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "blogspot.rw": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.sale": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "blogspot.sb": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
+    "blogspot.sc": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.se": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "blogspot.sg": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "blogspot.sh": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.si": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "blogspot.singles": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "blogspot.sl": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "blogspot.sn": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "blogspot.so": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "blogspot.solutions": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "blogspot.st": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "blogspot.style": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "blogspot.sx": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
+        "state": "future"
+    },
+    "blogspot.systems": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "blogspot.tc": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     }
 }
