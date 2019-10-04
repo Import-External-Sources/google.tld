@@ -12543,5 +12543,590 @@
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
         "state": "future"
+    },
+    "com.abogado": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "com.ac": {
+        "epoch": 1809129600,
+        "expiration_date": "01-may-2027",
+        "state": "future"
+    },
+    "com.academy": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "com.accountant": {
+        "epoch": 1639958400,
+        "expiration_date": "20-dec-2021",
+        "state": "future"
+    },
+    "com.accountants": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "com.actor": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "com.adult": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "com.aero": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "com.af": {
+        "epoch": 1672444800,
+        "expiration_date": "31-dec-2022",
+        "state": "future"
+    },
+    "com.africa": {
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "com.ag": {
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "com.agency": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "com.ai": {
+        "epoch": 4070908800,
+        "expiration_date": "01-jan-2099",
+        "state": "future"
+    },
+    "com.airforce": {
+        "epoch": 1780617600,
+        "expiration_date": "05-jun-2026",
+        "state": "future"
+    },
+    "com.amsterdam": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "com.apartments": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "com.app": {
+        "epoch": 1619913600,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "com.ar": {
+        "epoch": 1821657600,
+        "expiration_date": "23-sep-2027",
+        "state": "future"
+    },
+    "com.archi": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "com.army": {
+        "epoch": 1780617600,
+        "expiration_date": "05-jun-2026",
+        "state": "future"
+    },
+    "com.associates": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "com.attorney": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "com.auction": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "com.audio": {
+        "epoch": 1724889600,
+        "expiration_date": "29-aug-2024",
+        "state": "future"
+    },
+    "com.band": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "com.barcelona": {
+        "epoch": 1623974400,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "com.barclays": {
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "com.bargains": {
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "com.bayern": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "com.beer": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "com.bet": {
+        "epoch": 1483488000,
+        "expiration_date": "04-jan-2017",
+        "state": "past"
+    },
+    "com.bi": {
+        "epoch": 1654473600,
+        "expiration_date": "06-jun-2022",
+        "state": "future"
+    },
+    "com.bid": {
+        "epoch": 1830211200,
+        "expiration_date": "31-dec-2027",
+        "state": "future"
+    },
+    "com.bike": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "com.bing": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "com.bingo": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "com.bio": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "com.biz": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "com.bj": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "com.black": {
+        "epoch": 1619136000,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
+    "com.blackfriday": {
+        "epoch": 1720310400,
+        "expiration_date": "07-jul-2024",
+        "state": "future"
+    },
+    "com.blue": {
+        "epoch": 1619136000,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
+    "com.bm": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "com.boats": {
+        "epoch": 1605830400,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "com.boston": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "com.boutique": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "com.broker": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "com.brussels": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "com.build": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "com.builders": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "com.business": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "com.buzz": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "com.by": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "com.cab": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "com.cafe": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "com.camera": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "com.camp": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "com.capital": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "com.cards": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "com.care": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "com.career": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "com.careers": {
+        "epoch": 1813795200,
+        "expiration_date": "24-jun-2027",
+        "state": "future"
+    },
+    "com.casa": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "com.cash": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "com.casino": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "com.catering": {
+        "epoch": 1571356800,
+        "expiration_date": "18-oct-2019",
+        "state": "future"
+    },
+    "com.cc": {
+        "epoch": 1743120000,
+        "expiration_date": "28-mar-2025",
+        "state": "future"
+    },
+    "com.center": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "com.charity": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "com.chase": {
+        "epoch": 1610841600,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "com.chat": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "com.cheap": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "com.christmas": {
+        "epoch": 1720310400,
+        "expiration_date": "07-jul-2024",
+        "state": "future"
+    },
+    "com.church": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "com.ci": {
+        "epoch": 1781568000,
+        "expiration_date": "16-jun-2026",
+        "state": "future"
+    },
+    "com.city": {
+        "epoch": 1691020800,
+        "expiration_date": "03-aug-2023",
+        "state": "future"
+    },
+    "com.cl": {
+        "epoch": 1959984000,
+        "expiration_date": "10-feb-2032",
+        "state": "future"
+    },
+    "com.claims": {
+        "epoch": 1609977600,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "com.cleaning": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "com.click": {
+        "epoch": 1724889600,
+        "expiration_date": "29-aug-2024",
+        "state": "future"
+    },
+    "com.clinic": {
+        "epoch": 1630022400,
+        "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "com.clothing": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "com.cloud": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "com.club": {
+        "epoch": 1702857600,
+        "expiration_date": "18-dec-2023",
+        "state": "future"
+    },
+    "com.cm": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "com.coach": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "com.codes": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "com.coffee": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "com.cologne": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "com.com": {
+        "epoch": 1681430400,
+        "expiration_date": "14-apr-2023",
+        "state": "future"
+    },
+    "com.community": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "com.company": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "com.computer": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "com.condos": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "com.construction": {
+        "epoch": 1604966400,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "com.consulting": {
+        "epoch": 1810684800,
+        "expiration_date": "19-may-2027",
+        "state": "future"
+    },
+    "com.contractors": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "com.cooking": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "com.cool": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "com.coupons": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "com.courses": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
+    "com.credit": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "com.creditcard": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "com.cricket": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "com.cruises": {
+        "epoch": 1607299200,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "com.cx": {
+        "epoch": 1865721600,
+        "expiration_date": "14-feb-2029",
+        "state": "future"
+    },
+    "com.cymru": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "com.cz": {
+        "epoch": 1836432000,
+        "expiration_date": "12-mar-2028",
+        "state": "future"
+    },
+    "com.dance": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "com.date": {
+        "epoch": 1792627200,
+        "expiration_date": "22-oct-2026",
+        "state": "future"
+    },
+    "com.dating": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "com.deals": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "com.degree": {
+        "epoch": 1810684800,
+        "expiration_date": "19-may-2027",
+        "state": "future"
+    },
+    "com.delivery": {
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "com.democrat": {
+        "epoch": 1800489600,
+        "expiration_date": "21-jan-2027",
+        "state": "future"
+    },
+    "com.dental": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "com.dentist": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
     }
 }
