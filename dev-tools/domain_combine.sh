@@ -23,7 +23,7 @@ done
 
 sort -u -i -f ${OUTPUT} -o dev-tools/domain.test
 
-rm $TLD ${OUTPUT}
+rm ${TLD} ${OUTPUT}
 
 bash ${TRAVIS_BUILD_DIR}/dev-tools/PrepareTravis.sh
 
