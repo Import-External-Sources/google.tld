@@ -21,7 +21,7 @@ do
     printf "$i\n" >> ${OUTPUT}
 done
 
-sort -u -i -f ${OUTPUT} -o dev-tools/domain.test
+sort -u -i -f ${OUTPUT} -o ${TRAVIS_BUILD_DIR}/dev-tools/domain.test
 
 rm ${TLD} ${OUTPUT}
 
