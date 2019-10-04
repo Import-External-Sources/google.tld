@@ -10368,5 +10368,105 @@
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
         "state": "future"
+    },
+    "chromebook.bargains": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "chromebook.ca": {
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
+        "state": "past"
+    },
+    "chromebook.cafe": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "chromebook.cc": {
+        "epoch": 1757203200,
+        "expiration_date": "07-sep-2025",
+        "state": "future"
+    },
+    "chromebook.center": {
+        "epoch": 1731369600,
+        "expiration_date": "12-nov-2024",
+        "state": "future"
+    },
+    "chromebook.cf": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "chromebook.cheap": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "chromebook.cl": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "chromebook.click": {
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "chromebook.club": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "chromebook.cm": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "chromebook.cn": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "chromebook.com": {
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "chromebook.company": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "chromebook.computer": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "chromebook.cz": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "chromebook.dev": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "chromebook.dk": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "chromebook.dm": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "chromebook.education": {
+        "epoch": 1731369600,
+        "expiration_date": "12-nov-2024",
+        "state": "future"
     }
 }
