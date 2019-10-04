@@ -12513,5 +12513,10 @@
         "epoch": 1603929600,
         "expiration_date": "29-oct-2020",
         "state": "future"
+    },
+    "chromium.xxx": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
     }
 }
