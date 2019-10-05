@@ -255,9 +255,9 @@
         "state": "future"
     },
     "abc.bi": {
-        "epoch": 1565568000,
-        "expiration_date": "12-aug-2019",
-        "state": "past"
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "abc.bike": {
         "epoch": 1589241600,
