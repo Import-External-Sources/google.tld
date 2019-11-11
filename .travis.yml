@@ -43,5 +43,5 @@ matrix:
 sudo: required
 
 script:
-  - systemctl restart pdns-recursor.service && systemctl status pdns-recursor.service
+  - sudo systemctl restart pdns-recursor.service && sudo systemctl status pdns-recursor.service
   - bash dev-tools/domain_combine.sh 
