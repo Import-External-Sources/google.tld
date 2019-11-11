@@ -5,7 +5,7 @@ rm domain.list
 TLD=`(mktemp)`
 wget -qO- 'http://data.iana.org/TLD/tlds-alpha-by-domain.txt' | awk '/^#/{ next }; { printf("%s\n",tolower($1))}' > ${TLD}
 
-mapfile -t a < google.list
+mapfile -t a < google_domains.list
 mapfile -t b < $TLD
 
 for((i=0;i<${#a[@]};i++));
