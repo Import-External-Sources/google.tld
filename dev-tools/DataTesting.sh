@@ -12,6 +12,7 @@ RunFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
+    dateTime=$(date '+%F %X %:z (%Z)')
     ulimit -u
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
@@ -23,7 +24,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-   PyFunceble --travis -psl -ex -dbr 30 --dns 127.0.0.1 --http --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --plain --autosave-minutes 30 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [Stop Google]" --commit-results-message "Live google domains tested V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [skip ci]" -f ${input}
+   PyFunceble --travis -q -psl -ex -dbr 30 --dns 127.0.0.1 --http --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --autosave-minutes 30 --commit-autosave-message "${dateTime} v.${TRAVIS_BUILD_NUMBER} [Stop Google]" --commit-results-message "Live google domains tested ${dateTime} v.${TRAVIS_BUILD_NUMBER} [skip ci]" -f ${input}
 }
 
 RunFunceble
