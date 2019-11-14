@@ -24,7 +24,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-   PyFunceble --travis -psl -ex -dbr 30 --dns 127.0.0.1 --http --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --autosave-minutes 30 --commit-autosave-message "${dateTime} v.${TRAVIS_BUILD_NUMBER} [Stop Google]" --commit-results-message "Live google domains tested ${dateTime} v.${TRAVIS_BUILD_NUMBER} [skip ci]" -f ${input}
+   PyFunceble --travis -ex -dbr 30 --dns 127.0.0.1 --http --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --autosave-minutes 20 --commit-autosave-message "${dateTime} v.${TRAVIS_BUILD_NUMBER} [Stop Google]" --commit-results-message "Live google domains tested ${dateTime} v.${TRAVIS_BUILD_NUMBER} [skip ci]" -f ${input}
 }
 
 RunFunceble
