@@ -831,6 +831,7 @@
         "crd.co",
         "edu.co",
         "firm.co",
+        "go-vip.co",
         "gov.co",
         "info.co",
         "int.co",
@@ -1245,6 +1246,7 @@
         "withgoogle.com",
         "withyoutube.com",
         "workisboring.com",
+        "wpcomstaging.com",
         "wpdevcloud.com",
         "writesthisblog.com",
         "xen.prgmr.com",
@@ -5283,6 +5285,7 @@
         "gets-it.net",
         "global.prod.fastly.net",
         "global.ssl.fastly.net",
+        "go-vip.net",
         "ham-radio-op.net",
         "hicam.net",
         "homeftp.net",
@@ -7042,9 +7045,6 @@
     ],
     "so": [
         "com.so",
-        "edu.so",
-        "gov.so",
-        "me.so",
         "net.so",
         "org.so",
         "sch.so"
