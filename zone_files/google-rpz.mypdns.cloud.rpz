@@ -1,4 +1,4 @@
-google-rpz.mypdns.cloud.	3600	IN	SOA	need.to.know.only. hostmaster.mypdns.org. 1573953206 3600 60 604800 60;
+google-rpz.mypdns.cloud.	3600	IN	SOA	need.to.know.only. hostmaster.mypdns.org. 1574039637 3600 60 604800 60;
 google-rpz.mypdns.cloud.	3600	IN	NS	localhost
 1e100.app	CNAME	.
 *.1e100.app	CNAME	.
@@ -40,3 +40,25 @@ google-rpz.mypdns.cloud.	3600	IN	NS	localhost
 *.1e100.me	CNAME	.
 1e100.net	CNAME	.
 *.1e100.net	CNAME	.
+1e100.nu	CNAME	.
+*.1e100.nu	CNAME	.
+1e100.org	CNAME	.
+*.1e100.org	CNAME	.
+1e100.page	CNAME	.
+*.1e100.page	CNAME	.
+1e100.pl	CNAME	.
+*.1e100.pl	CNAME	.
+1e100.ru	CNAME	.
+*.1e100.ru	CNAME	.
+1e100.se	CNAME	.
+*.1e100.se	CNAME	.
+1e100.to	CNAME	.
+*.1e100.to	CNAME	.
+1e100.top	CNAME	.
+*.1e100.top	CNAME	.
+1e100.us	CNAME	.
+*.1e100.us	CNAME	.
+1e100.xn--kprw13d	CNAME	.
+*.1e100.xn--kprw13d	CNAME	.
+1e100.xyz	CNAME	.
+*.1e100.xyz	CNAME	.

@@ -18,3 +18,14 @@ local-zone: "1e100.io" always_nxdomain
 local-zone: "1e100.ir" always_nxdomain
 local-zone: "1e100.me" always_nxdomain
 local-zone: "1e100.net" always_nxdomain
+local-zone: "1e100.nu" always_nxdomain
+local-zone: "1e100.org" always_nxdomain
+local-zone: "1e100.page" always_nxdomain
+local-zone: "1e100.pl" always_nxdomain
+local-zone: "1e100.ru" always_nxdomain
+local-zone: "1e100.se" always_nxdomain
+local-zone: "1e100.to" always_nxdomain
+local-zone: "1e100.top" always_nxdomain
+local-zone: "1e100.us" always_nxdomain
+local-zone: "1e100.xn--kprw13d" always_nxdomain
+local-zone: "1e100.xyz" always_nxdomain
