@@ -29,3 +29,7 @@ local-zone: "1e100.top" always_nxdomain
 local-zone: "1e100.us" always_nxdomain
 local-zone: "1e100.xn--kprw13d" always_nxdomain
 local-zone: "1e100.xyz" always_nxdomain
+local-zone: "466453.cn" always_nxdomain
+local-zone: "466453.com" always_nxdomain
+local-zone: "466453.de" always_nxdomain
+local-zone: "466453.fr" always_nxdomain
