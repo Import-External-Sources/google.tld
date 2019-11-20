@@ -1,4 +1,4 @@
-google-rpz.mypdns.cloud.	3600	IN	SOA	need.to.know.only. hostmaster.mypdns.org. 1574126058 3600 60 604800 60;
+google-rpz.mypdns.cloud.	3600	IN	SOA	need.to.know.only. hostmaster.mypdns.org. 1574212508 3600 60 604800 60;
 google-rpz.mypdns.cloud.	3600	IN	NS	localhost
 1e100.app	CNAME	.
 *.1e100.app	CNAME	.
