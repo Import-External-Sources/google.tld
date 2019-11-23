@@ -8890,107 +8890,107 @@
         "state": "future"
     },
     "blogger.hamburg": {
-        "epoch": 1598486400,
+        "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "blogger.health": {
-        "epoch": 1598659200,
+        "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "blogger.help": {
-        "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "blogger.hiphop": {
-        "epoch": 1567036800,
+        "epoch": 1567036800.0,
         "expiration_date": "29-aug-2019",
         "state": "past"
     },
     "blogger.hiv": {
-        "epoch": 1595289600,
+        "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "blogger.hk": {
-        "epoch": 1612483200,
+        "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "blogger.hosting": {
-        "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "blogger.how": {
-        "epoch": 1578787200,
+        "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "blogger.hr": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "blogger.id": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "blogger.im": {
-        "epoch": 1594684800,
+        "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "blogger.in": {
-        "epoch": 1581811200,
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "blogger.inc": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "blogger.info": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
-        "state": "past"
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "blogger.ink": {
-        "epoch": 1591228800,
+        "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "blogger.io": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "blogger.irish": {
-        "epoch": 1593475200,
+        "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "blogger.is": {
-        "epoch": 1590019200,
+        "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
         "state": "future"
     },
     "blogger.ist": {
-        "epoch": 1614124800,
+        "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "blogger.istanbul": {
-        "epoch": 1614211200,
+        "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "blogger.it": {
-        "epoch": 1578096000,
+        "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
