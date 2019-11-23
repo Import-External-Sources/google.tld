@@ -1,9 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.hospital": "INACTIVE",
-            "blog.hosting": "INACTIVE",
-            "blog.hot": "INACTIVE",
             "blog.hoteles": "INACTIVE",
             "blog.hotels": "INACTIVE",
             "blog.hotmail": "INACTIVE",
@@ -30606,6 +30603,15 @@
         },
         "1574533111": {
             "blog.horse": "INACTIVE"
+        },
+        "1574534481": {
+            "blog.hospital": "INACTIVE"
+        },
+        "1574534482": {
+            "blog.hosting": "INACTIVE"
+        },
+        "1574534508": {
+            "blog.hot": "INACTIVE"
         }
     }
 }
