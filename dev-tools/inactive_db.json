@@ -779,16 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.yandex": "INACTIVE",
-            "blogger.ye": "INACTIVE",
-            "blogger.yodobashi": "INACTIVE",
-            "blogger.yokohama": "INACTIVE",
-            "blogger.you": "INACTIVE",
-            "blogger.youtube": "INACTIVE",
-            "blogger.yt": "INACTIVE",
-            "blogger.yun": "INACTIVE",
-            "blogger.za": "INACTIVE",
-            "blogger.zappos": "INACTIVE",
             "blogger.zara": "INACTIVE",
             "blogger.zero": "INACTIVE",
             "blogger.zip": "INACTIVE",
@@ -30512,6 +30502,32 @@
         },
         "1574527622": {
             "blogger.yamaxun": "INACTIVE"
+        },
+        "1574528987": {
+            "blogger.yandex": "INACTIVE"
+        },
+        "1574528988": {
+            "blogger.ye": "INACTIVE",
+            "blogger.yodobashi": "INACTIVE"
+        },
+        "1574528989": {
+            "blogger.yokohama": "INACTIVE",
+            "blogger.you": "INACTIVE"
+        },
+        "1574528990": {
+            "blogger.youtube": "INACTIVE"
+        },
+        "1574528997": {
+            "blogger.yt": "INACTIVE"
+        },
+        "1574528998": {
+            "blogger.yun": "INACTIVE"
+        },
+        "1574528999": {
+            "blogger.za": "INACTIVE"
+        },
+        "1574529032": {
+            "blogger.zappos": "INACTIVE"
         }
     }
 }
