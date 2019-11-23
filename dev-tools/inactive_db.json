@@ -1,12 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.got": "INACTIVE",
-            "blog.gov": "INACTIVE",
-            "blog.gp": "INACTIVE",
-            "blog.gq": "INACTIVE",
-            "blog.grainger": "INACTIVE",
-            "blog.graphics": "INACTIVE",
             "blog.green": "INACTIVE",
             "blog.gripe": "INACTIVE",
             "blog.grocery": "INACTIVE",
@@ -30564,6 +30558,20 @@
         },
         "1574530385": {
             "blog.gop": "INACTIVE"
+        },
+        "1574531731": {
+            "blog.got": "INACTIVE"
+        },
+        "1574531732": {
+            "blog.gov": "INACTIVE",
+            "blog.gp": "INACTIVE"
+        },
+        "1574531764": {
+            "blog.gq": "INACTIVE"
+        },
+        "1574531765": {
+            "blog.grainger": "INACTIVE",
+            "blog.graphics": "INACTIVE"
         }
     }
 }
