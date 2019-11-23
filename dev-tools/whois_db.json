@@ -4885,297 +4885,297 @@
         "state": "future"
     },
     "adwords.ua": {
-        "epoch": 1587859200,
+        "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "adwords.uk": {
-        "epoch": 1591833600,
+        "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "adwords.uno": {
-        "epoch": 1580947200,
+        "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
     "adwords.uz": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "adwords.vegas": {
-        "epoch": 1596758400,
+        "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "adwords.vet": {
-        "epoch": 1602547200,
+        "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "adwords.vip": {
-        "epoch": 1583971200,
+        "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "adwords.vlaanderen": {
-        "epoch": 1599696000,
+        "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "adwords.vodka": {
-        "epoch": 1593820800,
+        "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "adwords.wales": {
-        "epoch": 1604102400,
+        "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "adwords.webcam": {
-        "epoch": 1590710400,
+        "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
         "state": "future"
     },
     "adwords.wien": {
-        "epoch": 1599609600,
+        "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "adwords.win": {
-        "epoch": 1596326400,
+        "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "adwords.xin": {
-        "epoch": 1577404800,
+        "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
     "adwords.xn--1ck2e1b": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--1qqw23a": {
-        "epoch": 1614384000,
+        "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "adwords.xn--3ds443g": {
-        "epoch": 1587772800,
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "adwords.xn--45q11c": {
-        "epoch": 1573862400,
-        "expiration_date": "16-nov-2019",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "adwords.xn--55qx5d": {
-        "epoch": 1596153600,
+        "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "adwords.xn--5tzm5g": {
-        "epoch": 1603065600,
+        "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "adwords.xn--6frz82g": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "adwords.xn--6qq986b3xl": {
-        "epoch": 1578268800,
+        "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "adwords.xn--bck1b9a5dre4c": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--cck2b3b": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--czr694b": {
-        "epoch": 1601769600,
+        "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "adwords.xn--czru2d": {
-        "epoch": 1595548800,
+        "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "adwords.xn--fct429k": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--fiq228c5hs": {
-        "epoch": 1587772800,
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "adwords.xn--fiqs8s": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "adwords.xn--fiqz9s": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "adwords.xn--gckr3f0f": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--hxt814e": {
-        "epoch": 1602288000,
+        "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "adwords.xn--imr513n": {
-        "epoch": 1587340800,
+        "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "adwords.xn--io0a7i": {
-        "epoch": 1596153600,
+        "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "adwords.xn--jvr189m": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--mk1bu44c": {
-        "epoch": 1592611200,
+        "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "adwords.xn--nyqy26a": {
-        "epoch": 1601942400,
+        "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "adwords.xn--q9jyb4c": {
-        "epoch": 1583280000,
+        "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "adwords.xn--rhqv96g": {
-        "epoch": 1573430400,
-        "expiration_date": "11-nov-2019",
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "adwords.xn--rovu88b": {
-        "epoch": 1576195200,
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "adwords.xn--ses554g": {
-        "epoch": 1587168000,
+        "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
     "adwords.xn--t60b56a": {
-        "epoch": 1592611200,
+        "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "adwords.xn--tckwe": {
-        "epoch": 1580169600,
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "adwords.xn--vuq861b": {
-        "epoch": 1615334400,
+        "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "adwords.xn--xhq521b": {
-        "epoch": 1614384000,
+        "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "adwords.xxx": {
-        "epoch": 1575158400,
+        "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "adwords.xyz": {
-        "epoch": 1589932800,
+        "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
         "state": "future"
     },
     "adwords.yoga": {
-        "epoch": 1579478400,
+        "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
         "state": "future"
     },
     "adwords.yokohama": {
-        "epoch": 1596585600,
+        "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "android.ac": {
-        "epoch": 1595203200,
+        "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "android.accountant": {
-        "epoch": 1596326400,
+        "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "android.adult": {
-        "epoch": 1583107200,
+        "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "android.af": {
-        "epoch": 1533513600,
+        "epoch": 1533513600.0,
         "expiration_date": "06-aug-2018",
         "state": "past"
     },
     "android.africa": {
-        "epoch": 1591056000,
+        "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "android.ag": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "android.ai": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "android.am": {
-        "epoch": 1604707200,
+        "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "android.amsterdam": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "android.app": {
-        "epoch": 1586649600,
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },

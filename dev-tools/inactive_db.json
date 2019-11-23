@@ -1,276 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "adwords.ubank": "INACTIVE",
-            "adwords.ubs": "INACTIVE",
-            "adwords.uconnect": "INACTIVE",
-            "adwords.ug": "INACTIVE",
-            "adwords.unicom": "INACTIVE",
-            "adwords.university": "INACTIVE",
-            "adwords.uol": "INACTIVE",
-            "adwords.ups": "INACTIVE",
-            "adwords.us": "INACTIVE",
-            "adwords.uy": "INACTIVE",
-            "adwords.va": "INACTIVE",
-            "adwords.vacations": "INACTIVE",
-            "adwords.vana": "INACTIVE",
-            "adwords.vanguard": "INACTIVE",
-            "adwords.vc": "INACTIVE",
-            "adwords.ve": "INACTIVE",
-            "adwords.ventures": "INACTIVE",
-            "adwords.verisign": "INACTIVE",
-            "adwords.versicherung": "INACTIVE",
-            "adwords.vi": "INACTIVE",
-            "adwords.viajes": "INACTIVE",
-            "adwords.video": "INACTIVE",
-            "adwords.vig": "INACTIVE",
-            "adwords.viking": "INACTIVE",
-            "adwords.villas": "INACTIVE",
-            "adwords.vin": "INACTIVE",
-            "adwords.virgin": "INACTIVE",
-            "adwords.visa": "INACTIVE",
-            "adwords.vision": "INACTIVE",
-            "adwords.vistaprint": "INACTIVE",
-            "adwords.viva": "INACTIVE",
-            "adwords.vivo": "INACTIVE",
-            "adwords.vn": "INACTIVE",
-            "adwords.volkswagen": "INACTIVE",
-            "adwords.volvo": "INACTIVE",
-            "adwords.vote": "INACTIVE",
-            "adwords.voting": "INACTIVE",
-            "adwords.voto": "INACTIVE",
-            "adwords.voyage": "INACTIVE",
-            "adwords.vu": "INACTIVE",
-            "adwords.vuelos": "INACTIVE",
-            "adwords.walmart": "INACTIVE",
-            "adwords.walter": "INACTIVE",
-            "adwords.wang": "INACTIVE",
-            "adwords.wanggou": "INACTIVE",
-            "adwords.warman": "INACTIVE",
-            "adwords.watch": "INACTIVE",
-            "adwords.watches": "INACTIVE",
-            "adwords.weather": "INACTIVE",
-            "adwords.weatherchannel": "INACTIVE",
-            "adwords.weber": "INACTIVE",
-            "adwords.website": "INACTIVE",
-            "adwords.wed": "INACTIVE",
-            "adwords.wedding": "INACTIVE",
-            "adwords.weibo": "INACTIVE",
-            "adwords.weir": "INACTIVE",
-            "adwords.wf": "INACTIVE",
-            "adwords.whoswho": "INACTIVE",
-            "adwords.wiki": "INACTIVE",
-            "adwords.williamhill": "INACTIVE",
-            "adwords.windows": "INACTIVE",
-            "adwords.wine": "INACTIVE",
-            "adwords.winners": "INACTIVE",
-            "adwords.wme": "INACTIVE",
-            "adwords.wolterskluwer": "INACTIVE",
-            "adwords.woodside": "INACTIVE",
-            "adwords.work": "INACTIVE",
-            "adwords.works": "INACTIVE",
-            "adwords.world": "INACTIVE",
-            "adwords.wow": "INACTIVE",
-            "adwords.wtc": "INACTIVE",
-            "adwords.wtf": "INACTIVE",
-            "adwords.xbox": "INACTIVE",
-            "adwords.xerox": "INACTIVE",
-            "adwords.xfinity": "INACTIVE",
-            "adwords.xihuan": "INACTIVE",
-            "adwords.xn--11b4c3d": "INACTIVE",
-            "adwords.xn--2scrj9c": "INACTIVE",
-            "adwords.xn--30rr7y": "INACTIVE",
-            "adwords.xn--3bst00m": "INACTIVE",
-            "adwords.xn--3e0b707e": "INACTIVE",
-            "adwords.xn--3hcrj9c": "INACTIVE",
-            "adwords.xn--3oq18vl8pn36a": "INACTIVE",
-            "adwords.xn--3pxu8k": "INACTIVE",
-            "adwords.xn--42c2d9a": "INACTIVE",
-            "adwords.xn--45br5cyl": "INACTIVE",
-            "adwords.xn--45brj9c": "INACTIVE",
-            "adwords.xn--4gbrim": "INACTIVE",
-            "adwords.xn--54b7fta0cc": "INACTIVE",
-            "adwords.xn--55qw42g": "INACTIVE",
-            "adwords.xn--5su34j936bgsg": "INACTIVE",
-            "adwords.xn--80adxhks": "INACTIVE",
-            "adwords.xn--80ao21a": "INACTIVE",
-            "adwords.xn--80aqecdr1a": "INACTIVE",
-            "adwords.xn--80asehdb": "INACTIVE",
-            "adwords.xn--80aswg": "INACTIVE",
-            "adwords.xn--8y0a063a": "INACTIVE",
-            "adwords.xn--90a3ac": "INACTIVE",
-            "adwords.xn--90ae": "INACTIVE",
-            "adwords.xn--90ais": "INACTIVE",
-            "adwords.xn--9dbq2a": "INACTIVE",
-            "adwords.xn--9et52u": "INACTIVE",
-            "adwords.xn--9krt00a": "INACTIVE",
-            "adwords.xn--b4w605ferd": "INACTIVE",
-            "adwords.xn--c1avg": "INACTIVE",
-            "adwords.xn--c2br7g": "INACTIVE",
-            "adwords.xn--cg4bki": "INACTIVE",
-            "adwords.xn--clchc0ea0b2g2a9gcd": "INACTIVE",
-            "adwords.xn--czrs0t": "INACTIVE",
-            "adwords.xn--d1acj3b": "INACTIVE",
-            "adwords.xn--d1alf": "INACTIVE",
-            "adwords.xn--e1a4c": "INACTIVE",
-            "adwords.xn--eckvdtc9d": "INACTIVE",
-            "adwords.xn--efvy88h": "INACTIVE",
-            "adwords.xn--estv75g": "INACTIVE",
-            "adwords.xn--fhbei": "INACTIVE",
-            "adwords.xn--fiq64b": "INACTIVE",
-            "adwords.xn--fjq720a": "INACTIVE",
-            "adwords.xn--flw351e": "INACTIVE",
-            "adwords.xn--fpcrj9c3d": "INACTIVE",
-            "adwords.xn--fzc2c9e2c": "INACTIVE",
-            "adwords.xn--fzys8d69uvgm": "INACTIVE",
-            "adwords.xn--g2xx48c": "INACTIVE",
-            "adwords.xn--gecrj9c": "INACTIVE",
-            "adwords.xn--gk3at1e": "INACTIVE",
-            "adwords.xn--h2breg3eve": "INACTIVE",
-            "adwords.xn--h2brj9c": "INACTIVE",
-            "adwords.xn--h2brj9c8c": "INACTIVE",
-            "adwords.xn--i1b6b1a6a2e": "INACTIVE",
-            "adwords.xn--j1aef": "INACTIVE",
-            "adwords.xn--j1amh": "INACTIVE",
-            "adwords.xn--j6w193g": "INACTIVE",
-            "adwords.xn--jlq61u9w7b": "INACTIVE",
-            "adwords.xn--kcrx77d1x4a": "INACTIVE",
-            "adwords.xn--kprw13d": "INACTIVE",
-            "adwords.xn--kpry57d": "INACTIVE",
-            "adwords.xn--kpu716f": "INACTIVE",
-            "adwords.xn--kput3i": "INACTIVE",
-            "adwords.xn--l1acc": "INACTIVE",
-            "adwords.xn--lgbbat1ad8j": "INACTIVE",
-            "adwords.xn--mgb9awbf": "INACTIVE",
-            "adwords.xn--mgba3a3ejt": "INACTIVE",
-            "adwords.xn--mgba3a4f16a": "INACTIVE",
-            "adwords.xn--mgba7c0bbn0a": "INACTIVE",
-            "adwords.xn--mgbaakc7dvf": "INACTIVE",
-            "adwords.xn--mgbaam7a8h": "INACTIVE",
-            "adwords.xn--mgbab2bd": "INACTIVE",
-            "adwords.xn--mgbah1a3hjkrd": "INACTIVE",
-            "adwords.xn--mgbai9azgqp6j": "INACTIVE",
-            "adwords.xn--mgbayh7gpa": "INACTIVE",
-            "adwords.xn--mgbbh1a": "INACTIVE",
-            "adwords.xn--mgbbh1a71e": "INACTIVE",
-            "adwords.xn--mgbc0a9azcg": "INACTIVE",
-            "adwords.xn--mgbca7dzdo": "INACTIVE",
-            "adwords.xn--mgberp4a5d4ar": "INACTIVE",
-            "adwords.xn--mgbgu82a": "INACTIVE",
-            "adwords.xn--mgbi4ecexp": "INACTIVE",
-            "adwords.xn--mgbpl2fh": "INACTIVE",
-            "adwords.xn--mgbt3dhd": "INACTIVE",
-            "adwords.xn--mgbtx2b": "INACTIVE",
-            "adwords.xn--mgbx4cd0ab": "INACTIVE",
-            "adwords.xn--mix891f": "INACTIVE",
-            "adwords.xn--ngbc5azd": "INACTIVE",
-            "adwords.xn--ngbe9e0a": "INACTIVE",
-            "adwords.xn--nqv7f": "INACTIVE",
-            "adwords.xn--nqv7fs00ema": "INACTIVE",
-            "adwords.xn--o3cw4h": "INACTIVE",
-            "adwords.xn--ogbpf8fl": "INACTIVE",
-            "adwords.xn--otu796d": "INACTIVE",
-            "adwords.xn--p1acf": "INACTIVE",
-            "adwords.xn--p1ai": "INACTIVE",
-            "adwords.xn--pbt977c": "INACTIVE",
-            "adwords.xn--pgbs0dh": "INACTIVE",
-            "adwords.xn--pssy2u": "INACTIVE",
-            "adwords.xn--qcka1pmc": "INACTIVE",
-            "adwords.xn--qxa6a": "INACTIVE",
-            "adwords.xn--qxam": "INACTIVE",
-            "adwords.xn--rvc1e0am3e": "INACTIVE",
-            "adwords.xn--s9brj9c": "INACTIVE",
-            "adwords.xn--tiq49xqyj": "INACTIVE",
-            "adwords.xn--unup4y": "INACTIVE",
-            "adwords.xn--vermgensberater-ctb": "INACTIVE",
-            "adwords.xn--vermgensberatung-pwb": "INACTIVE",
-            "adwords.xn--vhquv": "INACTIVE",
-            "adwords.xn--w4r85el8fhu5dnra": "INACTIVE",
-            "adwords.xn--w4rs40l": "INACTIVE",
-            "adwords.xn--wgbh1c": "INACTIVE",
-            "adwords.xn--wgbl6a": "INACTIVE",
-            "adwords.xn--xkc2al3hye2a": "INACTIVE",
-            "adwords.xn--xkc2dl3a5ee0h": "INACTIVE",
-            "adwords.xn--y9a3aq": "INACTIVE",
-            "adwords.xn--yfro4i67o": "INACTIVE",
-            "adwords.xn--ygbi2ammx": "INACTIVE",
-            "adwords.xn--zfr164b": "INACTIVE",
-            "adwords.yachts": "INACTIVE",
-            "adwords.yahoo": "INACTIVE",
-            "adwords.yamaxun": "INACTIVE",
-            "adwords.yandex": "INACTIVE",
-            "adwords.ye": "INACTIVE",
-            "adwords.yodobashi": "INACTIVE",
-            "adwords.you": "INACTIVE",
-            "adwords.youtube": "INACTIVE",
-            "adwords.yt": "INACTIVE",
-            "adwords.yun": "INACTIVE",
-            "adwords.za": "INACTIVE",
-            "adwords.zappos": "INACTIVE",
-            "adwords.zara": "INACTIVE",
-            "adwords.zero": "INACTIVE",
-            "adwords.zip": "INACTIVE",
-            "adwords.zm": "INACTIVE",
-            "adwords.zone": "INACTIVE",
-            "adwords.zuerich": "INACTIVE",
-            "adwords.zw": "INACTIVE",
-            "android.aaa": "INACTIVE",
-            "android.aarp": "INACTIVE",
-            "android.abarth": "INACTIVE",
-            "android.abb": "INACTIVE",
-            "android.abbott": "INACTIVE",
-            "android.abbvie": "INACTIVE",
-            "android.abc": "INACTIVE",
-            "android.able": "INACTIVE",
-            "android.abogado": "INACTIVE",
-            "android.abudhabi": "INACTIVE",
-            "android.academy": "INACTIVE",
-            "android.accenture": "INACTIVE",
-            "android.accountants": "INACTIVE",
-            "android.aco": "INACTIVE",
-            "android.actor": "INACTIVE",
-            "android.ad": "INACTIVE",
-            "android.adac": "INACTIVE",
-            "android.ads": "INACTIVE",
-            "android.ae": "INACTIVE",
-            "android.aeg": "INACTIVE",
-            "android.aero": "INACTIVE",
-            "android.aetna": "INACTIVE",
-            "android.afamilycompany": "INACTIVE",
-            "android.afl": "INACTIVE",
-            "android.agakhan": "INACTIVE",
-            "android.agency": "INACTIVE",
-            "android.aig": "INACTIVE",
-            "android.aigo": "INACTIVE",
-            "android.airbus": "INACTIVE",
-            "android.airforce": "INACTIVE",
-            "android.airtel": "INACTIVE",
-            "android.akdn": "INACTIVE",
-            "android.al": "INACTIVE",
-            "android.alfaromeo": "INACTIVE",
-            "android.alibaba": "INACTIVE",
-            "android.alipay": "INACTIVE",
-            "android.allfinanz": "INACTIVE",
-            "android.allstate": "INACTIVE",
-            "android.ally": "INACTIVE",
-            "android.alsace": "INACTIVE",
-            "android.alstom": "INACTIVE",
-            "android.americanexpress": "INACTIVE",
-            "android.americanfamily": "INACTIVE",
-            "android.amex": "INACTIVE",
-            "android.amfam": "INACTIVE",
-            "android.amica": "INACTIVE",
-            "android.analytics": "INACTIVE",
-            "android.android": "INACTIVE",
-            "android.anquan": "INACTIVE",
-            "android.anz": "INACTIVE",
-            "android.ao": "INACTIVE",
-            "android.aol": "INACTIVE",
-            "android.apartments": "INACTIVE",
-            "android.apple": "INACTIVE",
-            "android.aq": "INACTIVE",
-            "android.aquarelle": "INACTIVE",
-            "android.ar": "INACTIVE",
             "android.aramco": "INACTIVE",
             "android.army": "INACTIVE",
             "android.arpa": "INACTIVE",
@@ -27076,6 +26806,601 @@
         },
         "1574482653": {
             "adwords.tz": "INACTIVE"
+        },
+        "1574482964": {
+            "abc.dz": "INACTIVE"
+        },
+        "1574483534": {
+            "adwords.ubank": "INACTIVE",
+            "adwords.ubs": "INACTIVE"
+        },
+        "1574483535": {
+            "adwords.uconnect": "INACTIVE"
+        },
+        "1574483550": {
+            "adwords.ug": "INACTIVE"
+        },
+        "1574483552": {
+            "adwords.unicom": "INACTIVE"
+        },
+        "1574483553": {
+            "adwords.university": "INACTIVE"
+        },
+        "1574483555": {
+            "adwords.uol": "INACTIVE"
+        },
+        "1574483559": {
+            "adwords.ups": "INACTIVE"
+        },
+        "1574483560": {
+            "adwords.us": "INACTIVE"
+        },
+        "1574483562": {
+            "adwords.uy": "INACTIVE"
+        },
+        "1574483563": {
+            "adwords.va": "INACTIVE"
+        },
+        "1574483564": {
+            "adwords.vacations": "INACTIVE",
+            "adwords.vana": "INACTIVE",
+            "adwords.vanguard": "INACTIVE"
+        },
+        "1574483565": {
+            "adwords.vc": "INACTIVE"
+        },
+        "1574483570": {
+            "adwords.ve": "INACTIVE"
+        },
+        "1574483571": {
+            "adwords.ventures": "INACTIVE",
+            "adwords.verisign": "INACTIVE",
+            "adwords.versicherung": "INACTIVE"
+        },
+        "1574483577": {
+            "adwords.vg": "INACTIVE",
+            "adwords.vi": "INACTIVE",
+            "adwords.viajes": "INACTIVE"
+        },
+        "1574483578": {
+            "adwords.video": "INACTIVE",
+            "adwords.vig": "INACTIVE",
+            "adwords.viking": "INACTIVE",
+            "adwords.villas": "INACTIVE"
+        },
+        "1574483579": {
+            "adwords.vin": "INACTIVE"
+        },
+        "1574483583": {
+            "adwords.virgin": "INACTIVE",
+            "adwords.visa": "INACTIVE",
+            "adwords.vision": "INACTIVE"
+        },
+        "1574483584": {
+            "adwords.vistaprint": "INACTIVE"
+        },
+        "1574483589": {
+            "adwords.viva": "INACTIVE",
+            "adwords.vivo": "INACTIVE"
+        },
+        "1574483590": {
+            "adwords.vn": "INACTIVE",
+            "adwords.volkswagen": "INACTIVE"
+        },
+        "1574483591": {
+            "adwords.volvo": "INACTIVE",
+            "adwords.vote": "INACTIVE"
+        },
+        "1574483592": {
+            "adwords.voting": "INACTIVE",
+            "adwords.voto": "INACTIVE",
+            "adwords.voyage": "INACTIVE"
+        },
+        "1574483593": {
+            "adwords.vu": "INACTIVE"
+        },
+        "1574483594": {
+            "adwords.vuelos": "INACTIVE"
+        },
+        "1574483596": {
+            "adwords.walmart": "INACTIVE",
+            "adwords.walter": "INACTIVE"
+        },
+        "1574483597": {
+            "adwords.wang": "INACTIVE"
+        },
+        "1574483606": {
+            "adwords.wanggou": "INACTIVE",
+            "adwords.warman": "INACTIVE",
+            "adwords.watch": "INACTIVE",
+            "adwords.watches": "INACTIVE"
+        },
+        "1574483607": {
+            "adwords.weather": "INACTIVE",
+            "adwords.weatherchannel": "INACTIVE",
+            "adwords.weber": "INACTIVE"
+        },
+        "1574483613": {
+            "adwords.website": "INACTIVE",
+            "adwords.wed": "INACTIVE"
+        },
+        "1574483637": {
+            "adwords.wedding": "INACTIVE"
+        },
+        "1574483639": {
+            "adwords.weibo": "INACTIVE",
+            "adwords.weir": "INACTIVE"
+        },
+        "1574483647": {
+            "adwords.wf": "INACTIVE",
+            "adwords.whoswho": "INACTIVE"
+        },
+        "1574483654": {
+            "adwords.wiki": "INACTIVE",
+            "adwords.williamhill": "INACTIVE",
+            "adwords.windows": "INACTIVE"
+        },
+        "1574483655": {
+            "adwords.wine": "INACTIVE",
+            "adwords.winners": "INACTIVE"
+        },
+        "1574483660": {
+            "adwords.wme": "INACTIVE"
+        },
+        "1574483661": {
+            "adwords.wolterskluwer": "INACTIVE",
+            "adwords.woodside": "INACTIVE"
+        },
+        "1574483676": {
+            "adwords.work": "INACTIVE"
+        },
+        "1574483677": {
+            "adwords.works": "INACTIVE",
+            "adwords.world": "INACTIVE"
+        },
+        "1574483679": {
+            "adwords.wow": "INACTIVE"
+        },
+        "1574483680": {
+            "adwords.ws": "INACTIVE",
+            "adwords.wtc": "INACTIVE",
+            "adwords.wtf": "INACTIVE"
+        },
+        "1574483681": {
+            "adwords.xbox": "INACTIVE",
+            "adwords.xerox": "INACTIVE"
+        },
+        "1574483690": {
+            "adwords.xfinity": "INACTIVE"
+        },
+        "1574483691": {
+            "adwords.xihuan": "INACTIVE",
+            "adwords.xn--11b4c3d": "INACTIVE"
+        },
+        "1574483694": {
+            "adwords.xn--2scrj9c": "INACTIVE",
+            "adwords.xn--30rr7y": "INACTIVE"
+        },
+        "1574483695": {
+            "adwords.xn--3bst00m": "INACTIVE"
+        },
+        "1574483696": {
+            "adwords.xn--3e0b707e": "INACTIVE",
+            "adwords.xn--3hcrj9c": "INACTIVE"
+        },
+        "1574483698": {
+            "adwords.xn--3oq18vl8pn36a": "INACTIVE",
+            "adwords.xn--3pxu8k": "INACTIVE"
+        },
+        "1574483699": {
+            "adwords.xn--42c2d9a": "INACTIVE",
+            "adwords.xn--45br5cyl": "INACTIVE",
+            "adwords.xn--45brj9c": "INACTIVE"
+        },
+        "1574483700": {
+            "adwords.xn--4gbrim": "INACTIVE",
+            "adwords.xn--54b7fta0cc": "INACTIVE"
+        },
+        "1574483703": {
+            "adwords.xn--55qw42g": "INACTIVE",
+            "adwords.xn--5su34j936bgsg": "INACTIVE"
+        },
+        "1574483704": {
+            "adwords.xn--80adxhks": "INACTIVE"
+        },
+        "1574483705": {
+            "adwords.xn--80ao21a": "INACTIVE"
+        },
+        "1574483707": {
+            "adwords.xn--80aqecdr1a": "INACTIVE"
+        },
+        "1574483708": {
+            "adwords.xn--80asehdb": "INACTIVE"
+        },
+        "1574483710": {
+            "adwords.xn--80aswg": "INACTIVE"
+        },
+        "1574483712": {
+            "adwords.xn--8y0a063a": "INACTIVE"
+        },
+        "1574483713": {
+            "adwords.xn--90a3ac": "INACTIVE"
+        },
+        "1574483714": {
+            "adwords.xn--90ae": "INACTIVE"
+        },
+        "1574483715": {
+            "adwords.xn--90ais": "INACTIVE",
+            "adwords.xn--9dbq2a": "INACTIVE",
+            "adwords.xn--9et52u": "INACTIVE"
+        },
+        "1574483716": {
+            "adwords.xn--9krt00a": "INACTIVE",
+            "adwords.xn--b4w605ferd": "INACTIVE",
+            "adwords.xn--c1avg": "INACTIVE"
+        },
+        "1574483717": {
+            "adwords.xn--c2br7g": "INACTIVE"
+        },
+        "1574483718": {
+            "adwords.xn--cg4bki": "INACTIVE",
+            "adwords.xn--clchc0ea0b2g2a9gcd": "INACTIVE"
+        },
+        "1574483719": {
+            "adwords.xn--czrs0t": "INACTIVE"
+        },
+        "1574483720": {
+            "adwords.xn--d1acj3b": "INACTIVE"
+        },
+        "1574483721": {
+            "adwords.xn--d1alf": "INACTIVE",
+            "adwords.xn--e1a4c": "INACTIVE"
+        },
+        "1574483722": {
+            "adwords.xn--eckvdtc9d": "INACTIVE"
+        },
+        "1574483723": {
+            "adwords.xn--efvy88h": "INACTIVE"
+        },
+        "1574483725": {
+            "adwords.xn--estv75g": "INACTIVE",
+            "adwords.xn--fhbei": "INACTIVE"
+        },
+        "1574483726": {
+            "adwords.xn--fiq64b": "INACTIVE"
+        },
+        "1574483727": {
+            "adwords.xn--fjq720a": "INACTIVE",
+            "adwords.xn--flw351e": "INACTIVE",
+            "adwords.xn--fpcrj9c3d": "INACTIVE"
+        },
+        "1574483737": {
+            "adwords.xn--fzc2c9e2c": "INACTIVE"
+        },
+        "1574483741": {
+            "adwords.xn--fzys8d69uvgm": "INACTIVE",
+            "adwords.xn--g2xx48c": "INACTIVE"
+        },
+        "1574483742": {
+            "adwords.xn--gecrj9c": "INACTIVE",
+            "adwords.xn--gk3at1e": "INACTIVE",
+            "adwords.xn--h2breg3eve": "INACTIVE",
+            "adwords.xn--h2brj9c": "INACTIVE"
+        },
+        "1574483743": {
+            "adwords.xn--h2brj9c8c": "INACTIVE",
+            "adwords.xn--i1b6b1a6a2e": "INACTIVE",
+            "adwords.xn--j1aef": "INACTIVE"
+        },
+        "1574483744": {
+            "adwords.xn--j1amh": "INACTIVE"
+        },
+        "1574483745": {
+            "adwords.xn--j6w193g": "INACTIVE",
+            "adwords.xn--jlq61u9w7b": "INACTIVE"
+        },
+        "1574483746": {
+            "adwords.xn--kcrx77d1x4a": "INACTIVE"
+        },
+        "1574483750": {
+            "adwords.xn--kpry57d": "INACTIVE"
+        },
+        "1574483751": {
+            "adwords.xn--kpu716f": "INACTIVE",
+            "adwords.xn--kput3i": "INACTIVE"
+        },
+        "1574483752": {
+            "adwords.xn--l1acc": "INACTIVE"
+        },
+        "1574483753": {
+            "adwords.xn--lgbbat1ad8j": "INACTIVE"
+        },
+        "1574483754": {
+            "adwords.xn--mgb9awbf": "INACTIVE",
+            "adwords.xn--mgba3a3ejt": "INACTIVE"
+        },
+        "1574483770": {
+            "adwords.xn--mgba3a4f16a": "INACTIVE",
+            "adwords.xn--mgba7c0bbn0a": "INACTIVE"
+        },
+        "1574483776": {
+            "adwords.xn--mgbaakc7dvf": "INACTIVE"
+        },
+        "1574483777": {
+            "adwords.xn--mgbaam7a8h": "INACTIVE"
+        },
+        "1574483778": {
+            "adwords.xn--mgbab2bd": "INACTIVE"
+        },
+        "1574483779": {
+            "adwords.xn--mgbah1a3hjkrd": "INACTIVE"
+        },
+        "1574483780": {
+            "adwords.xn--mgbai9azgqp6j": "INACTIVE",
+            "adwords.xn--mgbayh7gpa": "INACTIVE",
+            "adwords.xn--mgbbh1a": "INACTIVE",
+            "adwords.xn--mgbbh1a71e": "INACTIVE"
+        },
+        "1574483781": {
+            "adwords.xn--mgbc0a9azcg": "INACTIVE"
+        },
+        "1574483782": {
+            "adwords.xn--mgbca7dzdo": "INACTIVE"
+        },
+        "1574483785": {
+            "adwords.xn--mgberp4a5d4ar": "INACTIVE"
+        },
+        "1574483786": {
+            "adwords.xn--mgbgu82a": "INACTIVE",
+            "adwords.xn--mgbi4ecexp": "INACTIVE"
+        },
+        "1574483788": {
+            "adwords.xn--mgbpl2fh": "INACTIVE",
+            "adwords.xn--mgbt3dhd": "INACTIVE"
+        },
+        "1574483793": {
+            "adwords.xn--mgbtx2b": "INACTIVE"
+        },
+        "1574483799": {
+            "adwords.xn--mgbx4cd0ab": "INACTIVE"
+        },
+        "1574483800": {
+            "adwords.xn--mix891f": "INACTIVE"
+        },
+        "1574483801": {
+            "adwords.xn--mxtq1m": "INACTIVE",
+            "adwords.xn--ngbc5azd": "INACTIVE"
+        },
+        "1574483808": {
+            "adwords.xn--ngbe9e0a": "INACTIVE"
+        },
+        "1574483809": {
+            "adwords.xn--ngbrx": "INACTIVE"
+        },
+        "1574483811": {
+            "adwords.xn--node": "INACTIVE",
+            "adwords.xn--nqv7f": "INACTIVE",
+            "adwords.xn--nqv7fs00ema": "INACTIVE"
+        },
+        "1574483815": {
+            "adwords.xn--o3cw4h": "INACTIVE"
+        },
+        "1574483821": {
+            "adwords.xn--ogbpf8fl": "INACTIVE"
+        },
+        "1574483823": {
+            "adwords.xn--otu796d": "INACTIVE"
+        },
+        "1574483824": {
+            "adwords.xn--p1acf": "INACTIVE"
+        },
+        "1574483825": {
+            "adwords.xn--p1ai": "INACTIVE",
+            "adwords.xn--pbt977c": "INACTIVE",
+            "adwords.xn--pgbs0dh": "INACTIVE",
+            "adwords.xn--pssy2u": "INACTIVE"
+        },
+        "1574483826": {
+            "adwords.xn--qcka1pmc": "INACTIVE",
+            "adwords.xn--qxa6a": "INACTIVE"
+        },
+        "1574483827": {
+            "adwords.xn--qxam": "INACTIVE",
+            "adwords.xn--rvc1e0am3e": "INACTIVE"
+        },
+        "1574483828": {
+            "adwords.xn--s9brj9c": "INACTIVE"
+        },
+        "1574483829": {
+            "adwords.xn--tiq49xqyj": "INACTIVE",
+            "adwords.xn--unup4y": "INACTIVE"
+        },
+        "1574483834": {
+            "adwords.xn--vermgensberater-ctb": "INACTIVE"
+        },
+        "1574483840": {
+            "adwords.xn--vermgensberatung-pwb": "INACTIVE",
+            "adwords.xn--vhquv": "INACTIVE",
+            "adwords.xn--w4r85el8fhu5dnra": "INACTIVE"
+        },
+        "1574483841": {
+            "adwords.xn--w4rs40l": "INACTIVE"
+        },
+        "1574483842": {
+            "adwords.xn--wgbh1c": "INACTIVE"
+        },
+        "1574483843": {
+            "adwords.xn--wgbl6a": "INACTIVE"
+        },
+        "1574483853": {
+            "adwords.xn--xkc2al3hye2a": "INACTIVE",
+            "adwords.xn--xkc2dl3a5ee0h": "INACTIVE"
+        },
+        "1574483854": {
+            "adwords.xn--y9a3aq": "INACTIVE"
+        },
+        "1574483855": {
+            "adwords.xn--yfro4i67o": "INACTIVE"
+        },
+        "1574483857": {
+            "adwords.xn--ygbi2ammx": "INACTIVE"
+        },
+        "1574483858": {
+            "adwords.xn--zfr164b": "INACTIVE",
+            "adwords.yachts": "INACTIVE",
+            "adwords.yahoo": "INACTIVE"
+        },
+        "1574483867": {
+            "adwords.yamaxun": "INACTIVE"
+        },
+        "1574483868": {
+            "adwords.yandex": "INACTIVE",
+            "adwords.ye": "INACTIVE"
+        },
+        "1574483869": {
+            "adwords.yodobashi": "INACTIVE"
+        },
+        "1574483872": {
+            "adwords.you": "INACTIVE"
+        },
+        "1574483873": {
+            "adwords.youtube": "INACTIVE"
+        },
+        "1574483875": {
+            "adwords.yt": "INACTIVE"
+        },
+        "1574483876": {
+            "adwords.yun": "INACTIVE"
+        },
+        "1574483878": {
+            "adwords.za": "INACTIVE"
+        },
+        "1574483902": {
+            "adwords.zappos": "INACTIVE",
+            "adwords.zara": "INACTIVE"
+        },
+        "1574483903": {
+            "adwords.zero": "INACTIVE",
+            "adwords.zip": "INACTIVE"
+        },
+        "1574483904": {
+            "adwords.zm": "INACTIVE",
+            "adwords.zone": "INACTIVE"
+        },
+        "1574483910": {
+            "adwords.zuerich": "INACTIVE",
+            "adwords.zw": "INACTIVE"
+        },
+        "1574483911": {
+            "android.aaa": "INACTIVE",
+            "android.aarp": "INACTIVE",
+            "android.abarth": "INACTIVE",
+            "android.abb": "INACTIVE"
+        },
+        "1574483912": {
+            "android.abbott": "INACTIVE",
+            "android.abbvie": "INACTIVE",
+            "android.abc": "INACTIVE"
+        },
+        "1574483913": {
+            "android.able": "INACTIVE"
+        },
+        "1574483935": {
+            "android.abogado": "INACTIVE"
+        },
+        "1574483936": {
+            "android.abudhabi": "INACTIVE",
+            "android.academy": "INACTIVE"
+        },
+        "1574483937": {
+            "android.accenture": "INACTIVE",
+            "android.accountants": "INACTIVE",
+            "android.aco": "INACTIVE"
+        },
+        "1574483938": {
+            "android.actor": "INACTIVE",
+            "android.ad": "INACTIVE"
+        },
+        "1574483945": {
+            "android.adac": "INACTIVE",
+            "android.ads": "INACTIVE"
+        },
+        "1574483946": {
+            "android.ae": "INACTIVE",
+            "android.aeg": "INACTIVE"
+        },
+        "1574483947": {
+            "android.aero": "INACTIVE",
+            "android.aetna": "INACTIVE"
+        },
+        "1574483948": {
+            "android.afamilycompany": "INACTIVE",
+            "android.afl": "INACTIVE"
+        },
+        "1574483950": {
+            "android.agakhan": "INACTIVE",
+            "android.agency": "INACTIVE",
+            "android.aig": "INACTIVE"
+        },
+        "1574483951": {
+            "android.aigo": "INACTIVE",
+            "android.airbus": "INACTIVE",
+            "android.airforce": "INACTIVE",
+            "android.airtel": "INACTIVE"
+        },
+        "1574483952": {
+            "android.akdn": "INACTIVE"
+        },
+        "1574483967": {
+            "android.al": "INACTIVE",
+            "android.alfaromeo": "INACTIVE"
+        },
+        "1574483969": {
+            "android.alibaba": "INACTIVE"
+        },
+        "1574483973": {
+            "android.alipay": "INACTIVE"
+        },
+        "1574483978": {
+            "android.allfinanz": "INACTIVE",
+            "android.allstate": "INACTIVE"
+        },
+        "1574483981": {
+            "android.ally": "INACTIVE"
+        },
+        "1574483982": {
+            "android.alsace": "INACTIVE"
+        },
+        "1574483983": {
+            "android.alstom": "INACTIVE",
+            "android.americanexpress": "INACTIVE",
+            "android.americanfamily": "INACTIVE"
+        },
+        "1574483984": {
+            "android.amex": "INACTIVE",
+            "android.amfam": "INACTIVE",
+            "android.amica": "INACTIVE"
+        },
+        "1574483990": {
+            "android.analytics": "INACTIVE",
+            "android.android": "INACTIVE"
+        },
+        "1574483991": {
+            "android.anquan": "INACTIVE",
+            "android.anz": "INACTIVE",
+            "android.ao": "INACTIVE"
+        },
+        "1574483992": {
+            "android.aol": "INACTIVE",
+            "android.apartments": "INACTIVE"
+        },
+        "1574483993": {
+            "android.apple": "INACTIVE",
+            "android.aq": "INACTIVE",
+            "android.aquarelle": "INACTIVE"
+        },
+        "1574484003": {
+            "android.ar": "INACTIVE"
         }
     }
 }
