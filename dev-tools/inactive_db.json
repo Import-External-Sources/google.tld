@@ -1,56 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.farmers": "INACTIVE",
-            "blog.fashion": "INACTIVE",
-            "blog.fast": "INACTIVE",
-            "blog.fedex": "INACTIVE",
-            "blog.feedback": "INACTIVE",
-            "blog.ferrari": "INACTIVE",
-            "blog.ferrero": "INACTIVE",
-            "blog.fiat": "INACTIVE",
-            "blog.fidelity": "INACTIVE",
-            "blog.fido": "INACTIVE",
-            "blog.film": "INACTIVE",
-            "blog.final": "INACTIVE",
-            "blog.fire": "INACTIVE",
-            "blog.firestone": "INACTIVE",
-            "blog.firmdale": "INACTIVE",
-            "blog.fishing": "INACTIVE",
-            "blog.fit": "INACTIVE",
-            "blog.fj": "INACTIVE",
-            "blog.fk": "INACTIVE",
-            "blog.flickr": "INACTIVE",
-            "blog.flir": "INACTIVE",
-            "blog.flowers": "INACTIVE",
-            "blog.fly": "INACTIVE",
-            "blog.foo": "INACTIVE",
-            "blog.food": "INACTIVE",
-            "blog.foodnetwork": "INACTIVE",
-            "blog.ford": "INACTIVE",
-            "blog.forsale": "INACTIVE",
-            "blog.forum": "INACTIVE",
-            "blog.fox": "INACTIVE",
-            "blog.free": "INACTIVE",
-            "blog.fresenius": "INACTIVE",
-            "blog.frogans": "INACTIVE",
-            "blog.frontdoor": "INACTIVE",
-            "blog.frontier": "INACTIVE",
-            "blog.ftr": "INACTIVE",
-            "blog.fujitsu": "INACTIVE",
-            "blog.fujixerox": "INACTIVE",
-            "blog.fun": "INACTIVE",
-            "blog.furniture": "INACTIVE",
-            "blog.futbol": "INACTIVE",
-            "blog.ga": "INACTIVE",
-            "blog.gallo": "INACTIVE",
-            "blog.gallup": "INACTIVE",
-            "blog.game": "INACTIVE",
-            "blog.gap": "INACTIVE",
-            "blog.garden": "INACTIVE",
-            "blog.gb": "INACTIVE",
-            "blog.gbiz": "INACTIVE",
-            "blog.gd": "INACTIVE",
             "blog.gdn": "INACTIVE",
             "blog.gea": "INACTIVE",
             "blog.gent": "INACTIVE",
@@ -29034,6 +28984,128 @@
         },
         "1574494960": {
             "blog.fans": "INACTIVE"
+        },
+        "1574496165": {
+            "blog.farmers": "INACTIVE"
+        },
+        "1574496189": {
+            "blog.fashion": "INACTIVE"
+        },
+        "1574496191": {
+            "blog.fast": "INACTIVE"
+        },
+        "1574496193": {
+            "blog.fedex": "INACTIVE"
+        },
+        "1574496199": {
+            "blog.feedback": "INACTIVE"
+        },
+        "1574496203": {
+            "blog.ferrari": "INACTIVE",
+            "blog.ferrero": "INACTIVE",
+            "blog.fiat": "INACTIVE"
+        },
+        "1574496204": {
+            "blog.fidelity": "INACTIVE",
+            "blog.fido": "INACTIVE",
+            "blog.film": "INACTIVE"
+        },
+        "1574496205": {
+            "blog.final": "INACTIVE"
+        },
+        "1574496206": {
+            "blog.fire": "INACTIVE"
+        },
+        "1574496207": {
+            "blog.firestone": "INACTIVE",
+            "blog.firmdale": "INACTIVE"
+        },
+        "1574496232": {
+            "blog.fishing": "INACTIVE"
+        },
+        "1574496234": {
+            "blog.fit": "INACTIVE"
+        },
+        "1574496237": {
+            "blog.fj": "INACTIVE",
+            "blog.fk": "INACTIVE"
+        },
+        "1574496238": {
+            "blog.flickr": "INACTIVE",
+            "blog.flir": "INACTIVE"
+        },
+        "1574496239": {
+            "blog.flowers": "INACTIVE",
+            "blog.fly": "INACTIVE"
+        },
+        "1574496240": {
+            "blog.fm": "INACTIVE",
+            "blog.foo": "INACTIVE",
+            "blog.food": "INACTIVE"
+        },
+        "1574496241": {
+            "blog.foodnetwork": "INACTIVE"
+        },
+        "1574496243": {
+            "blog.ford": "INACTIVE",
+            "blog.forsale": "INACTIVE"
+        },
+        "1574496250": {
+            "blog.forum": "INACTIVE"
+        },
+        "1574496251": {
+            "blog.fox": "INACTIVE"
+        },
+        "1574496268": {
+            "blog.free": "INACTIVE"
+        },
+        "1574496273": {
+            "blog.fresenius": "INACTIVE"
+        },
+        "1574496277": {
+            "blog.frogans": "INACTIVE",
+            "blog.frontdoor": "INACTIVE",
+            "blog.frontier": "INACTIVE"
+        },
+        "1574496278": {
+            "blog.ftr": "INACTIVE",
+            "blog.fujitsu": "INACTIVE"
+        },
+        "1574496279": {
+            "blog.fujixerox": "INACTIVE"
+        },
+        "1574496284": {
+            "blog.fun": "INACTIVE"
+        },
+        "1574496285": {
+            "blog.furniture": "INACTIVE",
+            "blog.futbol": "INACTIVE"
+        },
+        "1574496305": {
+            "blog.ga": "INACTIVE"
+        },
+        "1574496306": {
+            "blog.gallo": "INACTIVE"
+        },
+        "1574496308": {
+            "blog.gallup": "INACTIVE",
+            "blog.game": "INACTIVE"
+        },
+        "1574496309": {
+            "blog.gap": "INACTIVE"
+        },
+        "1574496331": {
+            "blog.garden": "INACTIVE"
+        },
+        "1574496336": {
+            "blog.gay": "INACTIVE"
+        },
+        "1574496337": {
+            "blog.gb": "INACTIVE",
+            "blog.gbiz": "INACTIVE"
+        },
+        "1574496357": {
+            "blog.gd": "INACTIVE"
         }
     }
 }
