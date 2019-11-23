@@ -9640,37 +9640,37 @@
         "state": "future"
     },
     "blogger.vlaanderen": {
-        "epoch": 1579046400,
+        "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "blogger.vodka": {
-        "epoch": 1594252800,
+        "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "blogger.wales": {
-        "epoch": 1604102400,
+        "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "blogger.wang": {
-        "epoch": 1593475200,
+        "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "blogger.wf": {
-        "epoch": 1599523200,
+        "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "blogger.wiki": {
-        "epoch": 1574812800,
+        "epoch": 1574812800.0,
         "expiration_date": "27-nov-2019",
         "state": "future"
     },
     "blogger.win": {
-        "epoch": 1596326400,
+        "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
