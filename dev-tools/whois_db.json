@@ -9195,77 +9195,77 @@
         "state": "future"
     },
     "blogger.okinawa": {
-        "epoch": 1599004800,
+        "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "blogger.one": {
-        "epoch": 1588896000,
+        "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
         "state": "future"
     },
     "blogger.onl": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "blogger.org": {
-        "epoch": 1582329600,
+        "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "blogger.organic": {
-        "epoch": 1580688000,
+        "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "blogger.osaka": {
-        "epoch": 1584489600,
+        "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
     "blogger.ovh": {
-        "epoch": 1598572800,
+        "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "blogger.page": {
-        "epoch": 1598659200,
+        "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "blogger.paris": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "blogger.party": {
-        "epoch": 1580860800,
+        "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
     "blogger.pet": {
-        "epoch": 1581897600,
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "blogger.photo": {
-        "epoch": 1585958400,
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "blogger.pics": {
-        "epoch": 1585958400,
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "blogger.pink": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "blogger.pl": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },

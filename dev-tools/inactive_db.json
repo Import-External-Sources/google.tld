@@ -779,56 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.obi": "INACTIVE",
-            "blogger.observer": "INACTIVE",
-            "blogger.off": "INACTIVE",
-            "blogger.office": "INACTIVE",
-            "blogger.olayan": "INACTIVE",
-            "blogger.olayangroup": "INACTIVE",
-            "blogger.oldnavy": "INACTIVE",
-            "blogger.ollo": "INACTIVE",
-            "blogger.om": "INACTIVE",
-            "blogger.omega": "INACTIVE",
-            "blogger.ong": "INACTIVE",
-            "blogger.online": "INACTIVE",
-            "blogger.onyourside": "INACTIVE",
-            "blogger.ooo": "INACTIVE",
-            "blogger.open": "INACTIVE",
-            "blogger.oracle": "INACTIVE",
-            "blogger.orange": "INACTIVE",
-            "blogger.origins": "INACTIVE",
-            "blogger.otsuka": "INACTIVE",
-            "blogger.ott": "INACTIVE",
-            "blogger.pa": "INACTIVE",
-            "blogger.panasonic": "INACTIVE",
-            "blogger.pars": "INACTIVE",
-            "blogger.partners": "INACTIVE",
-            "blogger.parts": "INACTIVE",
-            "blogger.passagens": "INACTIVE",
-            "blogger.pay": "INACTIVE",
-            "blogger.pccw": "INACTIVE",
-            "blogger.pe": "INACTIVE",
-            "blogger.pf": "INACTIVE",
-            "blogger.pfizer": "INACTIVE",
-            "blogger.pg": "INACTIVE",
-            "blogger.pharmacy": "INACTIVE",
-            "blogger.phd": "INACTIVE",
-            "blogger.philips": "INACTIVE",
-            "blogger.phone": "INACTIVE",
-            "blogger.photography": "INACTIVE",
-            "blogger.photos": "INACTIVE",
-            "blogger.physio": "INACTIVE",
-            "blogger.piaget": "INACTIVE",
-            "blogger.pictet": "INACTIVE",
-            "blogger.pictures": "INACTIVE",
-            "blogger.pid": "INACTIVE",
-            "blogger.pin": "INACTIVE",
-            "blogger.ping": "INACTIVE",
-            "blogger.pioneer": "INACTIVE",
-            "blogger.pizza": "INACTIVE",
-            "blogger.pk": "INACTIVE",
-            "blogger.place": "INACTIVE",
-            "blogger.play": "INACTIVE",
             "blogger.playstation": "INACTIVE",
             "blogger.plumbing": "INACTIVE",
             "blogger.plus": "INACTIVE",
@@ -29909,6 +29859,115 @@
         },
         "1574508521": {
             "blogger.ntt": "INACTIVE"
+        },
+        "1574509803": {
+            "blogger.obi": "INACTIVE"
+        },
+        "1574509808": {
+            "blogger.observer": "INACTIVE"
+        },
+        "1574509809": {
+            "blogger.off": "INACTIVE",
+            "blogger.office": "INACTIVE",
+            "blogger.olayan": "INACTIVE"
+        },
+        "1574509810": {
+            "blogger.olayangroup": "INACTIVE",
+            "blogger.oldnavy": "INACTIVE",
+            "blogger.ollo": "INACTIVE"
+        },
+        "1574509811": {
+            "blogger.om": "INACTIVE",
+            "blogger.omega": "INACTIVE"
+        },
+        "1574509813": {
+            "blogger.ong": "INACTIVE"
+        },
+        "1574509819": {
+            "blogger.online": "INACTIVE",
+            "blogger.onyourside": "INACTIVE"
+        },
+        "1574509824": {
+            "blogger.ooo": "INACTIVE"
+        },
+        "1574509825": {
+            "blogger.open": "INACTIVE",
+            "blogger.oracle": "INACTIVE",
+            "blogger.orange": "INACTIVE"
+        },
+        "1574509829": {
+            "blogger.origins": "INACTIVE"
+        },
+        "1574509830": {
+            "blogger.otsuka": "INACTIVE"
+        },
+        "1574509831": {
+            "blogger.ott": "INACTIVE",
+            "blogger.pa": "INACTIVE"
+        },
+        "1574509832": {
+            "blogger.panasonic": "INACTIVE"
+        },
+        "1574509833": {
+            "blogger.pars": "INACTIVE",
+            "blogger.partners": "INACTIVE"
+        },
+        "1574509835": {
+            "blogger.parts": "INACTIVE"
+        },
+        "1574509836": {
+            "blogger.passagens": "INACTIVE"
+        },
+        "1574509838": {
+            "blogger.pay": "INACTIVE"
+        },
+        "1574509840": {
+            "blogger.pccw": "INACTIVE"
+        },
+        "1574509842": {
+            "blogger.pf": "INACTIVE",
+            "blogger.pfizer": "INACTIVE",
+            "blogger.pg": "INACTIVE"
+        },
+        "1574509843": {
+            "blogger.pharmacy": "INACTIVE"
+        },
+        "1574509844": {
+            "blogger.phd": "INACTIVE",
+            "blogger.philips": "INACTIVE"
+        },
+        "1574509846": {
+            "blogger.phone": "INACTIVE"
+        },
+        "1574509847": {
+            "blogger.photography": "INACTIVE",
+            "blogger.photos": "INACTIVE"
+        },
+        "1574509848": {
+            "blogger.physio": "INACTIVE",
+            "blogger.piaget": "INACTIVE"
+        },
+        "1574509850": {
+            "blogger.pictet": "INACTIVE",
+            "blogger.pictures": "INACTIVE"
+        },
+        "1574509857": {
+            "blogger.pid": "INACTIVE",
+            "blogger.pin": "INACTIVE"
+        },
+        "1574509858": {
+            "blogger.ping": "INACTIVE",
+            "blogger.pioneer": "INACTIVE"
+        },
+        "1574509859": {
+            "blogger.pizza": "INACTIVE"
+        },
+        "1574509861": {
+            "blogger.pk": "INACTIVE",
+            "blogger.place": "INACTIVE"
+        },
+        "1574509866": {
+            "blogger.play": "INACTIVE"
         }
     }
 }
