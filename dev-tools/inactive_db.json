@@ -779,82 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.bb": "INACTIVE",
-            "blogger.bbc": "INACTIVE",
-            "blogger.bbt": "INACTIVE",
-            "blogger.bbva": "INACTIVE",
-            "blogger.bcg": "INACTIVE",
-            "blogger.bcn": "INACTIVE",
-            "blogger.bd": "INACTIVE",
-            "blogger.be": "INACTIVE",
-            "blogger.beats": "INACTIVE",
-            "blogger.beauty": "INACTIVE",
-            "blogger.beer": "INACTIVE",
-            "blogger.bentley": "INACTIVE",
-            "blogger.bestbuy": "INACTIVE",
-            "blogger.bf": "INACTIVE",
-            "blogger.bh": "INACTIVE",
-            "blogger.bharti": "INACTIVE",
-            "blogger.bi": "INACTIVE",
-            "blogger.bible": "INACTIVE",
-            "blogger.bike": "INACTIVE",
-            "blogger.bing": "INACTIVE",
-            "blogger.bingo": "INACTIVE",
-            "blogger.blockbuster": "INACTIVE",
-            "blogger.blog": "INACTIVE",
-            "blogger.bloomberg": "INACTIVE",
-            "blogger.bm": "INACTIVE",
-            "blogger.bms": "INACTIVE",
-            "blogger.bmw": "INACTIVE",
-            "blogger.bn": "INACTIVE",
-            "blogger.bnpparibas": "INACTIVE",
-            "blogger.bo": "INACTIVE",
-            "blogger.boats": "INACTIVE",
-            "blogger.boehringer": "INACTIVE",
-            "blogger.bofa": "INACTIVE",
-            "blogger.bom": "INACTIVE",
-            "blogger.bond": "INACTIVE",
-            "blogger.boo": "INACTIVE",
-            "blogger.book": "INACTIVE",
-            "blogger.booking": "INACTIVE",
-            "blogger.bosch": "INACTIVE",
-            "blogger.bostik": "INACTIVE",
-            "blogger.boston": "INACTIVE",
-            "blogger.boutique": "INACTIVE",
-            "blogger.box": "INACTIVE",
-            "blogger.br": "INACTIVE",
-            "blogger.bradesco": "INACTIVE",
-            "blogger.bridgestone": "INACTIVE",
-            "blogger.broadway": "INACTIVE",
-            "blogger.brother": "INACTIVE",
-            "blogger.bs": "INACTIVE",
-            "blogger.bt": "INACTIVE",
-            "blogger.budapest": "INACTIVE",
-            "blogger.bugatti": "INACTIVE",
-            "blogger.builders": "INACTIVE",
-            "blogger.business": "INACTIVE",
-            "blogger.buy": "INACTIVE",
-            "blogger.buzz": "INACTIVE",
-            "blogger.bv": "INACTIVE",
-            "blogger.bw": "INACTIVE",
-            "blogger.bzh": "INACTIVE",
-            "blogger.cab": "INACTIVE",
-            "blogger.cafe": "INACTIVE",
-            "blogger.cal": "INACTIVE",
-            "blogger.call": "INACTIVE",
-            "blogger.calvinklein": "INACTIVE",
-            "blogger.cam": "INACTIVE",
-            "blogger.camera": "INACTIVE",
-            "blogger.cancerresearch": "INACTIVE",
-            "blogger.canon": "INACTIVE",
-            "blogger.capital": "INACTIVE",
-            "blogger.capitalone": "INACTIVE",
-            "blogger.caravan": "INACTIVE",
-            "blogger.cards": "INACTIVE",
-            "blogger.care": "INACTIVE",
-            "blogger.careers": "INACTIVE",
-            "blogger.cartier": "INACTIVE",
-            "blogger.case": "INACTIVE",
             "blogger.caseih": "INACTIVE",
             "blogger.cash": "INACTIVE",
             "blogger.casino": "INACTIVE",
@@ -29217,6 +29141,167 @@
         },
         "1574497693": {
             "blogger.bauhaus": "INACTIVE"
+        },
+        "1574498889": {
+            "blogger.bb": "INACTIVE"
+        },
+        "1574498891": {
+            "blogger.bbc": "INACTIVE",
+            "blogger.bbt": "INACTIVE",
+            "blogger.bbva": "INACTIVE"
+        },
+        "1574498895": {
+            "blogger.bcg": "INACTIVE"
+        },
+        "1574498898": {
+            "blogger.bcn": "INACTIVE",
+            "blogger.bd": "INACTIVE"
+        },
+        "1574498901": {
+            "blogger.be": "INACTIVE",
+            "blogger.beats": "INACTIVE",
+            "blogger.beauty": "INACTIVE"
+        },
+        "1574498916": {
+            "blogger.beer": "INACTIVE"
+        },
+        "1574498940": {
+            "blogger.bentley": "INACTIVE"
+        },
+        "1574498943": {
+            "blogger.bestbuy": "INACTIVE"
+        },
+        "1574498949": {
+            "blogger.bh": "INACTIVE"
+        },
+        "1574498950": {
+            "blogger.bharti": "INACTIVE"
+        },
+        "1574498951": {
+            "blogger.bi": "INACTIVE",
+            "blogger.bible": "INACTIVE",
+            "blogger.bike": "INACTIVE"
+        },
+        "1574498952": {
+            "blogger.bing": "INACTIVE",
+            "blogger.bingo": "INACTIVE"
+        },
+        "1574498957": {
+            "blogger.blockbuster": "INACTIVE"
+        },
+        "1574498962": {
+            "blogger.blog": "INACTIVE",
+            "blogger.bloomberg": "INACTIVE"
+        },
+        "1574498963": {
+            "blogger.bm": "INACTIVE",
+            "blogger.bms": "INACTIVE"
+        },
+        "1574498968": {
+            "blogger.bmw": "INACTIVE"
+        },
+        "1574498970": {
+            "blogger.bn": "INACTIVE",
+            "blogger.bnpparibas": "INACTIVE"
+        },
+        "1574498971": {
+            "blogger.bo": "INACTIVE",
+            "blogger.boats": "INACTIVE"
+        },
+        "1574498972": {
+            "blogger.boehringer": "INACTIVE",
+            "blogger.bofa": "INACTIVE"
+        },
+        "1574498973": {
+            "blogger.bom": "INACTIVE",
+            "blogger.bond": "INACTIVE"
+        },
+        "1574498974": {
+            "blogger.boo": "INACTIVE"
+        },
+        "1574498991": {
+            "blogger.book": "INACTIVE",
+            "blogger.booking": "INACTIVE",
+            "blogger.bosch": "INACTIVE"
+        },
+        "1574498993": {
+            "blogger.bostik": "INACTIVE"
+        },
+        "1574499018": {
+            "blogger.boston": "INACTIVE",
+            "blogger.boutique": "INACTIVE"
+        },
+        "1574499019": {
+            "blogger.box": "INACTIVE",
+            "blogger.br": "INACTIVE"
+        },
+        "1574499036": {
+            "blogger.bradesco": "INACTIVE"
+        },
+        "1574499037": {
+            "blogger.bridgestone": "INACTIVE"
+        },
+        "1574499039": {
+            "blogger.broadway": "INACTIVE"
+        },
+        "1574499040": {
+            "blogger.brother": "INACTIVE",
+            "blogger.bs": "INACTIVE",
+            "blogger.bt": "INACTIVE"
+        },
+        "1574499044": {
+            "blogger.budapest": "INACTIVE"
+        },
+        "1574499045": {
+            "blogger.bugatti": "INACTIVE",
+            "blogger.builders": "INACTIVE",
+            "blogger.business": "INACTIVE"
+        },
+        "1574499046": {
+            "blogger.buy": "INACTIVE",
+            "blogger.buzz": "INACTIVE"
+        },
+        "1574499047": {
+            "blogger.bv": "INACTIVE"
+        },
+        "1574499048": {
+            "blogger.bw": "INACTIVE"
+        },
+        "1574499059": {
+            "blogger.bzh": "INACTIVE",
+            "blogger.cab": "INACTIVE"
+        },
+        "1574499060": {
+            "blogger.cafe": "INACTIVE",
+            "blogger.cal": "INACTIVE"
+        },
+        "1574499061": {
+            "blogger.call": "INACTIVE",
+            "blogger.calvinklein": "INACTIVE"
+        },
+        "1574499067": {
+            "blogger.cam": "INACTIVE",
+            "blogger.camera": "INACTIVE",
+            "blogger.cancerresearch": "INACTIVE"
+        },
+        "1574499068": {
+            "blogger.canon": "INACTIVE"
+        },
+        "1574499069": {
+            "blogger.capital": "INACTIVE",
+            "blogger.capitalone": "INACTIVE"
+        },
+        "1574499070": {
+            "blogger.caravan": "INACTIVE",
+            "blogger.cards": "INACTIVE",
+            "blogger.care": "INACTIVE"
+        },
+        "1574499071": {
+            "blogger.careers": "INACTIVE",
+            "blogger.cartier": "INACTIVE"
+        },
+        "1574499076": {
+            "blogger.case": "INACTIVE"
         }
     }
 }
