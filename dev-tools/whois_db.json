@@ -3279,6 +3279,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "adsense.rest": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "adsense.review": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
@@ -9790,12 +9795,12 @@
         "state": "future"
     },
     "blogger.xn--mk1bu44c": {
-        "epoch": 1592611200,
+        "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "blogger.xn--nyqy26a": {
-        "epoch": 1601942400,
+        "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
