@@ -779,74 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.express": "INACTIVE",
-            "blogger.extraspace": "INACTIVE",
-            "blogger.fage": "INACTIVE",
-            "blogger.fail": "INACTIVE",
-            "blogger.fairwinds": "INACTIVE",
-            "blogger.fan": "INACTIVE",
-            "blogger.fans": "INACTIVE",
-            "blogger.farm": "INACTIVE",
-            "blogger.farmers": "INACTIVE",
-            "blogger.fashion": "INACTIVE",
-            "blogger.fast": "INACTIVE",
-            "blogger.fedex": "INACTIVE",
-            "blogger.feedback": "INACTIVE",
-            "blogger.ferrari": "INACTIVE",
-            "blogger.ferrero": "INACTIVE",
-            "blogger.fiat": "INACTIVE",
-            "blogger.fidelity": "INACTIVE",
-            "blogger.fido": "INACTIVE",
-            "blogger.film": "INACTIVE",
-            "blogger.final": "INACTIVE",
-            "blogger.finance": "INACTIVE",
-            "blogger.financial": "INACTIVE",
-            "blogger.fire": "INACTIVE",
-            "blogger.firestone": "INACTIVE",
-            "blogger.firmdale": "INACTIVE",
-            "blogger.fish": "INACTIVE",
-            "blogger.fit": "INACTIVE",
-            "blogger.fitness": "INACTIVE",
-            "blogger.fj": "INACTIVE",
-            "blogger.fk": "INACTIVE",
-            "blogger.flickr": "INACTIVE",
-            "blogger.flights": "INACTIVE",
-            "blogger.flir": "INACTIVE",
-            "blogger.florist": "INACTIVE",
-            "blogger.fly": "INACTIVE",
-            "blogger.fm": "INACTIVE",
-            "blogger.fo": "INACTIVE",
-            "blogger.foo": "INACTIVE",
-            "blogger.food": "INACTIVE",
-            "blogger.foodnetwork": "INACTIVE",
-            "blogger.football": "INACTIVE",
-            "blogger.ford": "INACTIVE",
-            "blogger.forsale": "INACTIVE",
-            "blogger.forum": "INACTIVE",
-            "blogger.foundation": "INACTIVE",
-            "blogger.fox": "INACTIVE",
-            "blogger.free": "INACTIVE",
-            "blogger.fresenius": "INACTIVE",
-            "blogger.frl": "INACTIVE",
-            "blogger.frogans": "INACTIVE",
-            "blogger.frontdoor": "INACTIVE",
-            "blogger.frontier": "INACTIVE",
-            "blogger.ftr": "INACTIVE",
-            "blogger.fujitsu": "INACTIVE",
-            "blogger.fujixerox": "INACTIVE",
-            "blogger.fun": "INACTIVE",
-            "blogger.fund": "INACTIVE",
-            "blogger.furniture": "INACTIVE",
-            "blogger.futbol": "INACTIVE",
-            "blogger.fyi": "INACTIVE",
-            "blogger.gallo": "INACTIVE",
-            "blogger.gallup": "INACTIVE",
-            "blogger.gap": "INACTIVE",
-            "blogger.garden": "INACTIVE",
-            "blogger.gb": "INACTIVE",
-            "blogger.gbiz": "INACTIVE",
-            "blogger.gd": "INACTIVE",
-            "blogger.gdn": "INACTIVE",
             "blogger.gea": "INACTIVE",
             "blogger.gent": "INACTIVE",
             "blogger.genting": "INACTIVE",
@@ -29448,6 +29380,155 @@
         },
         "1574500418": {
             "blogger.exposed": "INACTIVE"
+        },
+        "1574501606": {
+            "blogger.express": "INACTIVE",
+            "blogger.extraspace": "INACTIVE"
+        },
+        "1574501607": {
+            "blogger.fage": "INACTIVE",
+            "blogger.fail": "INACTIVE",
+            "blogger.fairwinds": "INACTIVE"
+        },
+        "1574501608": {
+            "blogger.fan": "INACTIVE"
+        },
+        "1574501613": {
+            "blogger.farm": "INACTIVE"
+        },
+        "1574501614": {
+            "blogger.farmers": "INACTIVE"
+        },
+        "1574501637": {
+            "blogger.fashion": "INACTIVE"
+        },
+        "1574501640": {
+            "blogger.fast": "INACTIVE"
+        },
+        "1574501641": {
+            "blogger.fedex": "INACTIVE"
+        },
+        "1574501647": {
+            "blogger.feedback": "INACTIVE",
+            "blogger.ferrari": "INACTIVE",
+            "blogger.ferrero": "INACTIVE"
+        },
+        "1574501648": {
+            "blogger.fiat": "INACTIVE",
+            "blogger.fidelity": "INACTIVE",
+            "blogger.fido": "INACTIVE"
+        },
+        "1574501649": {
+            "blogger.film": "INACTIVE",
+            "blogger.final": "INACTIVE"
+        },
+        "1574501650": {
+            "blogger.finance": "INACTIVE",
+            "blogger.financial": "INACTIVE"
+        },
+        "1574501653": {
+            "blogger.fire": "INACTIVE"
+        },
+        "1574501654": {
+            "blogger.firestone": "INACTIVE",
+            "blogger.firmdale": "INACTIVE"
+        },
+        "1574501655": {
+            "blogger.fish": "INACTIVE"
+        },
+        "1574501660": {
+            "blogger.fit": "INACTIVE"
+        },
+        "1574501661": {
+            "blogger.fitness": "INACTIVE"
+        },
+        "1574501663": {
+            "blogger.fj": "INACTIVE"
+        },
+        "1574501664": {
+            "blogger.fk": "INACTIVE",
+            "blogger.flickr": "INACTIVE"
+        },
+        "1574501665": {
+            "blogger.flights": "INACTIVE",
+            "blogger.flir": "INACTIVE"
+        },
+        "1574501666": {
+            "blogger.florist": "INACTIVE",
+            "blogger.fly": "INACTIVE"
+        },
+        "1574501670": {
+            "blogger.fm": "INACTIVE"
+        },
+        "1574501675": {
+            "blogger.fo": "INACTIVE",
+            "blogger.foo": "INACTIVE",
+            "blogger.food": "INACTIVE"
+        },
+        "1574501676": {
+            "blogger.foodnetwork": "INACTIVE",
+            "blogger.football": "INACTIVE",
+            "blogger.ford": "INACTIVE"
+        },
+        "1574501677": {
+            "blogger.forsale": "INACTIVE"
+        },
+        "1574501682": {
+            "blogger.forum": "INACTIVE"
+        },
+        "1574501683": {
+            "blogger.foundation": "INACTIVE",
+            "blogger.fox": "INACTIVE",
+            "blogger.free": "INACTIVE"
+        },
+        "1574501689": {
+            "blogger.fresenius": "INACTIVE"
+        },
+        "1574501694": {
+            "blogger.frogans": "INACTIVE"
+        },
+        "1574501695": {
+            "blogger.frontdoor": "INACTIVE",
+            "blogger.frontier": "INACTIVE"
+        },
+        "1574501697": {
+            "blogger.ftr": "INACTIVE",
+            "blogger.fujitsu": "INACTIVE"
+        },
+        "1574501698": {
+            "blogger.fujixerox": "INACTIVE"
+        },
+        "1574501703": {
+            "blogger.fun": "INACTIVE",
+            "blogger.fund": "INACTIVE"
+        },
+        "1574501704": {
+            "blogger.furniture": "INACTIVE",
+            "blogger.futbol": "INACTIVE",
+            "blogger.fyi": "INACTIVE"
+        },
+        "1574501707": {
+            "blogger.gallo": "INACTIVE"
+        },
+        "1574501709": {
+            "blogger.gallup": "INACTIVE",
+            "blogger.gap": "INACTIVE"
+        },
+        "1574501734": {
+            "blogger.garden": "INACTIVE"
+        },
+        "1574501739": {
+            "blogger.gay": "INACTIVE",
+            "blogger.gb": "INACTIVE"
+        },
+        "1574501740": {
+            "blogger.gbiz": "INACTIVE"
+        },
+        "1574501745": {
+            "blogger.gd": "INACTIVE"
+        },
+        "1574501761": {
+            "blogger.gdn": "INACTIVE"
         }
     }
 }

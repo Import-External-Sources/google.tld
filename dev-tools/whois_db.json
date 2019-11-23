@@ -8800,62 +8800,62 @@
         "state": "future"
     },
     "blogger.faith": {
-        "epoch": 1593302400,
+        "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "blogger.family": {
-        "epoch": 1578700800,
+        "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "blogger.fi": {
-        "epoch": 1579564800,
+        "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "blogger.fishing": {
-        "epoch": 1600128000,
+        "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "blogger.flowers": {
-        "epoch": 1585699200,
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "blogger.forex": {
-        "epoch": 1604275200,
+        "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "blogger.fr": {
-        "epoch": 1589328000,
+        "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
         "state": "future"
     },
     "blogger.ga": {
-        "epoch": 1580428800,
+        "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
     "blogger.gal": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "blogger.gallery": {
-        "epoch": 1597276800,
+        "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "blogger.game": {
-        "epoch": 1588377600,
+        "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
         "state": "future"
     },
     "blogger.games": {
-        "epoch": 1599955200,
+        "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
