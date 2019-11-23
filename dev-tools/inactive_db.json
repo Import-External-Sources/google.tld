@@ -779,38 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.tunes": "INACTIVE",
-            "blogger.tushu": "INACTIVE",
-            "blogger.tvs": "INACTIVE",
-            "blogger.tz": "INACTIVE",
-            "blogger.ubank": "INACTIVE",
-            "blogger.ubs": "INACTIVE",
-            "blogger.uconnect": "INACTIVE",
-            "blogger.ug": "INACTIVE",
-            "blogger.unicom": "INACTIVE",
-            "blogger.uol": "INACTIVE",
-            "blogger.ups": "INACTIVE",
-            "blogger.uy": "INACTIVE",
-            "blogger.va": "INACTIVE",
-            "blogger.vacations": "INACTIVE",
-            "blogger.vana": "INACTIVE",
-            "blogger.vanguard": "INACTIVE",
-            "blogger.vc": "INACTIVE",
-            "blogger.ve": "INACTIVE",
-            "blogger.ventures": "INACTIVE",
-            "blogger.verisign": "INACTIVE",
-            "blogger.versicherung": "INACTIVE",
-            "blogger.vi": "INACTIVE",
-            "blogger.viajes": "INACTIVE",
-            "blogger.vig": "INACTIVE",
-            "blogger.viking": "INACTIVE",
-            "blogger.villas": "INACTIVE",
-            "blogger.vin": "INACTIVE",
-            "blogger.virgin": "INACTIVE",
-            "blogger.visa": "INACTIVE",
-            "blogger.vision": "INACTIVE",
-            "blogger.vistaprint": "INACTIVE",
-            "blogger.viva": "INACTIVE",
             "blogger.vivo": "INACTIVE",
             "blogger.volkswagen": "INACTIVE",
             "blogger.volvo": "INACTIVE",
@@ -30258,6 +30226,80 @@
         },
         "1574519421": {
             "blogger.tui": "INACTIVE"
+        },
+        "1574520712": {
+            "blogger.tunes": "INACTIVE"
+        },
+        "1574520714": {
+            "blogger.tushu": "INACTIVE"
+        },
+        "1574520716": {
+            "blogger.tvs": "INACTIVE"
+        },
+        "1574520722": {
+            "blogger.tz": "INACTIVE",
+            "blogger.ubank": "INACTIVE",
+            "blogger.ubs": "INACTIVE"
+        },
+        "1574520723": {
+            "blogger.uconnect": "INACTIVE"
+        },
+        "1574520748": {
+            "blogger.ug": "INACTIVE"
+        },
+        "1574520749": {
+            "blogger.unicom": "INACTIVE"
+        },
+        "1574520750": {
+            "blogger.uol": "INACTIVE"
+        },
+        "1574520752": {
+            "blogger.ups": "INACTIVE"
+        },
+        "1574520778": {
+            "blogger.uy": "INACTIVE"
+        },
+        "1574520779": {
+            "blogger.va": "INACTIVE",
+            "blogger.vacations": "INACTIVE",
+            "blogger.vana": "INACTIVE"
+        },
+        "1574520780": {
+            "blogger.vanguard": "INACTIVE",
+            "blogger.vc": "INACTIVE"
+        },
+        "1574520785": {
+            "blogger.ve": "INACTIVE"
+        },
+        "1574520786": {
+            "blogger.ventures": "INACTIVE",
+            "blogger.verisign": "INACTIVE"
+        },
+        "1574520787": {
+            "blogger.versicherung": "INACTIVE"
+        },
+        "1574520792": {
+            "blogger.vi": "INACTIVE"
+        },
+        "1574520793": {
+            "blogger.viajes": "INACTIVE",
+            "blogger.vig": "INACTIVE"
+        },
+        "1574520794": {
+            "blogger.viking": "INACTIVE",
+            "blogger.villas": "INACTIVE",
+            "blogger.vin": "INACTIVE"
+        },
+        "1574520799": {
+            "blogger.virgin": "INACTIVE",
+            "blogger.visa": "INACTIVE"
+        },
+        "1574520800": {
+            "blogger.vision": "INACTIVE",
+            "blogger.vistaprint": "INACTIVE"
+        },
+        "1574520805": {
+            "blogger.viva": "INACTIVE"
         }
     }
 }
