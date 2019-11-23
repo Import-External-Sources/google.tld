@@ -779,53 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.itau": "INACTIVE",
-            "blogger.itv": "INACTIVE",
-            "blogger.iveco": "INACTIVE",
-            "blogger.jaguar": "INACTIVE",
-            "blogger.java": "INACTIVE",
-            "blogger.jcb": "INACTIVE",
-            "blogger.jcp": "INACTIVE",
-            "blogger.je": "INACTIVE",
-            "blogger.jeep": "INACTIVE",
-            "blogger.jetzt": "INACTIVE",
-            "blogger.jewelry": "INACTIVE",
-            "blogger.jio": "INACTIVE",
-            "blogger.jll": "INACTIVE",
-            "blogger.jm": "INACTIVE",
-            "blogger.jmp": "INACTIVE",
-            "blogger.jnj": "INACTIVE",
-            "blogger.jo": "INACTIVE",
-            "blogger.jot": "INACTIVE",
-            "blogger.joy": "INACTIVE",
-            "blogger.jpmorgan": "INACTIVE",
-            "blogger.jprs": "INACTIVE",
-            "blogger.juniper": "INACTIVE",
-            "blogger.kaufen": "INACTIVE",
-            "blogger.kddi": "INACTIVE",
-            "blogger.ke": "INACTIVE",
-            "blogger.kerryhotels": "INACTIVE",
-            "blogger.kerrylogistics": "INACTIVE",
-            "blogger.kerryproperties": "INACTIVE",
-            "blogger.kfh": "INACTIVE",
-            "blogger.kh": "INACTIVE",
-            "blogger.ki": "INACTIVE",
-            "blogger.kia": "INACTIVE",
-            "blogger.kinder": "INACTIVE",
-            "blogger.kindle": "INACTIVE",
-            "blogger.kitchen": "INACTIVE",
-            "blogger.kiwi": "INACTIVE",
-            "blogger.km": "INACTIVE",
-            "blogger.kn": "INACTIVE",
-            "blogger.komatsu": "INACTIVE",
-            "blogger.kosher": "INACTIVE",
-            "blogger.kp": "INACTIVE",
-            "blogger.kpmg": "INACTIVE",
-            "blogger.kpn": "INACTIVE",
-            "blogger.krd": "INACTIVE",
-            "blogger.kred": "INACTIVE",
-            "blogger.kuokgroup": "INACTIVE",
-            "blogger.kw": "INACTIVE",
             "blogger.ky": "INACTIVE",
             "blogger.kyoto": "INACTIVE",
             "blogger.kz": "INACTIVE",
@@ -29660,6 +29613,109 @@
         "1574504450": {
             "blogger.ir": "INACTIVE",
             "blogger.ismaili": "INACTIVE"
+        },
+        "1574505734": {
+            "blogger.itau": "INACTIVE",
+            "blogger.itv": "INACTIVE"
+        },
+        "1574505738": {
+            "blogger.iveco": "INACTIVE",
+            "blogger.jaguar": "INACTIVE"
+        },
+        "1574505739": {
+            "blogger.java": "INACTIVE",
+            "blogger.jcb": "INACTIVE"
+        },
+        "1574505740": {
+            "blogger.jcp": "INACTIVE",
+            "blogger.je": "INACTIVE",
+            "blogger.jeep": "INACTIVE"
+        },
+        "1574505741": {
+            "blogger.jetzt": "INACTIVE",
+            "blogger.jewelry": "INACTIVE"
+        },
+        "1574505742": {
+            "blogger.jio": "INACTIVE",
+            "blogger.jll": "INACTIVE"
+        },
+        "1574505744": {
+            "blogger.jm": "INACTIVE",
+            "blogger.jmp": "INACTIVE",
+            "blogger.jnj": "INACTIVE"
+        },
+        "1574505745": {
+            "blogger.jo": "INACTIVE"
+        },
+        "1574505749": {
+            "blogger.jot": "INACTIVE"
+        },
+        "1574505751": {
+            "blogger.joy": "INACTIVE"
+        },
+        "1574505758": {
+            "blogger.jpmorgan": "INACTIVE"
+        },
+        "1574505764": {
+            "blogger.jprs": "INACTIVE",
+            "blogger.juniper": "INACTIVE"
+        },
+        "1574505765": {
+            "blogger.kaufen": "INACTIVE",
+            "blogger.kddi": "INACTIVE"
+        },
+        "1574505769": {
+            "blogger.ke": "INACTIVE",
+            "blogger.kerryhotels": "INACTIVE",
+            "blogger.kerrylogistics": "INACTIVE",
+            "blogger.kerryproperties": "INACTIVE"
+        },
+        "1574505775": {
+            "blogger.kfh": "INACTIVE"
+        },
+        "1574505776": {
+            "blogger.kh": "INACTIVE"
+        },
+        "1574505777": {
+            "blogger.ki": "INACTIVE",
+            "blogger.kia": "INACTIVE"
+        },
+        "1574505778": {
+            "blogger.kinder": "INACTIVE"
+        },
+        "1574505787": {
+            "blogger.kindle": "INACTIVE",
+            "blogger.kitchen": "INACTIVE",
+            "blogger.kiwi": "INACTIVE"
+        },
+        "1574505788": {
+            "blogger.km": "INACTIVE"
+        },
+        "1574505789": {
+            "blogger.kn": "INACTIVE",
+            "blogger.komatsu": "INACTIVE"
+        },
+        "1574505793": {
+            "blogger.kosher": "INACTIVE"
+        },
+        "1574505804": {
+            "blogger.kp": "INACTIVE"
+        },
+        "1574505805": {
+            "blogger.kpmg": "INACTIVE"
+        },
+        "1574505810": {
+            "blogger.kpn": "INACTIVE"
+        },
+        "1574505811": {
+            "blogger.krd": "INACTIVE"
+        },
+        "1574505816": {
+            "blogger.kred": "INACTIVE",
+            "blogger.kuokgroup": "INACTIVE"
+        },
+        "1574505826": {
+            "blogger.kw": "INACTIVE"
         }
     }
 }

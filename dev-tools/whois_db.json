@@ -8995,32 +8995,32 @@
         "state": "future"
     },
     "blogger.jobs": {
-        "epoch": 1580774400,
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "blogger.joburg": {
-        "epoch": 1601424000,
+        "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "blogger.juegos": {
-        "epoch": 1567036800,
+        "epoch": 1567036800.0,
         "expiration_date": "29-aug-2019",
         "state": "past"
     },
     "blogger.kim": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "blogger.koeln": {
-        "epoch": 1591833600,
+        "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "blogger.kr": {
-        "epoch": 1584057600,
+        "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
