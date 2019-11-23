@@ -1,30 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.gf": "INACTIVE",
-            "blog.ggee": "INACTIVE",
-            "blog.gh": "INACTIVE",
-            "blog.gi": "INACTIVE",
-            "blog.gift": "INACTIVE",
-            "blog.gifts": "INACTIVE",
-            "blog.gives": "INACTIVE",
-            "blog.giving": "INACTIVE",
-            "blog.glade": "INACTIVE",
-            "blog.glass": "INACTIVE",
-            "blog.gle": "INACTIVE",
-            "blog.globo": "INACTIVE",
-            "blog.gm": "INACTIVE",
-            "blog.gmail": "INACTIVE",
-            "blog.gmbh": "INACTIVE",
-            "blog.gmo": "INACTIVE",
-            "blog.gmx": "INACTIVE",
-            "blog.gn": "INACTIVE",
-            "blog.godaddy": "INACTIVE",
-            "blog.goldpoint": "INACTIVE",
-            "blog.goo": "INACTIVE",
-            "blog.goodyear": "INACTIVE",
-            "blog.goog": "INACTIVE",
-            "blog.gop": "INACTIVE",
             "blog.got": "INACTIVE",
             "blog.gov": "INACTIVE",
             "blog.gp": "INACTIVE",
@@ -779,13 +755,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.zara": "INACTIVE",
-            "blogger.zero": "INACTIVE",
-            "blogger.zip": "INACTIVE",
-            "blogger.zm": "INACTIVE",
-            "blogger.zone": "INACTIVE",
-            "blogger.zuerich": "INACTIVE",
-            "blogger.zw": "INACTIVE",
             "blogspot.aaa": "INACTIVE",
             "blogspot.aarp": "INACTIVE",
             "blogspot.abarth": "INACTIVE",
@@ -30528,6 +30497,73 @@
         },
         "1574529032": {
             "blogger.zappos": "INACTIVE"
+        },
+        "1574530332": {
+            "blogger.zara": "INACTIVE",
+            "blogger.zero": "INACTIVE"
+        },
+        "1574530333": {
+            "blogger.zip": "INACTIVE"
+        },
+        "1574530334": {
+            "blogger.zm": "INACTIVE"
+        },
+        "1574530335": {
+            "blogger.zone": "INACTIVE"
+        },
+        "1574530340": {
+            "blogger.zuerich": "INACTIVE",
+            "blogger.zw": "INACTIVE"
+        },
+        "1574530341": {
+            "blog.gf": "INACTIVE"
+        },
+        "1574530342": {
+            "blog.ggee": "INACTIVE"
+        },
+        "1574530345": {
+            "blog.gh": "INACTIVE",
+            "blog.gi": "INACTIVE"
+        },
+        "1574530346": {
+            "blog.gift": "INACTIVE",
+            "blog.gifts": "INACTIVE"
+        },
+        "1574530347": {
+            "blog.gives": "INACTIVE",
+            "blog.giving": "INACTIVE",
+            "blog.glade": "INACTIVE"
+        },
+        "1574530348": {
+            "blog.glass": "INACTIVE",
+            "blog.gle": "INACTIVE"
+        },
+        "1574530353": {
+            "blog.globo": "INACTIVE",
+            "blog.gm": "INACTIVE",
+            "blog.gmail": "INACTIVE"
+        },
+        "1574530354": {
+            "blog.gmbh": "INACTIVE",
+            "blog.gmo": "INACTIVE"
+        },
+        "1574530355": {
+            "blog.gmx": "INACTIVE"
+        },
+        "1574530356": {
+            "blog.gn": "INACTIVE",
+            "blog.godaddy": "INACTIVE"
+        },
+        "1574530357": {
+            "blog.goldpoint": "INACTIVE",
+            "blog.goo": "INACTIVE"
+        },
+        "1574530358": {
+            "blog.goodyear": "INACTIVE",
+            "blog.goog": "INACTIVE"
+        },
+        "1574530385": {
+            "blog.gop": "INACTIVE"
         }
     }
 }

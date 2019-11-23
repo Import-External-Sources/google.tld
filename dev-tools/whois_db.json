@@ -7320,27 +7320,27 @@
         "state": "future"
     },
     "blog.gl": {
-        "epoch": 1591315200,
+        "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "blog.global": {
-        "epoch": 1592956800,
+        "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "blog.gold": {
-        "epoch": 1581897600,
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "blog.golf": {
-        "epoch": 1600819200,
+        "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "blog.google": {
-        "epoch": 1597190400,
+        "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
