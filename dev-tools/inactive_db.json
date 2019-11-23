@@ -1,150 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "android.telefonica": "INACTIVE",
-            "android.temasek": "INACTIVE",
-            "android.tennis": "INACTIVE",
-            "android.teva": "INACTIVE",
-            "android.th": "INACTIVE",
-            "android.thd": "INACTIVE",
-            "android.theater": "INACTIVE",
-            "android.theatre": "INACTIVE",
-            "android.tiaa": "INACTIVE",
-            "android.tienda": "INACTIVE",
-            "android.tiffany": "INACTIVE",
-            "android.tips": "INACTIVE",
-            "android.tires": "INACTIVE",
-            "android.tj": "INACTIVE",
-            "android.tjmaxx": "INACTIVE",
-            "android.tjx": "INACTIVE",
-            "android.tkmaxx": "INACTIVE",
-            "android.tl": "INACTIVE",
-            "android.tmall": "INACTIVE",
-            "android.today": "INACTIVE",
-            "android.tools": "INACTIVE",
-            "android.toray": "INACTIVE",
-            "android.toshiba": "INACTIVE",
-            "android.total": "INACTIVE",
-            "android.tours": "INACTIVE",
-            "android.town": "INACTIVE",
-            "android.toyota": "INACTIVE",
-            "android.toys": "INACTIVE",
-            "android.tr": "INACTIVE",
-            "android.training": "INACTIVE",
-            "android.travel": "INACTIVE",
-            "android.travelchannel": "INACTIVE",
-            "android.travelers": "INACTIVE",
-            "android.travelersinsurance": "INACTIVE",
-            "android.trust": "INACTIVE",
-            "android.trv": "INACTIVE",
-            "android.tt": "INACTIVE",
-            "android.tui": "INACTIVE",
-            "android.tunes": "INACTIVE",
-            "android.tushu": "INACTIVE",
-            "android.tvs": "INACTIVE",
-            "android.tz": "INACTIVE",
-            "android.ubank": "INACTIVE",
-            "android.ubs": "INACTIVE",
-            "android.uconnect": "INACTIVE",
-            "android.unicom": "INACTIVE",
-            "android.university": "INACTIVE",
-            "android.uno": "INACTIVE",
-            "android.uol": "INACTIVE",
-            "android.ups": "INACTIVE",
-            "android.us": "INACTIVE",
-            "android.va": "INACTIVE",
-            "android.vacations": "INACTIVE",
-            "android.vana": "INACTIVE",
-            "android.vanguard": "INACTIVE",
-            "android.ve": "INACTIVE",
-            "android.ventures": "INACTIVE",
-            "android.verisign": "INACTIVE",
-            "android.versicherung": "INACTIVE",
-            "android.vi": "INACTIVE",
-            "android.viajes": "INACTIVE",
-            "android.video": "INACTIVE",
-            "android.vig": "INACTIVE",
-            "android.viking": "INACTIVE",
-            "android.villas": "INACTIVE",
-            "android.vin": "INACTIVE",
-            "android.virgin": "INACTIVE",
-            "android.visa": "INACTIVE",
-            "android.vision": "INACTIVE",
-            "android.vistaprint": "INACTIVE",
-            "android.viva": "INACTIVE",
-            "android.vivo": "INACTIVE",
-            "android.volkswagen": "INACTIVE",
-            "android.volvo": "INACTIVE",
-            "android.voyage": "INACTIVE",
-            "android.vu": "INACTIVE",
-            "android.vuelos": "INACTIVE",
-            "android.walmart": "INACTIVE",
-            "android.walter": "INACTIVE",
-            "android.wanggou": "INACTIVE",
-            "android.warman": "INACTIVE",
-            "android.watch": "INACTIVE",
-            "android.watches": "INACTIVE",
-            "android.weather": "INACTIVE",
-            "android.weatherchannel": "INACTIVE",
-            "android.weber": "INACTIVE",
-            "android.website": "INACTIVE",
-            "android.wed": "INACTIVE",
-            "android.wedding": "INACTIVE",
-            "android.weibo": "INACTIVE",
-            "android.weir": "INACTIVE",
-            "android.wf": "INACTIVE",
-            "android.whoswho": "INACTIVE",
-            "android.williamhill": "INACTIVE",
-            "android.windows": "INACTIVE",
-            "android.wine": "INACTIVE",
-            "android.winners": "INACTIVE",
-            "android.wme": "INACTIVE",
-            "android.wolterskluwer": "INACTIVE",
-            "android.woodside": "INACTIVE",
-            "android.work": "INACTIVE",
-            "android.works": "INACTIVE",
-            "android.world": "INACTIVE",
-            "android.wow": "INACTIVE",
-            "android.wtc": "INACTIVE",
-            "android.wtf": "INACTIVE",
-            "android.xbox": "INACTIVE",
-            "android.xerox": "INACTIVE",
-            "android.xfinity": "INACTIVE",
-            "android.xihuan": "INACTIVE",
-            "android.xin": "INACTIVE",
-            "android.xn--11b4c3d": "INACTIVE",
-            "android.xn--2scrj9c": "INACTIVE",
-            "android.xn--30rr7y": "INACTIVE",
-            "android.xn--3bst00m": "INACTIVE",
-            "android.xn--3e0b707e": "INACTIVE",
-            "android.xn--3hcrj9c": "INACTIVE",
-            "android.xn--3oq18vl8pn36a": "INACTIVE",
-            "android.xn--3pxu8k": "INACTIVE",
-            "android.xn--42c2d9a": "INACTIVE",
-            "android.xn--45br5cyl": "INACTIVE",
-            "android.xn--45brj9c": "INACTIVE",
-            "android.xn--4gbrim": "INACTIVE",
-            "android.xn--54b7fta0cc": "INACTIVE",
-            "android.xn--55qw42g": "INACTIVE",
-            "android.xn--5su34j936bgsg": "INACTIVE",
-            "android.xn--80adxhks": "INACTIVE",
-            "android.xn--80ao21a": "INACTIVE",
-            "android.xn--80aqecdr1a": "INACTIVE",
-            "android.xn--80asehdb": "INACTIVE",
-            "android.xn--80aswg": "INACTIVE",
-            "android.xn--8y0a063a": "INACTIVE",
-            "android.xn--90a3ac": "INACTIVE",
-            "android.xn--90ae": "INACTIVE",
-            "android.xn--90ais": "INACTIVE",
-            "android.xn--9dbq2a": "INACTIVE",
-            "android.xn--9et52u": "INACTIVE",
-            "android.xn--9krt00a": "INACTIVE",
-            "android.xn--b4w605ferd": "INACTIVE",
-            "android.xn--c1avg": "INACTIVE",
-            "android.xn--c2br7g": "INACTIVE",
-            "android.xn--cg4bki": "INACTIVE",
-            "android.xn--clchc0ea0b2g2a9gcd": "INACTIVE",
-            "android.xn--czrs0t": "INACTIVE",
             "android.xn--czru2d": "INACTIVE",
             "android.xn--d1acj3b": "INACTIVE",
             "android.xn--d1alf": "INACTIVE",
@@ -28390,6 +28246,329 @@
         },
         "1574489432": {
             "android.technology": "INACTIVE"
+        },
+        "1574490526": {
+            "android.tel": "INACTIVE"
+        },
+        "1574490527": {
+            "android.telefonica": "INACTIVE",
+            "android.temasek": "INACTIVE"
+        },
+        "1574490528": {
+            "android.tennis": "INACTIVE",
+            "android.teva": "INACTIVE"
+        },
+        "1574490535": {
+            "android.th": "INACTIVE"
+        },
+        "1574490537": {
+            "android.thd": "INACTIVE",
+            "android.theater": "INACTIVE"
+        },
+        "1574490544": {
+            "android.theatre": "INACTIVE",
+            "android.tiaa": "INACTIVE"
+        },
+        "1574490545": {
+            "android.tienda": "INACTIVE",
+            "android.tiffany": "INACTIVE"
+        },
+        "1574490546": {
+            "android.tips": "INACTIVE",
+            "android.tires": "INACTIVE",
+            "android.tj": "INACTIVE"
+        },
+        "1574490547": {
+            "android.tjmaxx": "INACTIVE",
+            "android.tjx": "INACTIVE"
+        },
+        "1574490548": {
+            "android.tkmaxx": "INACTIVE"
+        },
+        "1574490559": {
+            "android.tl": "INACTIVE",
+            "android.tmall": "INACTIVE"
+        },
+        "1574490565": {
+            "android.today": "INACTIVE",
+            "android.tools": "INACTIVE"
+        },
+        "1574490567": {
+            "android.toray": "INACTIVE",
+            "android.toshiba": "INACTIVE"
+        },
+        "1574490568": {
+            "android.total": "INACTIVE",
+            "android.tours": "INACTIVE"
+        },
+        "1574490569": {
+            "android.town": "INACTIVE",
+            "android.toyota": "INACTIVE"
+        },
+        "1574490570": {
+            "android.toys": "INACTIVE"
+        },
+        "1574490571": {
+            "android.tr": "INACTIVE",
+            "android.training": "INACTIVE"
+        },
+        "1574490572": {
+            "android.travel": "INACTIVE",
+            "android.travelchannel": "INACTIVE",
+            "android.travelers": "INACTIVE",
+            "android.travelersinsurance": "INACTIVE"
+        },
+        "1574490573": {
+            "android.trust": "INACTIVE",
+            "android.trv": "INACTIVE"
+        },
+        "1574490588": {
+            "android.tt": "INACTIVE"
+        },
+        "1574490593": {
+            "android.tui": "INACTIVE"
+        },
+        "1574490594": {
+            "android.tunes": "INACTIVE"
+        },
+        "1574490597": {
+            "android.tushu": "INACTIVE"
+        },
+        "1574490601": {
+            "android.tvs": "INACTIVE"
+        },
+        "1574490606": {
+            "android.tz": "INACTIVE"
+        },
+        "1574490607": {
+            "android.ubank": "INACTIVE"
+        },
+        "1574490608": {
+            "android.ubs": "INACTIVE"
+        },
+        "1574490609": {
+            "android.uconnect": "INACTIVE"
+        },
+        "1574490615": {
+            "android.unicom": "INACTIVE"
+        },
+        "1574490616": {
+            "android.university": "INACTIVE",
+            "android.uno": "INACTIVE"
+        },
+        "1574490617": {
+            "android.uol": "INACTIVE"
+        },
+        "1574490619": {
+            "android.ups": "INACTIVE"
+        },
+        "1574490622": {
+            "android.va": "INACTIVE",
+            "android.vacations": "INACTIVE"
+        },
+        "1574490623": {
+            "android.vana": "INACTIVE",
+            "android.vanguard": "INACTIVE"
+        },
+        "1574490628": {
+            "android.ve": "INACTIVE"
+        },
+        "1574490629": {
+            "android.ventures": "INACTIVE",
+            "android.verisign": "INACTIVE"
+        },
+        "1574490630": {
+            "android.versicherung": "INACTIVE"
+        },
+        "1574490635": {
+            "android.vg": "INACTIVE",
+            "android.vi": "INACTIVE"
+        },
+        "1574490636": {
+            "android.viajes": "INACTIVE",
+            "android.video": "INACTIVE"
+        },
+        "1574490637": {
+            "android.vig": "INACTIVE",
+            "android.viking": "INACTIVE"
+        },
+        "1574490638": {
+            "android.villas": "INACTIVE"
+        },
+        "1574490640": {
+            "android.vin": "INACTIVE",
+            "android.virgin": "INACTIVE",
+            "android.visa": "INACTIVE"
+        },
+        "1574490641": {
+            "android.vision": "INACTIVE",
+            "android.vistaprint": "INACTIVE"
+        },
+        "1574490648": {
+            "android.viva": "INACTIVE",
+            "android.vivo": "INACTIVE"
+        },
+        "1574490652": {
+            "android.volkswagen": "INACTIVE"
+        },
+        "1574490653": {
+            "android.volvo": "INACTIVE"
+        },
+        "1574490655": {
+            "android.voyage": "INACTIVE"
+        },
+        "1574490656": {
+            "android.vu": "INACTIVE",
+            "android.vuelos": "INACTIVE"
+        },
+        "1574490660": {
+            "android.walmart": "INACTIVE",
+            "android.walter": "INACTIVE"
+        },
+        "1574490671": {
+            "android.wanggou": "INACTIVE",
+            "android.warman": "INACTIVE"
+        },
+        "1574490672": {
+            "android.watch": "INACTIVE",
+            "android.watches": "INACTIVE",
+            "android.weather": "INACTIVE"
+        },
+        "1574490673": {
+            "android.weatherchannel": "INACTIVE",
+            "android.weber": "INACTIVE"
+        },
+        "1574490678": {
+            "android.website": "INACTIVE"
+        },
+        "1574490679": {
+            "android.wed": "INACTIVE"
+        },
+        "1574490701": {
+            "android.wedding": "INACTIVE"
+        },
+        "1574490702": {
+            "android.weibo": "INACTIVE",
+            "android.weir": "INACTIVE"
+        },
+        "1574490707": {
+            "android.wf": "INACTIVE"
+        },
+        "1574490708": {
+            "android.whoswho": "INACTIVE"
+        },
+        "1574490713": {
+            "android.williamhill": "INACTIVE",
+            "android.windows": "INACTIVE"
+        },
+        "1574490714": {
+            "android.wine": "INACTIVE",
+            "android.winners": "INACTIVE"
+        },
+        "1574490721": {
+            "android.wme": "INACTIVE"
+        },
+        "1574490723": {
+            "android.wolterskluwer": "INACTIVE",
+            "android.woodside": "INACTIVE"
+        },
+        "1574490741": {
+            "android.work": "INACTIVE"
+        },
+        "1574490744": {
+            "android.works": "INACTIVE"
+        },
+        "1574490745": {
+            "android.world": "INACTIVE",
+            "android.wow": "INACTIVE"
+        },
+        "1574490746": {
+            "android.wtc": "INACTIVE",
+            "android.wtf": "INACTIVE"
+        },
+        "1574490747": {
+            "android.xbox": "INACTIVE",
+            "android.xerox": "INACTIVE"
+        },
+        "1574490756": {
+            "android.xfinity": "INACTIVE"
+        },
+        "1574490757": {
+            "android.xihuan": "INACTIVE"
+        },
+        "1574490759": {
+            "android.xin": "INACTIVE",
+            "android.xn--11b4c3d": "INACTIVE"
+        },
+        "1574490762": {
+            "android.xn--2scrj9c": "INACTIVE"
+        },
+        "1574490763": {
+            "android.xn--30rr7y": "INACTIVE",
+            "android.xn--3bst00m": "INACTIVE"
+        },
+        "1574490765": {
+            "android.xn--3e0b707e": "INACTIVE",
+            "android.xn--3hcrj9c": "INACTIVE"
+        },
+        "1574490767": {
+            "android.xn--3oq18vl8pn36a": "INACTIVE",
+            "android.xn--3pxu8k": "INACTIVE",
+            "android.xn--42c2d9a": "INACTIVE"
+        },
+        "1574490768": {
+            "android.xn--45br5cyl": "INACTIVE",
+            "android.xn--45brj9c": "INACTIVE"
+        },
+        "1574490769": {
+            "android.xn--4gbrim": "INACTIVE",
+            "android.xn--54b7fta0cc": "INACTIVE"
+        },
+        "1574490772": {
+            "android.xn--55qw42g": "INACTIVE",
+            "android.xn--5su34j936bgsg": "INACTIVE"
+        },
+        "1574490774": {
+            "android.xn--80adxhks": "INACTIVE",
+            "android.xn--80ao21a": "INACTIVE"
+        },
+        "1574490775": {
+            "android.xn--80aqecdr1a": "INACTIVE",
+            "android.xn--80asehdb": "INACTIVE"
+        },
+        "1574490776": {
+            "android.xn--80aswg": "INACTIVE"
+        },
+        "1574490777": {
+            "android.xn--8y0a063a": "INACTIVE",
+            "android.xn--90a3ac": "INACTIVE"
+        },
+        "1574490778": {
+            "android.xn--90ae": "INACTIVE"
+        },
+        "1574490779": {
+            "android.xn--90ais": "INACTIVE",
+            "android.xn--9dbq2a": "INACTIVE"
+        },
+        "1574490780": {
+            "android.xn--9et52u": "INACTIVE"
+        },
+        "1574490782": {
+            "android.xn--9krt00a": "INACTIVE",
+            "android.xn--b4w605ferd": "INACTIVE"
+        },
+        "1574490783": {
+            "android.xn--c1avg": "INACTIVE",
+            "android.xn--c2br7g": "INACTIVE"
+        },
+        "1574490784": {
+            "android.xn--cg4bki": "INACTIVE"
+        },
+        "1574490785": {
+            "android.xn--clchc0ea0b2g2a9gcd": "INACTIVE"
+        },
+        "1574490786": {
+            "android.xn--czrs0t": "INACTIVE"
         }
     }
 }
