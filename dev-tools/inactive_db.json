@@ -1,11 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.gdn": "INACTIVE",
-            "blog.gea": "INACTIVE",
-            "blog.gent": "INACTIVE",
-            "blog.genting": "INACTIVE",
-            "blog.george": "INACTIVE",
             "blog.gf": "INACTIVE",
             "blog.ggee": "INACTIVE",
             "blog.gh": "INACTIVE",
@@ -784,97 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.aaa": "INACTIVE",
-            "blogger.aarp": "INACTIVE",
-            "blogger.abarth": "INACTIVE",
-            "blogger.abb": "INACTIVE",
-            "blogger.abbott": "INACTIVE",
-            "blogger.abbvie": "INACTIVE",
-            "blogger.abc": "INACTIVE",
-            "blogger.able": "INACTIVE",
-            "blogger.abogado": "INACTIVE",
-            "blogger.abudhabi": "INACTIVE",
-            "blogger.accenture": "INACTIVE",
-            "blogger.accountants": "INACTIVE",
-            "blogger.aco": "INACTIVE",
-            "blogger.actor": "INACTIVE",
-            "blogger.ad": "INACTIVE",
-            "blogger.adac": "INACTIVE",
-            "blogger.ads": "INACTIVE",
-            "blogger.aeg": "INACTIVE",
-            "blogger.aero": "INACTIVE",
-            "blogger.aetna": "INACTIVE",
-            "blogger.afamilycompany": "INACTIVE",
-            "blogger.afl": "INACTIVE",
-            "blogger.ag": "INACTIVE",
-            "blogger.agakhan": "INACTIVE",
-            "blogger.agency": "INACTIVE",
-            "blogger.aig": "INACTIVE",
-            "blogger.aigo": "INACTIVE",
-            "blogger.airbus": "INACTIVE",
-            "blogger.airforce": "INACTIVE",
-            "blogger.airtel": "INACTIVE",
-            "blogger.akdn": "INACTIVE",
-            "blogger.al": "INACTIVE",
-            "blogger.alfaromeo": "INACTIVE",
-            "blogger.alibaba": "INACTIVE",
-            "blogger.alipay": "INACTIVE",
-            "blogger.allfinanz": "INACTIVE",
-            "blogger.allstate": "INACTIVE",
-            "blogger.ally": "INACTIVE",
-            "blogger.alsace": "INACTIVE",
-            "blogger.alstom": "INACTIVE",
-            "blogger.americanexpress": "INACTIVE",
-            "blogger.americanfamily": "INACTIVE",
-            "blogger.amex": "INACTIVE",
-            "blogger.amfam": "INACTIVE",
-            "blogger.amica": "INACTIVE",
-            "blogger.analytics": "INACTIVE",
-            "blogger.android": "INACTIVE",
-            "blogger.anquan": "INACTIVE",
-            "blogger.anz": "INACTIVE",
-            "blogger.ao": "INACTIVE",
-            "blogger.aol": "INACTIVE",
-            "blogger.apartments": "INACTIVE",
-            "blogger.apple": "INACTIVE",
-            "blogger.aq": "INACTIVE",
-            "blogger.aquarelle": "INACTIVE",
-            "blogger.ar": "INACTIVE",
-            "blogger.aramco": "INACTIVE",
-            "blogger.arpa": "INACTIVE",
-            "blogger.art": "INACTIVE",
-            "blogger.arte": "INACTIVE",
-            "blogger.as": "INACTIVE",
-            "blogger.asda": "INACTIVE",
-            "blogger.associates": "INACTIVE",
-            "blogger.athleta": "INACTIVE",
-            "blogger.attorney": "INACTIVE",
-            "blogger.au": "INACTIVE",
-            "blogger.audi": "INACTIVE",
-            "blogger.audible": "INACTIVE",
-            "blogger.auspost": "INACTIVE",
-            "blogger.author": "INACTIVE",
-            "blogger.autos": "INACTIVE",
-            "blogger.avianca": "INACTIVE",
-            "blogger.aw": "INACTIVE",
-            "blogger.aws": "INACTIVE",
-            "blogger.ax": "INACTIVE",
-            "blogger.axa": "INACTIVE",
-            "blogger.azure": "INACTIVE",
-            "blogger.baby": "INACTIVE",
-            "blogger.baidu": "INACTIVE",
-            "blogger.banamex": "INACTIVE",
-            "blogger.bananarepublic": "INACTIVE",
-            "blogger.band": "INACTIVE",
-            "blogger.bank": "INACTIVE",
-            "blogger.bar": "INACTIVE",
-            "blogger.barclaycard": "INACTIVE",
-            "blogger.barclays": "INACTIVE",
-            "blogger.barefoot": "INACTIVE",
-            "blogger.bargains": "INACTIVE",
-            "blogger.baseball": "INACTIVE",
-            "blogger.basketball": "INACTIVE",
-            "blogger.bauhaus": "INACTIVE",
             "blogger.bb": "INACTIVE",
             "blogger.bbc": "INACTIVE",
             "blogger.bbt": "INACTIVE",
@@ -29106,6 +29010,213 @@
         },
         "1574496357": {
             "blog.gd": "INACTIVE"
+        },
+        "1574497539": {
+            "blog.gdn": "INACTIVE",
+            "blog.gea": "INACTIVE"
+        },
+        "1574497545": {
+            "blog.gent": "INACTIVE",
+            "blog.genting": "INACTIVE",
+            "blog.george": "INACTIVE"
+        },
+        "1574497546": {
+            "blogger.aaa": "INACTIVE",
+            "blogger.aarp": "INACTIVE",
+            "blogger.abarth": "INACTIVE",
+            "blogger.abb": "INACTIVE"
+        },
+        "1574497547": {
+            "blogger.abbott": "INACTIVE",
+            "blogger.abbvie": "INACTIVE",
+            "blogger.abc": "INACTIVE"
+        },
+        "1574497548": {
+            "blogger.able": "INACTIVE"
+        },
+        "1574497572": {
+            "blogger.abogado": "INACTIVE"
+        },
+        "1574497573": {
+            "blogger.abudhabi": "INACTIVE"
+        },
+        "1574497574": {
+            "blogger.accenture": "INACTIVE",
+            "blogger.accountants": "INACTIVE",
+            "blogger.aco": "INACTIVE"
+        },
+        "1574497575": {
+            "blogger.actor": "INACTIVE"
+        },
+        "1574497577": {
+            "blogger.ad": "INACTIVE"
+        },
+        "1574497582": {
+            "blogger.adac": "INACTIVE",
+            "blogger.ads": "INACTIVE"
+        },
+        "1574497584": {
+            "blogger.aeg": "INACTIVE",
+            "blogger.aero": "INACTIVE",
+            "blogger.aetna": "INACTIVE"
+        },
+        "1574497585": {
+            "blogger.afamilycompany": "INACTIVE",
+            "blogger.afl": "INACTIVE",
+            "blogger.ag": "INACTIVE"
+        },
+        "1574497586": {
+            "blogger.agakhan": "INACTIVE",
+            "blogger.agency": "INACTIVE",
+            "blogger.aig": "INACTIVE"
+        },
+        "1574497587": {
+            "blogger.aigo": "INACTIVE",
+            "blogger.airbus": "INACTIVE",
+            "blogger.airforce": "INACTIVE"
+        },
+        "1574497588": {
+            "blogger.airtel": "INACTIVE",
+            "blogger.akdn": "INACTIVE",
+            "blogger.al": "INACTIVE"
+        },
+        "1574497589": {
+            "blogger.alfaromeo": "INACTIVE"
+        },
+        "1574497591": {
+            "blogger.alibaba": "INACTIVE"
+        },
+        "1574497595": {
+            "blogger.alipay": "INACTIVE"
+        },
+        "1574497600": {
+            "blogger.allfinanz": "INACTIVE"
+        },
+        "1574497604": {
+            "blogger.allstate": "INACTIVE"
+        },
+        "1574497607": {
+            "blogger.ally": "INACTIVE"
+        },
+        "1574497612": {
+            "blogger.alsace": "INACTIVE"
+        },
+        "1574497613": {
+            "blogger.alstom": "INACTIVE",
+            "blogger.americanexpress": "INACTIVE",
+            "blogger.americanfamily": "INACTIVE"
+        },
+        "1574497614": {
+            "blogger.amex": "INACTIVE",
+            "blogger.amfam": "INACTIVE",
+            "blogger.amica": "INACTIVE"
+        },
+        "1574497620": {
+            "blogger.analytics": "INACTIVE",
+            "blogger.android": "INACTIVE"
+        },
+        "1574497621": {
+            "blogger.anquan": "INACTIVE"
+        },
+        "1574497622": {
+            "blogger.anz": "INACTIVE",
+            "blogger.ao": "INACTIVE",
+            "blogger.aol": "INACTIVE"
+        },
+        "1574497623": {
+            "blogger.apartments": "INACTIVE",
+            "blogger.apple": "INACTIVE",
+            "blogger.aq": "INACTIVE"
+        },
+        "1574497624": {
+            "blogger.aquarelle": "INACTIVE"
+        },
+        "1574497628": {
+            "blogger.ar": "INACTIVE"
+        },
+        "1574497629": {
+            "blogger.arab": "INACTIVE"
+        },
+        "1574497630": {
+            "blogger.aramco": "INACTIVE",
+            "blogger.arpa": "INACTIVE"
+        },
+        "1574497636": {
+            "blogger.art": "INACTIVE",
+            "blogger.arte": "INACTIVE"
+        },
+        "1574497637": {
+            "blogger.as": "INACTIVE",
+            "blogger.asda": "INACTIVE"
+        },
+        "1574497638": {
+            "blogger.associates": "INACTIVE"
+        },
+        "1574497639": {
+            "blogger.athleta": "INACTIVE",
+            "blogger.attorney": "INACTIVE"
+        },
+        "1574497640": {
+            "blogger.au": "INACTIVE"
+        },
+        "1574497641": {
+            "blogger.audi": "INACTIVE"
+        },
+        "1574497649": {
+            "blogger.audible": "INACTIVE"
+        },
+        "1574497650": {
+            "blogger.auspost": "INACTIVE"
+        },
+        "1574497659": {
+            "blogger.author": "INACTIVE",
+            "blogger.autos": "INACTIVE",
+            "blogger.avianca": "INACTIVE"
+        },
+        "1574497666": {
+            "blogger.aw": "INACTIVE"
+        },
+        "1574497667": {
+            "blogger.aws": "INACTIVE"
+        },
+        "1574497668": {
+            "blogger.ax": "INACTIVE",
+            "blogger.axa": "INACTIVE"
+        },
+        "1574497669": {
+            "blogger.azure": "INACTIVE"
+        },
+        "1574497675": {
+            "blogger.baby": "INACTIVE"
+        },
+        "1574497677": {
+            "blogger.baidu": "INACTIVE",
+            "blogger.banamex": "INACTIVE"
+        },
+        "1574497678": {
+            "blogger.bananarepublic": "INACTIVE",
+            "blogger.band": "INACTIVE"
+        },
+        "1574497679": {
+            "blogger.bank": "INACTIVE"
+        },
+        "1574497684": {
+            "blogger.bar": "INACTIVE",
+            "blogger.barclaycard": "INACTIVE"
+        },
+        "1574497685": {
+            "blogger.barclays": "INACTIVE",
+            "blogger.barefoot": "INACTIVE",
+            "blogger.bargains": "INACTIVE"
+        },
+        "1574497686": {
+            "blogger.baseball": "INACTIVE"
+        },
+        "1574497691": {
+            "blogger.basketball": "INACTIVE"
+        },
+        "1574497693": {
+            "blogger.bauhaus": "INACTIVE"
         }
     }
 }
