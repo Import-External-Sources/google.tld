@@ -779,18 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.xn--mgba7c0bbn0a": "INACTIVE",
-            "blogger.xn--mgbaakc7dvf": "INACTIVE",
-            "blogger.xn--mgbaam7a8h": "INACTIVE",
-            "blogger.xn--mgbab2bd": "INACTIVE",
-            "blogger.xn--mgbah1a3hjkrd": "INACTIVE",
-            "blogger.xn--mgbai9azgqp6j": "INACTIVE",
-            "blogger.xn--mgbayh7gpa": "INACTIVE",
-            "blogger.xn--mgbbh1a": "INACTIVE",
-            "blogger.xn--mgbbh1a71e": "INACTIVE",
-            "blogger.xn--mgbc0a9azcg": "INACTIVE",
-            "blogger.xn--mgbca7dzdo": "INACTIVE",
-            "blogger.xn--mgberp4a5d4ar": "INACTIVE",
             "blogger.xn--mgbgu82a": "INACTIVE",
             "blogger.xn--mgbi4ecexp": "INACTIVE",
             "blogger.xn--mgbpl2fh": "INACTIVE",
@@ -30429,6 +30417,34 @@
         },
         "1574523523": {
             "blogger.xn--mgba3a4f16a": "INACTIVE"
+        },
+        "1574524866": {
+            "blogger.xn--mgba7c0bbn0a": "INACTIVE"
+        },
+        "1574524871": {
+            "blogger.xn--mgbaakc7dvf": "INACTIVE"
+        },
+        "1574524872": {
+            "blogger.xn--mgbaam7a8h": "INACTIVE"
+        },
+        "1574524873": {
+            "blogger.xn--mgbab2bd": "INACTIVE"
+        },
+        "1574524876": {
+            "blogger.xn--mgbah1a3hjkrd": "INACTIVE",
+            "blogger.xn--mgbai9azgqp6j": "INACTIVE"
+        },
+        "1574524877": {
+            "blogger.xn--mgbayh7gpa": "INACTIVE",
+            "blogger.xn--mgbbh1a": "INACTIVE",
+            "blogger.xn--mgbbh1a71e": "INACTIVE"
+        },
+        "1574524878": {
+            "blogger.xn--mgbc0a9azcg": "INACTIVE",
+            "blogger.xn--mgbca7dzdo": "INACTIVE"
+        },
+        "1574524907": {
+            "blogger.xn--mgberp4a5d4ar": "INACTIVE"
         }
     }
 }
