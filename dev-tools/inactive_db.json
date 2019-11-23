@@ -779,82 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.works": "INACTIVE",
-            "blogger.world": "INACTIVE",
-            "blogger.wow": "INACTIVE",
-            "blogger.wtc": "INACTIVE",
-            "blogger.wtf": "INACTIVE",
-            "blogger.xbox": "INACTIVE",
-            "blogger.xerox": "INACTIVE",
-            "blogger.xfinity": "INACTIVE",
-            "blogger.xihuan": "INACTIVE",
-            "blogger.xn--11b4c3d": "INACTIVE",
-            "blogger.xn--2scrj9c": "INACTIVE",
-            "blogger.xn--30rr7y": "INACTIVE",
-            "blogger.xn--3bst00m": "INACTIVE",
-            "blogger.xn--3e0b707e": "INACTIVE",
-            "blogger.xn--3hcrj9c": "INACTIVE",
-            "blogger.xn--3oq18vl8pn36a": "INACTIVE",
-            "blogger.xn--3pxu8k": "INACTIVE",
-            "blogger.xn--42c2d9a": "INACTIVE",
-            "blogger.xn--45br5cyl": "INACTIVE",
-            "blogger.xn--45brj9c": "INACTIVE",
-            "blogger.xn--4gbrim": "INACTIVE",
-            "blogger.xn--54b7fta0cc": "INACTIVE",
-            "blogger.xn--55qw42g": "INACTIVE",
-            "blogger.xn--5su34j936bgsg": "INACTIVE",
-            "blogger.xn--80adxhks": "INACTIVE",
-            "blogger.xn--80ao21a": "INACTIVE",
-            "blogger.xn--80aqecdr1a": "INACTIVE",
-            "blogger.xn--80asehdb": "INACTIVE",
-            "blogger.xn--80aswg": "INACTIVE",
-            "blogger.xn--8y0a063a": "INACTIVE",
-            "blogger.xn--90a3ac": "INACTIVE",
-            "blogger.xn--90ae": "INACTIVE",
-            "blogger.xn--90ais": "INACTIVE",
-            "blogger.xn--9dbq2a": "INACTIVE",
-            "blogger.xn--9et52u": "INACTIVE",
-            "blogger.xn--9krt00a": "INACTIVE",
-            "blogger.xn--b4w605ferd": "INACTIVE",
-            "blogger.xn--c1avg": "INACTIVE",
-            "blogger.xn--c2br7g": "INACTIVE",
-            "blogger.xn--cg4bki": "INACTIVE",
-            "blogger.xn--clchc0ea0b2g2a9gcd": "INACTIVE",
-            "blogger.xn--czrs0t": "INACTIVE",
-            "blogger.xn--d1acj3b": "INACTIVE",
-            "blogger.xn--d1alf": "INACTIVE",
-            "blogger.xn--e1a4c": "INACTIVE",
-            "blogger.xn--eckvdtc9d": "INACTIVE",
-            "blogger.xn--efvy88h": "INACTIVE",
-            "blogger.xn--estv75g": "INACTIVE",
-            "blogger.xn--fhbei": "INACTIVE",
-            "blogger.xn--fiq64b": "INACTIVE",
-            "blogger.xn--fjq720a": "INACTIVE",
-            "blogger.xn--flw351e": "INACTIVE",
-            "blogger.xn--fpcrj9c3d": "INACTIVE",
-            "blogger.xn--fzc2c9e2c": "INACTIVE",
-            "blogger.xn--fzys8d69uvgm": "INACTIVE",
-            "blogger.xn--g2xx48c": "INACTIVE",
-            "blogger.xn--gecrj9c": "INACTIVE",
-            "blogger.xn--gk3at1e": "INACTIVE",
-            "blogger.xn--h2breg3eve": "INACTIVE",
-            "blogger.xn--h2brj9c": "INACTIVE",
-            "blogger.xn--h2brj9c8c": "INACTIVE",
-            "blogger.xn--i1b6b1a6a2e": "INACTIVE",
-            "blogger.xn--j1aef": "INACTIVE",
-            "blogger.xn--j1amh": "INACTIVE",
-            "blogger.xn--j6w193g": "INACTIVE",
-            "blogger.xn--jlq61u9w7b": "INACTIVE",
-            "blogger.xn--kcrx77d1x4a": "INACTIVE",
-            "blogger.xn--kprw13d": "INACTIVE",
-            "blogger.xn--kpry57d": "INACTIVE",
-            "blogger.xn--kpu716f": "INACTIVE",
-            "blogger.xn--kput3i": "INACTIVE",
-            "blogger.xn--l1acc": "INACTIVE",
-            "blogger.xn--lgbbat1ad8j": "INACTIVE",
-            "blogger.xn--mgb9awbf": "INACTIVE",
-            "blogger.xn--mgba3a3ejt": "INACTIVE",
-            "blogger.xn--mgba3a4f16a": "INACTIVE",
             "blogger.xn--mgba7c0bbn0a": "INACTIVE",
             "blogger.xn--mgbaakc7dvf": "INACTIVE",
             "blogger.xn--mgbaam7a8h": "INACTIVE",
@@ -30338,6 +30262,173 @@
         },
         "1574522153": {
             "blogger.work": "INACTIVE"
+        },
+        "1574523421": {
+            "blogger.works": "INACTIVE"
+        },
+        "1574523422": {
+            "blogger.world": "INACTIVE",
+            "blogger.wow": "INACTIVE"
+        },
+        "1574523423": {
+            "blogger.wtc": "INACTIVE",
+            "blogger.wtf": "INACTIVE",
+            "blogger.xbox": "INACTIVE"
+        },
+        "1574523424": {
+            "blogger.xerox": "INACTIVE"
+        },
+        "1574523432": {
+            "blogger.xfinity": "INACTIVE"
+        },
+        "1574523433": {
+            "blogger.xihuan": "INACTIVE"
+        },
+        "1574523435": {
+            "blogger.xn--11b4c3d": "INACTIVE"
+        },
+        "1574523436": {
+            "blogger.xn--2scrj9c": "INACTIVE"
+        },
+        "1574523437": {
+            "blogger.xn--30rr7y": "INACTIVE",
+            "blogger.xn--3bst00m": "INACTIVE"
+        },
+        "1574523439": {
+            "blogger.xn--3e0b707e": "INACTIVE",
+            "blogger.xn--3hcrj9c": "INACTIVE"
+        },
+        "1574523441": {
+            "blogger.xn--3oq18vl8pn36a": "INACTIVE",
+            "blogger.xn--3pxu8k": "INACTIVE",
+            "blogger.xn--42c2d9a": "INACTIVE"
+        },
+        "1574523442": {
+            "blogger.xn--45br5cyl": "INACTIVE",
+            "blogger.xn--45brj9c": "INACTIVE"
+        },
+        "1574523443": {
+            "blogger.xn--4gbrim": "INACTIVE",
+            "blogger.xn--54b7fta0cc": "INACTIVE"
+        },
+        "1574523447": {
+            "blogger.xn--55qw42g": "INACTIVE",
+            "blogger.xn--5su34j936bgsg": "INACTIVE"
+        },
+        "1574523449": {
+            "blogger.xn--80adxhks": "INACTIVE",
+            "blogger.xn--80ao21a": "INACTIVE"
+        },
+        "1574523450": {
+            "blogger.xn--80aqecdr1a": "INACTIVE",
+            "blogger.xn--80asehdb": "INACTIVE"
+        },
+        "1574523451": {
+            "blogger.xn--80aswg": "INACTIVE"
+        },
+        "1574523454": {
+            "blogger.xn--8y0a063a": "INACTIVE",
+            "blogger.xn--90a3ac": "INACTIVE"
+        },
+        "1574523455": {
+            "blogger.xn--90ae": "INACTIVE"
+        },
+        "1574523456": {
+            "blogger.xn--90ais": "INACTIVE"
+        },
+        "1574523457": {
+            "blogger.xn--9dbq2a": "INACTIVE",
+            "blogger.xn--9et52u": "INACTIVE",
+            "blogger.xn--9krt00a": "INACTIVE"
+        },
+        "1574523458": {
+            "blogger.xn--b4w605ferd": "INACTIVE",
+            "blogger.xn--c1avg": "INACTIVE",
+            "blogger.xn--c2br7g": "INACTIVE"
+        },
+        "1574523459": {
+            "blogger.xn--cg4bki": "INACTIVE"
+        },
+        "1574523460": {
+            "blogger.xn--clchc0ea0b2g2a9gcd": "INACTIVE"
+        },
+        "1574523461": {
+            "blogger.xn--czrs0t": "INACTIVE"
+        },
+        "1574523462": {
+            "blogger.xn--d1acj3b": "INACTIVE"
+        },
+        "1574523463": {
+            "blogger.xn--d1alf": "INACTIVE",
+            "blogger.xn--e1a4c": "INACTIVE"
+        },
+        "1574523464": {
+            "blogger.xn--eckvdtc9d": "INACTIVE",
+            "blogger.xn--efvy88h": "INACTIVE"
+        },
+        "1574523468": {
+            "blogger.xn--estv75g": "INACTIVE"
+        },
+        "1574523469": {
+            "blogger.xn--fhbei": "INACTIVE"
+        },
+        "1574523470": {
+            "blogger.xn--fiq64b": "INACTIVE",
+            "blogger.xn--fjq720a": "INACTIVE"
+        },
+        "1574523471": {
+            "blogger.xn--flw351e": "INACTIVE",
+            "blogger.xn--fpcrj9c3d": "INACTIVE"
+        },
+        "1574523482": {
+            "blogger.xn--fzc2c9e2c": "INACTIVE"
+        },
+        "1574523484": {
+            "blogger.xn--fzys8d69uvgm": "INACTIVE"
+        },
+        "1574523485": {
+            "blogger.xn--g2xx48c": "INACTIVE",
+            "blogger.xn--gecrj9c": "INACTIVE",
+            "blogger.xn--gk3at1e": "INACTIVE"
+        },
+        "1574523486": {
+            "blogger.xn--h2breg3eve": "INACTIVE",
+            "blogger.xn--h2brj9c": "INACTIVE",
+            "blogger.xn--h2brj9c8c": "INACTIVE"
+        },
+        "1574523487": {
+            "blogger.xn--i1b6b1a6a2e": "INACTIVE",
+            "blogger.xn--j1aef": "INACTIVE"
+        },
+        "1574523491": {
+            "blogger.xn--j1amh": "INACTIVE"
+        },
+        "1574523492": {
+            "blogger.xn--j6w193g": "INACTIVE"
+        },
+        "1574523494": {
+            "blogger.xn--jlq61u9w7b": "INACTIVE",
+            "blogger.xn--kcrx77d1x4a": "INACTIVE"
+        },
+        "1574523496": {
+            "blogger.xn--kpry57d": "INACTIVE",
+            "blogger.xn--kpu716f": "INACTIVE"
+        },
+        "1574523497": {
+            "blogger.xn--kput3i": "INACTIVE"
+        },
+        "1574523498": {
+            "blogger.xn--l1acc": "INACTIVE"
+        },
+        "1574523499": {
+            "blogger.xn--lgbbat1ad8j": "INACTIVE",
+            "blogger.xn--mgb9awbf": "INACTIVE"
+        },
+        "1574523500": {
+            "blogger.xn--mgba3a3ejt": "INACTIVE"
+        },
+        "1574523523": {
+            "blogger.xn--mgba3a4f16a": "INACTIVE"
         }
     }
 }
