@@ -4579,6 +4579,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "adwords.online": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "adwords.org": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
@@ -7114,6 +7119,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "blog.dvag": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "blog.earth": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
@@ -9360,32 +9370,32 @@
         "state": "future"
     },
     "blogger.ro": {
-        "epoch": 1637539200,
+        "epoch": 1637539200.0,
         "expiration_date": "22-nov-2021",
         "state": "future"
     },
     "blogger.rs": {
-        "epoch": 1600128000,
+        "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "blogger.ru": {
-        "epoch": 1591315200,
+        "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "blogger.ruhr": {
-        "epoch": 1580428800,
+        "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
     "blogger.ryukyu": {
-        "epoch": 1576972800,
+        "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "blogger.sale": {
-        "epoch": 1587945600,
+        "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
