@@ -779,156 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.caseih": "INACTIVE",
-            "blogger.cash": "INACTIVE",
-            "blogger.casino": "INACTIVE",
-            "blogger.catering": "INACTIVE",
-            "blogger.catholic": "INACTIVE",
-            "blogger.cba": "INACTIVE",
-            "blogger.cbn": "INACTIVE",
-            "blogger.cbre": "INACTIVE",
-            "blogger.cbs": "INACTIVE",
-            "blogger.cd": "INACTIVE",
-            "blogger.ceb": "INACTIVE",
-            "blogger.ceo": "INACTIVE",
-            "blogger.cern": "INACTIVE",
-            "blogger.cfa": "INACTIVE",
-            "blogger.cfd": "INACTIVE",
-            "blogger.cg": "INACTIVE",
-            "blogger.chanel": "INACTIVE",
-            "blogger.channel": "INACTIVE",
-            "blogger.charity": "INACTIVE",
-            "blogger.chase": "INACTIVE",
-            "blogger.cheap": "INACTIVE",
-            "blogger.chintai": "INACTIVE",
-            "blogger.chrome": "INACTIVE",
-            "blogger.chrysler": "INACTIVE",
-            "blogger.church": "INACTIVE",
-            "blogger.ci": "INACTIVE",
-            "blogger.cipriani": "INACTIVE",
-            "blogger.circle": "INACTIVE",
-            "blogger.cisco": "INACTIVE",
-            "blogger.citadel": "INACTIVE",
-            "blogger.citi": "INACTIVE",
-            "blogger.citic": "INACTIVE",
-            "blogger.cityeats": "INACTIVE",
-            "blogger.ck": "INACTIVE",
-            "blogger.claims": "INACTIVE",
-            "blogger.cleaning": "INACTIVE",
-            "blogger.clinic": "INACTIVE",
-            "blogger.clinique": "INACTIVE",
-            "blogger.clothing": "INACTIVE",
-            "blogger.cloud": "INACTIVE",
-            "blogger.clubmed": "INACTIVE",
-            "blogger.coach": "INACTIVE",
-            "blogger.codes": "INACTIVE",
-            "blogger.coffee": "INACTIVE",
-            "blogger.comcast": "INACTIVE",
-            "blogger.commbank": "INACTIVE",
-            "blogger.community": "INACTIVE",
-            "blogger.company": "INACTIVE",
-            "blogger.compare": "INACTIVE",
-            "blogger.computer": "INACTIVE",
-            "blogger.comsec": "INACTIVE",
-            "blogger.condos": "INACTIVE",
-            "blogger.construction": "INACTIVE",
-            "blogger.consulting": "INACTIVE",
-            "blogger.contact": "INACTIVE",
-            "blogger.contractors": "INACTIVE",
-            "blogger.cookingchannel": "INACTIVE",
-            "blogger.cool": "INACTIVE",
-            "blogger.coop": "INACTIVE",
-            "blogger.country": "INACTIVE",
-            "blogger.coupon": "INACTIVE",
-            "blogger.coupons": "INACTIVE",
-            "blogger.credit": "INACTIVE",
-            "blogger.creditcard": "INACTIVE",
-            "blogger.creditunion": "INACTIVE",
-            "blogger.crown": "INACTIVE",
-            "blogger.crs": "INACTIVE",
-            "blogger.cruise": "INACTIVE",
-            "blogger.cruises": "INACTIVE",
-            "blogger.csc": "INACTIVE",
-            "blogger.cu": "INACTIVE",
-            "blogger.cuisinella": "INACTIVE",
-            "blogger.cw": "INACTIVE",
-            "blogger.cy": "INACTIVE",
-            "blogger.cyou": "INACTIVE",
-            "blogger.dabur": "INACTIVE",
-            "blogger.dad": "INACTIVE",
-            "blogger.dance": "INACTIVE",
-            "blogger.data": "INACTIVE",
-            "blogger.dating": "INACTIVE",
-            "blogger.datsun": "INACTIVE",
-            "blogger.day": "INACTIVE",
-            "blogger.dclk": "INACTIVE",
-            "blogger.dds": "INACTIVE",
-            "blogger.deal": "INACTIVE",
-            "blogger.dealer": "INACTIVE",
-            "blogger.deals": "INACTIVE",
-            "blogger.degree": "INACTIVE",
-            "blogger.delivery": "INACTIVE",
-            "blogger.dell": "INACTIVE",
-            "blogger.deloitte": "INACTIVE",
-            "blogger.delta": "INACTIVE",
-            "blogger.democrat": "INACTIVE",
-            "blogger.dental": "INACTIVE",
-            "blogger.dentist": "INACTIVE",
-            "blogger.desi": "INACTIVE",
-            "blogger.dhl": "INACTIVE",
-            "blogger.diamonds": "INACTIVE",
-            "blogger.digital": "INACTIVE",
-            "blogger.direct": "INACTIVE",
-            "blogger.discount": "INACTIVE",
-            "blogger.discover": "INACTIVE",
-            "blogger.dish": "INACTIVE",
-            "blogger.diy": "INACTIVE",
-            "blogger.dj": "INACTIVE",
-            "blogger.dnp": "INACTIVE",
-            "blogger.do": "INACTIVE",
-            "blogger.docs": "INACTIVE",
-            "blogger.doctor": "INACTIVE",
-            "blogger.dodge": "INACTIVE",
-            "blogger.dog": "INACTIVE",
-            "blogger.domains": "INACTIVE",
-            "blogger.dot": "INACTIVE",
-            "blogger.drive": "INACTIVE",
-            "blogger.dtv": "INACTIVE",
-            "blogger.dubai": "INACTIVE",
-            "blogger.duck": "INACTIVE",
-            "blogger.dunlop": "INACTIVE",
-            "blogger.dupont": "INACTIVE",
-            "blogger.dvag": "INACTIVE",
-            "blogger.dvr": "INACTIVE",
-            "blogger.dz": "INACTIVE",
-            "blogger.eat": "INACTIVE",
-            "blogger.ec": "INACTIVE",
-            "blogger.eco": "INACTIVE",
-            "blogger.edeka": "INACTIVE",
-            "blogger.edu": "INACTIVE",
-            "blogger.eg": "INACTIVE",
-            "blogger.emerck": "INACTIVE",
-            "blogger.energy": "INACTIVE",
-            "blogger.engineer": "INACTIVE",
-            "blogger.engineering": "INACTIVE",
-            "blogger.enterprises": "INACTIVE",
-            "blogger.epson": "INACTIVE",
-            "blogger.equipment": "INACTIVE",
-            "blogger.er": "INACTIVE",
-            "blogger.ericsson": "INACTIVE",
-            "blogger.erni": "INACTIVE",
-            "blogger.es": "INACTIVE",
-            "blogger.esq": "INACTIVE",
-            "blogger.estate": "INACTIVE",
-            "blogger.esurance": "INACTIVE",
-            "blogger.et": "INACTIVE",
-            "blogger.etisalat": "INACTIVE",
-            "blogger.eu": "INACTIVE",
-            "blogger.eurovision": "INACTIVE",
-            "blogger.everbank": "INACTIVE",
-            "blogger.exchange": "INACTIVE",
-            "blogger.expert": "INACTIVE",
-            "blogger.exposed": "INACTIVE",
             "blogger.express": "INACTIVE",
             "blogger.extraspace": "INACTIVE",
             "blogger.fage": "INACTIVE",
@@ -29302,6 +29152,302 @@
         },
         "1574499076": {
             "blogger.case": "INACTIVE"
+        },
+        "1574500254": {
+            "blogger.caseih": "INACTIVE"
+        },
+        "1574500255": {
+            "blogger.cash": "INACTIVE",
+            "blogger.casino": "INACTIVE"
+        },
+        "1574500256": {
+            "blogger.catering": "INACTIVE",
+            "blogger.catholic": "INACTIVE",
+            "blogger.cba": "INACTIVE"
+        },
+        "1574500257": {
+            "blogger.cbn": "INACTIVE",
+            "blogger.cbre": "INACTIVE",
+            "blogger.cbs": "INACTIVE"
+        },
+        "1574500258": {
+            "blogger.cd": "INACTIVE",
+            "blogger.ceb": "INACTIVE"
+        },
+        "1574500264": {
+            "blogger.cern": "INACTIVE",
+            "blogger.cfa": "INACTIVE"
+        },
+        "1574500265": {
+            "blogger.cfd": "INACTIVE",
+            "blogger.cg": "INACTIVE"
+        },
+        "1574500266": {
+            "blogger.chanel": "INACTIVE",
+            "blogger.channel": "INACTIVE",
+            "blogger.charity": "INACTIVE"
+        },
+        "1574500267": {
+            "blogger.chase": "INACTIVE",
+            "blogger.cheap": "INACTIVE",
+            "blogger.chintai": "INACTIVE"
+        },
+        "1574500268": {
+            "blogger.chrome": "INACTIVE",
+            "blogger.chrysler": "INACTIVE"
+        },
+        "1574500269": {
+            "blogger.church": "INACTIVE",
+            "blogger.ci": "INACTIVE",
+            "blogger.cipriani": "INACTIVE"
+        },
+        "1574500277": {
+            "blogger.circle": "INACTIVE",
+            "blogger.cisco": "INACTIVE"
+        },
+        "1574500278": {
+            "blogger.citadel": "INACTIVE",
+            "blogger.citi": "INACTIVE"
+        },
+        "1574500279": {
+            "blogger.citic": "INACTIVE",
+            "blogger.cityeats": "INACTIVE"
+        },
+        "1574500280": {
+            "blogger.ck": "INACTIVE",
+            "blogger.claims": "INACTIVE",
+            "blogger.cleaning": "INACTIVE"
+        },
+        "1574500281": {
+            "blogger.clinic": "INACTIVE",
+            "blogger.clinique": "INACTIVE"
+        },
+        "1574500282": {
+            "blogger.clothing": "INACTIVE",
+            "blogger.cloud": "INACTIVE",
+            "blogger.clubmed": "INACTIVE"
+        },
+        "1574500283": {
+            "blogger.coach": "INACTIVE",
+            "blogger.codes": "INACTIVE"
+        },
+        "1574500284": {
+            "blogger.coffee": "INACTIVE"
+        },
+        "1574500293": {
+            "blogger.comcast": "INACTIVE",
+            "blogger.commbank": "INACTIVE",
+            "blogger.community": "INACTIVE"
+        },
+        "1574500294": {
+            "blogger.company": "INACTIVE",
+            "blogger.compare": "INACTIVE",
+            "blogger.computer": "INACTIVE"
+        },
+        "1574500295": {
+            "blogger.comsec": "INACTIVE",
+            "blogger.condos": "INACTIVE",
+            "blogger.construction": "INACTIVE"
+        },
+        "1574500296": {
+            "blogger.consulting": "INACTIVE",
+            "blogger.contact": "INACTIVE",
+            "blogger.contractors": "INACTIVE"
+        },
+        "1574500302": {
+            "blogger.cookingchannel": "INACTIVE",
+            "blogger.cool": "INACTIVE"
+        },
+        "1574500307": {
+            "blogger.coop": "INACTIVE"
+        },
+        "1574500323": {
+            "blogger.country": "INACTIVE"
+        },
+        "1574500324": {
+            "blogger.coupon": "INACTIVE",
+            "blogger.coupons": "INACTIVE",
+            "blogger.cpa": "INACTIVE"
+        },
+        "1574500325": {
+            "blogger.credit": "INACTIVE",
+            "blogger.creditcard": "INACTIVE"
+        },
+        "1574500326": {
+            "blogger.creditunion": "INACTIVE",
+            "blogger.crown": "INACTIVE",
+            "blogger.crs": "INACTIVE"
+        },
+        "1574500327": {
+            "blogger.cruise": "INACTIVE",
+            "blogger.cruises": "INACTIVE",
+            "blogger.csc": "INACTIVE"
+        },
+        "1574500328": {
+            "blogger.cu": "INACTIVE",
+            "blogger.cuisinella": "INACTIVE",
+            "blogger.cw": "INACTIVE"
+        },
+        "1574500329": {
+            "blogger.cy": "INACTIVE"
+        },
+        "1574500333": {
+            "blogger.cyou": "INACTIVE"
+        },
+        "1574500334": {
+            "blogger.dabur": "INACTIVE",
+            "blogger.dad": "INACTIVE"
+        },
+        "1574500335": {
+            "blogger.dance": "INACTIVE"
+        },
+        "1574500336": {
+            "blogger.data": "INACTIVE"
+        },
+        "1574500337": {
+            "blogger.dating": "INACTIVE"
+        },
+        "1574500338": {
+            "blogger.datsun": "INACTIVE",
+            "blogger.day": "INACTIVE",
+            "blogger.dclk": "INACTIVE"
+        },
+        "1574500340": {
+            "blogger.dds": "INACTIVE"
+        },
+        "1574500346": {
+            "blogger.deal": "INACTIVE"
+        },
+        "1574500347": {
+            "blogger.dealer": "INACTIVE",
+            "blogger.deals": "INACTIVE",
+            "blogger.degree": "INACTIVE"
+        },
+        "1574500348": {
+            "blogger.delivery": "INACTIVE",
+            "blogger.dell": "INACTIVE"
+        },
+        "1574500355": {
+            "blogger.deloitte": "INACTIVE"
+        },
+        "1574500357": {
+            "blogger.delta": "INACTIVE",
+            "blogger.democrat": "INACTIVE",
+            "blogger.dental": "INACTIVE"
+        },
+        "1574500358": {
+            "blogger.dentist": "INACTIVE"
+        },
+        "1574500363": {
+            "blogger.desi": "INACTIVE"
+        },
+        "1574500369": {
+            "blogger.dhl": "INACTIVE",
+            "blogger.diamonds": "INACTIVE",
+            "blogger.digital": "INACTIVE"
+        },
+        "1574500370": {
+            "blogger.direct": "INACTIVE",
+            "blogger.discount": "INACTIVE"
+        },
+        "1574500371": {
+            "blogger.discover": "INACTIVE",
+            "blogger.dish": "INACTIVE",
+            "blogger.diy": "INACTIVE"
+        },
+        "1574500372": {
+            "blogger.dj": "INACTIVE"
+        },
+        "1574500378": {
+            "blogger.dnp": "INACTIVE",
+            "blogger.do": "INACTIVE"
+        },
+        "1574500379": {
+            "blogger.docs": "INACTIVE",
+            "blogger.doctor": "INACTIVE",
+            "blogger.dodge": "INACTIVE"
+        },
+        "1574500380": {
+            "blogger.dog": "INACTIVE",
+            "blogger.domains": "INACTIVE"
+        },
+        "1574500382": {
+            "blogger.dot": "INACTIVE"
+        },
+        "1574500383": {
+            "blogger.drive": "INACTIVE",
+            "blogger.dtv": "INACTIVE"
+        },
+        "1574500384": {
+            "blogger.dubai": "INACTIVE",
+            "blogger.duck": "INACTIVE"
+        },
+        "1574500385": {
+            "blogger.dunlop": "INACTIVE",
+            "blogger.dupont": "INACTIVE"
+        },
+        "1574500391": {
+            "blogger.dvag": "INACTIVE"
+        },
+        "1574500394": {
+            "blogger.dvr": "INACTIVE"
+        },
+        "1574500395": {
+            "blogger.dz": "INACTIVE",
+            "blogger.eat": "INACTIVE"
+        },
+        "1574500396": {
+            "blogger.ec": "INACTIVE"
+        },
+        "1574500398": {
+            "blogger.eco": "INACTIVE"
+        },
+        "1574500399": {
+            "blogger.edeka": "INACTIVE",
+            "blogger.edu": "INACTIVE",
+            "blogger.eg": "INACTIVE"
+        },
+        "1574500400": {
+            "blogger.emerck": "INACTIVE",
+            "blogger.energy": "INACTIVE"
+        },
+        "1574500401": {
+            "blogger.engineer": "INACTIVE",
+            "blogger.engineering": "INACTIVE",
+            "blogger.enterprises": "INACTIVE"
+        },
+        "1574500402": {
+            "blogger.epson": "INACTIVE",
+            "blogger.equipment": "INACTIVE"
+        },
+        "1574500403": {
+            "blogger.er": "INACTIVE",
+            "blogger.ericsson": "INACTIVE"
+        },
+        "1574500406": {
+            "blogger.erni": "INACTIVE",
+            "blogger.esq": "INACTIVE"
+        },
+        "1574500407": {
+            "blogger.estate": "INACTIVE",
+            "blogger.esurance": "INACTIVE"
+        },
+        "1574500408": {
+            "blogger.et": "INACTIVE"
+        },
+        "1574500413": {
+            "blogger.etisalat": "INACTIVE"
+        },
+        "1574500416": {
+            "blogger.eurovision": "INACTIVE",
+            "blogger.everbank": "INACTIVE"
+        },
+        "1574500417": {
+            "blogger.exchange": "INACTIVE",
+            "blogger.expert": "INACTIVE"
+        },
+        "1574500418": {
+            "blogger.exposed": "INACTIVE"
         }
     }
 }
