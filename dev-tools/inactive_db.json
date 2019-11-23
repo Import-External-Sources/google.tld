@@ -779,58 +779,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogger.gea": "INACTIVE",
-            "blogger.gent": "INACTIVE",
-            "blogger.genting": "INACTIVE",
-            "blogger.george": "INACTIVE",
-            "blogger.gf": "INACTIVE",
-            "blogger.gg": "INACTIVE",
-            "blogger.ggee": "INACTIVE",
-            "blogger.gh": "INACTIVE",
-            "blogger.gi": "INACTIVE",
-            "blogger.gifts": "INACTIVE",
-            "blogger.gives": "INACTIVE",
-            "blogger.giving": "INACTIVE",
-            "blogger.gl": "INACTIVE",
-            "blogger.glade": "INACTIVE",
-            "blogger.glass": "INACTIVE",
-            "blogger.gle": "INACTIVE",
-            "blogger.global": "INACTIVE",
-            "blogger.globo": "INACTIVE",
-            "blogger.gm": "INACTIVE",
-            "blogger.gmail": "INACTIVE",
-            "blogger.gmbh": "INACTIVE",
-            "blogger.gmo": "INACTIVE",
-            "blogger.gmx": "INACTIVE",
-            "blogger.gn": "INACTIVE",
-            "blogger.godaddy": "INACTIVE",
-            "blogger.gold": "INACTIVE",
-            "blogger.goldpoint": "INACTIVE",
-            "blogger.golf": "INACTIVE",
-            "blogger.goo": "INACTIVE",
-            "blogger.goodyear": "INACTIVE",
-            "blogger.goog": "INACTIVE",
-            "blogger.google": "INACTIVE",
-            "blogger.gop": "INACTIVE",
-            "blogger.got": "INACTIVE",
-            "blogger.gov": "INACTIVE",
-            "blogger.gp": "INACTIVE",
-            "blogger.gr": "INACTIVE",
-            "blogger.grainger": "INACTIVE",
-            "blogger.graphics": "INACTIVE",
-            "blogger.gratis": "INACTIVE",
-            "blogger.gripe": "INACTIVE",
-            "blogger.grocery": "INACTIVE",
-            "blogger.group": "INACTIVE",
-            "blogger.gs": "INACTIVE",
-            "blogger.gt": "INACTIVE",
-            "blogger.gu": "INACTIVE",
-            "blogger.guardian": "INACTIVE",
-            "blogger.gucci": "INACTIVE",
-            "blogger.guge": "INACTIVE",
-            "blogger.guru": "INACTIVE",
-            "blogger.gw": "INACTIVE",
-            "blogger.gy": "INACTIVE",
             "blogger.hair": "INACTIVE",
             "blogger.hangout": "INACTIVE",
             "blogger.haus": "INACTIVE",
@@ -29529,6 +29477,114 @@
         },
         "1574501761": {
             "blogger.gdn": "INACTIVE"
+        },
+        "1574503008": {
+            "blogger.gea": "INACTIVE"
+        },
+        "1574503013": {
+            "blogger.gent": "INACTIVE",
+            "blogger.genting": "INACTIVE",
+            "blogger.george": "INACTIVE"
+        },
+        "1574503014": {
+            "blogger.gf": "INACTIVE"
+        },
+        "1574503015": {
+            "blogger.gg": "INACTIVE",
+            "blogger.ggee": "INACTIVE"
+        },
+        "1574503018": {
+            "blogger.gh": "INACTIVE",
+            "blogger.gi": "INACTIVE"
+        },
+        "1574503019": {
+            "blogger.gifts": "INACTIVE",
+            "blogger.gives": "INACTIVE",
+            "blogger.giving": "INACTIVE"
+        },
+        "1574503035": {
+            "blogger.gl": "INACTIVE",
+            "blogger.glade": "INACTIVE"
+        },
+        "1574503036": {
+            "blogger.glass": "INACTIVE",
+            "blogger.gle": "INACTIVE",
+            "blogger.global": "INACTIVE"
+        },
+        "1574503037": {
+            "blogger.globo": "INACTIVE",
+            "blogger.gm": "INACTIVE"
+        },
+        "1574503038": {
+            "blogger.gmail": "INACTIVE",
+            "blogger.gmbh": "INACTIVE"
+        },
+        "1574503039": {
+            "blogger.gmo": "INACTIVE"
+        },
+        "1574503041": {
+            "blogger.gmx": "INACTIVE"
+        },
+        "1574503042": {
+            "blogger.gn": "INACTIVE",
+            "blogger.godaddy": "INACTIVE",
+            "blogger.gold": "INACTIVE"
+        },
+        "1574503043": {
+            "blogger.goldpoint": "INACTIVE",
+            "blogger.golf": "INACTIVE"
+        },
+        "1574503044": {
+            "blogger.goo": "INACTIVE"
+        },
+        "1574503046": {
+            "blogger.goodyear": "INACTIVE",
+            "blogger.goog": "INACTIVE"
+        },
+        "1574503047": {
+            "blogger.google": "INACTIVE"
+        },
+        "1574503063": {
+            "blogger.gop": "INACTIVE"
+        },
+        "1574503064": {
+            "blogger.got": "INACTIVE",
+            "blogger.gov": "INACTIVE"
+        },
+        "1574503065": {
+            "blogger.gp": "INACTIVE"
+        },
+        "1574503079": {
+            "blogger.gr": "INACTIVE",
+            "blogger.grainger": "INACTIVE"
+        },
+        "1574503080": {
+            "blogger.graphics": "INACTIVE",
+            "blogger.gratis": "INACTIVE",
+            "blogger.gripe": "INACTIVE"
+        },
+        "1574503081": {
+            "blogger.grocery": "INACTIVE",
+            "blogger.group": "INACTIVE"
+        },
+        "1574503092": {
+            "blogger.gs": "INACTIVE"
+        },
+        "1574503093": {
+            "blogger.gt": "INACTIVE",
+            "blogger.gu": "INACTIVE",
+            "blogger.guardian": "INACTIVE"
+        },
+        "1574503094": {
+            "blogger.gucci": "INACTIVE",
+            "blogger.guge": "INACTIVE",
+            "blogger.guru": "INACTIVE"
+        },
+        "1574503095": {
+            "blogger.gw": "INACTIVE"
+        },
+        "1574503110": {
+            "blogger.gy": "INACTIVE"
         }
     }
 }
