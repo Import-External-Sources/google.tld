@@ -9025,47 +9025,47 @@
         "state": "future"
     },
     "blogger.la": {
-        "epoch": 1638835200,
+        "epoch": 1638835200.0,
         "expiration_date": "07-dec-2021",
         "state": "future"
     },
     "blogger.lat": {
-        "epoch": 1589155200,
+        "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
         "state": "future"
     },
     "blogger.lgbt": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "blogger.life": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "blogger.link": {
-        "epoch": 1585958400,
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "blogger.llc": {
-        "epoch": 1591315200,
+        "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "blogger.loan": {
-        "epoch": 1596326400,
+        "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "blogger.lol": {
-        "epoch": 1564963200,
+        "epoch": 1564963200.0,
         "expiration_date": "05-aug-2019",
         "state": "past"
     },
     "blogger.lt": {
-        "epoch": 1579305600,
+        "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
