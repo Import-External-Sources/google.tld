@@ -1,153 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "android.xn--czru2d": "INACTIVE",
-            "android.xn--d1acj3b": "INACTIVE",
-            "android.xn--d1alf": "INACTIVE",
-            "android.xn--e1a4c": "INACTIVE",
-            "android.xn--eckvdtc9d": "INACTIVE",
-            "android.xn--efvy88h": "INACTIVE",
-            "android.xn--estv75g": "INACTIVE",
-            "android.xn--fhbei": "INACTIVE",
-            "android.xn--fiq64b": "INACTIVE",
-            "android.xn--fjq720a": "INACTIVE",
-            "android.xn--flw351e": "INACTIVE",
-            "android.xn--fpcrj9c3d": "INACTIVE",
-            "android.xn--fzc2c9e2c": "INACTIVE",
-            "android.xn--fzys8d69uvgm": "INACTIVE",
-            "android.xn--g2xx48c": "INACTIVE",
-            "android.xn--gecrj9c": "INACTIVE",
-            "android.xn--gk3at1e": "INACTIVE",
-            "android.xn--h2breg3eve": "INACTIVE",
-            "android.xn--h2brj9c": "INACTIVE",
-            "android.xn--h2brj9c8c": "INACTIVE",
-            "android.xn--i1b6b1a6a2e": "INACTIVE",
-            "android.xn--j1aef": "INACTIVE",
-            "android.xn--j1amh": "INACTIVE",
-            "android.xn--j6w193g": "INACTIVE",
-            "android.xn--jlq61u9w7b": "INACTIVE",
-            "android.xn--kcrx77d1x4a": "INACTIVE",
-            "android.xn--kprw13d": "INACTIVE",
-            "android.xn--kpry57d": "INACTIVE",
-            "android.xn--kpu716f": "INACTIVE",
-            "android.xn--kput3i": "INACTIVE",
-            "android.xn--l1acc": "INACTIVE",
-            "android.xn--lgbbat1ad8j": "INACTIVE",
-            "android.xn--mgb9awbf": "INACTIVE",
-            "android.xn--mgba3a3ejt": "INACTIVE",
-            "android.xn--mgba3a4f16a": "INACTIVE",
-            "android.xn--mgba7c0bbn0a": "INACTIVE",
-            "android.xn--mgbaakc7dvf": "INACTIVE",
-            "android.xn--mgbaam7a8h": "INACTIVE",
-            "android.xn--mgbab2bd": "INACTIVE",
-            "android.xn--mgbah1a3hjkrd": "INACTIVE",
-            "android.xn--mgbai9azgqp6j": "INACTIVE",
-            "android.xn--mgbayh7gpa": "INACTIVE",
-            "android.xn--mgbbh1a": "INACTIVE",
-            "android.xn--mgbbh1a71e": "INACTIVE",
-            "android.xn--mgbc0a9azcg": "INACTIVE",
-            "android.xn--mgbca7dzdo": "INACTIVE",
-            "android.xn--mgberp4a5d4ar": "INACTIVE",
-            "android.xn--mgbgu82a": "INACTIVE",
-            "android.xn--mgbi4ecexp": "INACTIVE",
-            "android.xn--mgbpl2fh": "INACTIVE",
-            "android.xn--mgbt3dhd": "INACTIVE",
-            "android.xn--mgbtx2b": "INACTIVE",
-            "android.xn--mgbx4cd0ab": "INACTIVE",
-            "android.xn--mix891f": "INACTIVE",
-            "android.xn--ngbc5azd": "INACTIVE",
-            "android.xn--ngbe9e0a": "INACTIVE",
-            "android.xn--nqv7f": "INACTIVE",
-            "android.xn--nqv7fs00ema": "INACTIVE",
-            "android.xn--o3cw4h": "INACTIVE",
-            "android.xn--ogbpf8fl": "INACTIVE",
-            "android.xn--p1acf": "INACTIVE",
-            "android.xn--p1ai": "INACTIVE",
-            "android.xn--pbt977c": "INACTIVE",
-            "android.xn--pgbs0dh": "INACTIVE",
-            "android.xn--pssy2u": "INACTIVE",
-            "android.xn--qcka1pmc": "INACTIVE",
-            "android.xn--qxa6a": "INACTIVE",
-            "android.xn--qxam": "INACTIVE",
-            "android.xn--rvc1e0am3e": "INACTIVE",
-            "android.xn--s9brj9c": "INACTIVE",
-            "android.xn--ses554g": "INACTIVE",
-            "android.xn--tiq49xqyj": "INACTIVE",
-            "android.xn--unup4y": "INACTIVE",
-            "android.xn--vermgensberater-ctb": "INACTIVE",
-            "android.xn--vermgensberatung-pwb": "INACTIVE",
-            "android.xn--vhquv": "INACTIVE",
-            "android.xn--w4r85el8fhu5dnra": "INACTIVE",
-            "android.xn--w4rs40l": "INACTIVE",
-            "android.xn--wgbh1c": "INACTIVE",
-            "android.xn--wgbl6a": "INACTIVE",
-            "android.xn--xkc2al3hye2a": "INACTIVE",
-            "android.xn--xkc2dl3a5ee0h": "INACTIVE",
-            "android.xn--y9a3aq": "INACTIVE",
-            "android.xn--yfro4i67o": "INACTIVE",
-            "android.xn--ygbi2ammx": "INACTIVE",
-            "android.xn--zfr164b": "INACTIVE",
-            "android.yachts": "INACTIVE",
-            "android.yahoo": "INACTIVE",
-            "android.yamaxun": "INACTIVE",
-            "android.yandex": "INACTIVE",
-            "android.ye": "INACTIVE",
-            "android.yodobashi": "INACTIVE",
-            "android.you": "INACTIVE",
-            "android.youtube": "INACTIVE",
-            "android.yun": "INACTIVE",
-            "android.za": "INACTIVE",
-            "android.zappos": "INACTIVE",
-            "android.zara": "INACTIVE",
-            "android.zero": "INACTIVE",
-            "android.zip": "INACTIVE",
-            "android.zm": "INACTIVE",
-            "android.zone": "INACTIVE",
-            "android.zuerich": "INACTIVE",
-            "android.zw": "INACTIVE",
-            "blog.aaa": "INACTIVE",
-            "blog.aarp": "INACTIVE",
-            "blog.abarth": "INACTIVE",
-            "blog.abb": "INACTIVE",
-            "blog.abbott": "INACTIVE",
-            "blog.abbvie": "INACTIVE",
-            "blog.abc": "INACTIVE",
-            "blog.able": "INACTIVE",
-            "blog.abogado": "INACTIVE",
-            "blog.abudhabi": "INACTIVE",
-            "blog.accenture": "INACTIVE",
-            "blog.accountant": "INACTIVE",
-            "blog.aco": "INACTIVE",
-            "blog.actor": "INACTIVE",
-            "blog.ad": "INACTIVE",
-            "blog.ads": "INACTIVE",
-            "blog.adult": "INACTIVE",
-            "blog.aeg": "INACTIVE",
-            "blog.afamilycompany": "INACTIVE",
-            "blog.afl": "INACTIVE",
-            "blog.agakhan": "INACTIVE",
-            "blog.aig": "INACTIVE",
-            "blog.aigo": "INACTIVE",
-            "blog.airbus": "INACTIVE",
-            "blog.airforce": "INACTIVE",
-            "blog.airtel": "INACTIVE",
-            "blog.akdn": "INACTIVE",
-            "blog.alfaromeo": "INACTIVE",
-            "blog.alibaba": "INACTIVE",
-            "blog.alipay": "INACTIVE",
-            "blog.allfinanz": "INACTIVE",
-            "blog.allstate": "INACTIVE",
-            "blog.ally": "INACTIVE",
-            "blog.alsace": "INACTIVE",
-            "blog.alstom": "INACTIVE",
-            "blog.americanexpress": "INACTIVE",
-            "blog.americanfamily": "INACTIVE",
-            "blog.amex": "INACTIVE",
-            "blog.amfam": "INACTIVE",
-            "blog.amica": "INACTIVE",
-            "blog.analytics": "INACTIVE",
-            "blog.android": "INACTIVE",
-            "blog.anquan": "INACTIVE",
             "blog.anz": "INACTIVE",
             "blog.ao": "INACTIVE",
             "blog.aol": "INACTIVE",
@@ -28569,6 +28422,339 @@
         },
         "1574490786": {
             "android.xn--czrs0t": "INACTIVE"
+        },
+        "1574491917": {
+            "android.xn--czru2d": "INACTIVE"
+        },
+        "1574491918": {
+            "android.xn--d1acj3b": "INACTIVE"
+        },
+        "1574491919": {
+            "android.xn--d1alf": "INACTIVE",
+            "android.xn--e1a4c": "INACTIVE"
+        },
+        "1574491920": {
+            "android.xn--eckvdtc9d": "INACTIVE",
+            "android.xn--efvy88h": "INACTIVE"
+        },
+        "1574491922": {
+            "android.xn--estv75g": "INACTIVE"
+        },
+        "1574491923": {
+            "android.xn--fhbei": "INACTIVE",
+            "android.xn--fiq64b": "INACTIVE"
+        },
+        "1574491924": {
+            "android.xn--fjq720a": "INACTIVE"
+        },
+        "1574491925": {
+            "android.xn--flw351e": "INACTIVE",
+            "android.xn--fpcrj9c3d": "INACTIVE"
+        },
+        "1574491935": {
+            "android.xn--fzc2c9e2c": "INACTIVE"
+        },
+        "1574491936": {
+            "android.xn--fzys8d69uvgm": "INACTIVE"
+        },
+        "1574491937": {
+            "android.xn--g2xx48c": "INACTIVE",
+            "android.xn--gecrj9c": "INACTIVE",
+            "android.xn--gk3at1e": "INACTIVE"
+        },
+        "1574491938": {
+            "android.xn--h2breg3eve": "INACTIVE",
+            "android.xn--h2brj9c": "INACTIVE",
+            "android.xn--h2brj9c8c": "INACTIVE"
+        },
+        "1574491939": {
+            "android.xn--i1b6b1a6a2e": "INACTIVE",
+            "android.xn--j1aef": "INACTIVE"
+        },
+        "1574491941": {
+            "android.xn--j1amh": "INACTIVE"
+        },
+        "1574491942": {
+            "android.xn--j6w193g": "INACTIVE"
+        },
+        "1574491943": {
+            "android.xn--jlq61u9w7b": "INACTIVE",
+            "android.xn--kcrx77d1x4a": "INACTIVE"
+        },
+        "1574491944": {
+            "android.xn--kpry57d": "INACTIVE"
+        },
+        "1574491945": {
+            "android.xn--kpu716f": "INACTIVE"
+        },
+        "1574491949": {
+            "android.xn--kput3i": "INACTIVE"
+        },
+        "1574491951": {
+            "android.xn--l1acc": "INACTIVE"
+        },
+        "1574491952": {
+            "android.xn--lgbbat1ad8j": "INACTIVE"
+        },
+        "1574491953": {
+            "android.xn--mgb9awbf": "INACTIVE",
+            "android.xn--mgba3a3ejt": "INACTIVE"
+        },
+        "1574491969": {
+            "android.xn--mgba3a4f16a": "INACTIVE",
+            "android.xn--mgba7c0bbn0a": "INACTIVE"
+        },
+        "1574491975": {
+            "android.xn--mgbaakc7dvf": "INACTIVE"
+        },
+        "1574491976": {
+            "android.xn--mgbaam7a8h": "INACTIVE",
+            "android.xn--mgbab2bd": "INACTIVE"
+        },
+        "1574491978": {
+            "android.xn--mgbah1a3hjkrd": "INACTIVE",
+            "android.xn--mgbai9azgqp6j": "INACTIVE"
+        },
+        "1574491979": {
+            "android.xn--mgbayh7gpa": "INACTIVE",
+            "android.xn--mgbbh1a": "INACTIVE",
+            "android.xn--mgbbh1a71e": "INACTIVE",
+            "android.xn--mgbc0a9azcg": "INACTIVE"
+        },
+        "1574491980": {
+            "android.xn--mgbca7dzdo": "INACTIVE"
+        },
+        "1574491999": {
+            "android.xn--mgberp4a5d4ar": "INACTIVE",
+            "android.xn--mgbgu82a": "INACTIVE",
+            "android.xn--mgbi4ecexp": "INACTIVE"
+        },
+        "1574492000": {
+            "android.xn--mgbpl2fh": "INACTIVE",
+            "android.xn--mgbt3dhd": "INACTIVE"
+        },
+        "1574492007": {
+            "android.xn--mgbtx2b": "INACTIVE"
+        },
+        "1574492012": {
+            "android.xn--mgbx4cd0ab": "INACTIVE"
+        },
+        "1574492014": {
+            "android.xn--mix891f": "INACTIVE"
+        },
+        "1574492015": {
+            "android.xn--mxtq1m": "INACTIVE",
+            "android.xn--ngbc5azd": "INACTIVE"
+        },
+        "1574492020": {
+            "android.xn--ngbe9e0a": "INACTIVE"
+        },
+        "1574492021": {
+            "android.xn--ngbrx": "INACTIVE"
+        },
+        "1574492023": {
+            "android.xn--node": "INACTIVE",
+            "android.xn--nqv7f": "INACTIVE"
+        },
+        "1574492026": {
+            "android.xn--nqv7fs00ema": "INACTIVE"
+        },
+        "1574492030": {
+            "android.xn--o3cw4h": "INACTIVE"
+        },
+        "1574492035": {
+            "android.xn--ogbpf8fl": "INACTIVE"
+        },
+        "1574492037": {
+            "android.xn--p1acf": "INACTIVE"
+        },
+        "1574492038": {
+            "android.xn--p1ai": "INACTIVE",
+            "android.xn--pbt977c": "INACTIVE",
+            "android.xn--pgbs0dh": "INACTIVE"
+        },
+        "1574492039": {
+            "android.xn--pssy2u": "INACTIVE",
+            "android.xn--qcka1pmc": "INACTIVE"
+        },
+        "1574492040": {
+            "android.xn--qxa6a": "INACTIVE",
+            "android.xn--qxam": "INACTIVE"
+        },
+        "1574492041": {
+            "android.xn--rvc1e0am3e": "INACTIVE",
+            "android.xn--s9brj9c": "INACTIVE"
+        },
+        "1574492042": {
+            "android.xn--ses554g": "INACTIVE",
+            "android.xn--tiq49xqyj": "INACTIVE"
+        },
+        "1574492043": {
+            "android.xn--unup4y": "INACTIVE"
+        },
+        "1574492048": {
+            "android.xn--vermgensberater-ctb": "INACTIVE"
+        },
+        "1574492054": {
+            "android.xn--vermgensberatung-pwb": "INACTIVE",
+            "android.xn--vhquv": "INACTIVE",
+            "android.xn--w4r85el8fhu5dnra": "INACTIVE"
+        },
+        "1574492055": {
+            "android.xn--w4rs40l": "INACTIVE"
+        },
+        "1574492056": {
+            "android.xn--wgbh1c": "INACTIVE"
+        },
+        "1574492057": {
+            "android.xn--wgbl6a": "INACTIVE"
+        },
+        "1574492066": {
+            "android.xn--xkc2al3hye2a": "INACTIVE"
+        },
+        "1574492067": {
+            "android.xn--xkc2dl3a5ee0h": "INACTIVE",
+            "android.xn--y9a3aq": "INACTIVE"
+        },
+        "1574492069": {
+            "android.xn--yfro4i67o": "INACTIVE",
+            "android.xn--ygbi2ammx": "INACTIVE"
+        },
+        "1574492074": {
+            "android.xn--zfr164b": "INACTIVE"
+        },
+        "1574492075": {
+            "android.yachts": "INACTIVE",
+            "android.yahoo": "INACTIVE"
+        },
+        "1574492083": {
+            "android.yamaxun": "INACTIVE",
+            "android.yandex": "INACTIVE",
+            "android.ye": "INACTIVE"
+        },
+        "1574492084": {
+            "android.yodobashi": "INACTIVE"
+        },
+        "1574492088": {
+            "android.you": "INACTIVE",
+            "android.youtube": "INACTIVE"
+        },
+        "1574492089": {
+            "android.yun": "INACTIVE"
+        },
+        "1574492091": {
+            "android.za": "INACTIVE"
+        },
+        "1574492098": {
+            "android.zappos": "INACTIVE",
+            "android.zara": "INACTIVE",
+            "android.zero": "INACTIVE"
+        },
+        "1574492099": {
+            "android.zip": "INACTIVE",
+            "android.zm": "INACTIVE"
+        },
+        "1574492103": {
+            "android.zone": "INACTIVE"
+        },
+        "1574492109": {
+            "android.zuerich": "INACTIVE",
+            "android.zw": "INACTIVE",
+            "blog.aaa": "INACTIVE"
+        },
+        "1574492110": {
+            "blog.aarp": "INACTIVE",
+            "blog.abarth": "INACTIVE",
+            "blog.abb": "INACTIVE"
+        },
+        "1574492111": {
+            "blog.abbott": "INACTIVE",
+            "blog.abbvie": "INACTIVE",
+            "blog.abc": "INACTIVE"
+        },
+        "1574492112": {
+            "blog.able": "INACTIVE"
+        },
+        "1574492120": {
+            "blog.abogado": "INACTIVE"
+        },
+        "1574492121": {
+            "blog.abudhabi": "INACTIVE"
+        },
+        "1574492122": {
+            "blog.accenture": "INACTIVE",
+            "blog.accountant": "INACTIVE"
+        },
+        "1574492123": {
+            "blog.aco": "INACTIVE",
+            "blog.actor": "INACTIVE"
+        },
+        "1574492124": {
+            "blog.ad": "INACTIVE"
+        },
+        "1574492126": {
+            "blog.ads": "INACTIVE",
+            "blog.adult": "INACTIVE"
+        },
+        "1574492128": {
+            "blog.aeg": "INACTIVE"
+        },
+        "1574492129": {
+            "blog.afamilycompany": "INACTIVE",
+            "blog.afl": "INACTIVE"
+        },
+        "1574492130": {
+            "blog.agakhan": "INACTIVE",
+            "blog.aig": "INACTIVE"
+        },
+        "1574492131": {
+            "blog.aigo": "INACTIVE",
+            "blog.airbus": "INACTIVE",
+            "blog.airforce": "INACTIVE"
+        },
+        "1574492132": {
+            "blog.airtel": "INACTIVE",
+            "blog.akdn": "INACTIVE",
+            "blog.alfaromeo": "INACTIVE"
+        },
+        "1574492134": {
+            "blog.alibaba": "INACTIVE"
+        },
+        "1574492138": {
+            "blog.alipay": "INACTIVE"
+        },
+        "1574492143": {
+            "blog.allfinanz": "INACTIVE"
+        },
+        "1574492144": {
+            "blog.allstate": "INACTIVE"
+        },
+        "1574492148": {
+            "blog.ally": "INACTIVE"
+        },
+        "1574492149": {
+            "blog.alsace": "INACTIVE"
+        },
+        "1574492150": {
+            "blog.alstom": "INACTIVE"
+        },
+        "1574492151": {
+            "blog.americanexpress": "INACTIVE",
+            "blog.americanfamily": "INACTIVE"
+        },
+        "1574492152": {
+            "blog.amex": "INACTIVE",
+            "blog.amfam": "INACTIVE"
+        },
+        "1574492153": {
+            "blog.amica": "INACTIVE"
+        },
+        "1574492158": {
+            "blog.analytics": "INACTIVE",
+            "blog.android": "INACTIVE"
+        },
+        "1574492174": {
+            "blog.anquan": "INACTIVE"
         }
     }
 }
