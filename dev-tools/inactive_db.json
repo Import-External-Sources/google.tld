@@ -1,19 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.hoteles": "INACTIVE",
-            "blog.hotels": "INACTIVE",
-            "blog.hotmail": "INACTIVE",
-            "blog.how": "INACTIVE",
-            "blog.hsbc": "INACTIVE",
-            "blog.ht": "INACTIVE",
-            "blog.hughes": "INACTIVE",
-            "blog.hyatt": "INACTIVE",
-            "blog.hyundai": "INACTIVE",
-            "blog.ibm": "INACTIVE",
-            "blog.icbc": "INACTIVE",
-            "blog.ice": "INACTIVE",
-            "blog.icu": "INACTIVE",
             "blog.ie": "INACTIVE",
             "blog.ieee": "INACTIVE",
             "blog.ifm": "INACTIVE",
@@ -30612,6 +30599,43 @@
         },
         "1574534508": {
             "blog.hot": "INACTIVE"
+        },
+        "1574557829": {
+            "android.hiphop": "INACTIVE"
+        },
+        "1574557834": {
+            "android.hiv": "INACTIVE"
+        },
+        "1574558190": {
+            "blog.hoteles": "INACTIVE"
+        },
+        "1574558191": {
+            "blog.hotels": "INACTIVE",
+            "blog.hotmail": "INACTIVE"
+        },
+        "1574558192": {
+            "blog.how": "INACTIVE"
+        },
+        "1574558196": {
+            "blog.hsbc": "INACTIVE",
+            "blog.ht": "INACTIVE"
+        },
+        "1574558200": {
+            "blog.hughes": "INACTIVE"
+        },
+        "1574558201": {
+            "blog.hyatt": "INACTIVE"
+        },
+        "1574558202": {
+            "blog.hyundai": "INACTIVE",
+            "blog.ibm": "INACTIVE"
+        },
+        "1574558205": {
+            "blog.icbc": "INACTIVE",
+            "blog.ice": "INACTIVE"
+        },
+        "1574558210": {
+            "blog.icu": "INACTIVE"
         }
     }
 }
