@@ -1,42 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.ie": "INACTIVE",
-            "blog.ieee": "INACTIVE",
-            "blog.ifm": "INACTIVE",
-            "blog.ikano": "INACTIVE",
-            "blog.il": "INACTIVE",
-            "blog.imamat": "INACTIVE",
-            "blog.imdb": "INACTIVE",
-            "blog.inc": "INACTIVE",
-            "blog.industries": "INACTIVE",
-            "blog.infiniti": "INACTIVE",
-            "blog.ing": "INACTIVE",
-            "blog.ink": "INACTIVE",
-            "blog.insurance": "INACTIVE",
-            "blog.int": "INACTIVE",
-            "blog.intel": "INACTIVE",
-            "blog.intuit": "INACTIVE",
-            "blog.ipiranga": "INACTIVE",
-            "blog.iq": "INACTIVE",
-            "blog.ismaili": "INACTIVE",
-            "blog.itau": "INACTIVE",
-            "blog.itv": "INACTIVE",
-            "blog.iveco": "INACTIVE",
-            "blog.jaguar": "INACTIVE",
-            "blog.java": "INACTIVE",
-            "blog.jcb": "INACTIVE",
-            "blog.jcp": "INACTIVE",
-            "blog.jeep": "INACTIVE",
-            "blog.jio": "INACTIVE",
-            "blog.jll": "INACTIVE",
-            "blog.jm": "INACTIVE",
-            "blog.jmp": "INACTIVE",
-            "blog.jnj": "INACTIVE",
-            "blog.jo": "INACTIVE",
-            "blog.joburg": "INACTIVE",
-            "blog.jot": "INACTIVE",
-            "blog.joy": "INACTIVE",
             "blog.jpmorgan": "INACTIVE",
             "blog.jprs": "INACTIVE",
             "blog.juegos": "INACTIVE",
@@ -30636,6 +30600,89 @@
         },
         "1574558210": {
             "blog.icu": "INACTIVE"
+        },
+        "1574644551": {
+            "blog.ieee": "INACTIVE"
+        },
+        "1574644552": {
+            "blog.ifm": "INACTIVE"
+        },
+        "1574644553": {
+            "blog.ikano": "INACTIVE"
+        },
+        "1574644583": {
+            "blog.il": "INACTIVE"
+        },
+        "1574644584": {
+            "blog.imamat": "INACTIVE"
+        },
+        "1574644586": {
+            "blog.imdb": "INACTIVE"
+        },
+        "1574644587": {
+            "blog.inc": "INACTIVE"
+        },
+        "1574644588": {
+            "blog.industries": "INACTIVE",
+            "blog.infiniti": "INACTIVE"
+        },
+        "1574644589": {
+            "blog.ing": "INACTIVE"
+        },
+        "1574644594": {
+            "blog.ink": "INACTIVE"
+        },
+        "1574644595": {
+            "blog.insurance": "INACTIVE"
+        },
+        "1574644599": {
+            "blog.int": "INACTIVE",
+            "blog.intel": "INACTIVE"
+        },
+        "1574644600": {
+            "blog.intuit": "INACTIVE",
+            "blog.ipiranga": "INACTIVE"
+        },
+        "1574644607": {
+            "blog.iq": "INACTIVE"
+        },
+        "1574644613": {
+            "blog.ismaili": "INACTIVE"
+        },
+        "1574644623": {
+            "blog.itau": "INACTIVE",
+            "blog.itv": "INACTIVE"
+        },
+        "1574644625": {
+            "blog.iveco": "INACTIVE",
+            "blog.jaguar": "INACTIVE",
+            "blog.java": "INACTIVE"
+        },
+        "1574644626": {
+            "blog.jcb": "INACTIVE",
+            "blog.jcp": "INACTIVE"
+        },
+        "1574644627": {
+            "blog.jeep": "INACTIVE"
+        },
+        "1574644630": {
+            "blog.jio": "INACTIVE",
+            "blog.jll": "INACTIVE",
+            "blog.jm": "INACTIVE"
+        },
+        "1574644631": {
+            "blog.jmp": "INACTIVE",
+            "blog.jnj": "INACTIVE",
+            "blog.jo": "INACTIVE"
+        },
+        "1574644632": {
+            "blog.joburg": "INACTIVE"
+        },
+        "1574644635": {
+            "blog.jot": "INACTIVE"
+        },
+        "1574644637": {
+            "blog.joy": "INACTIVE"
         }
     }
 }
