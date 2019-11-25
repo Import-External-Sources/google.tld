@@ -7605,22 +7605,22 @@
         "state": "future"
     },
     "blog.lotto": {
-        "epoch": 1469059200,
+        "epoch": 1469059200.0,
         "expiration_date": "21-jul-2016",
         "state": "past"
     },
     "blog.lt": {
-        "epoch": 1577750400,
+        "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "blog.ltd": {
-        "epoch": 1687392000,
+        "epoch": 1687392000.0,
         "expiration_date": "22-jun-2023",
         "state": "future"
     },
     "blog.ltda": {
-        "epoch": 1601683200,
+        "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
         "state": "future"
     },

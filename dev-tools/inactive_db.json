@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.lotte": "INACTIVE",
-            "blog.love": "INACTIVE",
-            "blog.lpl": "INACTIVE",
-            "blog.lplfinancial": "INACTIVE",
-            "blog.lr": "INACTIVE",
-            "blog.ls": "INACTIVE",
-            "blog.lundbeck": "INACTIVE",
-            "blog.lupin": "INACTIVE",
-            "blog.luxe": "INACTIVE",
-            "blog.luxury": "INACTIVE",
-            "blog.lv": "INACTIVE",
             "blog.macys": "INACTIVE",
             "blog.madrid": "INACTIVE",
             "blog.maif": "INACTIVE",
@@ -30763,6 +30752,37 @@
         },
         "1574648770": {
             "blog.london": "INACTIVE"
+        },
+        "1574650103": {
+            "blog.lotte": "INACTIVE"
+        },
+        "1574650109": {
+            "blog.love": "INACTIVE"
+        },
+        "1574650114": {
+            "blog.lpl": "INACTIVE"
+        },
+        "1574650119": {
+            "blog.lplfinancial": "INACTIVE"
+        },
+        "1574650120": {
+            "blog.lr": "INACTIVE"
+        },
+        "1574650121": {
+            "blog.ls": "INACTIVE"
+        },
+        "1574650123": {
+            "blog.lundbeck": "INACTIVE",
+            "blog.lupin": "INACTIVE"
+        },
+        "1574650148": {
+            "blog.luxe": "INACTIVE"
+        },
+        "1574650149": {
+            "blog.luxury": "INACTIVE"
+        },
+        "1574650174": {
+            "blog.lv": "INACTIVE"
         }
     }
 }
