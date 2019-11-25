@@ -1,19 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.osaka": "INACTIVE",
-            "blog.otsuka": "INACTIVE",
-            "blog.ott": "INACTIVE",
-            "blog.ovh": "INACTIVE",
-            "blog.pa": "INACTIVE",
-            "blog.panasonic": "INACTIVE",
-            "blog.paris": "INACTIVE",
-            "blog.pars": "INACTIVE",
-            "blog.party": "INACTIVE",
-            "blog.passagens": "INACTIVE",
-            "blog.pay": "INACTIVE",
-            "blog.pccw": "INACTIVE",
-            "blog.pe": "INACTIVE",
             "blog.pf": "INACTIVE",
             "blog.pfizer": "INACTIVE",
             "blog.pg": "INACTIVE",
@@ -30919,6 +30906,41 @@
         },
         "1574654263": {
             "blog.origins": "INACTIVE"
+        },
+        "1574655613": {
+            "blog.osaka": "INACTIVE"
+        },
+        "1574655614": {
+            "blog.otsuka": "INACTIVE"
+        },
+        "1574655618": {
+            "blog.ott": "INACTIVE"
+        },
+        "1574655619": {
+            "blog.ovh": "INACTIVE",
+            "blog.pa": "INACTIVE"
+        },
+        "1574655620": {
+            "blog.panasonic": "INACTIVE"
+        },
+        "1574655626": {
+            "blog.paris": "INACTIVE"
+        },
+        "1574655627": {
+            "blog.pars": "INACTIVE"
+        },
+        "1574655628": {
+            "blog.party": "INACTIVE",
+            "blog.passagens": "INACTIVE"
+        },
+        "1574655629": {
+            "blog.pay": "INACTIVE"
+        },
+        "1574655631": {
+            "blog.pccw": "INACTIVE"
+        },
+        "1574655640": {
+            "blog.pe": "INACTIVE"
         }
     }
 }
