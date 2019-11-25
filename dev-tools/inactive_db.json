@@ -1,51 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.ky": "INACTIVE",
-            "blog.kyoto": "INACTIVE",
-            "blog.lacaixa": "INACTIVE",
-            "blog.ladbrokes": "INACTIVE",
-            "blog.lamborghini": "INACTIVE",
-            "blog.lamer": "INACTIVE",
-            "blog.lancaster": "INACTIVE",
-            "blog.lancia": "INACTIVE",
-            "blog.lancome": "INACTIVE",
-            "blog.landrover": "INACTIVE",
-            "blog.lanxess": "INACTIVE",
-            "blog.lasalle": "INACTIVE",
-            "blog.lat": "INACTIVE",
-            "blog.latino": "INACTIVE",
-            "blog.latrobe": "INACTIVE",
-            "blog.lawyer": "INACTIVE",
-            "blog.lb": "INACTIVE",
-            "blog.lds": "INACTIVE",
-            "blog.leclerc": "INACTIVE",
-            "blog.lefrak": "INACTIVE",
-            "blog.lego": "INACTIVE",
-            "blog.lexus": "INACTIVE",
-            "blog.lgbt": "INACTIVE",
-            "blog.liaison": "INACTIVE",
-            "blog.lidl": "INACTIVE",
-            "blog.lifeinsurance": "INACTIVE",
-            "blog.lifestyle": "INACTIVE",
-            "blog.like": "INACTIVE",
-            "blog.lilly": "INACTIVE",
-            "blog.limited": "INACTIVE",
-            "blog.limo": "INACTIVE",
-            "blog.lincoln": "INACTIVE",
-            "blog.linde": "INACTIVE",
-            "blog.lipsy": "INACTIVE",
-            "blog.live": "INACTIVE",
-            "blog.living": "INACTIVE",
-            "blog.lixil": "INACTIVE",
-            "blog.lk": "INACTIVE",
-            "blog.llc": "INACTIVE",
-            "blog.loan": "INACTIVE",
-            "blog.locker": "INACTIVE",
-            "blog.locus": "INACTIVE",
-            "blog.loft": "INACTIVE",
-            "blog.lol": "INACTIVE",
-            "blog.london": "INACTIVE",
             "blog.lotte": "INACTIVE",
             "blog.love": "INACTIVE",
             "blog.lpl": "INACTIVE",
@@ -30717,6 +30672,97 @@
         },
         "1574647359": {
             "blog.kw": "INACTIVE"
+        },
+        "1574648685": {
+            "blog.ky": "INACTIVE",
+            "blog.kyoto": "INACTIVE"
+        },
+        "1574648689": {
+            "blog.lacaixa": "INACTIVE",
+            "blog.ladbrokes": "INACTIVE",
+            "blog.lamborghini": "INACTIVE"
+        },
+        "1574648690": {
+            "blog.lamer": "INACTIVE",
+            "blog.lancaster": "INACTIVE"
+        },
+        "1574648691": {
+            "blog.lancia": "INACTIVE",
+            "blog.lancome": "INACTIVE",
+            "blog.landrover": "INACTIVE"
+        },
+        "1574648692": {
+            "blog.lanxess": "INACTIVE",
+            "blog.lasalle": "INACTIVE",
+            "blog.lat": "INACTIVE"
+        },
+        "1574648698": {
+            "blog.latino": "INACTIVE",
+            "blog.latrobe": "INACTIVE"
+        },
+        "1574648703": {
+            "blog.lawyer": "INACTIVE",
+            "blog.lb": "INACTIVE"
+        },
+        "1574648705": {
+            "blog.lds": "INACTIVE"
+        },
+        "1574648708": {
+            "blog.leclerc": "INACTIVE",
+            "blog.lefrak": "INACTIVE"
+        },
+        "1574648709": {
+            "blog.lego": "INACTIVE",
+            "blog.lexus": "INACTIVE"
+        },
+        "1574648710": {
+            "blog.lgbt": "INACTIVE"
+        },
+        "1574648711": {
+            "blog.liaison": "INACTIVE"
+        },
+        "1574648716": {
+            "blog.lidl": "INACTIVE",
+            "blog.lifeinsurance": "INACTIVE"
+        },
+        "1574648717": {
+            "blog.lifestyle": "INACTIVE",
+            "blog.like": "INACTIVE"
+        },
+        "1574648718": {
+            "blog.lilly": "INACTIVE",
+            "blog.limited": "INACTIVE",
+            "blog.limo": "INACTIVE"
+        },
+        "1574648719": {
+            "blog.lincoln": "INACTIVE",
+            "blog.linde": "INACTIVE"
+        },
+        "1574648720": {
+            "blog.lipsy": "INACTIVE",
+            "blog.live": "INACTIVE",
+            "blog.living": "INACTIVE"
+        },
+        "1574648721": {
+            "blog.lixil": "INACTIVE"
+        },
+        "1574648731": {
+            "blog.lk": "INACTIVE",
+            "blog.llc": "INACTIVE",
+            "blog.loan": "INACTIVE"
+        },
+        "1574648732": {
+            "blog.locker": "INACTIVE"
+        },
+        "1574648734": {
+            "blog.locus": "INACTIVE"
+        },
+        "1574648735": {
+            "blog.loft": "INACTIVE",
+            "blog.lol": "INACTIVE"
+        },
+        "1574648770": {
+            "blog.london": "INACTIVE"
         }
     }
 }

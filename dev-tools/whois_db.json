@@ -7555,52 +7555,52 @@
         "state": "future"
     },
     "blog.la": {
-        "epoch": 1606953600,
+        "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "blog.land": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "blog.law": {
-        "epoch": 1817424000,
+        "epoch": 1817424000.0,
         "expiration_date": "05-aug-2027",
         "state": "future"
     },
     "blog.lc": {
-        "epoch": 1574467200,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "blog.lease": {
-        "epoch": 1585612800,
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "blog.legal": {
-        "epoch": 1589328000,
+        "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
         "state": "future"
     },
     "blog.life": {
-        "epoch": 1599177600,
+        "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "blog.lighting": {
-        "epoch": 1631664000,
+        "epoch": 1631664000.0,
         "expiration_date": "15-sep-2021",
         "state": "future"
     },
     "blog.link": {
-        "epoch": 1588982400,
+        "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
         "state": "future"
     },
     "blog.loans": {
-        "epoch": 1592784000,
+        "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
