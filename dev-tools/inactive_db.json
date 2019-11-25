@@ -1,21 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.post": "INACTIVE",
-            "blog.pr": "INACTIVE",
-            "blog.pramerica": "INACTIVE",
-            "blog.praxi": "INACTIVE",
-            "blog.prime": "INACTIVE",
-            "blog.prod": "INACTIVE",
-            "blog.prof": "INACTIVE",
-            "blog.progressive": "INACTIVE",
-            "blog.property": "INACTIVE",
-            "blog.protection": "INACTIVE",
-            "blog.pru": "INACTIVE",
-            "blog.prudential": "INACTIVE",
-            "blog.ps": "INACTIVE",
-            "blog.pwc": "INACTIVE",
-            "blog.py": "INACTIVE",
             "blog.qa": "INACTIVE",
             "blog.qpon": "INACTIVE",
             "blog.quebec": "INACTIVE",
@@ -30965,6 +30950,36 @@
         "1574657015": {
             "blog.pohl": "INACTIVE",
             "blog.poker": "INACTIVE"
+        },
+        "1574658377": {
+            "blog.post": "INACTIVE"
+        },
+        "1574658378": {
+            "blog.pr": "INACTIVE",
+            "blog.pramerica": "INACTIVE"
+        },
+        "1574658379": {
+            "blog.praxi": "INACTIVE",
+            "blog.prime": "INACTIVE"
+        },
+        "1574658380": {
+            "blog.prod": "INACTIVE",
+            "blog.prof": "INACTIVE",
+            "blog.progressive": "INACTIVE"
+        },
+        "1574658381": {
+            "blog.property": "INACTIVE"
+        },
+        "1574658388": {
+            "blog.protection": "INACTIVE",
+            "blog.pru": "INACTIVE"
+        },
+        "1574658389": {
+            "blog.prudential": "INACTIVE"
+        },
+        "1574658398": {
+            "blog.pwc": "INACTIVE",
+            "blog.py": "INACTIVE"
         }
     }
 }

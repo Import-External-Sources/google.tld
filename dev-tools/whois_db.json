@@ -7774,6 +7774,11 @@
         "expiration_date": "10-mar-2017",
         "state": "past"
     },
+    "blog.online": {
+        "epoch": 1585785600.0,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
     "blog.org": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -7845,42 +7850,52 @@
         "state": "future"
     },
     "blog.porn": {
-        "epoch": 1591228800,
+        "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "blog.press": {
-        "epoch": 1585785600,
+        "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "blog.pro": {
-        "epoch": 1582243200,
+        "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "blog.productions": {
-        "epoch": 1587600000,
+        "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
     "blog.promo": {
-        "epoch": 1492041600,
+        "epoch": 1492041600.0,
         "expiration_date": "13-apr-2017",
         "state": "past"
     },
     "blog.properties": {
-        "epoch": 1590364800,
+        "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "blog.ps": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "blog.pt": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "blog.pub": {
-        "epoch": 1578960000,
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "blog.pw": {
-        "epoch": 1585612800,
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
