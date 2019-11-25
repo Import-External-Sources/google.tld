@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.kitchen": "INACTIVE",
-            "blog.km": "INACTIVE",
-            "blog.kn": "INACTIVE",
-            "blog.komatsu": "INACTIVE",
-            "blog.kosher": "INACTIVE",
-            "blog.kp": "INACTIVE",
-            "blog.kpmg": "INACTIVE",
-            "blog.kpn": "INACTIVE",
-            "blog.krd": "INACTIVE",
-            "blog.kuokgroup": "INACTIVE",
-            "blog.kw": "INACTIVE",
             "blog.ky": "INACTIVE",
             "blog.kyoto": "INACTIVE",
             "blog.lacaixa": "INACTIVE",
@@ -30703,6 +30692,31 @@
         },
         "1574645984": {
             "blog.kindle": "INACTIVE"
+        },
+        "1574647300": {
+            "blog.kitchen": "INACTIVE"
+        },
+        "1574647301": {
+            "blog.km": "INACTIVE",
+            "blog.kn": "INACTIVE"
+        },
+        "1574647302": {
+            "blog.komatsu": "INACTIVE",
+            "blog.kosher": "INACTIVE"
+        },
+        "1574647321": {
+            "blog.kp": "INACTIVE",
+            "blog.kpmg": "INACTIVE"
+        },
+        "1574647326": {
+            "blog.kpn": "INACTIVE"
+        },
+        "1574647327": {
+            "blog.krd": "INACTIVE",
+            "blog.kuokgroup": "INACTIVE"
+        },
+        "1574647359": {
+            "blog.kw": "INACTIVE"
         }
     }
 }
