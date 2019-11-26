@@ -7930,17 +7930,17 @@
         "state": "future"
     },
     "blog.rentals": {
-        "epoch": 1590364800,
+        "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
         "state": "future"
     },
     "blog.repair": {
-        "epoch": 1579996800,
+        "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "blog.report": {
-        "epoch": 1597017600,
+        "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
