@@ -1,11 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.redstone": "INACTIVE",
-            "blog.redumbrella": "INACTIVE",
-            "blog.rehab": "INACTIVE",
-            "blog.reit": "INACTIVE",
-            "blog.reliance": "INACTIVE",
             "blog.ren": "INACTIVE",
             "blog.rent": "INACTIVE",
             "blog.republican": "INACTIVE",
@@ -30994,6 +30989,20 @@
         },
         "1574732376": {
             "blog.realty": "INACTIVE"
+        },
+        "1574733701": {
+            "blog.redstone": "INACTIVE"
+        },
+        "1574733702": {
+            "blog.redumbrella": "INACTIVE",
+            "blog.rehab": "INACTIVE",
+            "blog.reise": "INACTIVE"
+        },
+        "1574733709": {
+            "blog.reit": "INACTIVE"
+        },
+        "1574733710": {
+            "blog.reliance": "INACTIVE"
         }
     }
 }
