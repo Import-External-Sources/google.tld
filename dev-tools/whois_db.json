@@ -7900,12 +7900,12 @@
         "state": "future"
     },
     "blog.re": {
-        "epoch": 1578009600,
+        "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "blog.realestate": {
-        "epoch": 1668556800,
+        "epoch": 1668556800.0,
         "expiration_date": "16-nov-2022",
         "state": "future"
     },

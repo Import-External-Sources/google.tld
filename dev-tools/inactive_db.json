@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.qa": "INACTIVE",
-            "blog.qpon": "INACTIVE",
-            "blog.quebec": "INACTIVE",
-            "blog.quest": "INACTIVE",
-            "blog.qvc": "INACTIVE",
-            "blog.racing": "INACTIVE",
-            "blog.radio": "INACTIVE",
-            "blog.raid": "INACTIVE",
-            "blog.read": "INACTIVE",
-            "blog.realtor": "INACTIVE",
-            "blog.realty": "INACTIVE",
             "blog.redstone": "INACTIVE",
             "blog.redumbrella": "INACTIVE",
             "blog.rehab": "INACTIVE",
@@ -30980,6 +30969,31 @@
         "1574658398": {
             "blog.pwc": "INACTIVE",
             "blog.py": "INACTIVE"
+        },
+        "1574731288": {
+            "abc.ba": "INACTIVE"
+        },
+        "1574732365": {
+            "blog.qpon": "INACTIVE"
+        },
+        "1574732366": {
+            "blog.quebec": "INACTIVE",
+            "blog.quest": "INACTIVE",
+            "blog.qvc": "INACTIVE"
+        },
+        "1574732367": {
+            "blog.racing": "INACTIVE",
+            "blog.radio": "INACTIVE"
+        },
+        "1574732368": {
+            "blog.raid": "INACTIVE"
+        },
+        "1574732370": {
+            "blog.read": "INACTIVE",
+            "blog.realtor": "INACTIVE"
+        },
+        "1574732376": {
+            "blog.realty": "INACTIVE"
         }
     }
 }
