@@ -1,8 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.ren": "INACTIVE",
-            "blog.rent": "INACTIVE",
             "blog.republican": "INACTIVE",
             "blog.rest": "INACTIVE",
             "blog.reviews": "INACTIVE",
@@ -31003,6 +31001,12 @@
         },
         "1574733710": {
             "blog.reliance": "INACTIVE"
+        },
+        "1574735042": {
+            "blog.ren": "INACTIVE"
+        },
+        "1574735047": {
+            "blog.rent": "INACTIVE"
         }
     }
 }
