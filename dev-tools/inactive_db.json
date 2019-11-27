@@ -1,36 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.rogers": "INACTIVE",
-            "blog.room": "INACTIVE",
-            "blog.rsvp": "INACTIVE",
-            "blog.rugby": "INACTIVE",
-            "blog.rw": "INACTIVE",
-            "blog.rwe": "INACTIVE",
-            "blog.saarland": "INACTIVE",
-            "blog.safe": "INACTIVE",
-            "blog.safety": "INACTIVE",
-            "blog.sakura": "INACTIVE",
-            "blog.sale": "INACTIVE",
-            "blog.samsclub": "INACTIVE",
-            "blog.samsung": "INACTIVE",
-            "blog.sandvik": "INACTIVE",
-            "blog.sandvikcoromant": "INACTIVE",
-            "blog.sanofi": "INACTIVE",
-            "blog.sap": "INACTIVE",
-            "blog.sarl": "INACTIVE",
-            "blog.sas": "INACTIVE",
-            "blog.save": "INACTIVE",
-            "blog.saxo": "INACTIVE",
-            "blog.sbi": "INACTIVE",
-            "blog.sbs": "INACTIVE",
-            "blog.sca": "INACTIVE",
-            "blog.scb": "INACTIVE",
-            "blog.schaeffler": "INACTIVE",
-            "blog.schmidt": "INACTIVE",
-            "blog.scholarships": "INACTIVE",
-            "blog.schule": "INACTIVE",
-            "blog.schwarz": "INACTIVE",
             "blog.science": "INACTIVE",
             "blog.scjohnson": "INACTIVE",
             "blog.scor": "INACTIVE",
@@ -31033,6 +31003,78 @@
         },
         "1574821416": {
             "blog.ir": "INACTIVE"
+        },
+        "1574822759": {
+            "blog.rogers": "INACTIVE"
+        },
+        "1574822761": {
+            "blog.room": "INACTIVE"
+        },
+        "1574822762": {
+            "blog.rsvp": "INACTIVE"
+        },
+        "1574822769": {
+            "blog.rugby": "INACTIVE"
+        },
+        "1574822770": {
+            "blog.rw": "INACTIVE"
+        },
+        "1574822771": {
+            "blog.rwe": "INACTIVE"
+        },
+        "1574822780": {
+            "blog.saarland": "INACTIVE",
+            "blog.safe": "INACTIVE"
+        },
+        "1574822781": {
+            "blog.safety": "INACTIVE"
+        },
+        "1574822787": {
+            "blog.sakura": "INACTIVE"
+        },
+        "1574822788": {
+            "blog.sale": "INACTIVE",
+            "blog.samsclub": "INACTIVE"
+        },
+        "1574822790": {
+            "blog.samsung": "INACTIVE",
+            "blog.sandvik": "INACTIVE"
+        },
+        "1574822791": {
+            "blog.sandvikcoromant": "INACTIVE",
+            "blog.sanofi": "INACTIVE"
+        },
+        "1574822792": {
+            "blog.sap": "INACTIVE"
+        },
+        "1574822793": {
+            "blog.sarl": "INACTIVE",
+            "blog.sas": "INACTIVE",
+            "blog.save": "INACTIVE"
+        },
+        "1574822794": {
+            "blog.saxo": "INACTIVE"
+        },
+        "1574822798": {
+            "blog.sbi": "INACTIVE"
+        },
+        "1574822799": {
+            "blog.sbs": "INACTIVE",
+            "blog.sca": "INACTIVE"
+        },
+        "1574822803": {
+            "blog.scb": "INACTIVE",
+            "blog.schaeffler": "INACTIVE"
+        },
+        "1574822804": {
+            "blog.schmidt": "INACTIVE"
+        },
+        "1574822806": {
+            "blog.scholarships": "INACTIVE",
+            "blog.schule": "INACTIVE"
+        },
+        "1574822814": {
+            "blog.schwarz": "INACTIVE"
         }
     }
 }
