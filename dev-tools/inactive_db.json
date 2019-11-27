@@ -1,12 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.ril": "INACTIVE",
-            "blog.rio": "INACTIVE",
-            "blog.rip": "INACTIVE",
-            "blog.rmit": "INACTIVE",
-            "blog.rocher": "INACTIVE",
-            "blog.rodeo": "INACTIVE",
             "blog.rogers": "INACTIVE",
             "blog.room": "INACTIVE",
             "blog.rsvp": "INACTIVE",
@@ -31022,6 +31016,20 @@
         "1574818787": {
             "blog.ricoh": "INACTIVE",
             "blog.rightathome": "INACTIVE"
+        },
+        "1574820104": {
+            "blog.ril": "INACTIVE"
+        },
+        "1574820106": {
+            "blog.rio": "INACTIVE",
+            "blog.rip": "INACTIVE",
+            "blog.rmit": "INACTIVE"
+        },
+        "1574820107": {
+            "blog.rocher": "INACTIVE"
+        },
+        "1574820133": {
+            "blog.rodeo": "INACTIVE"
         }
     }
 }

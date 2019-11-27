@@ -7960,13 +7960,13 @@
         "state": "future"
     },
     "blog.ro": {
-        "epoch": 1853366400,
+        "epoch": 1853366400.0,
         "expiration_date": "24-sep-2028",
         "state": "future"
     },
     "blog.rocks": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "blog.rs": {
@@ -8677,6 +8677,11 @@
     "blogger.center": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "blogger.ceo": {
+        "epoch": 1580601600.0,
+        "expiration_date": "02-feb-2020",
         "state": "future"
     },
     "blogger.cf": {
