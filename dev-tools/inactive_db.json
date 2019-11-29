@@ -1,16 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.sncf": "INACTIVE",
-            "blog.softbank": "INACTIVE",
-            "blog.software": "INACTIVE",
-            "blog.sohu": "INACTIVE",
-            "blog.song": "INACTIVE",
-            "blog.sony": "INACTIVE",
-            "blog.soy": "INACTIVE",
-            "blog.space": "INACTIVE",
-            "blog.sport": "INACTIVE",
-            "blog.spot": "INACTIVE",
             "blog.spreadbetting": "INACTIVE",
             "blog.sr": "INACTIVE",
             "blog.srt": "INACTIVE",
@@ -310,10 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.aaa": "INACTIVE",
-            "blogspot.aarp": "INACTIVE",
-            "blogspot.abarth": "INACTIVE",
-            "blogspot.abb": "INACTIVE",
             "blogspot.abbott": "INACTIVE",
             "blogspot.abbvie": "INACTIVE",
             "blogspot.abc": "INACTIVE",
@@ -31122,6 +31108,42 @@
         },
         "1574990284": {
             "blog.sn": "INACTIVE"
+        },
+        "1574991601": {
+            "blog.sncf": "INACTIVE"
+        },
+        "1574991602": {
+            "blog.softbank": "INACTIVE"
+        },
+        "1574991603": {
+            "blog.software": "INACTIVE"
+        },
+        "1574991604": {
+            "blog.sohu": "INACTIVE"
+        },
+        "1574991605": {
+            "blog.song": "INACTIVE"
+        },
+        "1574991606": {
+            "blog.sony": "INACTIVE",
+            "blog.soy": "INACTIVE"
+        },
+        "1574991611": {
+            "blog.space": "INACTIVE"
+        },
+        "1574991612": {
+            "blog.sport": "INACTIVE"
+        },
+        "1574991614": {
+            "blog.spot": "INACTIVE"
+        },
+        "1574991615": {
+            "blogspot.aaa": "INACTIVE",
+            "blogspot.aarp": "INACTIVE",
+            "blogspot.abarth": "INACTIVE"
+        },
+        "1574991616": {
+            "blogspot.abb": "INACTIVE"
         }
     }
 }

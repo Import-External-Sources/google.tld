@@ -8080,27 +8080,27 @@
         "state": "past"
     },
     "blog.so": {
-        "epoch": 1595030400,
+        "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "blog.soccer": {
-        "epoch": 1615507200,
+        "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "blog.social": {
-        "epoch": 1575849600,
+        "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "blog.solar": {
-        "epoch": 1576281600,
+        "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
     "blog.solutions": {
-        "epoch": 1584403200,
+        "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
