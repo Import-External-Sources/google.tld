@@ -1825,8 +1825,8 @@
         "state": "future"
     },
     "abc.tl": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "abc.tm": {
@@ -5967,7 +5967,7 @@
     "android.net": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "android.news": {
         "epoch": 1593993600.0,

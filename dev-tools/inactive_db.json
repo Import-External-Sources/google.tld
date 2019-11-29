@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.sn": "INACTIVE",
             "blog.sncf": "INACTIVE",
             "blog.softbank": "INACTIVE",
             "blog.software": "INACTIVE",
@@ -31120,6 +31119,9 @@
         },
         "1574905994": {
             "blog.smile": "INACTIVE"
+        },
+        "1574990284": {
+            "blog.sn": "INACTIVE"
         }
     }
 }
