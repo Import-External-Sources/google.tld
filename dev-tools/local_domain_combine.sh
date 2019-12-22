@@ -18,15 +18,11 @@ done
 
 for i in "${c[@]}"
 do
-    printf "$i\n" >> "${TRAVIS_BUILD_DIR}/dev-tools/domain.test"
+    printf "$i\n" >> "dev-tools/domain.test"
 done
 
-sort -u -i -f "${TRAVIS_BUILD_DIR}/dev-tools/domain.test" -o "${TRAVIS_BUILD_DIR}/dev-tools/domain.test"
+sort -u -i -f "dev-tools/domain.test" -o "dev-tools/domain.test"
 
-rm ${TLD} ${OUTPUT}
-
-#bash ${TRAVIS_BUILD_DIR}/dev-tools/PrepareTravis.sh
-
-#bash ${TRAVIS_BUILD_DIR}/dev-tools/DataTesting.sh
+rm ${TLD}
 
 exit ${?}
