@@ -1,1 +1,1 @@
-PyFunceble>=2.2.0
+PyFunceble-dev>=2.5.3
