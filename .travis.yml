@@ -31,7 +31,7 @@ addons:
 
 install:
   - pip3 install --upgrade pip
-  - pip3 install PyFunceble-dev
+  - pip3 install PyFunceble==3.0.0 #-dev
   - pip3 install ultimate-hosts-blacklist-whitelist
 
 git:
