@@ -24,7 +24,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-   PyFunceble --ci -ex -dbr 30 --dns 127.0.0.1 --http -h --plain \
+   PyFunceble --ci -q -ex -dbr 30 --dns 127.0.0.1 --http -h --plain \
         --autosave-minutes 20 \
         --ci-branch  master \
         --ci-distribution-branch master \
