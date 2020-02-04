@@ -30,6 +30,6 @@ rm ${TLD} ${OUTPUT}
 
 #bash ${TRAVIS_BUILD_DIR}/dev-tools/PrepareTravis.sh
 
-#bash ${TRAVIS_BUILD_DIR}/dev-tools/DataTesting.sh
+bash ${TRAVIS_BUILD_DIR}/dev-tools/DataTesting.sh
 
 exit ${?}
