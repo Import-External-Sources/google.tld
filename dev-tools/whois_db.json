@@ -190,8 +190,8 @@
         "state": "future"
     },
     "abc.alsace": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
         "state": "future"
     },
     "abc.am": {
@@ -220,8 +220,8 @@
         "state": "future"
     },
     "abc.associates": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "abc.audio": {
@@ -290,8 +290,8 @@
         "state": "past"
     },
     "abc.black": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "abc.blue": {
@@ -315,8 +315,8 @@
         "state": "future"
     },
     "abc.brussels": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "abc.builders": {
@@ -375,8 +375,8 @@
         "state": "future"
     },
     "abc.career": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "abc.careers": {
@@ -405,8 +405,8 @@
         "state": "future"
     },
     "abc.cc": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "abc.center": {
@@ -425,19 +425,19 @@
         "state": "future"
     },
     "abc.chat": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "abc.church": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "abc.ci": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.city": {
         "epoch": 1603584000.0,
@@ -445,8 +445,8 @@
         "state": "future"
     },
     "abc.cl": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "abc.claims": {
@@ -519,6 +519,11 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "abc.community": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "abc.company": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -527,7 +532,7 @@
     "abc.computer": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abc.construction": {
         "epoch": 1602892800.0,
@@ -760,8 +765,8 @@
         "state": "future"
     },
     "abc.fan": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "abc.fans": {
@@ -770,8 +775,8 @@
         "state": "future"
     },
     "abc.farm": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "abc.fi": {
@@ -805,8 +810,8 @@
         "state": "future"
     },
     "abc.fitness": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "abc.flights": {
@@ -1105,14 +1110,14 @@
         "state": "future"
     },
     "abc.jewelry": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "abc.jobs": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.kim": {
         "epoch": 1587772800.0,
