@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
-rm domain.list
+if [ -f "${TRAVIS_BUILD_DIR}/domain.list" ]
+then
+    rm "${TRAVIS_BUILD_DIR}/domain.list"
+fi
 
 TLD=`(mktemp)`
 wget -qO- 'http://data.iana.org/TLD/tlds-alpha-by-domain.txt' | awk '/^#/{ next }; { printf("%s\n",tolower($1))}' > ${TLD}
