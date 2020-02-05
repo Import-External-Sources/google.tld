@@ -10184,14 +10184,19 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "blogger.science": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "blogger.scot": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "blogger.se": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "blogger.sex": {
@@ -10205,8 +10210,8 @@
         "state": "future"
     },
     "blogger.sg": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "blogger.ski": {
