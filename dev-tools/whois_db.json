@@ -7219,6 +7219,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "appspot.site": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "appspot.so": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
@@ -7414,6 +7419,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "blog.bingo": {
+        "epoch": 1670457600.0,
+        "expiration_date": "08-dec-2022",
+        "state": "future"
+    },
     "blog.bio": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -7425,8 +7435,8 @@
         "state": "future"
     },
     "blog.bj": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "blog.black": {
@@ -7455,8 +7465,8 @@
         "state": "future"
     },
     "blog.brussels": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "blog.builders": {
@@ -7467,6 +7477,11 @@
     "blog.business": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "blog.by": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "blog.ca": {
@@ -7505,8 +7520,8 @@
         "state": "future"
     },
     "blog.care": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "blog.career": {
