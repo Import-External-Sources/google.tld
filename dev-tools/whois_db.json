@@ -4725,8 +4725,8 @@
         "state": "future"
     },
     "adwords.net": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "adwords.news": {
@@ -4769,14 +4769,19 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "adwords.ooo": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "adwords.org": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "adwords.organic": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
         "state": "future"
     },
     "adwords.osaka": {
@@ -4790,8 +4795,8 @@
         "state": "future"
     },
     "adwords.party": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "adwords.pet": {
@@ -4820,8 +4825,8 @@
         "state": "future"
     },
     "adwords.poker": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "adwords.porn": {
@@ -4832,6 +4837,11 @@
     "adwords.pr": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "adwords.press": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "adwords.pro": {
@@ -4875,8 +4885,13 @@
         "state": "future"
     },
     "adwords.radio": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "adwords.realty": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "adwords.red": {
@@ -4914,19 +4929,34 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "adwords.rugby": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "adwords.ruhr": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "adwords.ryukyu": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "adwords.saarland": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "adwords.sb": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "adwords.science": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "adwords.scot": {
@@ -4935,8 +4965,8 @@
         "state": "future"
     },
     "adwords.se": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "adwords.sex": {
@@ -4950,8 +4980,8 @@
         "state": "future"
     },
     "adwords.sg": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "adwords.shiksha": {
@@ -4985,8 +5015,8 @@
         "state": "future"
     },
     "adwords.so": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "adwords.soy": {
@@ -4995,8 +5025,18 @@
         "state": "future"
     },
     "adwords.space": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "adwords.storage": {
+        "epoch": 1787097600.0,
+        "expiration_date": "19-aug-2026",
+        "state": "future"
+    },
+    "adwords.store": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "adwords.stream": {
@@ -5029,6 +5069,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "adwords.taipei": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "adwords.tatar": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -5049,6 +5094,16 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "adwords.tel": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "adwords.theatre": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "adwords.tickets": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -5060,8 +5115,8 @@
         "state": "future"
     },
     "adwords.tk": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "adwords.tl": {
@@ -5119,6 +5174,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "adwords.us": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "adwords.uz": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -5159,9 +5219,24 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "adwords.website": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "adwords.whoswho": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "adwords.wien": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "adwords.wiki": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "adwords.win": {
@@ -5170,13 +5245,13 @@
         "state": "future"
     },
     "adwords.xin": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "adwords.xn--1ck2e1b": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--1qqw23a": {
@@ -5210,18 +5285,18 @@
         "state": "future"
     },
     "adwords.xn--6qq986b3xl": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "adwords.xn--bck1b9a5dre4c": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--cck2b3b": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--czr694b": {
