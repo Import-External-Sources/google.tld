@@ -8304,6 +8304,11 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "blog.madrid": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "blog.maison": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -8330,8 +8335,8 @@
         "state": "future"
     },
     "blog.md": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "blog.me": {
