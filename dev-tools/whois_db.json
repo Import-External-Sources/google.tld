@@ -6389,9 +6389,14 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "android.press": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "android.pro": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "android.promo": {
@@ -6425,13 +6430,18 @@
         "state": "future"
     },
     "android.radio": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "android.re": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "android.realty": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "android.red": {
@@ -6475,13 +6485,18 @@
         "state": "future"
     },
     "android.ruhr": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "android.ryukyu": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "android.saarland": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "android.sb": {
@@ -6492,6 +6507,11 @@
     "android.sc": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "android.science": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "android.scot": {
@@ -6510,8 +6530,8 @@
         "state": "future"
     },
     "android.sexy": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "android.sg": {
@@ -6550,8 +6570,8 @@
         "state": "future"
     },
     "android.so": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "android.soy": {
@@ -6560,18 +6580,28 @@
         "state": "future"
     },
     "android.space": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "android.sport": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "android.st": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "android.storage": {
+        "epoch": 1787097600.0,
+        "expiration_date": "19-aug-2026",
+        "state": "future"
+    },
+    "android.store": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "android.stream": {
@@ -6609,6 +6639,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "android.taipei": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "android.tatar": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -6629,6 +6664,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "android.tel": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "android.tf": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
@@ -6637,6 +6677,11 @@
     "android.tg": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "android.theatre": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "android.tickets": {
@@ -6660,8 +6705,8 @@
         "state": "future"
     },
     "android.tokyo": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "android.top": {
@@ -6695,8 +6740,8 @@
         "state": "future"
     },
     "android.ua": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "android.ug": {
@@ -6709,9 +6754,14 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "android.us": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "android.uz": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
         "state": "future"
     },
     "android.vc": {
@@ -6765,13 +6815,18 @@
         "state": "future"
     },
     "android.wang": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "android.webcam": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "android.whoswho": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "android.wien": {
@@ -6780,13 +6835,18 @@
         "state": "future"
     },
     "android.wiki": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "android.win": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "android.work": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "android.ws": {
