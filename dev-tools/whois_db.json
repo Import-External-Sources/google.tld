@@ -9794,9 +9794,14 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "blogger.law": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "blogger.lgbt": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "blogger.life": {
@@ -9824,9 +9829,14 @@
         "expiration_date": "05-aug-2019",
         "state": "past"
     },
+    "blogger.love": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "blogger.lt": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "blogger.luxury": {
