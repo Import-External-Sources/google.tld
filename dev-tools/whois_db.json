@@ -5745,8 +5745,8 @@
         "state": "future"
     },
     "android.cricket": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "android.cx": {
@@ -5760,8 +5760,8 @@
         "state": "future"
     },
     "android.cz": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "android.date": {
@@ -5830,8 +5830,8 @@
         "state": "future"
     },
     "android.exchange": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "android.faith": {
@@ -5852,6 +5852,11 @@
     "android.fishing": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "android.fit": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "android.flowers": {
@@ -5880,8 +5885,8 @@
         "state": "future"
     },
     "android.gal": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "android.game": {
@@ -5895,8 +5900,8 @@
         "state": "future"
     },
     "android.gift": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "android.gl": {
@@ -5970,8 +5975,8 @@
         "state": "future"
     },
     "android.how": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "android.hr": {
