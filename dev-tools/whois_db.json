@@ -7084,6 +7084,36 @@
         "expiration_date": "15-jul-2022",
         "state": "future"
     },
+    "appspot.fi": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "appspot.fr": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "appspot.ga": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "appspot.gq": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "appspot.host": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "appspot.id": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "blog.ac": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
