@@ -10225,13 +10225,13 @@
         "state": "future"
     },
     "blogger.sn": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "blogger.so": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "blogger.soy": {
@@ -10279,6 +10279,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "blogger.taipei": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "blogger.tatar": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -10297,6 +10302,11 @@
     "blogger.tech": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "blogger.tel": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "blogger.tg": {
