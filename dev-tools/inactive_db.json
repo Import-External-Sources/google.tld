@@ -7414,725 +7414,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1574479907": {
-            "adwords.fast": "INACTIVE"
-        },
-        "1574479909": {
-            "adwords.fedex": "INACTIVE"
-        },
-        "1574479914": {
-            "adwords.feedback": "INACTIVE"
-        },
-        "1574479916": {
-            "adwords.ferrari": "INACTIVE",
-            "adwords.ferrero": "INACTIVE"
-        },
-        "1574480701": {
-            "adwords.fiat": "INACTIVE",
-            "adwords.fidelity": "INACTIVE",
-            "adwords.fido": "INACTIVE"
-        },
-        "1574480702": {
-            "adwords.film": "INACTIVE"
-        },
-        "1574480704": {
-            "adwords.final": "INACTIVE",
-            "adwords.finance": "INACTIVE"
-        },
-        "1574480705": {
-            "adwords.financial": "INACTIVE",
-            "adwords.fire": "INACTIVE"
-        },
-        "1574480706": {
-            "adwords.firestone": "INACTIVE"
-        },
-        "1574480707": {
-            "adwords.firmdale": "INACTIVE",
-            "adwords.fish": "INACTIVE"
-        },
-        "1574480712": {
-            "adwords.fit": "INACTIVE"
-        },
-        "1574480713": {
-            "adwords.fitness": "INACTIVE"
-        },
-        "1574480715": {
-            "adwords.fj": "INACTIVE"
-        },
-        "1574480716": {
-            "adwords.fk": "INACTIVE"
-        },
-        "1574480717": {
-            "adwords.flickr": "INACTIVE",
-            "adwords.flights": "INACTIVE",
-            "adwords.flir": "INACTIVE"
-        },
-        "1574480718": {
-            "adwords.florist": "INACTIVE",
-            "adwords.fly": "INACTIVE",
-            "adwords.fm": "INACTIVE"
-        },
-        "1574480724": {
-            "adwords.fo": "INACTIVE",
-            "adwords.foo": "INACTIVE",
-            "adwords.food": "INACTIVE",
-            "adwords.foodnetwork": "INACTIVE"
-        },
-        "1574480725": {
-            "adwords.football": "INACTIVE",
-            "adwords.ford": "INACTIVE"
-        },
-        "1574480726": {
-            "adwords.forsale": "INACTIVE"
-        },
-        "1574480732": {
-            "adwords.forum": "INACTIVE"
-        },
-        "1574480733": {
-            "adwords.foundation": "INACTIVE",
-            "adwords.fox": "INACTIVE"
-        },
-        "1574480735": {
-            "adwords.free": "INACTIVE"
-        },
-        "1574480741": {
-            "adwords.fresenius": "INACTIVE",
-            "adwords.frogans": "INACTIVE",
-            "adwords.frontdoor": "INACTIVE"
-        },
-        "1574480742": {
-            "adwords.frontier": "INACTIVE",
-            "adwords.ftr": "INACTIVE"
-        },
-        "1574480743": {
-            "adwords.fujitsu": "INACTIVE",
-            "adwords.fujixerox": "INACTIVE"
-        },
-        "1574480749": {
-            "adwords.fun": "INACTIVE",
-            "adwords.fund": "INACTIVE",
-            "adwords.furniture": "INACTIVE"
-        },
-        "1574480750": {
-            "adwords.futbol": "INACTIVE",
-            "adwords.fyi": "INACTIVE"
-        },
-        "1574480751": {
-            "adwords.gallo": "INACTIVE",
-            "adwords.gallup": "INACTIVE",
-            "adwords.games": "INACTIVE"
-        },
-        "1574480752": {
-            "adwords.gap": "INACTIVE"
-        },
-        "1574480774": {
-            "adwords.garden": "INACTIVE"
-        },
-        "1574480779": {
-            "adwords.gay": "INACTIVE"
-        },
-        "1574480780": {
-            "adwords.gb": "INACTIVE",
-            "adwords.gbiz": "INACTIVE"
-        },
-        "1574480785": {
-            "adwords.gd": "INACTIVE"
-        },
-        "1574480799": {
-            "adwords.gdn": "INACTIVE"
-        },
-        "1574480800": {
-            "adwords.gea": "INACTIVE"
-        },
-        "1574480807": {
-            "adwords.gent": "INACTIVE",
-            "adwords.genting": "INACTIVE",
-            "adwords.george": "INACTIVE"
-        },
-        "1574480808": {
-            "adwords.gf": "INACTIVE"
-        },
-        "1574480809": {
-            "adwords.ggee": "INACTIVE"
-        },
-        "1574480810": {
-            "adwords.gh": "INACTIVE"
-        },
-        "1574480811": {
-            "adwords.gi": "INACTIVE",
-            "adwords.gifts": "INACTIVE"
-        },
-        "1574480812": {
-            "adwords.gives": "INACTIVE",
-            "adwords.giving": "INACTIVE"
-        },
-        "1574480827": {
-            "adwords.gl": "INACTIVE"
-        },
-        "1574480828": {
-            "adwords.glade": "INACTIVE",
-            "adwords.glass": "INACTIVE",
-            "adwords.gle": "INACTIVE"
-        },
-        "1574480829": {
-            "adwords.globo": "INACTIVE"
-        },
-        "1574480831": {
-            "adwords.gm": "INACTIVE",
-            "adwords.gmail": "INACTIVE"
-        },
-        "1574480832": {
-            "adwords.gmbh": "INACTIVE",
-            "adwords.gmo": "INACTIVE"
-        },
-        "1574480833": {
-            "adwords.gmx": "INACTIVE"
-        },
-        "1574480834": {
-            "adwords.gn": "INACTIVE",
-            "adwords.godaddy": "INACTIVE",
-            "adwords.gold": "INACTIVE"
-        },
-        "1574480835": {
-            "adwords.goldpoint": "INACTIVE",
-            "adwords.golf": "INACTIVE"
-        },
-        "1574480836": {
-            "adwords.goo": "INACTIVE"
-        },
-        "1574480840": {
-            "adwords.goodyear": "INACTIVE",
-            "adwords.goog": "INACTIVE",
-            "adwords.google": "INACTIVE"
-        },
-        "1574480842": {
-            "adwords.got": "INACTIVE"
-        },
-        "1574480843": {
-            "adwords.gov": "INACTIVE",
-            "adwords.gp": "INACTIVE"
-        },
-        "1574480845": {
-            "adwords.grainger": "INACTIVE",
-            "adwords.graphics": "INACTIVE",
-            "adwords.gratis": "INACTIVE"
-        },
-        "1574480846": {
-            "adwords.gripe": "INACTIVE",
-            "adwords.grocery": "INACTIVE",
-            "adwords.group": "INACTIVE"
-        },
-        "1574480858": {
-            "adwords.gs": "INACTIVE",
-            "adwords.gu": "INACTIVE",
-            "adwords.guardian": "INACTIVE"
-        },
-        "1574480859": {
-            "adwords.gucci": "INACTIVE",
-            "adwords.guge": "INACTIVE",
-            "adwords.guide": "INACTIVE"
-        },
-        "1574480860": {
-            "adwords.guru": "INACTIVE",
-            "adwords.gw": "INACTIVE"
-        },
-        "1574480876": {
-            "adwords.gy": "INACTIVE",
-            "adwords.hair": "INACTIVE"
-        },
-        "1574480877": {
-            "adwords.hamburg": "INACTIVE",
-            "adwords.hangout": "INACTIVE",
-            "adwords.haus": "INACTIVE"
-        },
-        "1574480878": {
-            "adwords.hbo": "INACTIVE",
-            "adwords.hdfc": "INACTIVE"
-        },
-        "1574480880": {
-            "adwords.hdfcbank": "INACTIVE",
-            "adwords.healthcare": "INACTIVE"
-        },
-        "1574480885": {
-            "adwords.helsinki": "INACTIVE",
-            "adwords.here": "INACTIVE"
-        },
-        "1574480886": {
-            "adwords.hermes": "INACTIVE",
-            "adwords.hgtv": "INACTIVE"
-        },
-        "1574480887": {
-            "adwords.hisamitsu": "INACTIVE",
-            "adwords.hitachi": "INACTIVE"
-        },
-        "1574480890": {
-            "adwords.hkt": "INACTIVE"
-        },
-        "1574480895": {
-            "adwords.hm": "INACTIVE"
-        },
-        "1574480910": {
-            "adwords.hn": "INACTIVE"
-        },
-        "1574480911": {
-            "adwords.hockey": "INACTIVE",
-            "adwords.holdings": "INACTIVE"
-        },
-        "1574480912": {
-            "adwords.holiday": "INACTIVE"
-        },
-        "1574480913": {
-            "adwords.homedepot": "INACTIVE"
-        },
-        "1574480914": {
-            "adwords.homegoods": "INACTIVE",
-            "adwords.homes": "INACTIVE",
-            "adwords.homesense": "INACTIVE"
-        },
-        "1574480915": {
-            "adwords.honda": "INACTIVE"
-        },
-        "1574480919": {
-            "adwords.hospital": "INACTIVE"
-        },
-        "1574480925": {
-            "adwords.host": "INACTIVE"
-        },
-        "1574480940": {
-            "adwords.hot": "INACTIVE"
-        },
-        "1574480941": {
-            "adwords.hoteles": "INACTIVE",
-            "adwords.hotels": "INACTIVE"
-        },
-        "1574480943": {
-            "adwords.hotmail": "INACTIVE",
-            "adwords.house": "INACTIVE"
-        },
-        "1574480947": {
-            "adwords.hsbc": "INACTIVE"
-        },
-        "1574480948": {
-            "adwords.ht": "INACTIVE"
-        },
-        "1574480952": {
-            "adwords.hughes": "INACTIVE",
-            "adwords.hyatt": "INACTIVE"
-        },
-        "1574480953": {
-            "adwords.hyundai": "INACTIVE",
-            "adwords.ibm": "INACTIVE"
-        },
-        "1574480956": {
-            "adwords.icbc": "INACTIVE",
-            "adwords.ice": "INACTIVE"
-        },
-        "1574480962": {
-            "adwords.icu": "INACTIVE"
-        },
-        "1574480963": {
-            "adwords.ieee": "INACTIVE"
-        },
-        "1574480965": {
-            "adwords.ifm": "INACTIVE"
-        },
-        "1574480966": {
-            "adwords.ikano": "INACTIVE"
-        },
-        "1574480987": {
-            "adwords.il": "INACTIVE"
-        },
-        "1574480988": {
-            "adwords.imamat": "INACTIVE"
-        },
-        "1574480992": {
-            "adwords.imdb": "INACTIVE"
-        },
-        "1574480993": {
-            "adwords.immo": "INACTIVE",
-            "adwords.immobilien": "INACTIVE"
-        },
-        "1574480994": {
-            "adwords.inc": "INACTIVE",
-            "adwords.industries": "INACTIVE"
-        },
-        "1574480995": {
-            "adwords.infiniti": "INACTIVE",
-            "adwords.ing": "INACTIVE",
-            "adwords.institute": "INACTIVE"
-        },
-        "1574480996": {
-            "adwords.insurance": "INACTIVE",
-            "adwords.insure": "INACTIVE"
-        },
-        "1574480999": {
-            "adwords.int": "INACTIVE",
-            "adwords.intel": "INACTIVE",
-            "adwords.international": "INACTIVE"
-        },
-        "1574481000": {
-            "adwords.intuit": "INACTIVE",
-            "adwords.investments": "INACTIVE",
-            "adwords.ipiranga": "INACTIVE"
-        },
-        "1574481007": {
-            "adwords.iq": "INACTIVE"
-        },
-        "1574481020": {
-            "adwords.ir": "INACTIVE"
-        },
-        "1574481021": {
-            "adwords.is": "INACTIVE",
-            "adwords.ismaili": "INACTIVE"
-        },
-        "1574481027": {
-            "adwords.itau": "INACTIVE",
-            "adwords.itv": "INACTIVE"
-        },
-        "1574481029": {
-            "adwords.iveco": "INACTIVE",
-            "adwords.jaguar": "INACTIVE",
-            "adwords.java": "INACTIVE"
-        },
-        "1574481030": {
-            "adwords.jcb": "INACTIVE",
-            "adwords.jcp": "INACTIVE"
-        },
-        "1574481031": {
-            "adwords.je": "INACTIVE",
-            "adwords.jeep": "INACTIVE"
-        },
-        "1574481036": {
-            "adwords.jewelry": "INACTIVE"
-        },
-        "1574481040": {
-            "adwords.jio": "INACTIVE"
-        },
-        "1574481041": {
-            "adwords.jll": "INACTIVE",
-            "adwords.jm": "INACTIVE",
-            "adwords.jmp": "INACTIVE",
-            "adwords.jnj": "INACTIVE"
-        },
-        "1574481042": {
-            "adwords.jo": "INACTIVE"
-        },
-        "1574481043": {
-            "adwords.jot": "INACTIVE"
-        },
-        "1574481045": {
-            "adwords.joy": "INACTIVE"
-        },
-        "1574481052": {
-            "adwords.jpmorgan": "INACTIVE"
-        },
-        "1574481059": {
-            "adwords.jprs": "INACTIVE",
-            "adwords.juniper": "INACTIVE"
-        },
-        "1574481060": {
-            "adwords.kaufen": "INACTIVE",
-            "adwords.kddi": "INACTIVE"
-        },
-        "1574481062": {
-            "adwords.ke": "INACTIVE",
-            "adwords.kerryhotels": "INACTIVE",
-            "adwords.kerrylogistics": "INACTIVE"
-        },
-        "1574481063": {
-            "adwords.kerryproperties": "INACTIVE"
-        },
-        "1574481070": {
-            "adwords.kfh": "INACTIVE",
-            "adwords.kg": "INACTIVE"
-        },
-        "1574481071": {
-            "adwords.kh": "INACTIVE",
-            "adwords.ki": "INACTIVE"
-        },
-        "1574481072": {
-            "adwords.kia": "INACTIVE",
-            "adwords.kinder": "INACTIVE"
-        },
-        "1574481081": {
-            "adwords.kindle": "INACTIVE",
-            "adwords.kitchen": "INACTIVE"
-        },
-        "1574481082": {
-            "adwords.km": "INACTIVE"
-        },
-        "1574481084": {
-            "adwords.kn": "INACTIVE"
-        },
-        "1574481085": {
-            "adwords.komatsu": "INACTIVE"
-        },
-        "1574481089": {
-            "adwords.kosher": "INACTIVE"
-        },
-        "1574481100": {
-            "adwords.kp": "INACTIVE",
-            "adwords.kpmg": "INACTIVE"
-        },
-        "1574481105": {
-            "adwords.kpn": "INACTIVE"
-        },
-        "1574481106": {
-            "adwords.krd": "INACTIVE"
-        },
-        "1574481111": {
-            "adwords.kred": "INACTIVE"
-        },
-        "1574481112": {
-            "adwords.kuokgroup": "INACTIVE"
-        },
-        "1574481119": {
-            "adwords.kw": "INACTIVE",
-            "adwords.kyoto": "INACTIVE"
-        },
-        "1574481125": {
-            "adwords.kz": "INACTIVE"
-        },
-        "1574481128": {
-            "adwords.lacaixa": "INACTIVE",
-            "adwords.ladbrokes": "INACTIVE"
-        },
-        "1574481129": {
-            "adwords.lamborghini": "INACTIVE"
-        },
-        "1574481133": {
-            "adwords.lamer": "INACTIVE",
-            "adwords.lancaster": "INACTIVE"
-        },
-        "1574481134": {
-            "adwords.lancia": "INACTIVE",
-            "adwords.lancome": "INACTIVE",
-            "adwords.land": "INACTIVE",
-            "adwords.landrover": "INACTIVE"
-        },
-        "1574481135": {
-            "adwords.lanxess": "INACTIVE",
-            "adwords.lasalle": "INACTIVE"
-        },
-        "1574481139": {
-            "adwords.latino": "INACTIVE",
-            "adwords.latrobe": "INACTIVE"
-        },
-        "1574481156": {
-            "adwords.law": "INACTIVE"
-        },
-        "1574481157": {
-            "adwords.lawyer": "INACTIVE",
-            "adwords.lb": "INACTIVE",
-            "adwords.lc": "INACTIVE"
-        },
-        "1574481160": {
-            "adwords.lds": "INACTIVE",
-            "adwords.lease": "INACTIVE"
-        },
-        "1574481165": {
-            "adwords.leclerc": "INACTIVE",
-            "adwords.lefrak": "INACTIVE"
-        },
-        "1574481166": {
-            "adwords.legal": "INACTIVE",
-            "adwords.lego": "INACTIVE"
-        },
-        "1574481167": {
-            "adwords.lexus": "INACTIVE"
-        },
-        "1574481168": {
-            "adwords.liaison": "INACTIVE"
-        },
-        "1574481174": {
-            "adwords.lidl": "INACTIVE"
-        },
-        "1574481175": {
-            "adwords.life": "INACTIVE",
-            "adwords.lifeinsurance": "INACTIVE",
-            "adwords.lifestyle": "INACTIVE"
-        },
-        "1574481176": {
-            "adwords.lighting": "INACTIVE"
-        },
-        "1574481178": {
-            "adwords.like": "INACTIVE"
-        },
-        "1574481179": {
-            "adwords.lilly": "INACTIVE"
-        },
-        "1574481180": {
-            "adwords.limited": "INACTIVE",
-            "adwords.limo": "INACTIVE",
-            "adwords.lincoln": "INACTIVE"
-        },
-        "1574481181": {
-            "adwords.linde": "INACTIVE",
-            "adwords.lipsy": "INACTIVE",
-            "adwords.live": "INACTIVE"
-        },
-        "1574481182": {
-            "adwords.living": "INACTIVE",
-            "adwords.lixil": "INACTIVE"
-        },
-        "1574481192": {
-            "adwords.lk": "INACTIVE"
-        },
-        "1574481193": {
-            "adwords.loans": "INACTIVE"
-        },
-        "1574481196": {
-            "adwords.locker": "INACTIVE"
-        },
-        "1574481200": {
-            "adwords.locus": "INACTIVE"
-        },
-        "1574481201": {
-            "adwords.loft": "INACTIVE"
-        },
-        "1574481207": {
-            "adwords.lotte": "INACTIVE",
-            "adwords.lotto": "INACTIVE"
-        },
-        "1574481212": {
-            "adwords.love": "INACTIVE"
-        },
-        "1574481219": {
-            "adwords.lpl": "INACTIVE"
-        },
-        "1574481224": {
-            "adwords.lplfinancial": "INACTIVE"
-        },
-        "1574481225": {
-            "adwords.lr": "INACTIVE"
-        },
-        "1574481226": {
-            "adwords.ls": "INACTIVE"
-        },
-        "1574481227": {
-            "adwords.ltd": "INACTIVE",
-            "adwords.ltda": "INACTIVE"
-        },
-        "1574481228": {
-            "adwords.lundbeck": "INACTIVE",
-            "adwords.lupin": "INACTIVE"
-        },
-        "1574481244": {
-            "adwords.luxe": "INACTIVE"
-        },
-        "1574481245": {
-            "adwords.ly": "INACTIVE"
-        },
-        "1574481246": {
-            "adwords.macys": "INACTIVE"
-        },
-        "1574481247": {
-            "adwords.madrid": "INACTIVE",
-            "adwords.maif": "INACTIVE",
-            "adwords.maison": "INACTIVE"
-        },
-        "1574481248": {
-            "adwords.man": "INACTIVE"
-        },
-        "1574481249": {
-            "adwords.management": "INACTIVE"
-        },
-        "1574481250": {
-            "adwords.mango": "INACTIVE",
-            "adwords.map": "INACTIVE",
-            "adwords.market": "INACTIVE"
-        },
-        "1574481251": {
-            "adwords.marketing": "INACTIVE",
-            "adwords.marriott": "INACTIVE"
-        },
-        "1574481252": {
-            "adwords.marshalls": "INACTIVE"
-        },
-        "1574481254": {
-            "adwords.maserati": "INACTIVE",
-            "adwords.mattel": "INACTIVE"
-        },
-        "1574481255": {
-            "adwords.mba": "INACTIVE",
-            "adwords.mc": "INACTIVE",
-            "adwords.mckinsey": "INACTIVE"
-        },
-        "1574481256": {
-            "adwords.med": "INACTIVE",
-            "adwords.media": "INACTIVE"
-        },
-        "1574481257": {
-            "adwords.meet": "INACTIVE"
-        },
-        "1574481258": {
-            "adwords.melbourne": "INACTIVE"
-        },
-        "1574481259": {
-            "adwords.meme": "INACTIVE",
-            "adwords.memorial": "INACTIVE",
-            "adwords.merckmsd": "INACTIVE"
-        },
-        "1574481262": {
-            "adwords.metlife": "INACTIVE",
-            "adwords.mh": "INACTIVE"
-        },
-        "1574482109": {
-            "adwords.microsoft": "INACTIVE",
-            "adwords.mil": "INACTIVE"
-        },
-        "1574482114": {
-            "adwords.mini": "INACTIVE"
-        },
-        "1574482115": {
-            "adwords.mint": "INACTIVE",
-            "adwords.mit": "INACTIVE"
-        },
-        "1574482116": {
-            "adwords.mitsubishi": "INACTIVE",
-            "adwords.mlb": "INACTIVE"
-        },
-        "1574482117": {
-            "adwords.mls": "INACTIVE",
-            "adwords.mm": "INACTIVE"
-        },
-        "1574482118": {
-            "adwords.mma": "INACTIVE"
-        },
-        "1574482119": {
-            "adwords.mo": "INACTIVE"
-        },
-        "1574482121": {
-            "adwords.mobile": "INACTIVE",
-            "adwords.moda": "INACTIVE"
-        },
-        "1574482137": {
-            "adwords.moi": "INACTIVE",
-            "adwords.monash": "INACTIVE"
-        },
-        "1574482138": {
-            "adwords.money": "INACTIVE"
-        },
-        "1574482143": {
-            "adwords.mopar": "INACTIVE"
-        },
-        "1574482144": {
-            "adwords.mormon": "INACTIVE",
-            "adwords.mortgage": "INACTIVE",
-            "adwords.moto": "INACTIVE"
-        },
-        "1574482145": {
-            "adwords.motorcycles": "INACTIVE",
-            "adwords.mov": "INACTIVE"
-        },
-        "1574482146": {
-            "adwords.movie": "INACTIVE",
-            "adwords.movistar": "INACTIVE"
-        },
-        "1574482147": {
-            "adwords.mp": "INACTIVE",
-            "adwords.mq": "INACTIVE"
-        },
         "1574482148": {
             "adwords.mr": "INACTIVE"
         },
@@ -31287,6 +30568,700 @@
         },
         "1580867029": {
             "adwords.fashion": "INACTIVE"
+        },
+        "1580867787": {
+            "adwords.fast": "INACTIVE"
+        },
+        "1580867789": {
+            "adwords.fedex": "INACTIVE"
+        },
+        "1580867792": {
+            "adwords.feedback": "INACTIVE",
+            "adwords.ferrari": "INACTIVE"
+        },
+        "1580867793": {
+            "adwords.ferrero": "INACTIVE"
+        },
+        "1580867795": {
+            "adwords.fiat": "INACTIVE",
+            "adwords.fidelity": "INACTIVE",
+            "adwords.fido": "INACTIVE"
+        },
+        "1580867796": {
+            "adwords.film": "INACTIVE",
+            "adwords.final": "INACTIVE"
+        },
+        "1580867797": {
+            "adwords.finance": "INACTIVE",
+            "adwords.financial": "INACTIVE"
+        },
+        "1580867798": {
+            "adwords.fire": "INACTIVE",
+            "adwords.firestone": "INACTIVE"
+        },
+        "1580867799": {
+            "adwords.firmdale": "INACTIVE"
+        },
+        "1580867800": {
+            "adwords.fish": "INACTIVE"
+        },
+        "1580867805": {
+            "adwords.fit": "INACTIVE",
+            "adwords.fitness": "INACTIVE"
+        },
+        "1580867806": {
+            "adwords.fj": "INACTIVE"
+        },
+        "1580867807": {
+            "adwords.fk": "INACTIVE",
+            "adwords.flickr": "INACTIVE",
+            "adwords.flights": "INACTIVE"
+        },
+        "1580867808": {
+            "adwords.flir": "INACTIVE",
+            "adwords.florist": "INACTIVE"
+        },
+        "1580867809": {
+            "adwords.fly": "INACTIVE"
+        },
+        "1580867812": {
+            "adwords.fo": "INACTIVE",
+            "adwords.foo": "INACTIVE",
+            "adwords.food": "INACTIVE"
+        },
+        "1580867813": {
+            "adwords.foodnetwork": "INACTIVE",
+            "adwords.football": "INACTIVE",
+            "adwords.ford": "INACTIVE"
+        },
+        "1580867814": {
+            "adwords.forsale": "INACTIVE"
+        },
+        "1580867817": {
+            "adwords.forum": "INACTIVE",
+            "adwords.foundation": "INACTIVE"
+        },
+        "1580867818": {
+            "adwords.fox": "INACTIVE",
+            "adwords.free": "INACTIVE"
+        },
+        "1580867822": {
+            "adwords.fresenius": "INACTIVE"
+        },
+        "1580867825": {
+            "adwords.frogans": "INACTIVE",
+            "adwords.frontdoor": "INACTIVE"
+        },
+        "1580867826": {
+            "adwords.frontier": "INACTIVE",
+            "adwords.ftr": "INACTIVE"
+        },
+        "1580867827": {
+            "adwords.fujitsu": "INACTIVE",
+            "adwords.fujixerox": "INACTIVE"
+        },
+        "1580867833": {
+            "adwords.fun": "INACTIVE",
+            "adwords.fund": "INACTIVE"
+        },
+        "1580867834": {
+            "adwords.furniture": "INACTIVE",
+            "adwords.futbol": "INACTIVE",
+            "adwords.fyi": "INACTIVE"
+        },
+        "1580867835": {
+            "adwords.gallo": "INACTIVE"
+        },
+        "1580867840": {
+            "adwords.gallup": "INACTIVE"
+        },
+        "1580867841": {
+            "adwords.games": "INACTIVE",
+            "adwords.gap": "INACTIVE"
+        },
+        "1580867862": {
+            "adwords.garden": "INACTIVE"
+        },
+        "1580867866": {
+            "adwords.gay": "INACTIVE",
+            "adwords.gb": "INACTIVE",
+            "adwords.gbiz": "INACTIVE"
+        },
+        "1580867869": {
+            "adwords.gd": "INACTIVE"
+        },
+        "1580867885": {
+            "adwords.gdn": "INACTIVE",
+            "adwords.gea": "INACTIVE"
+        },
+        "1580867889": {
+            "adwords.gent": "INACTIVE",
+            "adwords.genting": "INACTIVE",
+            "adwords.george": "INACTIVE"
+        },
+        "1580867890": {
+            "adwords.gf": "INACTIVE"
+        },
+        "1580867891": {
+            "adwords.ggee": "INACTIVE"
+        },
+        "1580867892": {
+            "adwords.gh": "INACTIVE"
+        },
+        "1580867893": {
+            "adwords.gi": "INACTIVE",
+            "adwords.gifts": "INACTIVE"
+        },
+        "1580867894": {
+            "adwords.gives": "INACTIVE",
+            "adwords.giving": "INACTIVE"
+        },
+        "1580867910": {
+            "adwords.gl": "INACTIVE",
+            "adwords.glade": "INACTIVE",
+            "adwords.glass": "INACTIVE"
+        },
+        "1580867911": {
+            "adwords.gle": "INACTIVE"
+        },
+        "1580867914": {
+            "adwords.globo": "INACTIVE"
+        },
+        "1580867915": {
+            "adwords.gm": "INACTIVE",
+            "adwords.gmail": "INACTIVE",
+            "adwords.gmbh": "INACTIVE"
+        },
+        "1580867916": {
+            "adwords.gmo": "INACTIVE"
+        },
+        "1580867917": {
+            "adwords.gmx": "INACTIVE",
+            "adwords.gn": "INACTIVE",
+            "adwords.godaddy": "INACTIVE",
+            "adwords.gold": "INACTIVE"
+        },
+        "1580867918": {
+            "adwords.goldpoint": "INACTIVE",
+            "adwords.golf": "INACTIVE"
+        },
+        "1580867919": {
+            "adwords.goo": "INACTIVE"
+        },
+        "1580867921": {
+            "adwords.goodyear": "INACTIVE",
+            "adwords.goog": "INACTIVE",
+            "adwords.google": "INACTIVE"
+        },
+        "1580867923": {
+            "adwords.got": "INACTIVE"
+        },
+        "1580867924": {
+            "adwords.gov": "INACTIVE",
+            "adwords.gp": "INACTIVE",
+            "adwords.grainger": "INACTIVE"
+        },
+        "1580867925": {
+            "adwords.graphics": "INACTIVE",
+            "adwords.gratis": "INACTIVE"
+        },
+        "1580867926": {
+            "adwords.gripe": "INACTIVE",
+            "adwords.grocery": "INACTIVE",
+            "adwords.group": "INACTIVE"
+        },
+        "1580867942": {
+            "adwords.gs": "INACTIVE",
+            "adwords.gu": "INACTIVE",
+            "adwords.guardian": "INACTIVE"
+        },
+        "1580867943": {
+            "adwords.gucci": "INACTIVE",
+            "adwords.guge": "INACTIVE",
+            "adwords.guide": "INACTIVE"
+        },
+        "1580867944": {
+            "adwords.guru": "INACTIVE",
+            "adwords.gw": "INACTIVE"
+        },
+        "1580867959": {
+            "adwords.gy": "INACTIVE"
+        },
+        "1580867960": {
+            "adwords.hair": "INACTIVE",
+            "adwords.hamburg": "INACTIVE"
+        },
+        "1580867961": {
+            "adwords.hangout": "INACTIVE",
+            "adwords.haus": "INACTIVE",
+            "adwords.hbo": "INACTIVE"
+        },
+        "1580867966": {
+            "adwords.hdfc": "INACTIVE",
+            "adwords.hdfcbank": "INACTIVE"
+        },
+        "1580867967": {
+            "adwords.healthcare": "INACTIVE",
+            "adwords.helsinki": "INACTIVE",
+            "adwords.here": "INACTIVE"
+        },
+        "1580867968": {
+            "adwords.hermes": "INACTIVE",
+            "adwords.hgtv": "INACTIVE"
+        },
+        "1580867969": {
+            "adwords.hisamitsu": "INACTIVE",
+            "adwords.hitachi": "INACTIVE"
+        },
+        "1580867972": {
+            "adwords.hkt": "INACTIVE"
+        },
+        "1580867975": {
+            "adwords.hm": "INACTIVE"
+        },
+        "1580867990": {
+            "adwords.hn": "INACTIVE"
+        },
+        "1580867991": {
+            "adwords.hockey": "INACTIVE",
+            "adwords.holdings": "INACTIVE",
+            "adwords.holiday": "INACTIVE"
+        },
+        "1580867993": {
+            "adwords.homedepot": "INACTIVE"
+        },
+        "1580867994": {
+            "adwords.homegoods": "INACTIVE",
+            "adwords.homes": "INACTIVE",
+            "adwords.homesense": "INACTIVE"
+        },
+        "1580867995": {
+            "adwords.honda": "INACTIVE"
+        },
+        "1580867997": {
+            "adwords.hospital": "INACTIVE"
+        },
+        "1580868001": {
+            "adwords.host": "INACTIVE"
+        },
+        "1580868021": {
+            "adwords.hot": "INACTIVE",
+            "adwords.hoteles": "INACTIVE",
+            "adwords.hotels": "INACTIVE"
+        },
+        "1580868022": {
+            "adwords.hotmail": "INACTIVE",
+            "adwords.house": "INACTIVE"
+        },
+        "1580868026": {
+            "adwords.hsbc": "INACTIVE"
+        },
+        "1580868028": {
+            "adwords.ht": "INACTIVE"
+        },
+        "1580868029": {
+            "adwords.hughes": "INACTIVE",
+            "adwords.hyatt": "INACTIVE"
+        },
+        "1580868030": {
+            "adwords.hyundai": "INACTIVE",
+            "adwords.ibm": "INACTIVE"
+        },
+        "1580868035": {
+            "adwords.icbc": "INACTIVE",
+            "adwords.ice": "INACTIVE"
+        },
+        "1580868039": {
+            "adwords.icu": "INACTIVE"
+        },
+        "1580868040": {
+            "adwords.ieee": "INACTIVE"
+        },
+        "1580868041": {
+            "adwords.ifm": "INACTIVE"
+        },
+        "1580868042": {
+            "adwords.ikano": "INACTIVE"
+        },
+        "1580868061": {
+            "adwords.il": "INACTIVE",
+            "adwords.imamat": "INACTIVE"
+        },
+        "1580868063": {
+            "adwords.imdb": "INACTIVE",
+            "adwords.immo": "INACTIVE"
+        },
+        "1580868064": {
+            "adwords.immobilien": "INACTIVE",
+            "adwords.inc": "INACTIVE"
+        },
+        "1580868065": {
+            "adwords.industries": "INACTIVE",
+            "adwords.infiniti": "INACTIVE"
+        },
+        "1580868066": {
+            "adwords.ing": "INACTIVE",
+            "adwords.institute": "INACTIVE",
+            "adwords.insurance": "INACTIVE",
+            "adwords.insure": "INACTIVE"
+        },
+        "1580868068": {
+            "adwords.int": "INACTIVE"
+        },
+        "1580868069": {
+            "adwords.intel": "INACTIVE",
+            "adwords.international": "INACTIVE",
+            "adwords.intuit": "INACTIVE"
+        },
+        "1580868070": {
+            "adwords.investments": "INACTIVE",
+            "adwords.ipiranga": "INACTIVE"
+        },
+        "1580868075": {
+            "adwords.iq": "INACTIVE"
+        },
+        "1580868087": {
+            "adwords.ir": "INACTIVE"
+        },
+        "1580868088": {
+            "adwords.is": "INACTIVE",
+            "adwords.ismaili": "INACTIVE"
+        },
+        "1580868092": {
+            "adwords.itau": "INACTIVE",
+            "adwords.itv": "INACTIVE",
+            "adwords.iveco": "INACTIVE",
+            "adwords.jaguar": "INACTIVE"
+        },
+        "1580868093": {
+            "adwords.java": "INACTIVE",
+            "adwords.jcb": "INACTIVE",
+            "adwords.jcp": "INACTIVE"
+        },
+        "1580868094": {
+            "adwords.je": "INACTIVE"
+        },
+        "1580868095": {
+            "adwords.jeep": "INACTIVE",
+            "adwords.jewelry": "INACTIVE"
+        },
+        "1580868098": {
+            "adwords.jio": "INACTIVE",
+            "adwords.jll": "INACTIVE"
+        },
+        "1580868100": {
+            "adwords.jm": "INACTIVE",
+            "adwords.jmp": "INACTIVE",
+            "adwords.jnj": "INACTIVE"
+        },
+        "1580868101": {
+            "adwords.jo": "INACTIVE"
+        },
+        "1580868103": {
+            "adwords.jot": "INACTIVE"
+        },
+        "1580868107": {
+            "adwords.joy": "INACTIVE"
+        },
+        "1580868113": {
+            "adwords.jpmorgan": "INACTIVE"
+        },
+        "1580868118": {
+            "adwords.jprs": "INACTIVE",
+            "adwords.juniper": "INACTIVE"
+        },
+        "1580868119": {
+            "adwords.kaufen": "INACTIVE",
+            "adwords.kddi": "INACTIVE"
+        },
+        "1580868120": {
+            "adwords.ke": "INACTIVE"
+        },
+        "1580868121": {
+            "adwords.kerryhotels": "INACTIVE",
+            "adwords.kerrylogistics": "INACTIVE",
+            "adwords.kerryproperties": "INACTIVE"
+        },
+        "1580868129": {
+            "adwords.kfh": "INACTIVE",
+            "adwords.kg": "INACTIVE"
+        },
+        "1580868130": {
+            "adwords.kh": "INACTIVE",
+            "adwords.ki": "INACTIVE"
+        },
+        "1580868131": {
+            "adwords.kia": "INACTIVE",
+            "adwords.kinder": "INACTIVE"
+        },
+        "1580868137": {
+            "adwords.kindle": "INACTIVE"
+        },
+        "1580868138": {
+            "adwords.kitchen": "INACTIVE",
+            "adwords.km": "INACTIVE"
+        },
+        "1580868142": {
+            "adwords.kn": "INACTIVE"
+        },
+        "1580868143": {
+            "adwords.komatsu": "INACTIVE"
+        },
+        "1580868144": {
+            "adwords.kosher": "INACTIVE"
+        },
+        "1580868160": {
+            "adwords.kp": "INACTIVE",
+            "adwords.kpmg": "INACTIVE"
+        },
+        "1580868165": {
+            "adwords.kpn": "INACTIVE"
+        },
+        "1580868166": {
+            "adwords.krd": "INACTIVE"
+        },
+        "1580868170": {
+            "adwords.kred": "INACTIVE",
+            "adwords.kuokgroup": "INACTIVE"
+        },
+        "1580868176": {
+            "adwords.kw": "INACTIVE"
+        },
+        "1580868177": {
+            "adwords.kyoto": "INACTIVE"
+        },
+        "1580868186": {
+            "adwords.kz": "INACTIVE"
+        },
+        "1580868187": {
+            "adwords.lacaixa": "INACTIVE"
+        },
+        "1580868188": {
+            "adwords.ladbrokes": "INACTIVE",
+            "adwords.lamborghini": "INACTIVE",
+            "adwords.lamer": "INACTIVE"
+        },
+        "1580868189": {
+            "adwords.lancaster": "INACTIVE",
+            "adwords.lancia": "INACTIVE",
+            "adwords.lancome": "INACTIVE"
+        },
+        "1580868190": {
+            "adwords.land": "INACTIVE",
+            "adwords.landrover": "INACTIVE",
+            "adwords.lanxess": "INACTIVE",
+            "adwords.lasalle": "INACTIVE"
+        },
+        "1580868191": {
+            "adwords.latino": "INACTIVE",
+            "adwords.latrobe": "INACTIVE"
+        },
+        "1580868208": {
+            "adwords.law": "INACTIVE"
+        },
+        "1580868209": {
+            "adwords.lawyer": "INACTIVE",
+            "adwords.lb": "INACTIVE",
+            "adwords.lc": "INACTIVE",
+            "adwords.lds": "INACTIVE"
+        },
+        "1580868210": {
+            "adwords.lease": "INACTIVE"
+        },
+        "1580868215": {
+            "adwords.leclerc": "INACTIVE"
+        },
+        "1580868216": {
+            "adwords.lefrak": "INACTIVE",
+            "adwords.legal": "INACTIVE",
+            "adwords.lego": "INACTIVE"
+        },
+        "1580868217": {
+            "adwords.lexus": "INACTIVE"
+        },
+        "1580868218": {
+            "adwords.liaison": "INACTIVE"
+        },
+        "1580868222": {
+            "adwords.lidl": "INACTIVE"
+        },
+        "1580868223": {
+            "adwords.life": "INACTIVE",
+            "adwords.lifeinsurance": "INACTIVE",
+            "adwords.lifestyle": "INACTIVE"
+        },
+        "1580868224": {
+            "adwords.lighting": "INACTIVE",
+            "adwords.like": "INACTIVE",
+            "adwords.lilly": "INACTIVE"
+        },
+        "1580868225": {
+            "adwords.limited": "INACTIVE",
+            "adwords.limo": "INACTIVE",
+            "adwords.lincoln": "INACTIVE"
+        },
+        "1580868226": {
+            "adwords.linde": "INACTIVE",
+            "adwords.lipsy": "INACTIVE",
+            "adwords.live": "INACTIVE"
+        },
+        "1580868227": {
+            "adwords.living": "INACTIVE",
+            "adwords.lixil": "INACTIVE"
+        },
+        "1580868234": {
+            "adwords.lk": "INACTIVE"
+        },
+        "1580868235": {
+            "adwords.loans": "INACTIVE"
+        },
+        "1580868238": {
+            "adwords.locker": "INACTIVE",
+            "adwords.locus": "INACTIVE"
+        },
+        "1580868239": {
+            "adwords.loft": "INACTIVE"
+        },
+        "1580868242": {
+            "adwords.lotte": "INACTIVE"
+        },
+        "1580868243": {
+            "adwords.lotto": "INACTIVE"
+        },
+        "1580868246": {
+            "adwords.love": "INACTIVE"
+        },
+        "1580868251": {
+            "adwords.lpl": "INACTIVE"
+        },
+        "1580868254": {
+            "adwords.lplfinancial": "INACTIVE",
+            "adwords.lr": "INACTIVE"
+        },
+        "1580868256": {
+            "adwords.ls": "INACTIVE"
+        },
+        "1580868257": {
+            "adwords.ltd": "INACTIVE",
+            "adwords.ltda": "INACTIVE"
+        },
+        "1580868258": {
+            "adwords.lundbeck": "INACTIVE",
+            "adwords.lupin": "INACTIVE"
+        },
+        "1580868273": {
+            "adwords.luxe": "INACTIVE"
+        },
+        "1580868275": {
+            "adwords.ly": "INACTIVE",
+            "adwords.macys": "INACTIVE"
+        },
+        "1580868276": {
+            "adwords.maif": "INACTIVE",
+            "adwords.maison": "INACTIVE"
+        },
+        "1580868279": {
+            "adwords.man": "INACTIVE"
+        },
+        "1580868282": {
+            "adwords.management": "INACTIVE"
+        },
+        "1580868284": {
+            "adwords.mango": "INACTIVE"
+        },
+        "1580868285": {
+            "adwords.map": "INACTIVE",
+            "adwords.market": "INACTIVE",
+            "adwords.marketing": "INACTIVE"
+        },
+        "1580868286": {
+            "adwords.marriott": "INACTIVE",
+            "adwords.marshalls": "INACTIVE"
+        },
+        "1580868291": {
+            "adwords.maserati": "INACTIVE",
+            "adwords.mattel": "INACTIVE"
+        },
+        "1580868292": {
+            "adwords.mba": "INACTIVE",
+            "adwords.mc": "INACTIVE"
+        },
+        "1580868294": {
+            "adwords.mckinsey": "INACTIVE"
+        },
+        "1580868295": {
+            "adwords.med": "INACTIVE",
+            "adwords.media": "INACTIVE",
+            "adwords.meet": "INACTIVE"
+        },
+        "1580868296": {
+            "adwords.meme": "INACTIVE",
+            "adwords.memorial": "INACTIVE"
+        },
+        "1580868297": {
+            "adwords.merckmsd": "INACTIVE"
+        },
+        "1580868299": {
+            "adwords.metlife": "INACTIVE"
+        },
+        "1580868301": {
+            "adwords.mh": "INACTIVE",
+            "adwords.microsoft": "INACTIVE"
+        },
+        "1580868302": {
+            "adwords.mil": "INACTIVE"
+        },
+        "1580868305": {
+            "adwords.mini": "INACTIVE"
+        },
+        "1580868306": {
+            "adwords.mint": "INACTIVE",
+            "adwords.mit": "INACTIVE",
+            "adwords.mitsubishi": "INACTIVE"
+        },
+        "1580868307": {
+            "adwords.mlb": "INACTIVE"
+        },
+        "1580868308": {
+            "adwords.mls": "INACTIVE",
+            "adwords.mm": "INACTIVE"
+        },
+        "1580868310": {
+            "adwords.mma": "INACTIVE"
+        },
+        "1580868312": {
+            "adwords.mo": "INACTIVE",
+            "adwords.mobile": "INACTIVE",
+            "adwords.moda": "INACTIVE"
+        },
+        "1580868328": {
+            "adwords.moi": "INACTIVE",
+            "adwords.monash": "INACTIVE"
+        },
+        "1580868331": {
+            "adwords.money": "INACTIVE"
+        },
+        "1580868332": {
+            "adwords.mopar": "INACTIVE"
+        },
+        "1580868334": {
+            "adwords.mormon": "INACTIVE",
+            "adwords.mortgage": "INACTIVE",
+            "adwords.moto": "INACTIVE"
+        },
+        "1580868335": {
+            "adwords.motorcycles": "INACTIVE",
+            "adwords.mov": "INACTIVE"
+        },
+        "1580868338": {
+            "adwords.movie": "INACTIVE",
+            "adwords.movistar": "INACTIVE"
+        },
+        "1580868339": {
+            "adwords.mp": "INACTIVE"
+        },
+        "1580868340": {
+            "adwords.mq": "INACTIVE"
         }
     }
 }
