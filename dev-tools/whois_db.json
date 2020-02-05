@@ -4365,8 +4365,8 @@
         "state": "future"
     },
     "adwords.frl": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "adwords.ga": {
@@ -4899,6 +4899,11 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "adwords.rent": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "adwords.rest": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -5310,8 +5315,8 @@
         "state": "future"
     },
     "adwords.xn--fct429k": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--fiq228c5hs": {
@@ -5330,8 +5335,8 @@
         "state": "future"
     },
     "adwords.xn--gckr3f0f": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--hxt814e": {
@@ -5350,8 +5355,8 @@
         "state": "future"
     },
     "adwords.xn--jvr189m": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--mk1bu44c": {
@@ -5375,8 +5380,8 @@
         "state": "future"
     },
     "adwords.xn--rovu88b": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "adwords.xn--ses554g": {
@@ -5390,8 +5395,8 @@
         "state": "future"
     },
     "adwords.xn--tckwe": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "adwords.xn--vuq861b": {
@@ -5405,8 +5410,8 @@
         "state": "future"
     },
     "adwords.xxx": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "adwords.xyz": {
@@ -5415,8 +5420,8 @@
         "state": "future"
     },
     "adwords.yoga": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "adwords.yokohama": {
@@ -5490,8 +5495,8 @@
         "state": "future"
     },
     "android.auction": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "android.audio": {
@@ -5500,13 +5505,18 @@
         "state": "past"
     },
     "android.auto": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "android.baby": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "android.bar": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "android.barcelona": {
@@ -5529,14 +5539,19 @@
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
+    "android.best": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
     "android.bet": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "android.bible": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "android.bid": {
@@ -5563,6 +5578,11 @@
         "epoch": 1562457600.0,
         "expiration_date": "07-jul-2019",
         "state": "past"
+    },
+    "android.blog": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
     },
     "android.blue": {
         "epoch": 1583798400.0,
@@ -5595,13 +5615,18 @@
         "state": "future"
     },
     "android.by": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "android.ca": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
+    "android.cam": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "android.camp": {
@@ -5615,8 +5640,8 @@
         "state": "future"
     },
     "android.car": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "android.career": {
@@ -5625,13 +5650,13 @@
         "state": "future"
     },
     "android.cars": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "android.casa": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "android.cat": {
@@ -5670,8 +5695,8 @@
         "state": "future"
     },
     "android.cloud": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "android.club": {
@@ -5685,8 +5710,8 @@
         "state": "future"
     },
     "android.cn": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "android.co": {
