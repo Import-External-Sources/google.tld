@@ -10239,6 +10239,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "blogger.space": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "blogger.stream": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
@@ -10449,9 +10454,14 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "blogger.whoswho": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "blogger.wiki": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "blogger.win": {
