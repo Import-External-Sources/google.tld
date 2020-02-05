@@ -4525,9 +4525,9 @@
         "state": "future"
     },
     "adwords.jobs": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
-        "state": "past"
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
     },
     "adwords.joburg": {
         "epoch": 1601424000.0,
@@ -7974,6 +7974,16 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "blog.gd": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "blog.gdn": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "blog.ge": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
@@ -9120,8 +9130,8 @@
         "state": "future"
     },
     "blogger.ac": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "blogger.academy": {
@@ -9179,24 +9189,39 @@
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
+    "blogger.art": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "blogger.asia": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "blogger.auction": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "blogger.audio": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "blogger.auto": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "blogger.baby": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "blogger.bar": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "blogger.barcelona": {
@@ -9220,8 +9245,8 @@
         "state": "future"
     },
     "blogger.bet": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "blogger.bid": {
@@ -9240,8 +9265,8 @@
         "state": "future"
     },
     "blogger.bj": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "blogger.black": {
