@@ -10394,6 +10394,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "blogger.us": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "blogger.uz": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -10420,8 +10425,8 @@
         "state": "future"
     },
     "blogger.vlaanderen": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "blogger.vodka": {
