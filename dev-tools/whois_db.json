@@ -820,8 +820,8 @@
         "state": "future"
     },
     "abc.fo": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "abc.foundation": {
@@ -835,8 +835,8 @@
         "state": "future"
     },
     "abc.frl": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "abc.fund": {
@@ -1819,6 +1819,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "abc.tech": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
     "abc.technology": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
@@ -2270,8 +2275,8 @@
         "state": "future"
     },
     "admob.io": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "admob.it": {
