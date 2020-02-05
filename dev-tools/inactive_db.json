@@ -7415,8 +7415,6 @@
             "chrome.gt": "INACTIVE"
         },
         "1574648731": {
-            "blog.lk": "INACTIVE",
-            "blog.llc": "INACTIVE",
             "blog.loan": "INACTIVE"
         },
         "1574648732": {
@@ -33998,6 +33996,12 @@
         "1580922200": {
             "blog.living": "INACTIVE",
             "blog.lixil": "INACTIVE"
+        },
+        "1580923513": {
+            "blog.lk": "INACTIVE"
+        },
+        "1580923514": {
+            "blog.llc": "INACTIVE"
         }
     }
 }
