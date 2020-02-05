@@ -9360,8 +9360,8 @@
         "state": "future"
     },
     "blogger.ceo": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "blogger.cf": {
@@ -9465,8 +9465,8 @@
         "state": "future"
     },
     "blogger.cz": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "blogger.date": {
@@ -9554,6 +9554,11 @@
         "expiration_date": "11-jan-2021",
         "state": "future"
     },
+    "blogger.fans": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "blogger.fi": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -9580,8 +9585,8 @@
         "state": "future"
     },
     "blogger.frl": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "blogger.ga": {
@@ -9675,8 +9680,8 @@
         "state": "future"
     },
     "blogger.how": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "blogger.hr": {
