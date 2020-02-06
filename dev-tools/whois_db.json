@@ -8769,6 +8769,11 @@
         "expiration_date": "14-feb-2018",
         "state": "past"
     },
+    "blog.smart": {
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "state": "future"
+    },
     "blog.so": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
