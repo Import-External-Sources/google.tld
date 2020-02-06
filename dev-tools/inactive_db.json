@@ -7414,9 +7414,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1574990284": {
-            "blog.sn": "INACTIVE"
-        },
         "1574991601": {
             "blog.sncf": "INACTIVE"
         },
@@ -34009,6 +34006,9 @@
         },
         "1581018826": {
             "abc.xn--3e0b707e": "INACTIVE"
+        },
+        "1581020979": {
+            "blog.sn": "INACTIVE"
         }
     }
 }
