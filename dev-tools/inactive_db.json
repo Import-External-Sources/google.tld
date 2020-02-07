@@ -300,9 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.foundation": "INACTIVE",
-            "blogspot.fox": "INACTIVE",
-            "blogspot.free": "INACTIVE",
             "blogspot.fresenius": "INACTIVE",
             "blogspot.frl": "INACTIVE",
             "blogspot.frogans": "INACTIVE",
@@ -34499,6 +34496,13 @@
         },
         "1581096770": {
             "blogspot.forum": "INACTIVE"
+        },
+        "1581110261": {
+            "blogspot.foundation": "INACTIVE",
+            "blogspot.fox": "INACTIVE"
+        },
+        "1581110278": {
+            "blogspot.free": "INACTIVE"
         }
     }
 }
