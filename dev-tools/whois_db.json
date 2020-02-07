@@ -10739,8 +10739,13 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "blogspot.blog": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "blogspot.bo": {
-        "epoch": 1581206400,
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
     },

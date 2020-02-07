@@ -300,25 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.blog": "INACTIVE",
-            "blogspot.bloomberg": "INACTIVE",
-            "blogspot.blue": "INACTIVE",
-            "blogspot.bm": "INACTIVE",
-            "blogspot.bms": "INACTIVE",
-            "blogspot.bmw": "INACTIVE",
-            "blogspot.bn": "INACTIVE",
-            "blogspot.bnpparibas": "INACTIVE",
-            "blogspot.boats": "INACTIVE",
-            "blogspot.boehringer": "INACTIVE",
-            "blogspot.bofa": "INACTIVE",
-            "blogspot.bom": "INACTIVE",
-            "blogspot.bond": "INACTIVE",
-            "blogspot.boo": "INACTIVE",
-            "blogspot.book": "INACTIVE",
-            "blogspot.booking": "INACTIVE",
-            "blogspot.bosch": "INACTIVE",
-            "blogspot.bostik": "INACTIVE",
-            "blogspot.boston": "INACTIVE",
             "blogspot.bot": "INACTIVE",
             "blogspot.box": "INACTIVE",
             "blogspot.br": "INACTIVE",
@@ -34206,6 +34187,46 @@
         },
         "1581061366": {
             "admob.politie": "INACTIVE"
+        },
+        "1581062673": {
+            "blogspot.bloomberg": "INACTIVE",
+            "blogspot.blue": "INACTIVE"
+        },
+        "1581062674": {
+            "blogspot.bm": "INACTIVE",
+            "blogspot.bms": "INACTIVE"
+        },
+        "1581062675": {
+            "blogspot.bmw": "INACTIVE"
+        },
+        "1581062676": {
+            "blogspot.bn": "INACTIVE",
+            "blogspot.bnpparibas": "INACTIVE"
+        },
+        "1581062677": {
+            "blogspot.boats": "INACTIVE",
+            "blogspot.boehringer": "INACTIVE",
+            "blogspot.bofa": "INACTIVE"
+        },
+        "1581062678": {
+            "blogspot.bom": "INACTIVE"
+        },
+        "1581062680": {
+            "blogspot.bond": "INACTIVE",
+            "blogspot.boo": "INACTIVE"
+        },
+        "1581062681": {
+            "blogspot.book": "INACTIVE",
+            "blogspot.booking": "INACTIVE"
+        },
+        "1581062682": {
+            "blogspot.bosch": "INACTIVE"
+        },
+        "1581062684": {
+            "blogspot.bostik": "INACTIVE"
+        },
+        "1581062705": {
+            "blogspot.boston": "INACTIVE"
         }
     }
 }
