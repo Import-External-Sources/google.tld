@@ -300,8 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.gap": "INACTIVE",
-            "blogspot.garden": "INACTIVE",
             "blogspot.gb": "INACTIVE",
             "blogspot.gbiz": "INACTIVE",
             "blogspot.gdn": "INACTIVE",
@@ -34525,6 +34523,12 @@
         },
         "1581112225": {
             "abc.bz": "INACTIVE"
+        },
+        "1581114319": {
+            "blogspot.gap": "INACTIVE"
+        },
+        "1581114341": {
+            "blogspot.garden": "INACTIVE"
         }
     }
 }
