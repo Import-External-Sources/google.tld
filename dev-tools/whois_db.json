@@ -10900,12 +10900,12 @@
         "state": "future"
     },
     "blogspot.education": {
-        "epoch": 1576886400,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "blogspot.ee": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
