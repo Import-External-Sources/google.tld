@@ -300,50 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.case": "INACTIVE",
-            "blogspot.caseih": "INACTIVE",
-            "blogspot.cash": "INACTIVE",
-            "blogspot.casino": "INACTIVE",
-            "blogspot.catering": "INACTIVE",
-            "blogspot.catholic": "INACTIVE",
-            "blogspot.cba": "INACTIVE",
-            "blogspot.cbn": "INACTIVE",
-            "blogspot.cbre": "INACTIVE",
-            "blogspot.cbs": "INACTIVE",
-            "blogspot.cd": "INACTIVE",
-            "blogspot.ceb": "INACTIVE",
-            "blogspot.ceo": "INACTIVE",
-            "blogspot.cern": "INACTIVE",
-            "blogspot.cfa": "INACTIVE",
-            "blogspot.cfd": "INACTIVE",
-            "blogspot.cg": "INACTIVE",
-            "blogspot.chanel": "INACTIVE",
-            "blogspot.channel": "INACTIVE",
-            "blogspot.charity": "INACTIVE",
-            "blogspot.chase": "INACTIVE",
-            "blogspot.chat": "INACTIVE",
-            "blogspot.cheap": "INACTIVE",
-            "blogspot.chintai": "INACTIVE",
-            "blogspot.christmas": "INACTIVE",
-            "blogspot.chrome": "INACTIVE",
-            "blogspot.chrysler": "INACTIVE",
-            "blogspot.church": "INACTIVE",
-            "blogspot.cipriani": "INACTIVE",
-            "blogspot.circle": "INACTIVE",
-            "blogspot.cisco": "INACTIVE",
-            "blogspot.citadel": "INACTIVE",
-            "blogspot.citi": "INACTIVE",
-            "blogspot.citic": "INACTIVE",
-            "blogspot.city": "INACTIVE",
-            "blogspot.cityeats": "INACTIVE",
-            "blogspot.ck": "INACTIVE",
-            "blogspot.claims": "INACTIVE",
-            "blogspot.cleaning": "INACTIVE",
-            "blogspot.click": "INACTIVE",
-            "blogspot.clinic": "INACTIVE",
-            "blogspot.clinique": "INACTIVE",
-            "blogspot.cloud": "INACTIVE",
-            "blogspot.clubmed": "INACTIVE",
             "blogspot.coach": "INACTIVE",
             "blogspot.codes": "INACTIVE",
             "blogspot.coffee": "INACTIVE",
@@ -34270,6 +34226,90 @@
         },
         "1581067011": {
             "blogspot.casa": "INACTIVE"
+        },
+        "1581068295": {
+            "blogspot.case": "INACTIVE"
+        },
+        "1581068298": {
+            "blogspot.caseih": "INACTIVE",
+            "blogspot.cash": "INACTIVE",
+            "blogspot.casino": "INACTIVE"
+        },
+        "1581068299": {
+            "blogspot.catering": "INACTIVE",
+            "blogspot.catholic": "INACTIVE",
+            "blogspot.cba": "INACTIVE"
+        },
+        "1581068300": {
+            "blogspot.cbn": "INACTIVE",
+            "blogspot.cbre": "INACTIVE",
+            "blogspot.cbs": "INACTIVE"
+        },
+        "1581068301": {
+            "blogspot.cd": "INACTIVE",
+            "blogspot.ceb": "INACTIVE"
+        },
+        "1581068302": {
+            "blogspot.ceo": "INACTIVE",
+            "blogspot.cern": "INACTIVE"
+        },
+        "1581068303": {
+            "blogspot.cfa": "INACTIVE",
+            "blogspot.cfd": "INACTIVE",
+            "blogspot.cg": "INACTIVE"
+        },
+        "1581068304": {
+            "blogspot.chanel": "INACTIVE",
+            "blogspot.channel": "INACTIVE"
+        },
+        "1581068305": {
+            "blogspot.charity": "INACTIVE",
+            "blogspot.chase": "INACTIVE"
+        },
+        "1581068306": {
+            "blogspot.chat": "INACTIVE",
+            "blogspot.cheap": "INACTIVE",
+            "blogspot.chintai": "INACTIVE"
+        },
+        "1581068307": {
+            "blogspot.christmas": "INACTIVE",
+            "blogspot.chrome": "INACTIVE",
+            "blogspot.chrysler": "INACTIVE"
+        },
+        "1581068308": {
+            "blogspot.church": "INACTIVE",
+            "blogspot.cipriani": "INACTIVE"
+        },
+        "1581068314": {
+            "blogspot.circle": "INACTIVE",
+            "blogspot.cisco": "INACTIVE"
+        },
+        "1581068315": {
+            "blogspot.citadel": "INACTIVE",
+            "blogspot.citi": "INACTIVE"
+        },
+        "1581068318": {
+            "blogspot.citic": "INACTIVE",
+            "blogspot.city": "INACTIVE"
+        },
+        "1581068319": {
+            "blogspot.cityeats": "INACTIVE",
+            "blogspot.ck": "INACTIVE"
+        },
+        "1581068320": {
+            "blogspot.claims": "INACTIVE",
+            "blogspot.cleaning": "INACTIVE",
+            "blogspot.click": "INACTIVE"
+        },
+        "1581068321": {
+            "blogspot.clinic": "INACTIVE"
+        },
+        "1581068323": {
+            "blogspot.clinique": "INACTIVE"
+        },
+        "1581068324": {
+            "blogspot.cloud": "INACTIVE",
+            "blogspot.clubmed": "INACTIVE"
         }
     }
 }
