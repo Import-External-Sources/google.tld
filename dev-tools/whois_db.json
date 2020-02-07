@@ -10850,7 +10850,7 @@
         "state": "future"
     },
     "blogspot.cool": {
-        "epoch": 1601164800,
+        "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
     },

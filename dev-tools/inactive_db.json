@@ -300,10 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.cookingchannel": "INACTIVE",
-            "blogspot.coop": "INACTIVE",
-            "blogspot.corsica": "INACTIVE",
-            "blogspot.country": "INACTIVE",
             "blogspot.coupon": "INACTIVE",
             "blogspot.coupons": "INACTIVE",
             "blogspot.courses": "INACTIVE",
@@ -34328,6 +34324,18 @@
         },
         "1581069644": {
             "blogspot.cooking": "INACTIVE"
+        },
+        "1581070938": {
+            "blogspot.cookingchannel": "INACTIVE"
+        },
+        "1581070939": {
+            "blogspot.coop": "INACTIVE"
+        },
+        "1581070941": {
+            "blogspot.corsica": "INACTIVE"
+        },
+        "1581070957": {
+            "blogspot.country": "INACTIVE"
         }
     }
 }
