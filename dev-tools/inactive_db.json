@@ -300,21 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.abbott": "INACTIVE",
-            "blogspot.abbvie": "INACTIVE",
-            "blogspot.abc": "INACTIVE",
-            "blogspot.able": "INACTIVE",
-            "blogspot.abogado": "INACTIVE",
-            "blogspot.abudhabi": "INACTIVE",
-            "blogspot.academy": "INACTIVE",
-            "blogspot.accenture": "INACTIVE",
-            "blogspot.accountant": "INACTIVE",
-            "blogspot.accountants": "INACTIVE",
-            "blogspot.aco": "INACTIVE",
-            "blogspot.actor": "INACTIVE",
-            "blogspot.ad": "INACTIVE",
-            "blogspot.adac": "INACTIVE",
-            "blogspot.ads": "INACTIVE",
             "blogspot.adult": "INACTIVE",
             "blogspot.aeg": "INACTIVE",
             "blogspot.aero": "INACTIVE",
@@ -7413,14 +7398,6 @@
         "1570229517": {
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
-        },
-        "1574991615": {
-            "blogspot.aaa": "INACTIVE",
-            "blogspot.aarp": "INACTIVE",
-            "blogspot.abarth": "INACTIVE"
-        },
-        "1574991616": {
-            "blogspot.abb": "INACTIVE"
         },
         "1580850764": {
             "1e100.aaa": "INACTIVE",
@@ -34035,6 +34012,40 @@
         },
         "1581045315": {
             "blog.spot": "INACTIVE"
+        },
+        "1581046611": {
+            "blogspot.aaa": "INACTIVE",
+            "blogspot.aarp": "INACTIVE",
+            "blogspot.abarth": "INACTIVE"
+        },
+        "1581046612": {
+            "blogspot.abb": "INACTIVE",
+            "blogspot.abbott": "INACTIVE",
+            "blogspot.abbvie": "INACTIVE"
+        },
+        "1581046613": {
+            "blogspot.abc": "INACTIVE",
+            "blogspot.able": "INACTIVE"
+        },
+        "1581046619": {
+            "blogspot.abogado": "INACTIVE"
+        },
+        "1581046620": {
+            "blogspot.abudhabi": "INACTIVE"
+        },
+        "1581046621": {
+            "blogspot.academy": "INACTIVE",
+            "blogspot.accenture": "INACTIVE",
+            "blogspot.accountant": "INACTIVE"
+        },
+        "1581046622": {
+            "blogspot.accountants": "INACTIVE",
+            "blogspot.aco": "INACTIVE",
+            "blogspot.actor": "INACTIVE"
+        },
+        "1581046623": {
+            "blogspot.adac": "INACTIVE",
+            "blogspot.ads": "INACTIVE"
         }
     }
 }
