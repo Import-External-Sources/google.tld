@@ -300,18 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.flowers": "INACTIVE",
-            "blogspot.fly": "INACTIVE",
-            "blogspot.fm": "INACTIVE",
-            "blogspot.fo": "INACTIVE",
-            "blogspot.foo": "INACTIVE",
-            "blogspot.food": "INACTIVE",
-            "blogspot.foodnetwork": "INACTIVE",
-            "blogspot.football": "INACTIVE",
-            "blogspot.ford": "INACTIVE",
-            "blogspot.forex": "INACTIVE",
-            "blogspot.forsale": "INACTIVE",
-            "blogspot.forum": "INACTIVE",
             "blogspot.foundation": "INACTIVE",
             "blogspot.fox": "INACTIVE",
             "blogspot.free": "INACTIVE",
@@ -34490,6 +34478,27 @@
         },
         "1581094130": {
             "blogspot.florist": "INACTIVE"
+        },
+        "1581096765": {
+            "blogspot.flowers": "INACTIVE",
+            "blogspot.fly": "INACTIVE"
+        },
+        "1581096766": {
+            "blogspot.fo": "INACTIVE",
+            "blogspot.foo": "INACTIVE"
+        },
+        "1581096767": {
+            "blogspot.food": "INACTIVE",
+            "blogspot.foodnetwork": "INACTIVE",
+            "blogspot.football": "INACTIVE"
+        },
+        "1581096768": {
+            "blogspot.ford": "INACTIVE",
+            "blogspot.forex": "INACTIVE",
+            "blogspot.forsale": "INACTIVE"
+        },
+        "1581096770": {
+            "blogspot.forum": "INACTIVE"
         }
     }
 }
