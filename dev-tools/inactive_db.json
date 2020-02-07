@@ -300,7 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.firestone": "INACTIVE",
             "blogspot.firmdale": "INACTIVE",
             "blogspot.fish": "INACTIVE",
             "blogspot.fishing": "INACTIVE",
@@ -34474,6 +34473,9 @@
         },
         "1581085473": {
             "admob.fm": "INACTIVE"
+        },
+        "1581086827": {
+            "blogspot.firestone": "INACTIVE"
         }
     }
 }
