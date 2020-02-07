@@ -300,31 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.bbt": "INACTIVE",
-            "blogspot.bbva": "INACTIVE",
-            "blogspot.bcg": "INACTIVE",
-            "blogspot.bcn": "INACTIVE",
-            "blogspot.bd": "INACTIVE",
-            "blogspot.beats": "INACTIVE",
-            "blogspot.beauty": "INACTIVE",
-            "blogspot.beer": "INACTIVE",
-            "blogspot.bentley": "INACTIVE",
-            "blogspot.berlin": "INACTIVE",
-            "blogspot.best": "INACTIVE",
-            "blogspot.bestbuy": "INACTIVE",
-            "blogspot.bet": "INACTIVE",
-            "blogspot.bf": "INACTIVE",
-            "blogspot.bh": "INACTIVE",
-            "blogspot.bharti": "INACTIVE",
-            "blogspot.bible": "INACTIVE",
-            "blogspot.bid": "INACTIVE",
-            "blogspot.bike": "INACTIVE",
-            "blogspot.bing": "INACTIVE",
-            "blogspot.bingo": "INACTIVE",
-            "blogspot.bio": "INACTIVE",
-            "blogspot.black": "INACTIVE",
-            "blogspot.blackfriday": "INACTIVE",
-            "blogspot.blockbuster": "INACTIVE",
             "blogspot.blog": "INACTIVE",
             "blogspot.bloomberg": "INACTIVE",
             "blogspot.blue": "INACTIVE",
@@ -34173,6 +34148,55 @@
         },
         "1581058690": {
             "blogspot.bbc": "INACTIVE"
+        },
+        "1581059692": {
+            "blog.br": "INACTIVE"
+        },
+        "1581059955": {
+            "blogspot.bbt": "INACTIVE",
+            "blogspot.bbva": "INACTIVE"
+        },
+        "1581059958": {
+            "blogspot.bcg": "INACTIVE",
+            "blogspot.bcn": "INACTIVE"
+        },
+        "1581059959": {
+            "blogspot.bd": "INACTIVE",
+            "blogspot.beats": "INACTIVE"
+        },
+        "1581059960": {
+            "blogspot.beauty": "INACTIVE"
+        },
+        "1581059977": {
+            "blogspot.beer": "INACTIVE"
+        },
+        "1581059983": {
+            "blogspot.bentley": "INACTIVE",
+            "blogspot.berlin": "INACTIVE"
+        },
+        "1581059986": {
+            "blogspot.bestbuy": "INACTIVE",
+            "blogspot.bet": "INACTIVE"
+        },
+        "1581059987": {
+            "blogspot.bh": "INACTIVE"
+        },
+        "1581059988": {
+            "blogspot.bharti": "INACTIVE",
+            "blogspot.bible": "INACTIVE",
+            "blogspot.bid": "INACTIVE"
+        },
+        "1581059989": {
+            "blogspot.bike": "INACTIVE",
+            "blogspot.bing": "INACTIVE",
+            "blogspot.bingo": "INACTIVE"
+        },
+        "1581059991": {
+            "blogspot.black": "INACTIVE",
+            "blogspot.blackfriday": "INACTIVE"
+        },
+        "1581059996": {
+            "blogspot.blockbuster": "INACTIVE"
         }
     }
 }
