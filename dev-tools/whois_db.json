@@ -470,8 +470,8 @@
         "state": "future"
     },
     "abc.clothing": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "abc.club": {
@@ -5485,8 +5485,8 @@
         "state": "future"
     },
     "android.art": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "android.asia": {
@@ -7535,8 +7535,8 @@
         "state": "future"
     },
     "blog.casa": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "blog.cash": {
