@@ -300,50 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.cyou": "INACTIVE",
-            "blogspot.dabur": "INACTIVE",
-            "blogspot.dad": "INACTIVE",
-            "blogspot.dance": "INACTIVE",
-            "blogspot.data": "INACTIVE",
-            "blogspot.date": "INACTIVE",
-            "blogspot.dating": "INACTIVE",
-            "blogspot.datsun": "INACTIVE",
-            "blogspot.day": "INACTIVE",
-            "blogspot.dclk": "INACTIVE",
-            "blogspot.dds": "INACTIVE",
-            "blogspot.deal": "INACTIVE",
-            "blogspot.dealer": "INACTIVE",
-            "blogspot.deals": "INACTIVE",
-            "blogspot.degree": "INACTIVE",
-            "blogspot.delivery": "INACTIVE",
-            "blogspot.dell": "INACTIVE",
-            "blogspot.deloitte": "INACTIVE",
-            "blogspot.delta": "INACTIVE",
-            "blogspot.democrat": "INACTIVE",
-            "blogspot.dental": "INACTIVE",
-            "blogspot.dentist": "INACTIVE",
-            "blogspot.desi": "INACTIVE",
-            "blogspot.design": "INACTIVE",
-            "blogspot.dhl": "INACTIVE",
-            "blogspot.diamonds": "INACTIVE",
-            "blogspot.diet": "INACTIVE",
-            "blogspot.digital": "INACTIVE",
-            "blogspot.direct": "INACTIVE",
-            "blogspot.discount": "INACTIVE",
-            "blogspot.discover": "INACTIVE",
-            "blogspot.dish": "INACTIVE",
-            "blogspot.diy": "INACTIVE",
-            "blogspot.dj": "INACTIVE",
-            "blogspot.dnp": "INACTIVE",
-            "blogspot.docs": "INACTIVE",
-            "blogspot.doctor": "INACTIVE",
-            "blogspot.dodge": "INACTIVE",
-            "blogspot.dog": "INACTIVE",
-            "blogspot.domains": "INACTIVE",
-            "blogspot.dot": "INACTIVE",
-            "blogspot.download": "INACTIVE",
-            "blogspot.drive": "INACTIVE",
-            "blogspot.dtv": "INACTIVE",
             "blogspot.dubai": "INACTIVE",
             "blogspot.duck": "INACTIVE",
             "blogspot.dunlop": "INACTIVE",
@@ -34352,6 +34308,94 @@
         },
         "1581073585": {
             "blogspot.cymru": "INACTIVE"
+        },
+        "1581074853": {
+            "blogspot.cyou": "INACTIVE"
+        },
+        "1581074854": {
+            "blogspot.dabur": "INACTIVE",
+            "blogspot.dad": "INACTIVE"
+        },
+        "1581074855": {
+            "blogspot.dance": "INACTIVE"
+        },
+        "1581074858": {
+            "blogspot.data": "INACTIVE",
+            "blogspot.date": "INACTIVE"
+        },
+        "1581074859": {
+            "blogspot.dating": "INACTIVE"
+        },
+        "1581074860": {
+            "blogspot.datsun": "INACTIVE",
+            "blogspot.day": "INACTIVE",
+            "blogspot.dclk": "INACTIVE"
+        },
+        "1581074861": {
+            "blogspot.dds": "INACTIVE"
+        },
+        "1581074867": {
+            "blogspot.deal": "INACTIVE",
+            "blogspot.dealer": "INACTIVE"
+        },
+        "1581074868": {
+            "blogspot.deals": "INACTIVE",
+            "blogspot.degree": "INACTIVE"
+        },
+        "1581074869": {
+            "blogspot.delivery": "INACTIVE",
+            "blogspot.dell": "INACTIVE"
+        },
+        "1581074874": {
+            "blogspot.deloitte": "INACTIVE",
+            "blogspot.delta": "INACTIVE"
+        },
+        "1581074875": {
+            "blogspot.democrat": "INACTIVE",
+            "blogspot.dental": "INACTIVE"
+        },
+        "1581074876": {
+            "blogspot.dentist": "INACTIVE",
+            "blogspot.desi": "INACTIVE"
+        },
+        "1581074877": {
+            "blogspot.dhl": "INACTIVE"
+        },
+        "1581074878": {
+            "blogspot.diamonds": "INACTIVE",
+            "blogspot.diet": "INACTIVE"
+        },
+        "1581074879": {
+            "blogspot.digital": "INACTIVE",
+            "blogspot.direct": "INACTIVE"
+        },
+        "1581074880": {
+            "blogspot.discount": "INACTIVE",
+            "blogspot.discover": "INACTIVE",
+            "blogspot.dish": "INACTIVE"
+        },
+        "1581074881": {
+            "blogspot.diy": "INACTIVE"
+        },
+        "1581074885": {
+            "blogspot.dnp": "INACTIVE",
+            "blogspot.docs": "INACTIVE"
+        },
+        "1581074886": {
+            "blogspot.doctor": "INACTIVE",
+            "blogspot.dodge": "INACTIVE",
+            "blogspot.dog": "INACTIVE"
+        },
+        "1581074887": {
+            "blogspot.domains": "INACTIVE",
+            "blogspot.dot": "INACTIVE",
+            "blogspot.download": "INACTIVE"
+        },
+        "1581074888": {
+            "blogspot.drive": "INACTIVE"
+        },
+        "1581074889": {
+            "blogspot.dtv": "INACTIVE"
         }
     }
 }
