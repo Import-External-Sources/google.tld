@@ -10855,12 +10855,12 @@
         "state": "future"
     },
     "blogspot.cr": {
-        "epoch": 1583193600,
+        "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "blogspot.cx": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },

@@ -300,23 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.coupon": "INACTIVE",
-            "blogspot.coupons": "INACTIVE",
-            "blogspot.courses": "INACTIVE",
-            "blogspot.credit": "INACTIVE",
-            "blogspot.creditcard": "INACTIVE",
-            "blogspot.creditunion": "INACTIVE",
-            "blogspot.cricket": "INACTIVE",
-            "blogspot.crown": "INACTIVE",
-            "blogspot.crs": "INACTIVE",
-            "blogspot.cruise": "INACTIVE",
-            "blogspot.cruises": "INACTIVE",
-            "blogspot.csc": "INACTIVE",
-            "blogspot.cu": "INACTIVE",
-            "blogspot.cuisinella": "INACTIVE",
-            "blogspot.cw": "INACTIVE",
-            "blogspot.cy": "INACTIVE",
-            "blogspot.cymru": "INACTIVE",
             "blogspot.cyou": "INACTIVE",
             "blogspot.dabur": "INACTIVE",
             "blogspot.dad": "INACTIVE",
@@ -34336,6 +34319,39 @@
         },
         "1581070957": {
             "blogspot.country": "INACTIVE"
+        },
+        "1581073563": {
+            "blogspot.coupon": "INACTIVE",
+            "blogspot.coupons": "INACTIVE",
+            "blogspot.courses": "INACTIVE"
+        },
+        "1581073564": {
+            "blogspot.credit": "INACTIVE",
+            "blogspot.creditcard": "INACTIVE"
+        },
+        "1581073565": {
+            "blogspot.creditunion": "INACTIVE",
+            "blogspot.cricket": "INACTIVE",
+            "blogspot.crown": "INACTIVE"
+        },
+        "1581073566": {
+            "blogspot.crs": "INACTIVE",
+            "blogspot.cruise": "INACTIVE",
+            "blogspot.cruises": "INACTIVE"
+        },
+        "1581073567": {
+            "blogspot.csc": "INACTIVE"
+        },
+        "1581073568": {
+            "blogspot.cu": "INACTIVE"
+        },
+        "1581073569": {
+            "blogspot.cuisinella": "INACTIVE",
+            "blogspot.cw": "INACTIVE",
+            "blogspot.cy": "INACTIVE"
+        },
+        "1581073585": {
+            "blogspot.cymru": "INACTIVE"
         }
     }
 }
