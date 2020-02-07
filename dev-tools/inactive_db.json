@@ -300,18 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.bot": "INACTIVE",
-            "blogspot.box": "INACTIVE",
-            "blogspot.br": "INACTIVE",
-            "blogspot.bradesco": "INACTIVE",
-            "blogspot.bridgestone": "INACTIVE",
-            "blogspot.broadway": "INACTIVE",
-            "blogspot.broker": "INACTIVE",
-            "blogspot.brother": "INACTIVE",
-            "blogspot.brussels": "INACTIVE",
-            "blogspot.bs": "INACTIVE",
-            "blogspot.bt": "INACTIVE",
-            "blogspot.budapest": "INACTIVE",
             "blogspot.bugatti": "INACTIVE",
             "blogspot.build": "INACTIVE",
             "blogspot.builders": "INACTIVE",
@@ -34227,6 +34215,31 @@
         },
         "1581062705": {
             "blogspot.boston": "INACTIVE"
+        },
+        "1581064012": {
+            "blogspot.bot": "INACTIVE"
+        },
+        "1581064013": {
+            "blogspot.box": "INACTIVE",
+            "blogspot.br": "INACTIVE"
+        },
+        "1581064014": {
+            "blogspot.bradesco": "INACTIVE",
+            "blogspot.bridgestone": "INACTIVE"
+        },
+        "1581064016": {
+            "blogspot.broadway": "INACTIVE"
+        },
+        "1581064017": {
+            "blogspot.broker": "INACTIVE",
+            "blogspot.brother": "INACTIVE"
+        },
+        "1581064018": {
+            "blogspot.brussels": "INACTIVE",
+            "blogspot.bt": "INACTIVE"
+        },
+        "1581064022": {
+            "blogspot.budapest": "INACTIVE"
         }
     }
 }

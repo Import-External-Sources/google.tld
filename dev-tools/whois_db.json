@@ -10750,7 +10750,7 @@
         "state": "future"
     },
     "blogspot.boutique": {
-        "epoch": 1582761600,
+        "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
