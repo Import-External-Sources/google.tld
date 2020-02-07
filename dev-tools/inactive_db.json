@@ -300,24 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.fresenius": "INACTIVE",
-            "blogspot.frl": "INACTIVE",
-            "blogspot.frogans": "INACTIVE",
-            "blogspot.frontdoor": "INACTIVE",
-            "blogspot.frontier": "INACTIVE",
-            "blogspot.ftr": "INACTIVE",
-            "blogspot.fujitsu": "INACTIVE",
-            "blogspot.fujixerox": "INACTIVE",
-            "blogspot.fun": "INACTIVE",
-            "blogspot.fund": "INACTIVE",
-            "blogspot.furniture": "INACTIVE",
-            "blogspot.futbol": "INACTIVE",
-            "blogspot.fyi": "INACTIVE",
-            "blogspot.gal": "INACTIVE",
-            "blogspot.gallo": "INACTIVE",
-            "blogspot.gallup": "INACTIVE",
-            "blogspot.game": "INACTIVE",
-            "blogspot.games": "INACTIVE",
             "blogspot.gap": "INACTIVE",
             "blogspot.garden": "INACTIVE",
             "blogspot.gb": "INACTIVE",
@@ -34503,6 +34485,43 @@
         },
         "1581110278": {
             "blogspot.free": "INACTIVE"
+        },
+        "1581111573": {
+            "blogspot.fresenius": "INACTIVE"
+        },
+        "1581111574": {
+            "blogspot.frl": "INACTIVE"
+        },
+        "1581111576": {
+            "blogspot.frogans": "INACTIVE",
+            "blogspot.frontdoor": "INACTIVE",
+            "blogspot.frontier": "INACTIVE"
+        },
+        "1581111577": {
+            "blogspot.ftr": "INACTIVE"
+        },
+        "1581111578": {
+            "blogspot.fujitsu": "INACTIVE",
+            "blogspot.fujixerox": "INACTIVE"
+        },
+        "1581111579": {
+            "blogspot.fund": "INACTIVE",
+            "blogspot.furniture": "INACTIVE"
+        },
+        "1581111580": {
+            "blogspot.futbol": "INACTIVE",
+            "blogspot.fyi": "INACTIVE"
+        },
+        "1581111582": {
+            "blogspot.gal": "INACTIVE",
+            "blogspot.gallo": "INACTIVE"
+        },
+        "1581111584": {
+            "blogspot.gallup": "INACTIVE",
+            "blogspot.game": "INACTIVE"
+        },
+        "1581111585": {
+            "blogspot.games": "INACTIVE"
         }
     }
 }
