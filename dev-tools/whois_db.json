@@ -8787,11 +8787,11 @@
     "blog.social": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "blog.solar": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "blog.solutions": {
