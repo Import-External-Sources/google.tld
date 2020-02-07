@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.barcelona": "INACTIVE",
-            "blogspot.barclaycard": "INACTIVE",
-            "blogspot.barclays": "INACTIVE",
-            "blogspot.barefoot": "INACTIVE",
-            "blogspot.bargains": "INACTIVE",
-            "blogspot.baseball": "INACTIVE",
-            "blogspot.basketball": "INACTIVE",
-            "blogspot.bauhaus": "INACTIVE",
-            "blogspot.bayern": "INACTIVE",
-            "blogspot.bb": "INACTIVE",
-            "blogspot.bbc": "INACTIVE",
             "blogspot.bbt": "INACTIVE",
             "blogspot.bbva": "INACTIVE",
             "blogspot.bcg": "INACTIVE",
@@ -34161,6 +34150,29 @@
         },
         "1581057373": {
             "blogspot.bar": "INACTIVE"
+        },
+        "1581058662": {
+            "blogspot.barcelona": "INACTIVE"
+        },
+        "1581058663": {
+            "blogspot.barclaycard": "INACTIVE",
+            "blogspot.barclays": "INACTIVE",
+            "blogspot.barefoot": "INACTIVE"
+        },
+        "1581058664": {
+            "blogspot.bargains": "INACTIVE",
+            "blogspot.baseball": "INACTIVE",
+            "blogspot.basketball": "INACTIVE"
+        },
+        "1581058665": {
+            "blogspot.bauhaus": "INACTIVE"
+        },
+        "1581058687": {
+            "blogspot.bayern": "INACTIVE",
+            "blogspot.bb": "INACTIVE"
+        },
+        "1581058690": {
+            "blogspot.bbc": "INACTIVE"
         }
     }
 }
