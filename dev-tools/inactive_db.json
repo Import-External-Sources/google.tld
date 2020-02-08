@@ -300,11 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.hospital": "INACTIVE",
-            "blogspot.hosting": "INACTIVE",
-            "blogspot.hot": "INACTIVE",
-            "blogspot.hoteles": "INACTIVE",
-            "blogspot.hotels": "INACTIVE",
             "blogspot.hotmail": "INACTIVE",
             "blogspot.house": "INACTIVE",
             "blogspot.how": "INACTIVE",
@@ -34620,6 +34615,17 @@
         },
         "1581128796": {
             "blogspot.horse": "INACTIVE"
+        },
+        "1581132726": {
+            "blogspot.hospital": "INACTIVE",
+            "blogspot.hosting": "INACTIVE"
+        },
+        "1581132727": {
+            "blogspot.hot": "INACTIVE",
+            "blogspot.hoteles": "INACTIVE"
+        },
+        "1581132728": {
+            "blogspot.hotels": "INACTIVE"
         }
     }
 }
