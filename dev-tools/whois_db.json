@@ -10940,17 +10940,17 @@
         "state": "future"
     },
     "blogspot.gl": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.gratis": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "blogspot.gs": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
@@ -10960,17 +10960,17 @@
         "state": "future"
     },
     "blogspot.gy": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.healthcare": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "blogspot.hk": {
-        "epoch": 1606435200,
+        "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
         "state": "future"
     },

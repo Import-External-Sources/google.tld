@@ -300,73 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.genting": "INACTIVE",
-            "blogspot.george": "INACTIVE",
-            "blogspot.gf": "INACTIVE",
-            "blogspot.gg": "INACTIVE",
-            "blogspot.ggee": "INACTIVE",
-            "blogspot.gh": "INACTIVE",
-            "blogspot.gi": "INACTIVE",
-            "blogspot.gift": "INACTIVE",
-            "blogspot.gifts": "INACTIVE",
-            "blogspot.gives": "INACTIVE",
-            "blogspot.giving": "INACTIVE",
-            "blogspot.glade": "INACTIVE",
-            "blogspot.glass": "INACTIVE",
-            "blogspot.gle": "INACTIVE",
-            "blogspot.global": "INACTIVE",
-            "blogspot.globo": "INACTIVE",
-            "blogspot.gm": "INACTIVE",
-            "blogspot.gmail": "INACTIVE",
-            "blogspot.gmbh": "INACTIVE",
-            "blogspot.gmo": "INACTIVE",
-            "blogspot.gmx": "INACTIVE",
-            "blogspot.gn": "INACTIVE",
-            "blogspot.godaddy": "INACTIVE",
-            "blogspot.gold": "INACTIVE",
-            "blogspot.goldpoint": "INACTIVE",
-            "blogspot.golf": "INACTIVE",
-            "blogspot.goo": "INACTIVE",
-            "blogspot.goodyear": "INACTIVE",
-            "blogspot.goog": "INACTIVE",
-            "blogspot.google": "INACTIVE",
-            "blogspot.gop": "INACTIVE",
-            "blogspot.got": "INACTIVE",
-            "blogspot.gov": "INACTIVE",
-            "blogspot.gp": "INACTIVE",
-            "blogspot.gq": "INACTIVE",
-            "blogspot.grainger": "INACTIVE",
-            "blogspot.graphics": "INACTIVE",
-            "blogspot.green": "INACTIVE",
-            "blogspot.gripe": "INACTIVE",
-            "blogspot.grocery": "INACTIVE",
-            "blogspot.group": "INACTIVE",
-            "blogspot.gt": "INACTIVE",
-            "blogspot.gu": "INACTIVE",
-            "blogspot.guardian": "INACTIVE",
-            "blogspot.gucci": "INACTIVE",
-            "blogspot.guge": "INACTIVE",
-            "blogspot.guide": "INACTIVE",
-            "blogspot.guitars": "INACTIVE",
-            "blogspot.gw": "INACTIVE",
-            "blogspot.hair": "INACTIVE",
-            "blogspot.hamburg": "INACTIVE",
-            "blogspot.hangout": "INACTIVE",
-            "blogspot.haus": "INACTIVE",
-            "blogspot.hbo": "INACTIVE",
-            "blogspot.hdfc": "INACTIVE",
-            "blogspot.hdfcbank": "INACTIVE",
-            "blogspot.health": "INACTIVE",
-            "blogspot.help": "INACTIVE",
-            "blogspot.helsinki": "INACTIVE",
-            "blogspot.here": "INACTIVE",
-            "blogspot.hermes": "INACTIVE",
-            "blogspot.hgtv": "INACTIVE",
-            "blogspot.hiphop": "INACTIVE",
-            "blogspot.hisamitsu": "INACTIVE",
-            "blogspot.hitachi": "INACTIVE",
-            "blogspot.hiv": "INACTIVE",
-            "blogspot.hkt": "INACTIVE",
             "blogspot.hm": "INACTIVE",
             "blogspot.hockey": "INACTIVE",
             "blogspot.holdings": "INACTIVE",
@@ -34545,6 +34478,134 @@
         },
         "1581123540": {
             "blogspot.gent": "INACTIVE"
+        },
+        "1581124802": {
+            "blogspot.genting": "INACTIVE",
+            "blogspot.george": "INACTIVE"
+        },
+        "1581124803": {
+            "blogspot.gf": "INACTIVE"
+        },
+        "1581124804": {
+            "blogspot.ggee": "INACTIVE"
+        },
+        "1581124812": {
+            "blogspot.gh": "INACTIVE",
+            "blogspot.gi": "INACTIVE"
+        },
+        "1581124813": {
+            "blogspot.gift": "INACTIVE",
+            "blogspot.gifts": "INACTIVE"
+        },
+        "1581124814": {
+            "blogspot.gives": "INACTIVE",
+            "blogspot.giving": "INACTIVE",
+            "blogspot.glade": "INACTIVE"
+        },
+        "1581124815": {
+            "blogspot.glass": "INACTIVE",
+            "blogspot.gle": "INACTIVE",
+            "blogspot.global": "INACTIVE"
+        },
+        "1581124816": {
+            "blogspot.globo": "INACTIVE"
+        },
+        "1581124817": {
+            "blogspot.gmail": "INACTIVE",
+            "blogspot.gmbh": "INACTIVE"
+        },
+        "1581124818": {
+            "blogspot.gmo": "INACTIVE"
+        },
+        "1581124820": {
+            "blogspot.gmx": "INACTIVE",
+            "blogspot.gn": "INACTIVE"
+        },
+        "1581124821": {
+            "blogspot.godaddy": "INACTIVE",
+            "blogspot.gold": "INACTIVE"
+        },
+        "1581124822": {
+            "blogspot.goldpoint": "INACTIVE",
+            "blogspot.golf": "INACTIVE"
+        },
+        "1581124823": {
+            "blogspot.goo": "INACTIVE"
+        },
+        "1581124825": {
+            "blogspot.goodyear": "INACTIVE",
+            "blogspot.goog": "INACTIVE",
+            "blogspot.google": "INACTIVE"
+        },
+        "1581124827": {
+            "blogspot.gop": "INACTIVE"
+        },
+        "1581124828": {
+            "blogspot.got": "INACTIVE",
+            "blogspot.gov": "INACTIVE"
+        },
+        "1581124829": {
+            "blogspot.gq": "INACTIVE",
+            "blogspot.grainger": "INACTIVE"
+        },
+        "1581124830": {
+            "blogspot.graphics": "INACTIVE",
+            "blogspot.green": "INACTIVE",
+            "blogspot.gripe": "INACTIVE"
+        },
+        "1581124831": {
+            "blogspot.grocery": "INACTIVE",
+            "blogspot.group": "INACTIVE"
+        },
+        "1581124832": {
+            "blogspot.gu": "INACTIVE",
+            "blogspot.guardian": "INACTIVE",
+            "blogspot.gucci": "INACTIVE"
+        },
+        "1581124833": {
+            "blogspot.guge": "INACTIVE",
+            "blogspot.guide": "INACTIVE",
+            "blogspot.guitars": "INACTIVE"
+        },
+        "1581124834": {
+            "blogspot.guru": "INACTIVE",
+            "blogspot.gw": "INACTIVE"
+        },
+        "1581124835": {
+            "blogspot.hair": "INACTIVE",
+            "blogspot.hamburg": "INACTIVE",
+            "blogspot.hangout": "INACTIVE"
+        },
+        "1581124836": {
+            "blogspot.haus": "INACTIVE",
+            "blogspot.hbo": "INACTIVE"
+        },
+        "1581124838": {
+            "blogspot.hdfc": "INACTIVE",
+            "blogspot.hdfcbank": "INACTIVE"
+        },
+        "1581124839": {
+            "blogspot.health": "INACTIVE",
+            "blogspot.help": "INACTIVE"
+        },
+        "1581124840": {
+            "blogspot.helsinki": "INACTIVE",
+            "blogspot.here": "INACTIVE",
+            "blogspot.hermes": "INACTIVE"
+        },
+        "1581124841": {
+            "blogspot.hgtv": "INACTIVE",
+            "blogspot.hiphop": "INACTIVE"
+        },
+        "1581124842": {
+            "blogspot.hisamitsu": "INACTIVE",
+            "blogspot.hitachi": "INACTIVE"
+        },
+        "1581124843": {
+            "blogspot.hiv": "INACTIVE"
+        },
+        "1581124845": {
+            "blogspot.hkt": "INACTIVE"
         }
     }
 }
