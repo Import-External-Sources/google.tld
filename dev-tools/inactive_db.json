@@ -300,12 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.ipiranga": "INACTIVE",
-            "blogspot.iq": "INACTIVE",
-            "blogspot.irish": "INACTIVE",
-            "blogspot.ismaili": "INACTIVE",
-            "blogspot.ist": "INACTIVE",
-            "blogspot.istanbul": "INACTIVE",
             "blogspot.itau": "INACTIVE",
             "blogspot.itv": "INACTIVE",
             "blogspot.iveco": "INACTIVE",
@@ -34691,6 +34685,20 @@
         },
         "1581148766": {
             "abc.hu": "INACTIVE"
+        },
+        "1581152369": {
+            "blogspot.ipiranga": "INACTIVE"
+        },
+        "1581152374": {
+            "blogspot.iq": "INACTIVE"
+        },
+        "1581152377": {
+            "blogspot.irish": "INACTIVE"
+        },
+        "1581152378": {
+            "blogspot.ismaili": "INACTIVE",
+            "blogspot.ist": "INACTIVE",
+            "blogspot.istanbul": "INACTIVE"
         }
     }
 }

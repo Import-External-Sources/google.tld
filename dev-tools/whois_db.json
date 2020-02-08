@@ -11030,17 +11030,17 @@
         "state": "future"
     },
     "blogspot.io": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.is": {
-        "epoch": 1600646400,
+        "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "blogspot.it": {
-        "epoch": 1588032000,
+        "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
