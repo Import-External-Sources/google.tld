@@ -11065,12 +11065,12 @@
         "state": "future"
     },
     "blogspot.kr": {
-        "epoch": 1586736000,
+        "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "blogspot.ky": {
-        "epoch": 1599091200,
+        "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
         "state": "future"
     },

@@ -300,14 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.kpmg": "INACTIVE",
-            "blogspot.kpn": "INACTIVE",
-            "blogspot.krd": "INACTIVE",
-            "blogspot.kred": "INACTIVE",
-            "blogspot.kuokgroup": "INACTIVE",
-            "blogspot.kw": "INACTIVE",
-            "blogspot.kyoto": "INACTIVE",
-            "blogspot.kz": "INACTIVE",
             "blogspot.lacaixa": "INACTIVE",
             "blogspot.ladbrokes": "INACTIVE",
             "blogspot.lamborghini": "INACTIVE",
@@ -34751,6 +34743,26 @@
         },
         "1581157622": {
             "blogspot.kp": "INACTIVE"
+        },
+        "1581160207": {
+            "blogspot.kpmg": "INACTIVE"
+        },
+        "1581160208": {
+            "blogspot.kpn": "INACTIVE",
+            "blogspot.krd": "INACTIVE",
+            "blogspot.kred": "INACTIVE"
+        },
+        "1581160209": {
+            "blogspot.kuokgroup": "INACTIVE"
+        },
+        "1581160230": {
+            "blogspot.kw": "INACTIVE"
+        },
+        "1581160231": {
+            "blogspot.kyoto": "INACTIVE"
+        },
+        "1581160232": {
+            "blogspot.kz": "INACTIVE"
         }
     }
 }
