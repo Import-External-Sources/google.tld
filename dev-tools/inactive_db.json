@@ -300,19 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.lease": "INACTIVE",
-            "blogspot.leclerc": "INACTIVE",
-            "blogspot.lefrak": "INACTIVE",
-            "blogspot.legal": "INACTIVE",
-            "blogspot.lego": "INACTIVE",
-            "blogspot.lexus": "INACTIVE",
-            "blogspot.lgbt": "INACTIVE",
-            "blogspot.liaison": "INACTIVE",
-            "blogspot.lidl": "INACTIVE",
-            "blogspot.lifeinsurance": "INACTIVE",
-            "blogspot.lifestyle": "INACTIVE",
-            "blogspot.lighting": "INACTIVE",
-            "blogspot.like": "INACTIVE",
             "blogspot.lilly": "INACTIVE",
             "blogspot.limited": "INACTIVE",
             "blogspot.limo": "INACTIVE",
@@ -34786,6 +34773,33 @@
         },
         "1581174672": {
             "blogspot.lds": "INACTIVE"
+        },
+        "1581179906": {
+            "blogspot.lease": "INACTIVE"
+        },
+        "1581179912": {
+            "blogspot.leclerc": "INACTIVE",
+            "blogspot.lefrak": "INACTIVE",
+            "blogspot.legal": "INACTIVE"
+        },
+        "1581179913": {
+            "blogspot.lego": "INACTIVE",
+            "blogspot.lexus": "INACTIVE"
+        },
+        "1581179914": {
+            "blogspot.lgbt": "INACTIVE",
+            "blogspot.liaison": "INACTIVE"
+        },
+        "1581179917": {
+            "blogspot.lidl": "INACTIVE",
+            "blogspot.lifeinsurance": "INACTIVE"
+        },
+        "1581179918": {
+            "blogspot.lifestyle": "INACTIVE",
+            "blogspot.lighting": "INACTIVE"
+        },
+        "1581179921": {
+            "blogspot.like": "INACTIVE"
         }
     }
 }
