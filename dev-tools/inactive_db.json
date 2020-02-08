@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.lotte": "INACTIVE",
-            "blogspot.lotto": "INACTIVE",
-            "blogspot.love": "INACTIVE",
-            "blogspot.lpl": "INACTIVE",
-            "blogspot.lplfinancial": "INACTIVE",
-            "blogspot.lr": "INACTIVE",
-            "blogspot.ls": "INACTIVE",
-            "blogspot.ltda": "INACTIVE",
-            "blogspot.lundbeck": "INACTIVE",
-            "blogspot.lupin": "INACTIVE",
-            "blogspot.luxe": "INACTIVE",
             "blogspot.luxury": "INACTIVE",
             "blogspot.lv": "INACTIVE",
             "blogspot.macys": "INACTIVE",
@@ -34828,6 +34817,34 @@
         },
         "1581193628": {
             "adsense.llp": "INACTIVE"
+        },
+        "1581196962": {
+            "blogspot.lotte": "INACTIVE"
+        },
+        "1581196963": {
+            "blogspot.lotto": "INACTIVE",
+            "blogspot.love": "INACTIVE"
+        },
+        "1581196964": {
+            "blogspot.lpl": "INACTIVE"
+        },
+        "1581196970": {
+            "blogspot.lplfinancial": "INACTIVE",
+            "blogspot.lr": "INACTIVE"
+        },
+        "1581196972": {
+            "blogspot.ls": "INACTIVE",
+            "blogspot.ltd": "INACTIVE"
+        },
+        "1581196973": {
+            "blogspot.ltda": "INACTIVE",
+            "blogspot.lundbeck": "INACTIVE"
+        },
+        "1581196974": {
+            "blogspot.lupin": "INACTIVE"
+        },
+        "1581196989": {
+            "blogspot.luxe": "INACTIVE"
         }
     }
 }
