@@ -300,12 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.kiwi": "INACTIVE",
-            "blogspot.km": "INACTIVE",
-            "blogspot.koeln": "INACTIVE",
-            "blogspot.komatsu": "INACTIVE",
-            "blogspot.kosher": "INACTIVE",
-            "blogspot.kp": "INACTIVE",
             "blogspot.kpmg": "INACTIVE",
             "blogspot.kpn": "INACTIVE",
             "blogspot.krd": "INACTIVE",
@@ -34739,6 +34733,24 @@
         },
         "1581156303": {
             "blogspot.kindle": "INACTIVE"
+        },
+        "1581157602": {
+            "blogspot.kiwi": "INACTIVE"
+        },
+        "1581157603": {
+            "blogspot.km": "INACTIVE"
+        },
+        "1581157604": {
+            "blogspot.koeln": "INACTIVE"
+        },
+        "1581157605": {
+            "blogspot.komatsu": "INACTIVE"
+        },
+        "1581157606": {
+            "blogspot.kosher": "INACTIVE"
+        },
+        "1581157622": {
+            "blogspot.kp": "INACTIVE"
         }
     }
 }
