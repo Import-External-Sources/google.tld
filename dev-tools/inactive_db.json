@@ -300,9 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.lawyer": "INACTIVE",
-            "blogspot.lb": "INACTIVE",
-            "blogspot.lds": "INACTIVE",
             "blogspot.lease": "INACTIVE",
             "blogspot.leclerc": "INACTIVE",
             "blogspot.lefrak": "INACTIVE",
@@ -34780,6 +34777,15 @@
         },
         "1581168092": {
             "blogspot.law": "INACTIVE"
+        },
+        "1581174666": {
+            "blogspot.lawyer": "INACTIVE"
+        },
+        "1581174667": {
+            "blogspot.lb": "INACTIVE"
+        },
+        "1581174672": {
+            "blogspot.lds": "INACTIVE"
         }
     }
 }
