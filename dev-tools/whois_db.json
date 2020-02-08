@@ -11085,9 +11085,9 @@
         "state": "future"
     },
     "blogspot.live": {
-        "epoch": 1565481600,
-        "expiration_date": "11-aug-2019",
-        "state": "past"
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
     },
     "blogspot.lt": {
         "epoch": 1575763200,
