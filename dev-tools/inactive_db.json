@@ -300,9 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.ge": "INACTIVE",
-            "blogspot.gea": "INACTIVE",
-            "blogspot.gent": "INACTIVE",
             "blogspot.genting": "INACTIVE",
             "blogspot.george": "INACTIVE",
             "blogspot.gf": "INACTIVE",
@@ -34539,6 +34536,15 @@
         },
         "1581120911": {
             "blogspot.gdn": "INACTIVE"
+        },
+        "1581123535": {
+            "blogspot.ge": "INACTIVE"
+        },
+        "1581123536": {
+            "blogspot.gea": "INACTIVE"
+        },
+        "1581123540": {
+            "blogspot.gent": "INACTIVE"
         }
     }
 }
