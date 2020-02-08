@@ -5930,8 +5930,8 @@
         "state": "future"
     },
     "android.gs": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "android.guitars": {
@@ -10935,7 +10935,7 @@
         "state": "future"
     },
     "blogspot.gd": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
