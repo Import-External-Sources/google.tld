@@ -300,28 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.itau": "INACTIVE",
-            "blogspot.itv": "INACTIVE",
-            "blogspot.iveco": "INACTIVE",
-            "blogspot.jaguar": "INACTIVE",
-            "blogspot.java": "INACTIVE",
-            "blogspot.jcb": "INACTIVE",
-            "blogspot.jcp": "INACTIVE",
-            "blogspot.je": "INACTIVE",
-            "blogspot.jeep": "INACTIVE",
-            "blogspot.jetzt": "INACTIVE",
-            "blogspot.jewelry": "INACTIVE",
-            "blogspot.jio": "INACTIVE",
-            "blogspot.jll": "INACTIVE",
-            "blogspot.jm": "INACTIVE",
-            "blogspot.jmp": "INACTIVE",
-            "blogspot.jnj": "INACTIVE",
-            "blogspot.jo": "INACTIVE",
-            "blogspot.joburg": "INACTIVE",
-            "blogspot.jot": "INACTIVE",
-            "blogspot.joy": "INACTIVE",
-            "blogspot.jpmorgan": "INACTIVE",
-            "blogspot.jprs": "INACTIVE",
             "blogspot.juegos": "INACTIVE",
             "blogspot.juniper": "INACTIVE",
             "blogspot.kaufen": "INACTIVE",
@@ -34699,6 +34677,53 @@
             "blogspot.ismaili": "INACTIVE",
             "blogspot.ist": "INACTIVE",
             "blogspot.istanbul": "INACTIVE"
+        },
+        "1581154951": {
+            "blogspot.gm": "INACTIVE"
+        },
+        "1581154966": {
+            "blogspot.itau": "INACTIVE",
+            "blogspot.itv": "INACTIVE"
+        },
+        "1581154968": {
+            "blogspot.iveco": "INACTIVE",
+            "blogspot.jaguar": "INACTIVE"
+        },
+        "1581154969": {
+            "blogspot.java": "INACTIVE",
+            "blogspot.jcb": "INACTIVE"
+        },
+        "1581154970": {
+            "blogspot.jcp": "INACTIVE",
+            "blogspot.jeep": "INACTIVE"
+        },
+        "1581154971": {
+            "blogspot.jetzt": "INACTIVE",
+            "blogspot.jewelry": "INACTIVE"
+        },
+        "1581154973": {
+            "blogspot.jio": "INACTIVE",
+            "blogspot.jll": "INACTIVE"
+        },
+        "1581154975": {
+            "blogspot.jm": "INACTIVE",
+            "blogspot.jmp": "INACTIVE"
+        },
+        "1581154976": {
+            "blogspot.jnj": "INACTIVE"
+        },
+        "1581154977": {
+            "blogspot.joburg": "INACTIVE",
+            "blogspot.jot": "INACTIVE"
+        },
+        "1581154979": {
+            "blogspot.joy": "INACTIVE"
+        },
+        "1581154986": {
+            "blogspot.jpmorgan": "INACTIVE"
+        },
+        "1581154992": {
+            "blogspot.jprs": "INACTIVE"
         }
     }
 }
