@@ -300,8 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.mh": "INACTIVE",
-            "blogspot.miami": "INACTIVE",
             "blogspot.microsoft": "INACTIVE",
             "blogspot.mil": "INACTIVE",
             "blogspot.mini": "INACTIVE",
@@ -34878,6 +34876,12 @@
         },
         "1581215064": {
             "appspot.xn--node": "INACTIVE"
+        },
+        "1581216631": {
+            "blogspot.mh": "INACTIVE"
+        },
+        "1581216647": {
+            "blogspot.miami": "INACTIVE"
         }
     }
 }
