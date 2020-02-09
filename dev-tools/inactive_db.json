@@ -300,7 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.mt": "INACTIVE",
             "blogspot.mtn": "INACTIVE",
             "blogspot.mtr": "INACTIVE",
             "blogspot.museum": "INACTIVE",
@@ -34916,6 +34915,9 @@
         "1581252048": {
             "blogspot.mr": "INACTIVE",
             "blogspot.msd": "INACTIVE"
+        },
+        "1581257296": {
+            "blogspot.mt": "INACTIVE"
         }
     }
 }
