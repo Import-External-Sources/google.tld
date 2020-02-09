@@ -2040,8 +2040,8 @@
         "state": "future"
     },
     "abc.wf": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "abc.wien": {
@@ -10357,7 +10357,7 @@
     "blogger.tips": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.tirol": {
         "epoch": 1583798400.0,
@@ -10745,8 +10745,8 @@
         "state": "future"
     },
     "blogspot.bo": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "blogspot.boutique": {
