@@ -300,18 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.news": "INACTIVE",
-            "blogspot.next": "INACTIVE",
-            "blogspot.nextdirect": "INACTIVE",
-            "blogspot.nexus": "INACTIVE",
-            "blogspot.nfl": "INACTIVE",
-            "blogspot.ngo": "INACTIVE",
-            "blogspot.nhk": "INACTIVE",
-            "blogspot.nico": "INACTIVE",
-            "blogspot.nike": "INACTIVE",
-            "blogspot.nikon": "INACTIVE",
-            "blogspot.nissan": "INACTIVE",
-            "blogspot.nissay": "INACTIVE",
             "blogspot.nokia": "INACTIVE",
             "blogspot.northwesternmutual": "INACTIVE",
             "blogspot.norton": "INACTIVE",
@@ -34948,6 +34936,33 @@
         },
         "1581286124": {
             "blogspot.newholland": "INACTIVE"
+        },
+        "1581287419": {
+            "blogspot.news": "INACTIVE"
+        },
+        "1581287420": {
+            "blogspot.next": "INACTIVE",
+            "blogspot.nextdirect": "INACTIVE",
+            "blogspot.nexus": "INACTIVE"
+        },
+        "1581287421": {
+            "blogspot.nfl": "INACTIVE",
+            "blogspot.ngo": "INACTIVE"
+        },
+        "1581287422": {
+            "blogspot.nhk": "INACTIVE"
+        },
+        "1581287424": {
+            "blogspot.nico": "INACTIVE",
+            "blogspot.nike": "INACTIVE"
+        },
+        "1581287425": {
+            "blogspot.nikon": "INACTIVE",
+            "blogspot.ninja": "INACTIVE"
+        },
+        "1581287426": {
+            "blogspot.nissan": "INACTIVE",
+            "blogspot.nissay": "INACTIVE"
         }
     }
 }

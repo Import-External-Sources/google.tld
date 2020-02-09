@@ -11170,12 +11170,12 @@
         "state": "future"
     },
     "blogspot.nf": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.ng": {
-        "epoch": 4073414400,
+        "epoch": 4073414400.0,
         "expiration_date": "30-jan-2099",
         "state": "future"
     },
