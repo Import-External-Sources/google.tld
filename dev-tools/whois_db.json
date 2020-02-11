@@ -1312,7 +1312,7 @@
     "abc.mk": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.mn": {
         "epoch": 1589673600.0,
