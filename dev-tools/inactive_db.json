@@ -300,18 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.nokia": "INACTIVE",
-            "blogspot.northwesternmutual": "INACTIVE",
-            "blogspot.norton": "INACTIVE",
-            "blogspot.now": "INACTIVE",
-            "blogspot.nowruz": "INACTIVE",
-            "blogspot.nowtv": "INACTIVE",
-            "blogspot.np": "INACTIVE",
-            "blogspot.nr": "INACTIVE",
-            "blogspot.nra": "INACTIVE",
-            "blogspot.nrw": "INACTIVE",
-            "blogspot.ntt": "INACTIVE",
-            "blogspot.nyc": "INACTIVE",
             "blogspot.nz": "INACTIVE",
             "blogspot.obi": "INACTIVE",
             "blogspot.observer": "INACTIVE",
@@ -35002,6 +34990,29 @@
         },
         "1581449748": {
             "blogspot.eu": "INACTIVE"
+        },
+        "1581478710": {
+            "blogspot.nokia": "INACTIVE",
+            "blogspot.northwesternmutual": "INACTIVE",
+            "blogspot.norton": "INACTIVE"
+        },
+        "1581478711": {
+            "blogspot.now": "INACTIVE",
+            "blogspot.nowruz": "INACTIVE"
+        },
+        "1581478715": {
+            "blogspot.nowtv": "INACTIVE",
+            "blogspot.np": "INACTIVE"
+        },
+        "1581478716": {
+            "blogspot.nra": "INACTIVE"
+        },
+        "1581478717": {
+            "blogspot.nrw": "INACTIVE"
+        },
+        "1581478722": {
+            "blogspot.ntt": "INACTIVE",
+            "blogspot.nyc": "INACTIVE"
         }
     }
 }
