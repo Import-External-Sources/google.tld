@@ -300,48 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.nz": "INACTIVE",
-            "blogspot.obi": "INACTIVE",
-            "blogspot.observer": "INACTIVE",
-            "blogspot.off": "INACTIVE",
-            "blogspot.office": "INACTIVE",
-            "blogspot.okinawa": "INACTIVE",
-            "blogspot.olayan": "INACTIVE",
-            "blogspot.olayangroup": "INACTIVE",
-            "blogspot.oldnavy": "INACTIVE",
-            "blogspot.ollo": "INACTIVE",
-            "blogspot.om": "INACTIVE",
-            "blogspot.omega": "INACTIVE",
-            "blogspot.one": "INACTIVE",
-            "blogspot.ong": "INACTIVE",
-            "blogspot.onl": "INACTIVE",
-            "blogspot.onyourside": "INACTIVE",
-            "blogspot.ooo": "INACTIVE",
-            "blogspot.open": "INACTIVE",
-            "blogspot.oracle": "INACTIVE",
-            "blogspot.orange": "INACTIVE",
-            "blogspot.organic": "INACTIVE",
-            "blogspot.origins": "INACTIVE",
-            "blogspot.osaka": "INACTIVE",
-            "blogspot.otsuka": "INACTIVE",
-            "blogspot.ott": "INACTIVE",
-            "blogspot.ovh": "INACTIVE",
-            "blogspot.pa": "INACTIVE",
-            "blogspot.page": "INACTIVE",
-            "blogspot.panasonic": "INACTIVE",
-            "blogspot.paris": "INACTIVE",
-            "blogspot.pars": "INACTIVE",
-            "blogspot.partners": "INACTIVE",
-            "blogspot.parts": "INACTIVE",
-            "blogspot.party": "INACTIVE",
-            "blogspot.passagens": "INACTIVE",
-            "blogspot.pay": "INACTIVE",
-            "blogspot.pccw": "INACTIVE",
-            "blogspot.pet": "INACTIVE",
-            "blogspot.pf": "INACTIVE",
-            "blogspot.pfizer": "INACTIVE",
-            "blogspot.pg": "INACTIVE",
-            "blogspot.ph": "INACTIVE",
             "blogspot.pharmacy": "INACTIVE",
             "blogspot.phd": "INACTIVE",
             "blogspot.philips": "INACTIVE",
@@ -35058,6 +35016,94 @@
         },
         "1581622458": {
             "abc.gt": "INACTIVE"
+        },
+        "1581629976": {
+            "blogspot.nz": "INACTIVE",
+            "blogspot.obi": "INACTIVE"
+        },
+        "1581629982": {
+            "blogspot.observer": "INACTIVE",
+            "blogspot.off": "INACTIVE"
+        },
+        "1581629983": {
+            "blogspot.office": "INACTIVE",
+            "blogspot.okinawa": "INACTIVE"
+        },
+        "1581629984": {
+            "blogspot.olayan": "INACTIVE",
+            "blogspot.olayangroup": "INACTIVE",
+            "blogspot.oldnavy": "INACTIVE"
+        },
+        "1581629985": {
+            "blogspot.ollo": "INACTIVE"
+        },
+        "1581629986": {
+            "blogspot.om": "INACTIVE",
+            "blogspot.omega": "INACTIVE",
+            "blogspot.one": "INACTIVE",
+            "blogspot.ong": "INACTIVE"
+        },
+        "1581629987": {
+            "blogspot.onl": "INACTIVE"
+        },
+        "1581629988": {
+            "blogspot.onyourside": "INACTIVE"
+        },
+        "1581629991": {
+            "blogspot.ooo": "INACTIVE",
+            "blogspot.open": "INACTIVE",
+            "blogspot.oracle": "INACTIVE"
+        },
+        "1581629992": {
+            "blogspot.orange": "INACTIVE",
+            "blogspot.organic": "INACTIVE"
+        },
+        "1581629994": {
+            "blogspot.origins": "INACTIVE",
+            "blogspot.osaka": "INACTIVE"
+        },
+        "1581629995": {
+            "blogspot.otsuka": "INACTIVE",
+            "blogspot.ott": "INACTIVE"
+        },
+        "1581630001": {
+            "blogspot.ovh": "INACTIVE"
+        },
+        "1581630002": {
+            "blogspot.pa": "INACTIVE",
+            "blogspot.page": "INACTIVE"
+        },
+        "1581630003": {
+            "blogspot.panasonic": "INACTIVE"
+        },
+        "1581630005": {
+            "blogspot.paris": "INACTIVE"
+        },
+        "1581630006": {
+            "blogspot.pars": "INACTIVE",
+            "blogspot.partners": "INACTIVE"
+        },
+        "1581630007": {
+            "blogspot.parts": "INACTIVE",
+            "blogspot.party": "INACTIVE",
+            "blogspot.passagens": "INACTIVE"
+        },
+        "1581630008": {
+            "blogspot.pay": "INACTIVE"
+        },
+        "1581630010": {
+            "blogspot.pccw": "INACTIVE",
+            "blogspot.pet": "INACTIVE"
+        },
+        "1581630011": {
+            "blogspot.pf": "INACTIVE"
+        },
+        "1581630012": {
+            "blogspot.pfizer": "INACTIVE",
+            "blogspot.pg": "INACTIVE"
+        },
+        "1581630013": {
+            "blogspot.ph": "INACTIVE"
         }
     }
 }
