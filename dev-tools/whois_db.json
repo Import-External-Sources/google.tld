@@ -372,7 +372,7 @@
     "abc.care": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.career": {
         "epoch": 1609027200.0,
@@ -955,8 +955,8 @@
         "state": "future"
     },
     "abc.gy": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "abc.hamburg": {
