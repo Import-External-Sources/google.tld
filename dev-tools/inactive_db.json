@@ -300,11 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.pharmacy": "INACTIVE",
-            "blogspot.phd": "INACTIVE",
-            "blogspot.philips": "INACTIVE",
-            "blogspot.phone": "INACTIVE",
-            "blogspot.photo": "INACTIVE",
             "blogspot.photos": "INACTIVE",
             "blogspot.physio": "INACTIVE",
             "blogspot.piaget": "INACTIVE",
@@ -35104,6 +35099,19 @@
         },
         "1581630013": {
             "blogspot.ph": "INACTIVE"
+        },
+        "1581658922": {
+            "blogspot.pharmacy": "INACTIVE",
+            "blogspot.phd": "INACTIVE"
+        },
+        "1581658923": {
+            "blogspot.philips": "INACTIVE"
+        },
+        "1581658928": {
+            "blogspot.phone": "INACTIVE"
+        },
+        "1581658929": {
+            "blogspot.photo": "INACTIVE"
         }
     }
 }
