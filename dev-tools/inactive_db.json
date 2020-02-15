@@ -300,12 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.promo": "INACTIVE",
-            "blogspot.properties": "INACTIVE",
-            "blogspot.property": "INACTIVE",
-            "blogspot.protection": "INACTIVE",
-            "blogspot.pru": "INACTIVE",
-            "blogspot.prudential": "INACTIVE",
             "blogspot.pub": "INACTIVE",
             "blogspot.pw": "INACTIVE",
             "blogspot.pwc": "INACTIVE",
@@ -35149,6 +35143,20 @@
         },
         "1581724621": {
             "blogspot.nr": "INACTIVE"
+        },
+        "1581732487": {
+            "blogspot.promo": "INACTIVE",
+            "blogspot.properties": "INACTIVE"
+        },
+        "1581732488": {
+            "blogspot.property": "INACTIVE"
+        },
+        "1581732494": {
+            "blogspot.protection": "INACTIVE",
+            "blogspot.pru": "INACTIVE"
+        },
+        "1581732495": {
+            "blogspot.prudential": "INACTIVE"
         }
     }
 }
