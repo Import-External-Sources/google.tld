@@ -300,13 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.reit": "INACTIVE",
-            "blogspot.reliance": "INACTIVE",
-            "blogspot.ren": "INACTIVE",
-            "blogspot.rent": "INACTIVE",
-            "blogspot.rentals": "INACTIVE",
-            "blogspot.repair": "INACTIVE",
-            "blogspot.report": "INACTIVE",
             "blogspot.republican": "INACTIVE",
             "blogspot.rest": "INACTIVE",
             "blogspot.restaurant": "INACTIVE",
@@ -35281,6 +35274,23 @@
         },
         "1581950590": {
             "abc.ba": "INACTIVE"
+        },
+        "1581959604": {
+            "blogspot.reit": "INACTIVE"
+        },
+        "1581959606": {
+            "blogspot.reliance": "INACTIVE"
+        },
+        "1581959607": {
+            "blogspot.ren": "INACTIVE",
+            "blogspot.rent": "INACTIVE"
+        },
+        "1581959608": {
+            "blogspot.rentals": "INACTIVE",
+            "blogspot.repair": "INACTIVE"
+        },
+        "1581959609": {
+            "blogspot.report": "INACTIVE"
         }
     }
 }
