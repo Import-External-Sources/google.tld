@@ -300,10 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.republican": "INACTIVE",
-            "blogspot.rest": "INACTIVE",
-            "blogspot.restaurant": "INACTIVE",
-            "blogspot.review": "INACTIVE",
             "blogspot.reviews": "INACTIVE",
             "blogspot.rexroth": "INACTIVE",
             "blogspot.rich": "INACTIVE",
@@ -35291,6 +35287,14 @@
         },
         "1581959609": {
             "blogspot.report": "INACTIVE"
+        },
+        "1581963561": {
+            "blogspot.republican": "INACTIVE"
+        },
+        "1581963565": {
+            "blogspot.rest": "INACTIVE",
+            "blogspot.restaurant": "INACTIVE",
+            "blogspot.review": "INACTIVE"
         }
     }
 }
