@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.rexroth": "INACTIVE",
-            "blogspot.rich": "INACTIVE",
-            "blogspot.richardli": "INACTIVE",
-            "blogspot.ricoh": "INACTIVE",
-            "blogspot.rightathome": "INACTIVE",
-            "blogspot.ril": "INACTIVE",
-            "blogspot.rio": "INACTIVE",
-            "blogspot.rip": "INACTIVE",
-            "blogspot.rmit": "INACTIVE",
-            "blogspot.rocher": "INACTIVE",
-            "blogspot.rodeo": "INACTIVE",
             "blogspot.rogers": "INACTIVE",
             "blogspot.room": "INACTIVE",
             "blogspot.rsvp": "INACTIVE",
@@ -35297,6 +35286,31 @@
         },
         "1581967512": {
             "blogspot.reviews": "INACTIVE"
+        },
+        "1581971437": {
+            "blogspot.rexroth": "INACTIVE",
+            "blogspot.rich": "INACTIVE"
+        },
+        "1581971439": {
+            "blogspot.richardli": "INACTIVE"
+        },
+        "1581971440": {
+            "blogspot.ricoh": "INACTIVE",
+            "blogspot.rightathome": "INACTIVE"
+        },
+        "1581971442": {
+            "blogspot.ril": "INACTIVE"
+        },
+        "1581971443": {
+            "blogspot.rio": "INACTIVE"
+        },
+        "1581971444": {
+            "blogspot.rip": "INACTIVE",
+            "blogspot.rmit": "INACTIVE",
+            "blogspot.rocher": "INACTIVE"
+        },
+        "1581971461": {
+            "blogspot.rodeo": "INACTIVE"
         }
     }
 }
