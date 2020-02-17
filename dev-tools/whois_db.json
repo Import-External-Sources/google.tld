@@ -11265,22 +11265,22 @@
         "state": "future"
     },
     "blogspot.rs": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "blogspot.ru": {
-        "epoch": 1601424000,
+        "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "blogspot.rw": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "blogspot.sale": {
-        "epoch": 1601164800,
+        "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
     },

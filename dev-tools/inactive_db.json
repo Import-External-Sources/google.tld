@@ -300,26 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.rogers": "INACTIVE",
-            "blogspot.room": "INACTIVE",
-            "blogspot.rsvp": "INACTIVE",
-            "blogspot.rugby": "INACTIVE",
-            "blogspot.ruhr": "INACTIVE",
-            "blogspot.run": "INACTIVE",
-            "blogspot.rwe": "INACTIVE",
-            "blogspot.ryukyu": "INACTIVE",
-            "blogspot.sa": "INACTIVE",
-            "blogspot.saarland": "INACTIVE",
-            "blogspot.safe": "INACTIVE",
-            "blogspot.safety": "INACTIVE",
-            "blogspot.sakura": "INACTIVE",
-            "blogspot.salon": "INACTIVE",
-            "blogspot.samsclub": "INACTIVE",
-            "blogspot.samsung": "INACTIVE",
-            "blogspot.sandvik": "INACTIVE",
-            "blogspot.sandvikcoromant": "INACTIVE",
-            "blogspot.sanofi": "INACTIVE",
-            "blogspot.sap": "INACTIVE",
             "blogspot.sarl": "INACTIVE",
             "blogspot.sas": "INACTIVE",
             "blogspot.save": "INACTIVE",
@@ -35314,6 +35294,49 @@
         },
         "1581973606": {
             "android.kz": "INACTIVE"
+        },
+        "1581978023": {
+            "blogspot.rogers": "INACTIVE"
+        },
+        "1581978024": {
+            "blogspot.room": "INACTIVE",
+            "blogspot.rsvp": "INACTIVE"
+        },
+        "1581978025": {
+            "blogspot.rugby": "INACTIVE",
+            "blogspot.ruhr": "INACTIVE"
+        },
+        "1581978026": {
+            "blogspot.run": "INACTIVE",
+            "blogspot.rwe": "INACTIVE"
+        },
+        "1581978027": {
+            "blogspot.ryukyu": "INACTIVE"
+        },
+        "1581978032": {
+            "blogspot.saarland": "INACTIVE"
+        },
+        "1581978033": {
+            "blogspot.safe": "INACTIVE",
+            "blogspot.safety": "INACTIVE"
+        },
+        "1581978039": {
+            "blogspot.sakura": "INACTIVE"
+        },
+        "1581978040": {
+            "blogspot.salon": "INACTIVE",
+            "blogspot.samsclub": "INACTIVE"
+        },
+        "1581978041": {
+            "blogspot.samsung": "INACTIVE"
+        },
+        "1581978042": {
+            "blogspot.sandvik": "INACTIVE",
+            "blogspot.sandvikcoromant": "INACTIVE",
+            "blogspot.sanofi": "INACTIVE"
+        },
+        "1581978043": {
+            "blogspot.sap": "INACTIVE"
         }
     }
 }
