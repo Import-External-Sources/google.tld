@@ -300,51 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.security": "INACTIVE",
-            "blogspot.seek": "INACTIVE",
-            "blogspot.select": "INACTIVE",
-            "blogspot.sener": "INACTIVE",
-            "blogspot.services": "INACTIVE",
-            "blogspot.ses": "INACTIVE",
-            "blogspot.seven": "INACTIVE",
-            "blogspot.sew": "INACTIVE",
-            "blogspot.sex": "INACTIVE",
-            "blogspot.sexy": "INACTIVE",
-            "blogspot.sfr": "INACTIVE",
-            "blogspot.shangrila": "INACTIVE",
-            "blogspot.sharp": "INACTIVE",
-            "blogspot.shaw": "INACTIVE",
-            "blogspot.shell": "INACTIVE",
-            "blogspot.shia": "INACTIVE",
-            "blogspot.shiksha": "INACTIVE",
-            "blogspot.shoes": "INACTIVE",
-            "blogspot.shop": "INACTIVE",
-            "blogspot.shopping": "INACTIVE",
-            "blogspot.shouji": "INACTIVE",
-            "blogspot.show": "INACTIVE",
-            "blogspot.showtime": "INACTIVE",
-            "blogspot.shriram": "INACTIVE",
-            "blogspot.silk": "INACTIVE",
-            "blogspot.sina": "INACTIVE",
-            "blogspot.sj": "INACTIVE",
-            "blogspot.ski": "INACTIVE",
-            "blogspot.skin": "INACTIVE",
-            "blogspot.sky": "INACTIVE",
-            "blogspot.skype": "INACTIVE",
-            "blogspot.sling": "INACTIVE",
-            "blogspot.sm": "INACTIVE",
-            "blogspot.smart": "INACTIVE",
-            "blogspot.smile": "INACTIVE",
-            "blogspot.sncf": "INACTIVE",
-            "blogspot.soccer": "INACTIVE",
-            "blogspot.social": "INACTIVE",
-            "blogspot.softbank": "INACTIVE",
-            "blogspot.software": "INACTIVE",
-            "blogspot.sohu": "INACTIVE",
-            "blogspot.solar": "INACTIVE",
-            "blogspot.song": "INACTIVE",
-            "blogspot.sony": "INACTIVE",
-            "blogspot.soy": "INACTIVE",
             "blogspot.space": "INACTIVE",
             "blogspot.sport": "INACTIVE",
             "blogspot.spot": "INACTIVE",
@@ -35405,6 +35360,97 @@
         },
         "1582011826": {
             "blogspot.secure": "INACTIVE"
+        },
+        "1582030236": {
+            "blogspot.security": "INACTIVE",
+            "blogspot.seek": "INACTIVE",
+            "blogspot.select": "INACTIVE"
+        },
+        "1582030237": {
+            "blogspot.sener": "INACTIVE",
+            "blogspot.ses": "INACTIVE"
+        },
+        "1582030238": {
+            "blogspot.seven": "INACTIVE",
+            "blogspot.sew": "INACTIVE"
+        },
+        "1582030239": {
+            "blogspot.sex": "INACTIVE",
+            "blogspot.sexy": "INACTIVE",
+            "blogspot.sfr": "INACTIVE"
+        },
+        "1582030240": {
+            "blogspot.shangrila": "INACTIVE"
+        },
+        "1582030241": {
+            "blogspot.sharp": "INACTIVE",
+            "blogspot.shaw": "INACTIVE",
+            "blogspot.shell": "INACTIVE"
+        },
+        "1582030242": {
+            "blogspot.shia": "INACTIVE",
+            "blogspot.shiksha": "INACTIVE"
+        },
+        "1582030243": {
+            "blogspot.shoes": "INACTIVE",
+            "blogspot.shop": "INACTIVE"
+        },
+        "1582030244": {
+            "blogspot.shopping": "INACTIVE"
+        },
+        "1582030245": {
+            "blogspot.shouji": "INACTIVE",
+            "blogspot.show": "INACTIVE",
+            "blogspot.showtime": "INACTIVE"
+        },
+        "1582030246": {
+            "blogspot.shriram": "INACTIVE"
+        },
+        "1582030249": {
+            "blogspot.silk": "INACTIVE"
+        },
+        "1582030253": {
+            "blogspot.sina": "INACTIVE"
+        },
+        "1582030254": {
+            "blogspot.sj": "INACTIVE"
+        },
+        "1582030255": {
+            "blogspot.ski": "INACTIVE",
+            "blogspot.skin": "INACTIVE",
+            "blogspot.sky": "INACTIVE"
+        },
+        "1582030256": {
+            "blogspot.skype": "INACTIVE",
+            "blogspot.sling": "INACTIVE"
+        },
+        "1582030257": {
+            "blogspot.smart": "INACTIVE"
+        },
+        "1582030258": {
+            "blogspot.smile": "INACTIVE"
+        },
+        "1582030259": {
+            "blogspot.sncf": "INACTIVE",
+            "blogspot.soccer": "INACTIVE"
+        },
+        "1582030260": {
+            "blogspot.social": "INACTIVE",
+            "blogspot.softbank": "INACTIVE"
+        },
+        "1582030261": {
+            "blogspot.software": "INACTIVE"
+        },
+        "1582030264": {
+            "blogspot.sohu": "INACTIVE",
+            "blogspot.solar": "INACTIVE",
+            "blogspot.song": "INACTIVE"
+        },
+        "1582030265": {
+            "blogspot.sony": "INACTIVE"
+        },
+        "1582030266": {
+            "blogspot.soy": "INACTIVE"
         }
     }
 }
