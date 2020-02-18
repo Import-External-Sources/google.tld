@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.space": "INACTIVE",
-            "blogspot.sport": "INACTIVE",
-            "blogspot.spot": "INACTIVE",
-            "blogspot.spreadbetting": "INACTIVE",
-            "blogspot.sr": "INACTIVE",
-            "blogspot.srl": "INACTIVE",
-            "blogspot.srt": "INACTIVE",
-            "blogspot.ss": "INACTIVE",
-            "blogspot.stada": "INACTIVE",
-            "blogspot.staples": "INACTIVE",
-            "blogspot.star": "INACTIVE",
             "blogspot.statebank": "INACTIVE",
             "blogspot.statefarm": "INACTIVE",
             "blogspot.stc": "INACTIVE",
@@ -35454,6 +35443,29 @@
         },
         "1582048317": {
             "android.pk": "INACTIVE"
+        },
+        "1582055292": {
+            "blogspot.space": "INACTIVE",
+            "blogspot.sport": "INACTIVE"
+        },
+        "1582055308": {
+            "blogspot.spot": "INACTIVE",
+            "blogspot.spreadbetting": "INACTIVE"
+        },
+        "1582055309": {
+            "blogspot.sr": "INACTIVE"
+        },
+        "1582055310": {
+            "blogspot.srl": "INACTIVE",
+            "blogspot.srt": "INACTIVE",
+            "blogspot.ss": "INACTIVE"
+        },
+        "1582055311": {
+            "blogspot.stada": "INACTIVE",
+            "blogspot.staples": "INACTIVE"
+        },
+        "1582055314": {
+            "blogspot.star": "INACTIVE"
         }
     }
 }
