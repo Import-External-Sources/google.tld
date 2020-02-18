@@ -7665,9 +7665,9 @@
         "state": "future"
     },
     "blog.computer": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
-        "state": "past"
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
     },
     "blog.construction": {
         "epoch": 1582156800.0,
