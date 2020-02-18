@@ -1020,8 +1020,8 @@
         "state": "future"
     },
     "abc.id": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "abc.im": {
@@ -3330,8 +3330,8 @@
         "state": "future"
     },
     "adsense.pw": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "adsense.qpon": {
@@ -4865,8 +4865,8 @@
         "state": "future"
     },
     "adwords.pw": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "adwords.qpon": {
@@ -6410,8 +6410,8 @@
         "state": "future"
     },
     "android.pw": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "android.qpon": {
@@ -7667,7 +7667,7 @@
     "blog.computer": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.construction": {
         "epoch": 1582156800.0,
@@ -9572,7 +9572,7 @@
     "blogger.events": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.faith": {
         "epoch": 1593302400.0,
@@ -11290,7 +11290,7 @@
         "state": "future"
     },
     "blogspot.sc": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },

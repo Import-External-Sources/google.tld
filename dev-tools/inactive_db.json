@@ -300,14 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.sarl": "INACTIVE",
-            "blogspot.sas": "INACTIVE",
-            "blogspot.save": "INACTIVE",
-            "blogspot.saxo": "INACTIVE",
-            "blogspot.sbi": "INACTIVE",
-            "blogspot.sbs": "INACTIVE",
-            "blogspot.sca": "INACTIVE",
-            "blogspot.scb": "INACTIVE",
             "blogspot.schaeffler": "INACTIVE",
             "blogspot.schmidt": "INACTIVE",
             "blogspot.scholarships": "INACTIVE",
@@ -35337,6 +35329,27 @@
         },
         "1581978043": {
             "blogspot.sap": "INACTIVE"
+        },
+        "1581985526": {
+            "blogspot.sarl": "INACTIVE",
+            "blogspot.sas": "INACTIVE"
+        },
+        "1581985528": {
+            "blogspot.save": "INACTIVE",
+            "blogspot.saxo": "INACTIVE"
+        },
+        "1581985531": {
+            "blogspot.sb": "INACTIVE"
+        },
+        "1581985532": {
+            "blogspot.sbi": "INACTIVE"
+        },
+        "1581985533": {
+            "blogspot.sbs": "INACTIVE",
+            "blogspot.sca": "INACTIVE"
+        },
+        "1581985538": {
+            "blogspot.scb": "INACTIVE"
         }
     }
 }
