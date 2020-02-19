@@ -300,10 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.statebank": "INACTIVE",
-            "blogspot.statefarm": "INACTIVE",
-            "blogspot.stc": "INACTIVE",
-            "blogspot.stcgroup": "INACTIVE",
             "blogspot.stockholm": "INACTIVE",
             "blogspot.storage": "INACTIVE",
             "blogspot.stream": "INACTIVE",
@@ -35466,6 +35462,16 @@
         },
         "1582055314": {
             "blogspot.star": "INACTIVE"
+        },
+        "1582081649": {
+            "blogspot.statebank": "INACTIVE",
+            "blogspot.statefarm": "INACTIVE"
+        },
+        "1582081652": {
+            "blogspot.stc": "INACTIVE"
+        },
+        "1582081658": {
+            "blogspot.stcgroup": "INACTIVE"
         }
     }
 }
