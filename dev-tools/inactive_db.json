@@ -300,22 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.target": "INACTIVE",
-            "blogspot.tatamotors": "INACTIVE",
-            "blogspot.tatar": "INACTIVE",
-            "blogspot.tattoo": "INACTIVE",
-            "blogspot.tax": "INACTIVE",
-            "blogspot.taxi": "INACTIVE",
-            "blogspot.tci": "INACTIVE",
-            "blogspot.tdk": "INACTIVE",
-            "blogspot.team": "INACTIVE",
-            "blogspot.tech": "INACTIVE",
-            "blogspot.tel": "INACTIVE",
-            "blogspot.telefonica": "INACTIVE",
-            "blogspot.temasek": "INACTIVE",
-            "blogspot.tennis": "INACTIVE",
-            "blogspot.teva": "INACTIVE",
-            "blogspot.tf": "INACTIVE",
             "blogspot.th": "INACTIVE",
             "blogspot.thd": "INACTIVE",
             "blogspot.theater": "INACTIVE",
@@ -35499,6 +35483,39 @@
         },
         "1582092181": {
             "blogspot.taobao": "INACTIVE"
+        },
+        "1582094795": {
+            "blogspot.target": "INACTIVE"
+        },
+        "1582094796": {
+            "blogspot.tatamotors": "INACTIVE",
+            "blogspot.tatar": "INACTIVE"
+        },
+        "1582094797": {
+            "blogspot.tattoo": "INACTIVE",
+            "blogspot.tax": "INACTIVE",
+            "blogspot.taxi": "INACTIVE"
+        },
+        "1582094798": {
+            "blogspot.tci": "INACTIVE"
+        },
+        "1582094800": {
+            "blogspot.tdk": "INACTIVE"
+        },
+        "1582094801": {
+            "blogspot.team": "INACTIVE",
+            "blogspot.tech": "INACTIVE"
+        },
+        "1582094802": {
+            "blogspot.telefonica": "INACTIVE",
+            "blogspot.temasek": "INACTIVE"
+        },
+        "1582094803": {
+            "blogspot.tennis": "INACTIVE",
+            "blogspot.teva": "INACTIVE"
+        },
+        "1582094805": {
+            "blogspot.tf": "INACTIVE"
         }
     }
 }
