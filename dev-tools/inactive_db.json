@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.to": "INACTIVE",
-            "blogspot.tokyo": "INACTIVE",
-            "blogspot.tools": "INACTIVE",
-            "blogspot.toray": "INACTIVE",
-            "blogspot.toshiba": "INACTIVE",
-            "blogspot.total": "INACTIVE",
-            "blogspot.tours": "INACTIVE",
-            "blogspot.town": "INACTIVE",
-            "blogspot.toyota": "INACTIVE",
-            "blogspot.toys": "INACTIVE",
-            "blogspot.tr": "INACTIVE",
             "blogspot.trade": "INACTIVE",
             "blogspot.trading": "INACTIVE",
             "blogspot.training": "INACTIVE",
@@ -35537,6 +35526,30 @@
         },
         "1582108270": {
             "blogspot.tn": "INACTIVE"
+        },
+        "1582117480": {
+            "blogspot.tokyo": "INACTIVE"
+        },
+        "1582117481": {
+            "blogspot.tools": "INACTIVE"
+        },
+        "1582117484": {
+            "blogspot.toray": "INACTIVE"
+        },
+        "1582117485": {
+            "blogspot.toshiba": "INACTIVE",
+            "blogspot.total": "INACTIVE"
+        },
+        "1582117486": {
+            "blogspot.tours": "INACTIVE",
+            "blogspot.town": "INACTIVE"
+        },
+        "1582117487": {
+            "blogspot.toyota": "INACTIVE",
+            "blogspot.toys": "INACTIVE"
+        },
+        "1582117488": {
+            "blogspot.tr": "INACTIVE"
         }
     }
 }
