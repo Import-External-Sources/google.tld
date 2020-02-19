@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.stockholm": "INACTIVE",
-            "blogspot.storage": "INACTIVE",
-            "blogspot.stream": "INACTIVE",
-            "blogspot.studio": "INACTIVE",
-            "blogspot.study": "INACTIVE",
-            "blogspot.su": "INACTIVE",
-            "blogspot.sucks": "INACTIVE",
-            "blogspot.supplies": "INACTIVE",
-            "blogspot.supply": "INACTIVE",
-            "blogspot.support": "INACTIVE",
-            "blogspot.surf": "INACTIVE",
             "blogspot.surgery": "INACTIVE",
             "blogspot.suzuki": "INACTIVE",
             "blogspot.sv": "INACTIVE",
@@ -35472,6 +35461,29 @@
         },
         "1582081658": {
             "blogspot.stcgroup": "INACTIVE"
+        },
+        "1582089547": {
+            "blogspot.stockholm": "INACTIVE",
+            "blogspot.storage": "INACTIVE"
+        },
+        "1582089548": {
+            "blogspot.stream": "INACTIVE"
+        },
+        "1582089549": {
+            "blogspot.studio": "INACTIVE",
+            "blogspot.study": "INACTIVE"
+        },
+        "1582089550": {
+            "blogspot.su": "INACTIVE",
+            "blogspot.sucks": "INACTIVE",
+            "blogspot.supplies": "INACTIVE"
+        },
+        "1582089551": {
+            "blogspot.supply": "INACTIVE",
+            "blogspot.support": "INACTIVE"
+        },
+        "1582089567": {
+            "blogspot.surf": "INACTIVE"
         }
     }
 }

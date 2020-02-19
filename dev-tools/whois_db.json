@@ -11354,8 +11354,13 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "blogspot.store": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "blogspot.style": {
-        "epoch": 1596067200,
+        "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
