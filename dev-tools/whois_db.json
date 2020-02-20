@@ -635,9 +635,9 @@
         "state": "future"
     },
     "abc.directory": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "abc.discount": {
         "epoch": 1604361600.0,
@@ -6157,7 +6157,7 @@
     "android.ly": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "android.ma": {
         "epoch": 1609632000.0,
@@ -7672,7 +7672,7 @@
     "blog.construction": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.contractors": {
         "epoch": 1587600000.0,
@@ -9560,9 +9560,9 @@
         "state": "future"
     },
     "blogger.email": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "blogger.eus": {
         "epoch": 1606262400.0,
