@@ -300,7 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.tunes": "INACTIVE",
             "blogspot.tushu": "INACTIVE",
             "blogspot.tvs": "INACTIVE",
             "blogspot.tz": "INACTIVE",
@@ -35562,6 +35561,9 @@
         },
         "1582174618": {
             "blogspot.tui": "INACTIVE"
+        },
+        "1582175928": {
+            "blogspot.tunes": "INACTIVE"
         }
     }
 }
