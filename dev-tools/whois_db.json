@@ -11425,7 +11425,7 @@
         "state": "future"
     },
     "blogspot.travel": {
-        "epoch": 1603065600,
+        "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
         "state": "future"
     },

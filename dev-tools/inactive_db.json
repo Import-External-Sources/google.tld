@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.trade": "INACTIVE",
-            "blogspot.trading": "INACTIVE",
-            "blogspot.training": "INACTIVE",
-            "blogspot.travelchannel": "INACTIVE",
-            "blogspot.travelers": "INACTIVE",
-            "blogspot.travelersinsurance": "INACTIVE",
-            "blogspot.trust": "INACTIVE",
-            "blogspot.trv": "INACTIVE",
-            "blogspot.tt": "INACTIVE",
-            "blogspot.tube": "INACTIVE",
-            "blogspot.tui": "INACTIVE",
             "blogspot.tunes": "INACTIVE",
             "blogspot.tushu": "INACTIVE",
             "blogspot.tvs": "INACTIVE",
@@ -35553,6 +35542,26 @@
         },
         "1582122731": {
             "blogspot.llp": "INACTIVE"
+        },
+        "1582174614": {
+            "blogspot.trade": "INACTIVE",
+            "blogspot.trading": "INACTIVE"
+        },
+        "1582174615": {
+            "blogspot.training": "INACTIVE",
+            "blogspot.travelchannel": "INACTIVE",
+            "blogspot.travelers": "INACTIVE"
+        },
+        "1582174616": {
+            "blogspot.travelersinsurance": "INACTIVE",
+            "blogspot.trust": "INACTIVE",
+            "blogspot.trv": "INACTIVE"
+        },
+        "1582174617": {
+            "blogspot.tube": "INACTIVE"
+        },
+        "1582174618": {
+            "blogspot.tui": "INACTIVE"
         }
     }
 }
