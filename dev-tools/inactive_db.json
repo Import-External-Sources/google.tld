@@ -300,17 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.ua": "INACTIVE",
-            "blogspot.ubank": "INACTIVE",
-            "blogspot.ubs": "INACTIVE",
-            "blogspot.uconnect": "INACTIVE",
-            "blogspot.unicom": "INACTIVE",
-            "blogspot.university": "INACTIVE",
-            "blogspot.uno": "INACTIVE",
-            "blogspot.uol": "INACTIVE",
-            "blogspot.ups": "INACTIVE",
-            "blogspot.us": "INACTIVE",
-            "blogspot.uy": "INACTIVE",
             "blogspot.va": "INACTIVE",
             "blogspot.vacations": "INACTIVE",
             "blogspot.vana": "INACTIVE",
@@ -35579,6 +35568,25 @@
         },
         "1582247068": {
             "blogspot.tz": "INACTIVE"
+        },
+        "1582261548": {
+            "blogspot.ua": "INACTIVE",
+            "blogspot.ubank": "INACTIVE",
+            "blogspot.ubs": "INACTIVE"
+        },
+        "1582261549": {
+            "blogspot.uconnect": "INACTIVE"
+        },
+        "1582261550": {
+            "blogspot.unicom": "INACTIVE",
+            "blogspot.university": "INACTIVE",
+            "blogspot.uno": "INACTIVE"
+        },
+        "1582261551": {
+            "blogspot.uol": "INACTIVE"
+        },
+        "1582261552": {
+            "blogspot.ups": "INACTIVE"
         }
     }
 }
