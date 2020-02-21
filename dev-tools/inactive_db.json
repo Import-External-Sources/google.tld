@@ -300,8 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.tvs": "INACTIVE",
-            "blogspot.tz": "INACTIVE",
             "blogspot.ua": "INACTIVE",
             "blogspot.ubank": "INACTIVE",
             "blogspot.ubs": "INACTIVE",
@@ -35575,6 +35573,12 @@
         },
         "1582243005": {
             "blog.ir": "INACTIVE"
+        },
+        "1582247063": {
+            "blogspot.tvs": "INACTIVE"
+        },
+        "1582247068": {
+            "blogspot.tz": "INACTIVE"
         }
     }
 }
