@@ -300,15 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.volkswagen": "INACTIVE",
-            "blogspot.volvo": "INACTIVE",
-            "blogspot.vote": "INACTIVE",
-            "blogspot.voting": "INACTIVE",
-            "blogspot.voto": "INACTIVE",
-            "blogspot.voyage": "INACTIVE",
-            "blogspot.vu": "INACTIVE",
-            "blogspot.vuelos": "INACTIVE",
-            "blogspot.wales": "INACTIVE",
             "blogspot.walmart": "INACTIVE",
             "blogspot.walter": "INACTIVE",
             "blogspot.wanggou": "INACTIVE",
@@ -35617,6 +35608,24 @@
         },
         "1582296660": {
             "android.tn": "INACTIVE"
+        },
+        "1582312925": {
+            "blogspot.volkswagen": "INACTIVE"
+        },
+        "1582312926": {
+            "blogspot.volvo": "INACTIVE",
+            "blogspot.vote": "INACTIVE"
+        },
+        "1582312927": {
+            "blogspot.voting": "INACTIVE",
+            "blogspot.voto": "INACTIVE",
+            "blogspot.voyage": "INACTIVE"
+        },
+        "1582312928": {
+            "blogspot.vuelos": "INACTIVE"
+        },
+        "1582312943": {
+            "blogspot.wales": "INACTIVE"
         }
     }
 }

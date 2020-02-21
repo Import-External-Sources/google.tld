@@ -11474,6 +11474,11 @@
         "expiration_date": "14-sep-2021",
         "state": "future"
     },
+    "blogspot.vu": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "blogspot.wang": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
