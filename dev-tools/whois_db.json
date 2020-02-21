@@ -255,8 +255,8 @@
         "state": "future"
     },
     "abc.best": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "abc.bet": {
@@ -8545,8 +8545,8 @@
         "state": "future"
     },
     "blog.pro": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "blog.productions": {
