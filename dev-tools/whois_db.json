@@ -11455,17 +11455,22 @@
         "state": "future"
     },
     "blogspot.uz": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "blogspot.vc": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "blogspot.video": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "blogspot.vip": {
-        "epoch": 1631577600,
+        "epoch": 1631577600.0,
         "expiration_date": "14-sep-2021",
         "state": "future"
     },
