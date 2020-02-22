@@ -300,9 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.xn--45brj9c": "INACTIVE",
-            "blogspot.xn--45q11c": "INACTIVE",
-            "blogspot.xn--4gbrim": "INACTIVE",
             "blogspot.xn--54b7fta0cc": "INACTIVE",
             "blogspot.xn--55qw42g": "INACTIVE",
             "blogspot.xn--55qx5d": "INACTIVE",
@@ -35686,6 +35683,13 @@
         },
         "1582355970": {
             "blog.bb": "INACTIVE"
+        },
+        "1582372027": {
+            "blogspot.xn--45brj9c": "INACTIVE"
+        },
+        "1582372028": {
+            "blogspot.xn--45q11c": "INACTIVE",
+            "blogspot.xn--4gbrim": "INACTIVE"
         }
     }
 }
