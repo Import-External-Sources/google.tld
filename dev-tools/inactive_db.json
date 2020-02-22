@@ -300,19 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.walmart": "INACTIVE",
-            "blogspot.walter": "INACTIVE",
-            "blogspot.wanggou": "INACTIVE",
-            "blogspot.warman": "INACTIVE",
-            "blogspot.watch": "INACTIVE",
-            "blogspot.watches": "INACTIVE",
-            "blogspot.weather": "INACTIVE",
-            "blogspot.weatherchannel": "INACTIVE",
-            "blogspot.webcam": "INACTIVE",
-            "blogspot.weber": "INACTIVE",
-            "blogspot.website": "INACTIVE",
-            "blogspot.wed": "INACTIVE",
-            "blogspot.wedding": "INACTIVE",
             "blogspot.weibo": "INACTIVE",
             "blogspot.weir": "INACTIVE",
             "blogspot.wf": "INACTIVE",
@@ -35626,6 +35613,32 @@
         },
         "1582312943": {
             "blogspot.wales": "INACTIVE"
+        },
+        "1582332631": {
+            "blogspot.walmart": "INACTIVE"
+        },
+        "1582332632": {
+            "blogspot.walter": "INACTIVE"
+        },
+        "1582332638": {
+            "blogspot.wanggou": "INACTIVE",
+            "blogspot.warman": "INACTIVE"
+        },
+        "1582332639": {
+            "blogspot.watch": "INACTIVE",
+            "blogspot.watches": "INACTIVE",
+            "blogspot.weather": "INACTIVE"
+        },
+        "1582332640": {
+            "blogspot.weatherchannel": "INACTIVE",
+            "blogspot.webcam": "INACTIVE",
+            "blogspot.weber": "INACTIVE"
+        },
+        "1582332641": {
+            "blogspot.wed": "INACTIVE"
+        },
+        "1582332663": {
+            "blogspot.wedding": "INACTIVE"
         }
     }
 }
