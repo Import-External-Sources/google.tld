@@ -300,8 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.works": "INACTIVE",
-            "blogspot.wow": "INACTIVE",
             "blogspot.wtc": "INACTIVE",
             "blogspot.wtf": "INACTIVE",
             "blogspot.xbox": "INACTIVE",
@@ -35655,6 +35653,12 @@
         },
         "1582335306": {
             "blogspot.work": "INACTIVE"
+        },
+        "1582340580": {
+            "blogspot.works": "INACTIVE"
+        },
+        "1582340582": {
+            "blogspot.wow": "INACTIVE"
         }
     }
 }
