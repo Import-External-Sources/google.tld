@@ -300,25 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.xn--54b7fta0cc": "INACTIVE",
-            "blogspot.xn--55qw42g": "INACTIVE",
-            "blogspot.xn--55qx5d": "INACTIVE",
-            "blogspot.xn--5su34j936bgsg": "INACTIVE",
-            "blogspot.xn--5tzm5g": "INACTIVE",
-            "blogspot.xn--6frz82g": "INACTIVE",
-            "blogspot.xn--6qq986b3xl": "INACTIVE",
-            "blogspot.xn--80adxhks": "INACTIVE",
-            "blogspot.xn--80ao21a": "INACTIVE",
-            "blogspot.xn--80aqecdr1a": "INACTIVE",
-            "blogspot.xn--80asehdb": "INACTIVE",
-            "blogspot.xn--80aswg": "INACTIVE",
-            "blogspot.xn--8y0a063a": "INACTIVE",
-            "blogspot.xn--90a3ac": "INACTIVE",
-            "blogspot.xn--90ae": "INACTIVE",
-            "blogspot.xn--90ais": "INACTIVE",
-            "blogspot.xn--9dbq2a": "INACTIVE",
-            "blogspot.xn--9et52u": "INACTIVE",
-            "blogspot.xn--9krt00a": "INACTIVE",
             "blogspot.xn--b4w605ferd": "INACTIVE",
             "blogspot.xn--bck1b9a5dre4c": "INACTIVE",
             "blogspot.xn--c1avg": "INACTIVE",
@@ -35690,6 +35671,51 @@
         "1582372028": {
             "blogspot.xn--45q11c": "INACTIVE",
             "blogspot.xn--4gbrim": "INACTIVE"
+        },
+        "1582379897": {
+            "blogspot.xn--54b7fta0cc": "INACTIVE"
+        },
+        "1582379900": {
+            "blogspot.xn--55qw42g": "INACTIVE"
+        },
+        "1582379901": {
+            "blogspot.xn--55qx5d": "INACTIVE",
+            "blogspot.xn--5su34j936bgsg": "INACTIVE",
+            "blogspot.xn--5tzm5g": "INACTIVE"
+        },
+        "1582379902": {
+            "blogspot.xn--6frz82g": "INACTIVE",
+            "blogspot.xn--6qq986b3xl": "INACTIVE"
+        },
+        "1582379903": {
+            "blogspot.xn--80adxhks": "INACTIVE"
+        },
+        "1582379904": {
+            "blogspot.xn--80ao21a": "INACTIVE",
+            "blogspot.xn--80aqecdr1a": "INACTIVE"
+        },
+        "1582379905": {
+            "blogspot.xn--80asehdb": "INACTIVE"
+        },
+        "1582379907": {
+            "blogspot.xn--80aswg": "INACTIVE"
+        },
+        "1582379911": {
+            "blogspot.xn--8y0a063a": "INACTIVE",
+            "blogspot.xn--90a3ac": "INACTIVE"
+        },
+        "1582379912": {
+            "blogspot.xn--90ae": "INACTIVE"
+        },
+        "1582379913": {
+            "blogspot.xn--90ais": "INACTIVE"
+        },
+        "1582379914": {
+            "blogspot.xn--9dbq2a": "INACTIVE",
+            "blogspot.xn--9et52u": "INACTIVE"
+        },
+        "1582379919": {
+            "blogspot.xn--9krt00a": "INACTIVE"
         }
     }
 }
