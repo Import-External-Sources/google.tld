@@ -7735,9 +7735,9 @@
         "state": "future"
     },
     "blog.dev": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
-        "state": "past"
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
     },
     "blog.digital": {
         "epoch": 1606003200.0,
