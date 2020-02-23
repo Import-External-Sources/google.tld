@@ -300,7 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.xn--mgbgu82a": "INACTIVE",
             "blogspot.xn--mgbi4ecexp": "INACTIVE",
             "blogspot.xn--mgbpl2fh": "INACTIVE",
             "blogspot.xn--mgbt3dhd": "INACTIVE",
@@ -35802,6 +35801,9 @@
         },
         "1582446913": {
             "blogspot.xn--mgberp4a5d4ar": "INACTIVE"
+        },
+        "1582469221": {
+            "blogspot.xn--mgbgu82a": "INACTIVE"
         }
     }
 }
