@@ -300,26 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.xn--p1ai": "INACTIVE",
-            "blogspot.xn--pbt977c": "INACTIVE",
-            "blogspot.xn--pgbs0dh": "INACTIVE",
-            "blogspot.xn--pssy2u": "INACTIVE",
-            "blogspot.xn--qcka1pmc": "INACTIVE",
-            "blogspot.xn--qxa6a": "INACTIVE",
-            "blogspot.xn--qxam": "INACTIVE",
-            "blogspot.xn--rhqv96g": "INACTIVE",
-            "blogspot.xn--rovu88b": "INACTIVE",
-            "blogspot.xn--rvc1e0am3e": "INACTIVE",
-            "blogspot.xn--s9brj9c": "INACTIVE",
-            "blogspot.xn--ses554g": "INACTIVE",
-            "blogspot.xn--t60b56a": "INACTIVE",
-            "blogspot.xn--tckwe": "INACTIVE",
-            "blogspot.xn--tiq49xqyj": "INACTIVE",
-            "blogspot.xn--unup4y": "INACTIVE",
-            "blogspot.xn--vermgensberater-ctb": "INACTIVE",
-            "blogspot.xn--vermgensberatung-pwb": "INACTIVE",
-            "blogspot.xn--vhquv": "INACTIVE",
-            "blogspot.xn--vuq861b": "INACTIVE",
             "blogspot.xn--w4r85el8fhu5dnra": "INACTIVE",
             "blogspot.xn--w4rs40l": "INACTIVE",
             "blogspot.xn--wgbh1c": "INACTIVE",
@@ -35837,6 +35817,49 @@
         },
         "1582500697": {
             "blogspot.xn--p1acf": "INACTIVE"
+        },
+        "1582501988": {
+            "blogspot.xn--p1ai": "INACTIVE",
+            "blogspot.xn--pbt977c": "INACTIVE"
+        },
+        "1582501989": {
+            "blogspot.xn--pgbs0dh": "INACTIVE",
+            "blogspot.xn--pssy2u": "INACTIVE"
+        },
+        "1582501990": {
+            "blogspot.xn--q7ce6a": "INACTIVE",
+            "blogspot.xn--qcka1pmc": "INACTIVE"
+        },
+        "1582501991": {
+            "blogspot.xn--qxa6a": "INACTIVE"
+        },
+        "1582501993": {
+            "blogspot.xn--qxam": "INACTIVE",
+            "blogspot.xn--rhqv96g": "INACTIVE"
+        },
+        "1582501994": {
+            "blogspot.xn--rovu88b": "INACTIVE"
+        },
+        "1582501995": {
+            "blogspot.xn--rvc1e0am3e": "INACTIVE",
+            "blogspot.xn--s9brj9c": "INACTIVE"
+        },
+        "1582501996": {
+            "blogspot.xn--ses554g": "INACTIVE",
+            "blogspot.xn--t60b56a": "INACTIVE",
+            "blogspot.xn--tckwe": "INACTIVE"
+        },
+        "1582501997": {
+            "blogspot.xn--tiq49xqyj": "INACTIVE",
+            "blogspot.xn--unup4y": "INACTIVE"
+        },
+        "1582501998": {
+            "blogspot.xn--vermgensberater-ctb": "INACTIVE",
+            "blogspot.xn--vermgensberatung-pwb": "INACTIVE"
+        },
+        "1582501999": {
+            "blogspot.xn--vhquv": "INACTIVE",
+            "blogspot.xn--vuq861b": "INACTIVE"
         }
     }
 }
