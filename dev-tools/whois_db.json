@@ -170,8 +170,8 @@
         "state": "future"
     },
     "abc.ag": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "abc.agency": {
@@ -735,8 +735,8 @@
         "state": "future"
     },
     "abc.exchange": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "abc.expert": {
@@ -1455,8 +1455,8 @@
         "state": "future"
     },
     "abc.pet": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "abc.pharmacy": {
@@ -1982,7 +1982,7 @@
     "abc.versicherung": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.vg": {
         "epoch": 1598054400.0,
@@ -2655,8 +2655,8 @@
         "state": "future"
     },
     "adsense.co": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "adsense.college": {
