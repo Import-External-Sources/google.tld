@@ -4210,8 +4210,8 @@
         "state": "future"
     },
     "adwords.co": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "adwords.college": {
@@ -7625,8 +7625,8 @@
         "state": "future"
     },
     "blog.co": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "blog.coach": {
@@ -7737,7 +7737,7 @@
     "blog.dev": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.digital": {
         "epoch": 1606003200.0,
@@ -9440,8 +9440,8 @@
         "state": "future"
     },
     "blogger.co": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "blogger.college": {
