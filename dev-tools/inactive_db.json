@@ -300,9 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.yun": "INACTIVE",
-            "blogspot.za": "INACTIVE",
-            "blogspot.zappos": "INACTIVE",
             "blogspot.zara": "INACTIVE",
             "blogspot.zero": "INACTIVE",
             "blogspot.zip": "INACTIVE",
@@ -35895,6 +35892,15 @@
         },
         "1582517781": {
             "blogspot.yt": "INACTIVE"
+        },
+        "1582534875": {
+            "blogspot.yun": "INACTIVE"
+        },
+        "1582534876": {
+            "blogspot.za": "INACTIVE"
+        },
+        "1582534897": {
+            "blogspot.zappos": "INACTIVE"
         }
     }
 }
