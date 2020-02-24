@@ -3150,9 +3150,9 @@
         "state": "future"
     },
     "adsense.mom": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
     },
     "adsense.monster": {
         "epoch": 1590537600.0,
@@ -6240,9 +6240,9 @@
         "state": "future"
     },
     "android.mom": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
     },
     "android.monster": {
         "epoch": 1614297600.0,
@@ -9935,9 +9935,9 @@
         "state": "future"
     },
     "blogger.mom": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
     },
     "blogger.monster": {
         "epoch": 1598227200.0,
