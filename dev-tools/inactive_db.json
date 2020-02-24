@@ -1,10 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.srt": "INACTIVE",
-            "blog.ss": "INACTIVE",
-            "blog.stada": "INACTIVE",
-            "blog.staples": "INACTIVE",
             "blog.star": "INACTIVE",
             "blog.statebank": "INACTIVE",
             "blog.statefarm": "INACTIVE",
@@ -35909,6 +35905,14 @@
             "blog.sr": "INACTIVE",
             "blogspot.zuerich": "INACTIVE",
             "blogspot.zw": "INACTIVE"
+        },
+        "1582586311": {
+            "blog.srt": "INACTIVE"
+        },
+        "1582586312": {
+            "blog.ss": "INACTIVE",
+            "blog.stada": "INACTIVE",
+            "blog.staples": "INACTIVE"
         }
     }
 }
