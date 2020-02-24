@@ -300,10 +300,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.yokohama": "INACTIVE",
-            "blogspot.you": "INACTIVE",
-            "blogspot.youtube": "INACTIVE",
-            "blogspot.yt": "INACTIVE",
             "blogspot.yun": "INACTIVE",
             "blogspot.za": "INACTIVE",
             "blogspot.zappos": "INACTIVE",
@@ -35886,6 +35882,19 @@
         },
         "1582509893": {
             "blogspot.yoga": "INACTIVE"
+        },
+        "1582517341": {
+            "android.xn--node": "INACTIVE"
+        },
+        "1582517772": {
+            "blogspot.yokohama": "INACTIVE"
+        },
+        "1582517775": {
+            "blogspot.you": "INACTIVE",
+            "blogspot.youtube": "INACTIVE"
+        },
+        "1582517781": {
+            "blogspot.yt": "INACTIVE"
         }
     }
 }
