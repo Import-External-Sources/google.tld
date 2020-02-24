@@ -1,8 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.spreadbetting": "INACTIVE",
-            "blog.sr": "INACTIVE",
             "blog.srt": "INACTIVE",
             "blog.ss": "INACTIVE",
             "blog.stada": "INACTIVE",
@@ -300,12 +298,6 @@
             "blog.zm": "INACTIVE",
             "blog.zuerich": "INACTIVE",
             "blog.zw": "INACTIVE",
-            "blogspot.zara": "INACTIVE",
-            "blogspot.zero": "INACTIVE",
-            "blogspot.zip": "INACTIVE",
-            "blogspot.zm": "INACTIVE",
-            "blogspot.zuerich": "INACTIVE",
-            "blogspot.zw": "INACTIVE",
             "chrome.aaa": "INACTIVE",
             "chrome.aarp": "INACTIVE",
             "chrome.abarth": "INACTIVE",
@@ -35901,6 +35893,22 @@
         },
         "1582534897": {
             "blogspot.zappos": "INACTIVE"
+        },
+        "1582570436": {
+            "blogspot.zara": "INACTIVE",
+            "blogspot.zero": "INACTIVE"
+        },
+        "1582570437": {
+            "blogspot.zip": "INACTIVE"
+        },
+        "1582570439": {
+            "blogspot.zm": "INACTIVE"
+        },
+        "1582570440": {
+            "blog.spreadbetting": "INACTIVE",
+            "blog.sr": "INACTIVE",
+            "blogspot.zuerich": "INACTIVE",
+            "blogspot.zw": "INACTIVE"
         }
     }
 }
