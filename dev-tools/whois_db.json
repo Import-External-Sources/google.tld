@@ -11520,12 +11520,12 @@
         "state": "future"
     },
     "blogspot.xxx": {
-        "epoch": 1575158400,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "blogspot.xyz": {
-        "epoch": 1594944000,
+        "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
