@@ -8845,38 +8845,38 @@
         "state": "future"
     },
     "blog.systems": {
-        "epoch": 1592092800,
+        "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "blog.tatar": {
-        "epoch": 1585008000,
+        "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "blog.tattoo": {
-        "epoch": 1576108800,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "blog.tax": {
-        "epoch": 1565136000,
-        "expiration_date": "07-aug-2019",
-        "state": "past"
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "blog.taxi": {
-        "epoch": 1580256000,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "blog.tc": {
-        "epoch": 1602979200,
+        "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "blog.team": {
-        "epoch": 1579996800,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "blog.tech": {

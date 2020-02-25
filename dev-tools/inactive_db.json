@@ -1,18 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.sydney": "INACTIVE",
-            "blog.symantec": "INACTIVE",
-            "blog.sz": "INACTIVE",
-            "blog.tab": "INACTIVE",
-            "blog.taipei": "INACTIVE",
-            "blog.talk": "INACTIVE",
-            "blog.taobao": "INACTIVE",
-            "blog.target": "INACTIVE",
-            "blog.tatamotors": "INACTIVE",
-            "blog.tci": "INACTIVE",
-            "blog.td": "INACTIVE",
-            "blog.tdk": "INACTIVE",
             "blog.telefonica": "INACTIVE",
             "blog.temasek": "INACTIVE",
             "blog.teva": "INACTIVE",
@@ -35939,6 +35927,28 @@
         },
         "1582595503": {
             "blog.sy": "INACTIVE"
+        },
+        "1582606005": {
+            "blog.sydney": "INACTIVE",
+            "blog.symantec": "INACTIVE",
+            "blog.sz": "INACTIVE"
+        },
+        "1582606006": {
+            "blog.tab": "INACTIVE",
+            "blog.taipei": "INACTIVE",
+            "blog.talk": "INACTIVE"
+        },
+        "1582606007": {
+            "blog.taobao": "INACTIVE",
+            "blog.target": "INACTIVE",
+            "blog.tatamotors": "INACTIVE"
+        },
+        "1582606009": {
+            "blog.tci": "INACTIVE"
+        },
+        "1582606014": {
+            "blog.td": "INACTIVE",
+            "blog.tdk": "INACTIVE"
         }
     }
 }
