@@ -2670,8 +2670,8 @@
         "state": "future"
     },
     "adsense.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "adsense.cooking": {
@@ -3452,7 +3452,7 @@
     "adsense.sexy": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsense.sg": {
         "epoch": 1609632000.0,
@@ -3567,7 +3567,7 @@
     "adsense.tattoo": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsense.tc": {
         "epoch": 1588204800.0,
@@ -4980,8 +4980,8 @@
         "state": "future"
     },
     "adwords.sexy": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "adwords.sg": {
@@ -5085,8 +5085,8 @@
         "state": "future"
     },
     "adwords.tattoo": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "adwords.tc": {
@@ -6652,7 +6652,7 @@
     "android.tattoo": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "android.tc": {
         "epoch": 1841961600.0,
@@ -7732,7 +7732,7 @@
     "blog.dental": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.dev": {
         "epoch": 1614038400.0,
@@ -10237,7 +10237,7 @@
     "blogger.sexy": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.sg": {
         "epoch": 1609632000.0,
@@ -10327,7 +10327,7 @@
     "blogger.tattoo": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.td": {
         "epoch": 1599696000.0,
