@@ -10240,9 +10240,9 @@
         "state": "future"
     },
     "blogger.sexy": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
     },
     "blogger.sg": {
         "epoch": 1609632000.0,
@@ -10330,9 +10330,9 @@
         "state": "future"
     },
     "blogger.tattoo": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
     },
     "blogger.td": {
         "epoch": 1599696000.0,
