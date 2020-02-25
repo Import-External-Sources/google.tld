@@ -1,20 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.telefonica": "INACTIVE",
-            "blog.temasek": "INACTIVE",
-            "blog.teva": "INACTIVE",
-            "blog.th": "INACTIVE",
-            "blog.thd": "INACTIVE",
-            "blog.theater": "INACTIVE",
-            "blog.theatre": "INACTIVE",
-            "blog.tiaa": "INACTIVE",
-            "blog.tickets": "INACTIVE",
-            "blog.tienda": "INACTIVE",
-            "blog.tiffany": "INACTIVE",
-            "blog.tires": "INACTIVE",
-            "blog.tjmaxx": "INACTIVE",
-            "blog.tjx": "INACTIVE",
             "blog.tkmaxx": "INACTIVE",
             "blog.tm": "INACTIVE",
             "blog.tmall": "INACTIVE",
@@ -35949,6 +35935,36 @@
         "1582606014": {
             "blog.td": "INACTIVE",
             "blog.tdk": "INACTIVE"
+        },
+        "1582617949": {
+            "blog.telefonica": "INACTIVE"
+        },
+        "1582617950": {
+            "blog.temasek": "INACTIVE",
+            "blog.teva": "INACTIVE"
+        },
+        "1582617952": {
+            "blog.th": "INACTIVE"
+        },
+        "1582617953": {
+            "blog.thd": "INACTIVE",
+            "blog.theater": "INACTIVE"
+        },
+        "1582617954": {
+            "blog.theatre": "INACTIVE",
+            "blog.tiaa": "INACTIVE"
+        },
+        "1582617955": {
+            "blog.tickets": "INACTIVE",
+            "blog.tienda": "INACTIVE",
+            "blog.tiffany": "INACTIVE"
+        },
+        "1582617956": {
+            "blog.tires": "INACTIVE"
+        },
+        "1582617957": {
+            "blog.tjmaxx": "INACTIVE",
+            "blog.tjx": "INACTIVE"
         }
     }
 }
