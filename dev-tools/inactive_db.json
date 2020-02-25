@@ -1,14 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.star": "INACTIVE",
-            "blog.statebank": "INACTIVE",
-            "blog.statefarm": "INACTIVE",
-            "blog.stc": "INACTIVE",
-            "blog.stcgroup": "INACTIVE",
-            "blog.stockholm": "INACTIVE",
-            "blog.storage": "INACTIVE",
-            "blog.store": "INACTIVE",
             "blog.stream": "INACTIVE",
             "blog.study": "INACTIVE",
             "blog.sucks": "INACTIVE",
@@ -35913,6 +35905,24 @@
             "blog.ss": "INACTIVE",
             "blog.stada": "INACTIVE",
             "blog.staples": "INACTIVE"
+        },
+        "1582594187": {
+            "blog.star": "INACTIVE"
+        },
+        "1582594189": {
+            "blog.statebank": "INACTIVE",
+            "blog.statefarm": "INACTIVE"
+        },
+        "1582594191": {
+            "blog.stc": "INACTIVE"
+        },
+        "1582594196": {
+            "blog.stcgroup": "INACTIVE",
+            "blog.stockholm": "INACTIVE"
+        },
+        "1582594197": {
+            "blog.storage": "INACTIVE",
+            "blog.store": "INACTIVE"
         }
     }
 }
