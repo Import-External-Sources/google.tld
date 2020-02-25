@@ -1,16 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.stream": "INACTIVE",
-            "blog.study": "INACTIVE",
-            "blog.sucks": "INACTIVE",
-            "blog.surf": "INACTIVE",
-            "blog.surgery": "INACTIVE",
-            "blog.suzuki": "INACTIVE",
-            "blog.swatch": "INACTIVE",
-            "blog.swiftcover": "INACTIVE",
-            "blog.sx": "INACTIVE",
-            "blog.sy": "INACTIVE",
             "blog.sydney": "INACTIVE",
             "blog.symantec": "INACTIVE",
             "blog.sz": "INACTIVE",
@@ -35923,6 +35913,32 @@
         "1582594197": {
             "blog.storage": "INACTIVE",
             "blog.store": "INACTIVE"
+        },
+        "1582595492": {
+            "blog.stream": "INACTIVE"
+        },
+        "1582595493": {
+            "blog.study": "INACTIVE"
+        },
+        "1582595494": {
+            "blog.sucks": "INACTIVE"
+        },
+        "1582595495": {
+            "blog.surf": "INACTIVE",
+            "blog.surgery": "INACTIVE"
+        },
+        "1582595496": {
+            "blog.suzuki": "INACTIVE"
+        },
+        "1582595497": {
+            "blog.swatch": "INACTIVE",
+            "blog.swiftcover": "INACTIVE"
+        },
+        "1582595498": {
+            "blog.sx": "INACTIVE"
+        },
+        "1582595503": {
+            "blog.sy": "INACTIVE"
         }
     }
 }
