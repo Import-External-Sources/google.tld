@@ -1,13 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.tkmaxx": "INACTIVE",
-            "blog.tm": "INACTIVE",
-            "blog.tmall": "INACTIVE",
-            "blog.to": "INACTIVE",
-            "blog.toray": "INACTIVE",
-            "blog.toshiba": "INACTIVE",
-            "blog.total": "INACTIVE",
             "blog.toyota": "INACTIVE",
             "blog.toys": "INACTIVE",
             "blog.tr": "INACTIVE",
@@ -35965,6 +35958,22 @@
         "1582617957": {
             "blog.tjmaxx": "INACTIVE",
             "blog.tjx": "INACTIVE"
+        },
+        "1582624546": {
+            "blog.tkmaxx": "INACTIVE"
+        },
+        "1582624547": {
+            "blog.tm": "INACTIVE"
+        },
+        "1582624548": {
+            "blog.tmall": "INACTIVE"
+        },
+        "1582624555": {
+            "blog.toray": "INACTIVE"
+        },
+        "1582624556": {
+            "blog.toshiba": "INACTIVE",
+            "blog.total": "INACTIVE"
         }
     }
 }
