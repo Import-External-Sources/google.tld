@@ -8960,23 +8960,23 @@
         "state": "future"
     },
     "blog.trade": {
-        "epoch": 1810425600,
+        "epoch": 1810425600.0,
         "expiration_date": "16-may-2027",
         "state": "future"
     },
     "blog.trading": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
-        "state": "past"
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "blog.training": {
-        "epoch": 1594771200,
+        "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "blog.travel": {
-        "epoch": 1578182400,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "blog.tube": {

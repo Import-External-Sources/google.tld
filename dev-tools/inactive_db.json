@@ -1,15 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.toyota": "INACTIVE",
-            "blog.toys": "INACTIVE",
-            "blog.tr": "INACTIVE",
-            "blog.travelchannel": "INACTIVE",
-            "blog.travelers": "INACTIVE",
-            "blog.travelersinsurance": "INACTIVE",
-            "blog.trust": "INACTIVE",
-            "blog.trv": "INACTIVE",
-            "blog.tt": "INACTIVE",
             "blog.tui": "INACTIVE",
             "blog.tunes": "INACTIVE",
             "blog.tushu": "INACTIVE",
@@ -35980,6 +35971,25 @@
         },
         "1582681919": {
             "adsense.al": "INACTIVE"
+        },
+        "1582684026": {
+            "blog.toyota": "INACTIVE",
+            "blog.toys": "INACTIVE"
+        },
+        "1582684027": {
+            "blog.tr": "INACTIVE"
+        },
+        "1582684028": {
+            "blog.travelchannel": "INACTIVE",
+            "blog.travelers": "INACTIVE"
+        },
+        "1582684029": {
+            "blog.travelersinsurance": "INACTIVE",
+            "blog.trust": "INACTIVE",
+            "blog.trv": "INACTIVE"
+        },
+        "1582684045": {
+            "blog.tt": "INACTIVE"
         }
     }
 }
