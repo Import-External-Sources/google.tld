@@ -720,8 +720,8 @@
         "state": "future"
     },
     "abc.equipment": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "abc.estate": {
@@ -1190,8 +1190,8 @@
         "state": "future"
     },
     "abc.lighting": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "abc.limited": {
@@ -7025,8 +7025,8 @@
         "state": "future"
     },
     "android.yt": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "appspot.app": {
@@ -7200,8 +7200,8 @@
         "state": "future"
     },
     "appspot.pl": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "appspot.pro": {
