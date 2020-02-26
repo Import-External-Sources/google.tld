@@ -1,15 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.volkswagen": "INACTIVE",
-            "blog.volvo": "INACTIVE",
-            "blog.voting": "INACTIVE",
-            "blog.vu": "INACTIVE",
-            "blog.vuelos": "INACTIVE",
-            "blog.walmart": "INACTIVE",
-            "blog.walter": "INACTIVE",
-            "blog.wang": "INACTIVE",
-            "blog.wanggou": "INACTIVE",
             "blog.warman": "INACTIVE",
             "blog.watches": "INACTIVE",
             "blog.weather": "INACTIVE",
@@ -36032,6 +36023,22 @@
         },
         "1582738461": {
             "blog.vodka": "INACTIVE"
+        },
+        "1582747772": {
+            "blog.volkswagen": "INACTIVE",
+            "blog.volvo": "INACTIVE",
+            "blog.voting": "INACTIVE"
+        },
+        "1582747773": {
+            "blog.vuelos": "INACTIVE"
+        },
+        "1582747774": {
+            "blog.walmart": "INACTIVE",
+            "blog.walter": "INACTIVE",
+            "blog.wang": "INACTIVE"
+        },
+        "1582747781": {
+            "blog.wanggou": "INACTIVE"
         }
     }
 }
