@@ -9060,13 +9060,13 @@
         "state": "future"
     },
     "blog.vip": {
-        "epoch": 1678752000,
+        "epoch": 1678752000.0,
         "expiration_date": "14-mar-2023",
         "state": "future"
     },
     "blog.vision": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "blog.vote": {

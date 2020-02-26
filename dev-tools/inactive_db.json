@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.vig": "INACTIVE",
-            "blog.viking": "INACTIVE",
-            "blog.villas": "INACTIVE",
-            "blog.vin": "INACTIVE",
-            "blog.virgin": "INACTIVE",
-            "blog.visa": "INACTIVE",
-            "blog.vistaprint": "INACTIVE",
-            "blog.viva": "INACTIVE",
-            "blog.vivo": "INACTIVE",
-            "blog.vlaanderen": "INACTIVE",
-            "blog.vodka": "INACTIVE",
             "blog.volkswagen": "INACTIVE",
             "blog.volvo": "INACTIVE",
             "blog.voting": "INACTIVE",
@@ -36018,6 +36007,31 @@
         },
         "1582718514": {
             "blog.vi": "INACTIVE"
+        },
+        "1582738437": {
+            "blog.vig": "INACTIVE",
+            "blog.viking": "INACTIVE"
+        },
+        "1582738438": {
+            "blog.villas": "INACTIVE",
+            "blog.vin": "INACTIVE"
+        },
+        "1582738439": {
+            "blog.virgin": "INACTIVE",
+            "blog.visa": "INACTIVE"
+        },
+        "1582738440": {
+            "blog.vistaprint": "INACTIVE"
+        },
+        "1582738444": {
+            "blog.viva": "INACTIVE"
+        },
+        "1582738445": {
+            "blog.vivo": "INACTIVE",
+            "blog.vlaanderen": "INACTIVE"
+        },
+        "1582738461": {
+            "blog.vodka": "INACTIVE"
         }
     }
 }
