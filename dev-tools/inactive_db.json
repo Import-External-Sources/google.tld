@@ -1,20 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.warman": "INACTIVE",
-            "blog.watches": "INACTIVE",
-            "blog.weather": "INACTIVE",
-            "blog.weatherchannel": "INACTIVE",
-            "blog.webcam": "INACTIVE",
-            "blog.weber": "INACTIVE",
-            "blog.wed": "INACTIVE",
-            "blog.wedding": "INACTIVE",
-            "blog.weibo": "INACTIVE",
-            "blog.weir": "INACTIVE",
-            "blog.whoswho": "INACTIVE",
-            "blog.wien": "INACTIVE",
-            "blog.wiki": "INACTIVE",
-            "blog.williamhill": "INACTIVE",
             "blog.win": "INACTIVE",
             "blog.windows": "INACTIVE",
             "blog.winners": "INACTIVE",
@@ -36039,6 +36025,35 @@
         },
         "1582747781": {
             "blog.wanggou": "INACTIVE"
+        },
+        "1582750387": {
+            "blog.warman": "INACTIVE",
+            "blog.watches": "INACTIVE",
+            "blog.weather": "INACTIVE"
+        },
+        "1582750388": {
+            "blog.weatherchannel": "INACTIVE",
+            "blog.webcam": "INACTIVE",
+            "blog.weber": "INACTIVE"
+        },
+        "1582750389": {
+            "blog.wed": "INACTIVE"
+        },
+        "1582750410": {
+            "blog.wedding": "INACTIVE"
+        },
+        "1582750412": {
+            "blog.weibo": "INACTIVE"
+        },
+        "1582750413": {
+            "blog.weir": "INACTIVE"
+        },
+        "1582750414": {
+            "blog.whoswho": "INACTIVE"
+        },
+        "1582750415": {
+            "blog.wien": "INACTIVE",
+            "blog.wiki": "INACTIVE"
         }
     }
 }
