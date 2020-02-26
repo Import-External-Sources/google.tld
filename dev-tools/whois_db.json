@@ -9014,28 +9014,33 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "blog.us": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "blog.uz": {
-        "epoch": 1584316800,
+        "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "blog.vacations": {
-        "epoch": 1599609600,
+        "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "blog.vc": {
-        "epoch": 1600560000,
+        "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "blog.ventures": {
-        "epoch": 1577404800,
+        "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "blog.versicherung": {
-        "epoch": 1600214400,
+        "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
