@@ -1,10 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.win": "INACTIVE",
-            "blog.windows": "INACTIVE",
-            "blog.winners": "INACTIVE",
-            "blog.wme": "INACTIVE",
             "blog.wolterskluwer": "INACTIVE",
             "blog.woodside": "INACTIVE",
             "blog.work": "INACTIVE",
@@ -36054,6 +36050,16 @@
         "1582750415": {
             "blog.wien": "INACTIVE",
             "blog.wiki": "INACTIVE"
+        },
+        "1582751731": {
+            "blog.win": "INACTIVE"
+        },
+        "1582751732": {
+            "blog.windows": "INACTIVE",
+            "blog.winners": "INACTIVE"
+        },
+        "1582751737": {
+            "blog.wme": "INACTIVE"
         }
     }
 }
