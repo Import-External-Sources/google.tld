@@ -8980,37 +8980,37 @@
         "state": "future"
     },
     "blog.tube": {
-        "epoch": 1541635200,
+        "epoch": 1541635200.0,
         "expiration_date": "08-nov-2018",
         "state": "past"
     },
     "blog.tv": {
-        "epoch": 1584230400,
+        "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "blog.tw": {
-        "epoch": 1603756800,
+        "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "blog.ua": {
-        "epoch": 1580601600,
+        "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.ug": {
-        "epoch": 1616457600,
+        "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "blog.uk": {
-        "epoch": 1579478400,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "blog.university": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },

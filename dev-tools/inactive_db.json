@@ -1,18 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.tui": "INACTIVE",
-            "blog.tunes": "INACTIVE",
-            "blog.tushu": "INACTIVE",
-            "blog.tvs": "INACTIVE",
-            "blog.tz": "INACTIVE",
-            "blog.ubank": "INACTIVE",
-            "blog.ubs": "INACTIVE",
-            "blog.uconnect": "INACTIVE",
-            "blog.unicom": "INACTIVE",
-            "blog.uno": "INACTIVE",
-            "blog.uol": "INACTIVE",
-            "blog.ups": "INACTIVE",
             "blog.uy": "INACTIVE",
             "blog.va": "INACTIVE",
             "blog.vana": "INACTIVE",
@@ -35993,6 +35981,34 @@
         },
         "1582702057": {
             "android.cd": "INACTIVE"
+        },
+        "1582714517": {
+            "blog.tui": "INACTIVE"
+        },
+        "1582714518": {
+            "blog.tunes": "INACTIVE",
+            "blog.tushu": "INACTIVE"
+        },
+        "1582714521": {
+            "blog.tvs": "INACTIVE"
+        },
+        "1582714526": {
+            "blog.tz": "INACTIVE"
+        },
+        "1582714527": {
+            "blog.ubank": "INACTIVE",
+            "blog.ubs": "INACTIVE",
+            "blog.uconnect": "INACTIVE"
+        },
+        "1582714528": {
+            "blog.unicom": "INACTIVE",
+            "blog.uno": "INACTIVE"
+        },
+        "1582714529": {
+            "blog.uol": "INACTIVE"
+        },
+        "1582714531": {
+            "blog.ups": "INACTIVE"
         }
     }
 }
