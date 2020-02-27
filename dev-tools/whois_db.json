@@ -9160,12 +9160,12 @@
         "state": "future"
     },
     "blog.xn--fiqs8s": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "blog.xn--fiqz9s": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
