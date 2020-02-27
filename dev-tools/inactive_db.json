@@ -1,18 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.xn--mgba7c0bbn0a": "INACTIVE",
-            "blog.xn--mgbaakc7dvf": "INACTIVE",
-            "blog.xn--mgbaam7a8h": "INACTIVE",
-            "blog.xn--mgbab2bd": "INACTIVE",
-            "blog.xn--mgbah1a3hjkrd": "INACTIVE",
-            "blog.xn--mgbai9azgqp6j": "INACTIVE",
-            "blog.xn--mgbayh7gpa": "INACTIVE",
-            "blog.xn--mgbbh1a": "INACTIVE",
-            "blog.xn--mgbbh1a71e": "INACTIVE",
-            "blog.xn--mgbc0a9azcg": "INACTIVE",
-            "blog.xn--mgbca7dzdo": "INACTIVE",
-            "blog.xn--mgberp4a5d4ar": "INACTIVE",
             "blog.xn--mgbgu82a": "INACTIVE",
             "blog.xn--mgbi4ecexp": "INACTIVE",
             "blog.xn--mgbpl2fh": "INACTIVE",
@@ -36179,6 +36167,37 @@
         },
         "1582787488": {
             "blog.xn--mgba3a4f16a": "INACTIVE"
+        },
+        "1582808674": {
+            "blog.xn--mgba7c0bbn0a": "INACTIVE",
+            "blog.xn--mgbaakc7dvf": "INACTIVE"
+        },
+        "1582808675": {
+            "blog.xn--mgbaam7a8h": "INACTIVE"
+        },
+        "1582808676": {
+            "blog.xn--mgbab2bd": "INACTIVE"
+        },
+        "1582808681": {
+            "blog.xn--mgbah1a3hjkrd": "INACTIVE"
+        },
+        "1582808682": {
+            "blog.xn--mgbai9azgqp6j": "INACTIVE",
+            "blog.xn--mgbayh7gpa": "INACTIVE"
+        },
+        "1582808683": {
+            "blog.xn--mgbbh1a": "INACTIVE"
+        },
+        "1582808684": {
+            "blog.xn--mgbbh1a71e": "INACTIVE",
+            "blog.xn--mgbc0a9azcg": "INACTIVE"
+        },
+        "1582808685": {
+            "blog.xn--mgbca7dzdo": "INACTIVE",
+            "blog.xn--mgbcpq6gpa1a": "INVALID"
+        },
+        "1582808700": {
+            "blog.xn--mgberp4a5d4ar": "INACTIVE"
         }
     }
 }
