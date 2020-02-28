@@ -9170,7 +9170,7 @@
         "state": "future"
     },
     "blog.xn--vuq861b": {
-        "epoch": 1593388800,
+        "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
@@ -11165,9 +11165,9 @@
         "state": "future"
     },
     "blogspot.mobi": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "blogspot.monster": {
         "epoch": 1603152000.0,
