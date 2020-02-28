@@ -1,14 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.xn--zfr164b": "INACTIVE",
-            "blog.xxx": "INACTIVE",
-            "blog.xyz": "INACTIVE",
-            "blog.yachts": "INACTIVE",
-            "blog.yahoo": "INACTIVE",
-            "blog.yamaxun": "INACTIVE",
-            "blog.yandex": "INACTIVE",
-            "blog.ye": "INACTIVE",
             "blog.yodobashi": "INACTIVE",
             "blog.yokohama": "INACTIVE",
             "blog.you": "INACTIVE",
@@ -36286,6 +36278,24 @@
         },
         "1582931053": {
             "blog.xn--ygbi2ammx": "INACTIVE"
+        },
+        "1582933684": {
+            "blog.xn--zfr164b": "INACTIVE"
+        },
+        "1582933685": {
+            "blog.xxx": "INACTIVE",
+            "blog.xyz": "INACTIVE",
+            "blog.yachts": "INACTIVE"
+        },
+        "1582933686": {
+            "blog.yahoo": "INACTIVE"
+        },
+        "1582933692": {
+            "blog.yamaxun": "INACTIVE",
+            "blog.yandex": "INACTIVE"
+        },
+        "1582933693": {
+            "blog.ye": "INACTIVE"
         }
     }
 }
