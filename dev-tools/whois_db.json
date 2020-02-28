@@ -7092,7 +7092,7 @@
     "appspot.fr": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "appspot.ga": {
         "epoch": 1594771200.0,
@@ -8205,8 +8205,8 @@
         "state": "future"
     },
     "blog.kiwi": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "blog.koeln": {
@@ -10780,9 +10780,9 @@
         "state": "future"
     },
     "blogspot.boutique": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
-        "state": "past"
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
     },
     "blogspot.business": {
         "epoch": 1583712000.0,
@@ -10907,7 +10907,7 @@
     "blogspot.dev": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogspot.directory": {
         "epoch": 1613692800.0,
@@ -11167,7 +11167,7 @@
     "blogspot.mobi": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogspot.monster": {
         "epoch": 1603152000.0,
