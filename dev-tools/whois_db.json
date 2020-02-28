@@ -7090,9 +7090,9 @@
         "state": "future"
     },
     "appspot.fr": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "appspot.ga": {
         "epoch": 1594771200.0,
