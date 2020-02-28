@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.xn--otu796d": "INACTIVE",
             "blog.xn--p1acf": "INACTIVE",
             "blog.xn--p1ai": "INACTIVE",
             "blog.xn--pbt977c": "INACTIVE",
@@ -36243,6 +36242,9 @@
         },
         "1582908049": {
             "adwords.eu": "INACTIVE"
+        },
+        "1582924417": {
+            "blog.xn--otu796d": "INACTIVE"
         }
     }
 }
