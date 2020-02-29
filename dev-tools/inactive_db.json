@@ -1,21 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.zara": "INACTIVE",
-            "blog.zero": "INACTIVE",
-            "blog.zip": "INACTIVE",
-            "blog.zm": "INACTIVE",
-            "blog.zuerich": "INACTIVE",
-            "blog.zw": "INACTIVE",
-            "chrome.aaa": "INACTIVE",
-            "chrome.aarp": "INACTIVE",
-            "chrome.abarth": "INACTIVE",
-            "chrome.abb": "INACTIVE",
-            "chrome.abbott": "INACTIVE",
-            "chrome.abbvie": "INACTIVE",
-            "chrome.abc": "INACTIVE",
-            "chrome.able": "INACTIVE",
-            "chrome.abogado": "INACTIVE",
             "chrome.abudhabi": "INACTIVE",
             "chrome.ac": "INACTIVE",
             "chrome.academy": "INACTIVE",
@@ -36313,6 +36298,37 @@
         },
         "1582979987": {
             "blog.zappos": "INACTIVE"
+        },
+        "1582981286": {
+            "blog.zara": "INACTIVE"
+        },
+        "1582981287": {
+            "blog.zero": "INACTIVE",
+            "blog.zip": "INACTIVE"
+        },
+        "1582981289": {
+            "blog.zm": "INACTIVE"
+        },
+        "1582981293": {
+            "blog.zuerich": "INACTIVE",
+            "blog.zw": "INACTIVE"
+        },
+        "1582981294": {
+            "chrome.aaa": "INACTIVE",
+            "chrome.aarp": "INACTIVE",
+            "chrome.abarth": "INACTIVE"
+        },
+        "1582981295": {
+            "chrome.abb": "INACTIVE",
+            "chrome.abbott": "INACTIVE",
+            "chrome.abbvie": "INACTIVE"
+        },
+        "1582981296": {
+            "chrome.abc": "INACTIVE",
+            "chrome.able": "INACTIVE"
+        },
+        "1582981317": {
+            "chrome.abogado": "INACTIVE"
         }
     }
 }

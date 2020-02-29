@@ -9185,8 +9185,8 @@
         "state": "future"
     },
     "blog.zone": {
-        "epoch": 1581120000,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "blogger.ac": {
@@ -10145,8 +10145,8 @@
         "state": "future"
     },
     "blogger.pt": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "blogger.pw": {
