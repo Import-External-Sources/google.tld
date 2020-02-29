@@ -9175,7 +9175,7 @@
         "state": "future"
     },
     "blog.yoga": {
-        "epoch": 1591228800,
+        "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
