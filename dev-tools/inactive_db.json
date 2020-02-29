@@ -1,8 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "blog.yokohama": "INACTIVE",
-            "blog.you": "INACTIVE",
             "blog.youtube": "INACTIVE",
             "blog.yun": "INACTIVE",
             "blog.za": "INACTIVE",
@@ -36301,6 +36299,12 @@
         },
         "1582953200": {
             "blog.ae": "INACTIVE"
+        },
+        "1582961460": {
+            "blog.yokohama": "INACTIVE"
+        },
+        "1582961478": {
+            "blog.you": "INACTIVE"
         }
     }
 }
