@@ -1,27 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.autos": "INACTIVE",
-            "chrome.avianca": "INACTIVE",
-            "chrome.aw": "INACTIVE",
-            "chrome.aws": "INACTIVE",
-            "chrome.ax": "INACTIVE",
-            "chrome.axa": "INACTIVE",
-            "chrome.azure": "INACTIVE",
-            "chrome.ba": "INACTIVE",
-            "chrome.baby": "INACTIVE",
-            "chrome.baidu": "INACTIVE",
-            "chrome.banamex": "INACTIVE",
-            "chrome.bananarepublic": "INACTIVE",
-            "chrome.band": "INACTIVE",
-            "chrome.bank": "INACTIVE",
-            "chrome.barclaycard": "INACTIVE",
-            "chrome.barclays": "INACTIVE",
-            "chrome.barefoot": "INACTIVE",
-            "chrome.bargains": "INACTIVE",
-            "chrome.baseball": "INACTIVE",
-            "chrome.basketball": "INACTIVE",
-            "chrome.bauhaus": "INACTIVE",
             "chrome.bb": "INACTIVE",
             "chrome.bbc": "INACTIVE",
             "chrome.bbt": "INACTIVE",
@@ -36417,6 +36396,54 @@
         },
         "1583089772": {
             "chrome.author": "INACTIVE"
+        },
+        "1583100382": {
+            "chrome.autos": "INACTIVE"
+        },
+        "1583100383": {
+            "chrome.avianca": "INACTIVE"
+        },
+        "1583100388": {
+            "chrome.aw": "INACTIVE"
+        },
+        "1583100390": {
+            "chrome.aws": "INACTIVE"
+        },
+        "1583100392": {
+            "chrome.ax": "INACTIVE",
+            "chrome.axa": "INACTIVE",
+            "chrome.az": "INACTIVE"
+        },
+        "1583100393": {
+            "chrome.azure": "INACTIVE",
+            "chrome.ba": "INACTIVE"
+        },
+        "1583100398": {
+            "chrome.baby": "INACTIVE",
+            "chrome.baidu": "INACTIVE",
+            "chrome.banamex": "INACTIVE"
+        },
+        "1583100399": {
+            "chrome.bananarepublic": "INACTIVE",
+            "chrome.band": "INACTIVE"
+        },
+        "1583100401": {
+            "chrome.bank": "INACTIVE"
+        },
+        "1583100402": {
+            "chrome.barclaycard": "INACTIVE",
+            "chrome.barclays": "INACTIVE",
+            "chrome.barefoot": "INACTIVE"
+        },
+        "1583100403": {
+            "chrome.bargains": "INACTIVE",
+            "chrome.baseball": "INACTIVE"
+        },
+        "1583100406": {
+            "chrome.basketball": "INACTIVE"
+        },
+        "1583100409": {
+            "chrome.bauhaus": "INACTIVE"
         }
     }
 }
