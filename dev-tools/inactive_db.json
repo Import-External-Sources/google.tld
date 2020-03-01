@@ -1,31 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.accenture": "INACTIVE",
-            "chrome.accountants": "INACTIVE",
-            "chrome.aco": "INACTIVE",
-            "chrome.actor": "INACTIVE",
-            "chrome.ad": "INACTIVE",
-            "chrome.adac": "INACTIVE",
-            "chrome.ads": "INACTIVE",
-            "chrome.ae": "INACTIVE",
-            "chrome.aeg": "INACTIVE",
-            "chrome.aero": "INACTIVE",
-            "chrome.aetna": "INACTIVE",
-            "chrome.af": "INACTIVE",
-            "chrome.afamilycompany": "INACTIVE",
-            "chrome.afl": "INACTIVE",
-            "chrome.ag": "INACTIVE",
-            "chrome.agakhan": "INACTIVE",
-            "chrome.agency": "INACTIVE",
-            "chrome.aig": "INACTIVE",
-            "chrome.aigo": "INACTIVE",
-            "chrome.airbus": "INACTIVE",
-            "chrome.airforce": "INACTIVE",
-            "chrome.airtel": "INACTIVE",
-            "chrome.akdn": "INACTIVE",
-            "chrome.al": "INACTIVE",
-            "chrome.alfaromeo": "INACTIVE",
             "chrome.alibaba": "INACTIVE",
             "chrome.alipay": "INACTIVE",
             "chrome.allfinanz": "INACTIVE",
@@ -36345,6 +36320,54 @@
         },
         "1583024994": {
             "chrome.academy": "INACTIVE"
+        },
+        "1583048759": {
+            "chrome.accenture": "INACTIVE"
+        },
+        "1583048760": {
+            "chrome.accountants": "INACTIVE",
+            "chrome.aco": "INACTIVE"
+        },
+        "1583048761": {
+            "chrome.actor": "INACTIVE",
+            "chrome.ad": "INACTIVE"
+        },
+        "1583048762": {
+            "chrome.adac": "INACTIVE",
+            "chrome.ads": "INACTIVE"
+        },
+        "1583048763": {
+            "chrome.ae": "INACTIVE",
+            "chrome.aeg": "INACTIVE"
+        },
+        "1583048764": {
+            "chrome.aero": "INACTIVE",
+            "chrome.aetna": "INACTIVE"
+        },
+        "1583048779": {
+            "chrome.af": "INACTIVE"
+        },
+        "1583048780": {
+            "chrome.afamilycompany": "INACTIVE",
+            "chrome.afl": "INACTIVE",
+            "chrome.ag": "INACTIVE"
+        },
+        "1583048781": {
+            "chrome.agakhan": "INACTIVE",
+            "chrome.agency": "INACTIVE",
+            "chrome.aig": "INACTIVE"
+        },
+        "1583048782": {
+            "chrome.aigo": "INACTIVE",
+            "chrome.airbus": "INACTIVE"
+        },
+        "1583048783": {
+            "chrome.airforce": "INACTIVE",
+            "chrome.airtel": "INACTIVE",
+            "chrome.akdn": "INACTIVE"
+        },
+        "1583048784": {
+            "chrome.alfaromeo": "INACTIVE"
         }
     }
 }
