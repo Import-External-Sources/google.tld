@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.ar": "INACTIVE",
             "chrome.aramco": "INACTIVE",
             "chrome.army": "INACTIVE",
             "chrome.arpa": "INACTIVE",
@@ -36394,6 +36393,9 @@
         },
         "1583065953": {
             "chrome.aquarelle": "INACTIVE"
+        },
+        "1583075217": {
+            "chrome.ar": "INACTIVE"
         }
     }
 }
