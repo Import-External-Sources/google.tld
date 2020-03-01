@@ -1,9 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.abudhabi": "INACTIVE",
-            "chrome.ac": "INACTIVE",
-            "chrome.academy": "INACTIVE",
             "chrome.accenture": "INACTIVE",
             "chrome.accountants": "INACTIVE",
             "chrome.aco": "INACTIVE",
@@ -36341,6 +36338,13 @@
         },
         "1583020897": {
             "blog.ong": "INACTIVE"
+        },
+        "1583024993": {
+            "chrome.abudhabi": "INACTIVE",
+            "chrome.ac": "INACTIVE"
+        },
+        "1583024994": {
+            "chrome.academy": "INACTIVE"
         }
     }
 }
