@@ -1,10 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.audi": "INACTIVE",
-            "chrome.audible": "INACTIVE",
-            "chrome.auspost": "INACTIVE",
-            "chrome.author": "INACTIVE",
             "chrome.autos": "INACTIVE",
             "chrome.avianca": "INACTIVE",
             "chrome.aw": "INACTIVE",
@@ -36409,6 +36405,18 @@
         },
         "1583081830": {
             "chrome.au": "INACTIVE"
+        },
+        "1583089759": {
+            "chrome.audi": "INACTIVE"
+        },
+        "1583089765": {
+            "chrome.audible": "INACTIVE"
+        },
+        "1583089766": {
+            "chrome.auspost": "INACTIVE"
+        },
+        "1583089772": {
+            "chrome.author": "INACTIVE"
         }
     }
 }
