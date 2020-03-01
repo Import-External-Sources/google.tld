@@ -11600,13 +11600,18 @@
         "state": "future"
     },
     "chrome.archi": {
-        "epoch": 1718150400,
+        "epoch": 1718150400.0,
         "expiration_date": "12-jun-2024",
         "state": "future"
     },
+    "chrome.art": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "chrome.asia": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "chrome.auction": {

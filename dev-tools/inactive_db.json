@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.aramco": "INACTIVE",
-            "chrome.army": "INACTIVE",
-            "chrome.arpa": "INACTIVE",
-            "chrome.art": "INACTIVE",
-            "chrome.arte": "INACTIVE",
-            "chrome.as": "INACTIVE",
-            "chrome.asda": "INACTIVE",
-            "chrome.associates": "INACTIVE",
-            "chrome.athleta": "INACTIVE",
-            "chrome.attorney": "INACTIVE",
-            "chrome.au": "INACTIVE",
             "chrome.audi": "INACTIVE",
             "chrome.audible": "INACTIVE",
             "chrome.auspost": "INACTIVE",
@@ -36396,6 +36385,30 @@
         },
         "1583075217": {
             "chrome.ar": "INACTIVE"
+        },
+        "1583081822": {
+            "chrome.aramco": "INACTIVE"
+        },
+        "1583081823": {
+            "chrome.army": "INACTIVE",
+            "chrome.arpa": "INACTIVE"
+        },
+        "1583081824": {
+            "chrome.arte": "INACTIVE"
+        },
+        "1583081825": {
+            "chrome.as": "INACTIVE",
+            "chrome.asda": "INACTIVE"
+        },
+        "1583081826": {
+            "chrome.associates": "INACTIVE"
+        },
+        "1583081827": {
+            "chrome.athleta": "INACTIVE",
+            "chrome.attorney": "INACTIVE"
+        },
+        "1583081830": {
+            "chrome.au": "INACTIVE"
         }
     }
 }
