@@ -1,29 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.alibaba": "INACTIVE",
-            "chrome.alipay": "INACTIVE",
-            "chrome.allfinanz": "INACTIVE",
-            "chrome.allstate": "INACTIVE",
-            "chrome.ally": "INACTIVE",
-            "chrome.alsace": "INACTIVE",
-            "chrome.alstom": "INACTIVE",
-            "chrome.am": "INACTIVE",
-            "chrome.americanexpress": "INACTIVE",
-            "chrome.americanfamily": "INACTIVE",
-            "chrome.amex": "INACTIVE",
-            "chrome.amfam": "INACTIVE",
-            "chrome.amica": "INACTIVE",
-            "chrome.analytics": "INACTIVE",
-            "chrome.android": "INACTIVE",
-            "chrome.anquan": "INACTIVE",
-            "chrome.anz": "INACTIVE",
-            "chrome.ao": "INACTIVE",
-            "chrome.aol": "INACTIVE",
-            "chrome.apartments": "INACTIVE",
-            "chrome.apple": "INACTIVE",
-            "chrome.aq": "INACTIVE",
-            "chrome.aquarelle": "INACTIVE",
             "chrome.ar": "INACTIVE",
             "chrome.aramco": "INACTIVE",
             "chrome.army": "INACTIVE",
@@ -36371,6 +36348,52 @@
         },
         "1583055392": {
             "blogspot.uy": "INACTIVE"
+        },
+        "1583065936": {
+            "chrome.alibaba": "INACTIVE"
+        },
+        "1583065937": {
+            "chrome.alipay": "INACTIVE"
+        },
+        "1583065940": {
+            "chrome.allfinanz": "INACTIVE",
+            "chrome.allstate": "INACTIVE"
+        },
+        "1583065941": {
+            "chrome.ally": "INACTIVE"
+        },
+        "1583065943": {
+            "chrome.alstom": "INACTIVE"
+        },
+        "1583065944": {
+            "chrome.am": "INACTIVE",
+            "chrome.americanexpress": "INACTIVE",
+            "chrome.americanfamily": "INACTIVE"
+        },
+        "1583065945": {
+            "chrome.amex": "INACTIVE",
+            "chrome.amfam": "INACTIVE",
+            "chrome.amica": "INACTIVE"
+        },
+        "1583065949": {
+            "chrome.analytics": "INACTIVE",
+            "chrome.android": "INACTIVE"
+        },
+        "1583065950": {
+            "chrome.anquan": "INACTIVE",
+            "chrome.anz": "INACTIVE"
+        },
+        "1583065951": {
+            "chrome.ao": "INACTIVE",
+            "chrome.aol": "INACTIVE",
+            "chrome.apartments": "INACTIVE"
+        },
+        "1583065952": {
+            "chrome.apple": "INACTIVE",
+            "chrome.aq": "INACTIVE"
+        },
+        "1583065953": {
+            "chrome.aquarelle": "INACTIVE"
         }
     }
 }

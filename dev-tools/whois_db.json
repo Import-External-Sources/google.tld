@@ -11584,13 +11584,18 @@
         "expiration_date": "17-may-2021",
         "state": "future"
     },
+    "chrome.alsace": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "chrome.amsterdam": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "chrome.app": {
-        "epoch": 1586649600,
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
