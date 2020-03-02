@@ -1,17 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.bb": "INACTIVE",
-            "chrome.bbc": "INACTIVE",
-            "chrome.bbt": "INACTIVE",
-            "chrome.bbva": "INACTIVE",
-            "chrome.bcg": "INACTIVE",
-            "chrome.bcn": "INACTIVE",
-            "chrome.bd": "INACTIVE",
-            "chrome.be": "INACTIVE",
-            "chrome.beats": "INACTIVE",
-            "chrome.beauty": "INACTIVE",
-            "chrome.bentley": "INACTIVE",
             "chrome.bestbuy": "INACTIVE",
             "chrome.bf": "INACTIVE",
             "chrome.bg": "INACTIVE",
@@ -36447,6 +36436,28 @@
         },
         "1583122673": {
             "blog.sd": "INACTIVE"
+        },
+        "1583149255": {
+            "chrome.bb": "INACTIVE"
+        },
+        "1583149256": {
+            "chrome.bbc": "INACTIVE",
+            "chrome.bbt": "INACTIVE",
+            "chrome.bbva": "INACTIVE"
+        },
+        "1583149257": {
+            "chrome.bcg": "INACTIVE"
+        },
+        "1583149258": {
+            "chrome.bcn": "INACTIVE",
+            "chrome.bd": "INACTIVE"
+        },
+        "1583149259": {
+            "chrome.beats": "INACTIVE",
+            "chrome.beauty": "INACTIVE"
+        },
+        "1583149267": {
+            "chrome.bentley": "INACTIVE"
         }
     }
 }

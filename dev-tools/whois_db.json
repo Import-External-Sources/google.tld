@@ -35,9 +35,9 @@
         "state": "future"
     },
     "1e100.dev": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
-        "state": "past"
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
     },
     "1e100.dk": {
         "epoch": 1703980800.0,
@@ -11640,12 +11640,12 @@
         "state": "future"
     },
     "chrome.bayern": {
-        "epoch": 1600387200,
+        "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "chrome.beer": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
