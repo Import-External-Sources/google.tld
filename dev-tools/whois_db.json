@@ -11699,8 +11699,13 @@
         "expiration_date": "07-jul-2019",
         "state": "past"
     },
+    "chrome.blog": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "chrome.blue": {
-        "epoch": 1586217600,
+        "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
         "state": "future"
     },

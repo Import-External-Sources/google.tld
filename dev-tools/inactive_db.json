@@ -1,21 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.blog": "INACTIVE",
-            "chrome.bloomberg": "INACTIVE",
-            "chrome.bm": "INACTIVE",
-            "chrome.bms": "INACTIVE",
-            "chrome.bmw": "INACTIVE",
-            "chrome.bn": "INACTIVE",
-            "chrome.bnpparibas": "INACTIVE",
-            "chrome.bo": "INACTIVE",
-            "chrome.boats": "INACTIVE",
-            "chrome.boehringer": "INACTIVE",
-            "chrome.bofa": "INACTIVE",
-            "chrome.bom": "INACTIVE",
-            "chrome.bond": "INACTIVE",
-            "chrome.boo": "INACTIVE",
-            "chrome.book": "INACTIVE",
             "chrome.booking": "INACTIVE",
             "chrome.bosch": "INACTIVE",
             "chrome.bostik": "INACTIVE",
@@ -36478,6 +36463,38 @@
         },
         "1583157207": {
             "chrome.blockbuster": "INACTIVE"
+        },
+        "1583177090": {
+            "chrome.bloomberg": "INACTIVE",
+            "chrome.bm": "INACTIVE",
+            "chrome.bms": "INACTIVE"
+        },
+        "1583177091": {
+            "chrome.bmw": "INACTIVE"
+        },
+        "1583177092": {
+            "chrome.bn": "INACTIVE"
+        },
+        "1583177093": {
+            "chrome.bnpparibas": "INACTIVE"
+        },
+        "1583177094": {
+            "chrome.bo": "INACTIVE",
+            "chrome.boats": "INACTIVE",
+            "chrome.boehringer": "INACTIVE"
+        },
+        "1583177095": {
+            "chrome.bofa": "INACTIVE"
+        },
+        "1583177097": {
+            "chrome.bom": "INACTIVE",
+            "chrome.bond": "INACTIVE"
+        },
+        "1583177098": {
+            "chrome.boo": "INACTIVE"
+        },
+        "1583177115": {
+            "chrome.book": "INACTIVE"
         }
     }
 }
