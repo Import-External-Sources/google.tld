@@ -1,12 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.bharti": "INACTIVE",
-            "chrome.bi": "INACTIVE",
-            "chrome.bing": "INACTIVE",
-            "chrome.bingo": "INACTIVE",
-            "chrome.bj": "INACTIVE",
-            "chrome.blockbuster": "INACTIVE",
             "chrome.blog": "INACTIVE",
             "chrome.bloomberg": "INACTIVE",
             "chrome.bm": "INACTIVE",
@@ -36465,6 +36459,25 @@
         },
         "1583150955": {
             "abc.lv": "INACTIVE"
+        },
+        "1583157201": {
+            "chrome.bharti": "INACTIVE"
+        },
+        "1583157202": {
+            "chrome.bi": "INACTIVE"
+        },
+        "1583157203": {
+            "chrome.bing": "INACTIVE",
+            "chrome.bingo": "INACTIVE"
+        },
+        "1583157204": {
+            "chrome.bj": "INACTIVE"
+        },
+        "1583157205": {
+            "chrome.blackfriday": "INACTIVE"
+        },
+        "1583157207": {
+            "chrome.blockbuster": "INACTIVE"
         }
     }
 }
