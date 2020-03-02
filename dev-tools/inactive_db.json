@@ -1,10 +1,6 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "1570139837": {
-            "chrome.bestbuy": "INACTIVE",
-            "chrome.bf": "INACTIVE",
-            "chrome.bg": "INACTIVE",
-            "chrome.bh": "INACTIVE",
             "chrome.bharti": "INACTIVE",
             "chrome.bi": "INACTIVE",
             "chrome.bing": "INACTIVE",
@@ -36458,6 +36454,14 @@
         },
         "1583149267": {
             "chrome.bentley": "INACTIVE"
+        },
+        "1583150583": {
+            "chrome.bestbuy": "INACTIVE"
+        },
+        "1583150584": {
+            "chrome.bf": "INACTIVE",
+            "chrome.bg": "INACTIVE",
+            "chrome.bh": "INACTIVE"
         }
     }
 }
