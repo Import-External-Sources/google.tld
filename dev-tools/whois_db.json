@@ -37,7 +37,7 @@
     "1e100.dev": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "1e100.dk": {
         "epoch": 1703980800.0,
@@ -2390,8 +2390,8 @@
         "state": "future"
     },
     "adsense.adult": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "adsense.af": {
@@ -3295,8 +3295,8 @@
         "state": "future"
     },
     "adsense.porn": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "adsense.pr": {
@@ -3945,8 +3945,8 @@
         "state": "future"
     },
     "adwords.adult": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "adwords.af": {
@@ -4555,8 +4555,8 @@
         "state": "future"
     },
     "adwords.kr": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "adwords.ky": {
@@ -4830,8 +4830,8 @@
         "state": "future"
     },
     "adwords.porn": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "adwords.pr": {
@@ -5440,8 +5440,8 @@
         "state": "future"
     },
     "android.adult": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "android.af": {
@@ -6385,8 +6385,8 @@
         "state": "future"
     },
     "android.porn": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "android.press": {
@@ -6615,8 +6615,8 @@
         "state": "future"
     },
     "android.su": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "android.sucks": {
@@ -7072,7 +7072,7 @@
     "appspot.dev": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "appspot.dm": {
         "epoch": 1603238400.0,
@@ -9205,8 +9205,8 @@
         "state": "future"
     },
     "blogger.adult": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "blogger.af": {
@@ -10120,8 +10120,8 @@
         "state": "future"
     },
     "blogger.porn": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "blogger.press": {
