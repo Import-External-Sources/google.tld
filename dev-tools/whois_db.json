@@ -8995,9 +8995,9 @@
         "state": "future"
     },
     "blog.ua": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
-        "state": "past"
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
     },
     "blog.ug": {
         "epoch": 1616457600.0,
