@@ -12905,7 +12905,7 @@
         "state": "future"
     },
     "chromebook.adult": {
-        "epoch": 1585612800,
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
