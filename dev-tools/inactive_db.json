@@ -1088,8 +1088,6 @@
             "chrome.zone": "INACTIVE",
             "chrome.zuerich": "INACTIVE",
             "chrome.zw": "INACTIVE",
-            "chromebook.ad": "INACTIVE",
-            "chromebook.adac": "INACTIVE",
             "chromebook.ads": "INACTIVE",
             "chromebook.ae": "INACTIVE",
             "chromebook.aeg": "INACTIVE",
@@ -36514,6 +36512,12 @@
         },
         "1583202329": {
             "blogspot.xn--node": "INACTIVE"
+        },
+        "1583212895": {
+            "chromebook.ad": "INACTIVE"
+        },
+        "1583212898": {
+            "chromebook.adac": "INACTIVE"
         }
     }
 }
