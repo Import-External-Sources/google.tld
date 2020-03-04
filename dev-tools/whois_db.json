@@ -12910,7 +12910,7 @@
         "state": "future"
     },
     "chromebook.asia": {
-        "epoch": 1594425600,
+        "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
