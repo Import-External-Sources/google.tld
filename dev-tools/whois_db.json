@@ -730,9 +730,9 @@
         "state": "future"
     },
     "abc.events": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
-        "state": "past"
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
     },
     "abc.exchange": {
         "epoch": 1614038400.0,
