@@ -1088,7 +1088,6 @@
             "chrome.zone": "INACTIVE",
             "chrome.zuerich": "INACTIVE",
             "chrome.zw": "INACTIVE",
-            "chromebook.bayern": "INACTIVE",
             "chromebook.bb": "INACTIVE",
             "chromebook.bbc": "INACTIVE",
             "chromebook.bbt": "INACTIVE",
@@ -36627,6 +36626,9 @@
         },
         "1583420677": {
             "blogspot.ne": "INACTIVE"
+        },
+        "1583437965": {
+            "chromebook.bayern": "INACTIVE"
         }
     }
 }

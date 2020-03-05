@@ -11675,9 +11675,9 @@
         "state": "future"
     },
     "chrome.bike": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
-        "state": "past"
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
     },
     "chrome.bio": {
         "epoch": 1597363200.0,
