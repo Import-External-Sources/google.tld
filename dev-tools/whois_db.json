@@ -1760,9 +1760,9 @@
         "state": "future"
     },
     "abc.style": {
-        "epoch": 1565740800,
-        "expiration_date": "14-aug-2019",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "abc.su": {
         "epoch": 1594512000.0,
@@ -1887,6 +1887,11 @@
     "abc.tokyo": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "abc.tools": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "abc.top": {
