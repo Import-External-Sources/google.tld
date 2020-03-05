@@ -12915,7 +12915,7 @@
         "state": "future"
     },
     "chromebook.bargains": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
