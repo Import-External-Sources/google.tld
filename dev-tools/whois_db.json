@@ -9494,6 +9494,11 @@
         "expiration_date": "07-jul-2019",
         "state": "past"
     },
+    "blogger.blog": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "blogger.blue": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
