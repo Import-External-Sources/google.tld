@@ -7759,6 +7759,11 @@
         "expiration_date": "25-nov-2020",
         "state": "future"
     },
+    "blog.clothing": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "blog.club": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
