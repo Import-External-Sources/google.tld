@@ -5540,124 +5540,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1580908974": {
-            "blogger.xn--mgb9awbf": "INACTIVE"
-        },
-        "1580908975": {
-            "blogger.xn--mgba3a3ejt": "INACTIVE"
-        },
-        "1580908993": {
-            "blogger.xn--mgba3a4f16a": "INACTIVE",
-            "blogger.xn--mgba7c0bbn0a": "INACTIVE"
-        },
-        "1580908994": {
-            "blogger.xn--mgbaakc7dvf": "INACTIVE"
-        },
-        "1580908995": {
-            "blogger.xn--mgbaam7a8h": "INACTIVE"
-        },
-        "1580908996": {
-            "blogger.xn--mgbab2bd": "INACTIVE"
-        },
-        "1580908997": {
-            "blogger.xn--mgbah1a3hjkrd": "INACTIVE",
-            "blogger.xn--mgbai9azgqp6j": "INACTIVE"
-        },
-        "1580908998": {
-            "blogger.xn--mgbayh7gpa": "INACTIVE",
-            "blogger.xn--mgbbh1a": "INACTIVE"
-        },
-        "1580908999": {
-            "blogger.xn--mgbbh1a71e": "INACTIVE"
-        },
-        "1580909000": {
-            "blogger.xn--mgbc0a9azcg": "INACTIVE"
-        },
-        "1580909001": {
-            "blogger.xn--mgbca7dzdo": "INACTIVE",
-            "blogger.xn--mgbcpq6gpa1a": "INVALID"
-        },
-        "1580909006": {
-            "blogger.xn--mgberp4a5d4ar": "INACTIVE",
-            "blogger.xn--mgbgu82a": "INACTIVE"
-        },
-        "1580909007": {
-            "blogger.xn--mgbi4ecexp": "INACTIVE",
-            "blogger.xn--mgbpl2fh": "INACTIVE",
-            "blogger.xn--mgbt3dhd": "INACTIVE"
-        },
-        "1580909012": {
-            "blogger.xn--mgbtx2b": "INACTIVE"
-        },
-        "1580909016": {
-            "blogger.xn--mgbx4cd0ab": "INACTIVE"
-        },
-        "1580909017": {
-            "blogger.xn--mix891f": "INACTIVE"
-        },
-        "1580909019": {
-            "blogger.xn--ngbc5azd": "INACTIVE"
-        },
-        "1580909025": {
-            "blogger.xn--ngbe9e0a": "INACTIVE"
-        },
-        "1580909026": {
-            "blogger.xn--nqv7f": "INACTIVE"
-        },
-        "1580909031": {
-            "blogger.xn--nqv7fs00ema": "INACTIVE"
-        },
-        "1580909033": {
-            "blogger.xn--o3cw4h": "INACTIVE"
-        },
-        "1580909037": {
-            "blogger.xn--ogbpf8fl": "INACTIVE"
-        },
-        "1580909038": {
-            "blogger.xn--otu796d": "INACTIVE"
-        },
-        "1580909039": {
-            "blogger.xn--p1acf": "INACTIVE",
-            "blogger.xn--p1ai": "INACTIVE"
-        },
-        "1580909040": {
-            "blogger.xn--pbt977c": "INACTIVE",
-            "blogger.xn--pgbs0dh": "INACTIVE",
-            "blogger.xn--pssy2u": "INACTIVE"
-        },
-        "1580909041": {
-            "blogger.xn--q7ce6a": "INACTIVE",
-            "blogger.xn--qcka1pmc": "INACTIVE"
-        },
-        "1580909042": {
-            "blogger.xn--qxa6a": "INACTIVE",
-            "blogger.xn--qxam": "INACTIVE"
-        },
-        "1580909043": {
-            "blogger.xn--rvc1e0am3e": "INACTIVE"
-        },
-        "1580909044": {
-            "blogger.xn--s9brj9c": "INACTIVE"
-        },
-        "1580909045": {
-            "blogger.xn--tiq49xqyj": "INACTIVE",
-            "blogger.xn--unup4y": "INACTIVE"
-        },
-        "1580909046": {
-            "blogger.xn--vermgensberater-ctb": "INACTIVE",
-            "blogger.xn--vermgensberatung-pwb": "INACTIVE"
-        },
-        "1580909047": {
-            "blogger.xn--vhquv": "INACTIVE",
-            "blogger.xn--w4r85el8fhu5dnra": "INACTIVE",
-            "blogger.xn--w4rs40l": "INACTIVE"
-        },
-        "1580909048": {
-            "blogger.xn--wgbh1c": "INACTIVE"
-        },
-        "1580909050": {
-            "blogger.xn--wgbl6a": "INACTIVE"
-        },
         "1580910307": {
             "blogger.xn--xkc2al3hye2a": "INACTIVE"
         },
@@ -36796,6 +36678,128 @@
         },
         "1583500408": {
             "blogger.xn--lgbbat1ad8j": "INACTIVE"
+        },
+        "1583501642": {
+            "blogger.xn--mgb9awbf": "INACTIVE"
+        },
+        "1583501643": {
+            "blogger.xn--mgba3a3ejt": "INACTIVE"
+        },
+        "1583501662": {
+            "blogger.xn--mgba3a4f16a": "INACTIVE"
+        },
+        "1583501663": {
+            "blogger.xn--mgba7c0bbn0a": "INACTIVE",
+            "blogger.xn--mgbaakc7dvf": "INACTIVE"
+        },
+        "1583501664": {
+            "blogger.xn--mgbaam7a8h": "INACTIVE"
+        },
+        "1583501665": {
+            "blogger.xn--mgbab2bd": "INACTIVE"
+        },
+        "1583501668": {
+            "blogger.xn--mgbah1a3hjkrd": "INACTIVE",
+            "blogger.xn--mgbai9azgqp6j": "INACTIVE"
+        },
+        "1583501669": {
+            "blogger.xn--mgbayh7gpa": "INACTIVE"
+        },
+        "1583501670": {
+            "blogger.xn--mgbbh1a": "INACTIVE",
+            "blogger.xn--mgbbh1a71e": "INACTIVE"
+        },
+        "1583501671": {
+            "blogger.xn--mgbc0a9azcg": "INACTIVE"
+        },
+        "1583501672": {
+            "blogger.xn--mgbca7dzdo": "INACTIVE",
+            "blogger.xn--mgbcpq6gpa1a": "INVALID"
+        },
+        "1583501692": {
+            "blogger.xn--mgberp4a5d4ar": "INACTIVE"
+        },
+        "1583501693": {
+            "blogger.xn--mgbgu82a": "INACTIVE",
+            "blogger.xn--mgbi4ecexp": "INACTIVE"
+        },
+        "1583501695": {
+            "blogger.xn--mgbpl2fh": "INACTIVE"
+        },
+        "1583501696": {
+            "blogger.xn--mgbt3dhd": "INACTIVE"
+        },
+        "1583501700": {
+            "blogger.xn--mgbtx2b": "INACTIVE"
+        },
+        "1583501704": {
+            "blogger.xn--mgbx4cd0ab": "INACTIVE"
+        },
+        "1583501705": {
+            "blogger.xn--mix891f": "INACTIVE"
+        },
+        "1583501707": {
+            "blogger.xn--ngbc5azd": "INACTIVE"
+        },
+        "1583501713": {
+            "blogger.xn--ngbe9e0a": "INACTIVE"
+        },
+        "1583501714": {
+            "blogger.xn--nqv7f": "INACTIVE",
+            "blogger.xn--nqv7fs00ema": "INACTIVE"
+        },
+        "1583501716": {
+            "blogger.xn--o3cw4h": "INACTIVE"
+        },
+        "1583501722": {
+            "blogger.xn--ogbpf8fl": "INACTIVE"
+        },
+        "1583501723": {
+            "blogger.xn--otu796d": "INACTIVE"
+        },
+        "1583501724": {
+            "blogger.xn--p1acf": "INACTIVE",
+            "blogger.xn--p1ai": "INACTIVE"
+        },
+        "1583501725": {
+            "blogger.xn--pbt977c": "INACTIVE",
+            "blogger.xn--pgbs0dh": "INACTIVE",
+            "blogger.xn--pssy2u": "INACTIVE"
+        },
+        "1583501726": {
+            "blogger.xn--q7ce6a": "INACTIVE"
+        },
+        "1583501727": {
+            "blogger.xn--qcka1pmc": "INACTIVE",
+            "blogger.xn--qxa6a": "INACTIVE"
+        },
+        "1583501728": {
+            "blogger.xn--qxam": "INACTIVE",
+            "blogger.xn--rvc1e0am3e": "INACTIVE"
+        },
+        "1583501729": {
+            "blogger.xn--s9brj9c": "INACTIVE"
+        },
+        "1583501732": {
+            "blogger.xn--tiq49xqyj": "INACTIVE",
+            "blogger.xn--unup4y": "INACTIVE"
+        },
+        "1583501733": {
+            "blogger.xn--vermgensberater-ctb": "INACTIVE",
+            "blogger.xn--vermgensberatung-pwb": "INACTIVE"
+        },
+        "1583501734": {
+            "blogger.xn--vhquv": "INACTIVE",
+            "blogger.xn--w4r85el8fhu5dnra": "INACTIVE"
+        },
+        "1583501735": {
+            "blogger.xn--w4rs40l": "INACTIVE"
+        },
+        "1583501736": {
+            "blogger.xn--wgbh1c": "INACTIVE"
+        },
+        "1583501737": {
+            "blogger.xn--wgbl6a": "INACTIVE"
         }
     }
 }
