@@ -9534,6 +9534,11 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "blogger.cam": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "blogger.camp": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -9692,6 +9697,11 @@
     "blogger.date": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "blogger.desi": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "blogger.design": {
