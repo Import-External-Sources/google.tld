@@ -2609,6 +2609,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "adsense.cam": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "adsense.camp": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
@@ -2829,6 +2834,11 @@
         "expiration_date": "18-jan-2021",
         "state": "future"
     },
+    "adsense.film": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "adsense.fishing": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -2859,6 +2869,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "adsense.fun": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "adsense.ga": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -2882,6 +2897,11 @@
     "adsense.ge": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "adsense.gent": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "adsense.gift": {
@@ -2962,6 +2982,11 @@
     "adsense.hr": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
+    "adsense.icu": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "adsense.id": {
