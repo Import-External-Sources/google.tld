@@ -2434,6 +2434,11 @@
         "expiration_date": "15-sep-2021",
         "state": "future"
     },
+    "adsense.alsace": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "adsense.am": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -2477,6 +2482,11 @@
     "adsense.auto": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "adsense.baby": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "adsense.bar": {
