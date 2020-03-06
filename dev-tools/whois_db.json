@@ -4444,6 +4444,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "adwords.fun": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "adwords.ga": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -4467,6 +4472,11 @@
     "adwords.ge": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "adwords.gent": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "adwords.gift": {
@@ -4529,6 +4539,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "adwords.host": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "adwords.hosting": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -4542,6 +4557,11 @@
     "adwords.hr": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "adwords.icu": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "adwords.id": {
@@ -4677,6 +4697,11 @@
     "adwords.london": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "adwords.love": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "adwords.lt": {
