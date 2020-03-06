@@ -7524,6 +7524,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "blog.bar": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "blog.bargains": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
