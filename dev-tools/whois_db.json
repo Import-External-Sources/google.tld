@@ -5949,9 +5949,19 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "android.feedback": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "android.fi": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "android.film": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "android.fishing": {
@@ -5984,6 +5994,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "android.fun": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "android.ga": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -5999,9 +6014,19 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "android.gay": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "android.ge": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "android.gent": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "android.gift": {
@@ -6074,6 +6099,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "android.host": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "android.hosting": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -6087,6 +6117,11 @@
     "android.hr": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "android.icu": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "android.id": {
