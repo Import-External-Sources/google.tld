@@ -2254,6 +2254,11 @@
         "expiration_date": "31-jul-2020",
         "state": "future"
     },
+    "admob.fans": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
     "admob.fi": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
