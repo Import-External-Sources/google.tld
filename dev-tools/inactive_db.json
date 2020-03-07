@@ -1088,7 +1088,6 @@
             "chrome.zone": "INACTIVE",
             "chrome.zuerich": "INACTIVE",
             "chrome.zw": "INACTIVE",
-            "chromebook.bentley": "INACTIVE",
             "chromebook.berlin": "INACTIVE",
             "chromebook.best": "INACTIVE",
             "chromebook.bestbuy": "INACTIVE",
@@ -36797,6 +36796,9 @@
         "1583571929": {
             "blog.shia": "INACTIVE",
             "blog.shoes": "INACTIVE"
+        },
+        "1583574595": {
+            "chromebook.bentley": "INACTIVE"
         }
     }
 }
