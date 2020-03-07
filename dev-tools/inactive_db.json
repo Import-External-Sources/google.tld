@@ -5529,9 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581020979": {
-            "blog.sn": "INACTIVE"
-        },
         "1581040293": {
             "adwords.hr": "INACTIVE"
         },
@@ -36783,6 +36780,9 @@
         },
         "1583612308": {
             "android.bz": "INACTIVE"
+        },
+        "1583614012": {
+            "blog.sn": "INACTIVE"
         }
     }
 }
