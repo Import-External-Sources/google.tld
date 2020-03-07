@@ -2282,7 +2282,7 @@
     "admob.id": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "admob.in": {
         "epoch": 1593043200.0,
@@ -7450,9 +7450,9 @@
         "state": "future"
     },
     "blog.adac": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "blog.aero": {
         "epoch": 1612310400.0,
@@ -9470,9 +9470,9 @@
         "state": "future"
     },
     "blogger.best": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "blogger.bet": {
         "epoch": 1609977600.0,
