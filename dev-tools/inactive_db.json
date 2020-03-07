@@ -5529,13 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1580997188": {
-            "blog.shouji": "INACTIVE"
-        },
-        "1580997189": {
-            "blog.showtime": "INACTIVE",
-            "blog.shriram": "INACTIVE"
-        },
         "1581005068": {
             "blog.silk": "INACTIVE"
         },
@@ -36787,6 +36780,13 @@
         },
         "1583588662": {
             "android.name": "INACTIVE"
+        },
+        "1583590312": {
+            "blog.shouji": "INACTIVE",
+            "blog.showtime": "INACTIVE"
+        },
+        "1583590313": {
+            "blog.shriram": "INACTIVE"
         }
     }
 }
