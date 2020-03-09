@@ -5529,15 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581133260": {
-            "adsense.audio": "INACTIVE"
-        },
-        "1581133633": {
-            "android.ni": "INACTIVE"
-        },
-        "1581133871": {
-            "blogger.lol": "INACTIVE"
-        },
         "1581140398": {
             "blogger.ni": "INACTIVE"
         },
@@ -36696,6 +36687,9 @@
         },
         "1583725219": {
             "blogspot.hotels": "INACTIVE"
+        },
+        "1583726425": {
+            "blogger.lol": "INACTIVE"
         }
     }
 }
