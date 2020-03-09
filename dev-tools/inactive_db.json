@@ -5529,9 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581146702": {
-            "android.lol": "INACTIVE"
-        },
         "1581148766": {
             "abc.hu": "INACTIVE"
         },
@@ -36676,6 +36673,9 @@
         "1583737111": {
             "blogspot.intuit": "INACTIVE",
             "blogspot.investments": "INACTIVE"
+        },
+        "1583739367": {
+            "android.lol": "INACTIVE"
         }
     }
 }
