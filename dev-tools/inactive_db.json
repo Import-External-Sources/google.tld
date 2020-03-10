@@ -5529,12 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581206149": {
-            "blogspot.luxury": "INACTIVE"
-        },
-        "1581206151": {
-            "blogspot.lv": "INACTIVE"
-        },
         "1581206152": {
             "blogspot.macys": "INACTIVE",
             "blogspot.madrid": "INACTIVE",
@@ -36658,6 +36652,12 @@
         },
         "1583791435": {
             "blogspot.luxe": "INACTIVE"
+        },
+        "1583800678": {
+            "blogspot.luxury": "INACTIVE"
+        },
+        "1583800680": {
+            "blogspot.lv": "INACTIVE"
         }
     }
 }
