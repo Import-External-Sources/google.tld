@@ -11432,7 +11432,7 @@
     "blogspot.photography": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogspot.pl": {
         "epoch": 1641513600.0,
@@ -11495,8 +11495,8 @@
         "state": "future"
     },
     "blogspot.rs": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "blogspot.ru": {
