@@ -5560,9 +5560,9 @@
         "state": "future"
     },
     "android.ai": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
-        "state": "past"
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
+        "state": "future"
     },
     "android.alsace": {
         "epoch": 1614470400.0,
