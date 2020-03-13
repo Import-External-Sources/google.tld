@@ -180,8 +180,8 @@
         "state": "future"
     },
     "abc.ai": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1647129600.0,
+        "expiration_date": "13-mar-2022",
         "state": "future"
     },
     "abc.airbus": {
@@ -507,7 +507,7 @@
     "abc.coach": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.codes": {
         "epoch": 1589587200.0,
@@ -10027,7 +10027,7 @@
     "blogger.kr": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.la": {
         "epoch": 1638835200.0,
