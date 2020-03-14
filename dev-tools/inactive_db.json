@@ -5529,9 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581478722": {
-            "blogspot.nyc": "INACTIVE"
-        },
         "1581629976": {
             "blogspot.nz": "INACTIVE",
             "blogspot.obi": "INACTIVE"
@@ -36635,6 +36632,9 @@
         },
         "1584209325": {
             "blogger.juegos": "INACTIVE"
+        },
+        "1584221372": {
+            "blogspot.nyc": "INACTIVE"
         }
     }
 }
