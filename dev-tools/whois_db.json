@@ -1190,9 +1190,9 @@
         "state": "future"
     },
     "abc.lgbt": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
-        "state": "past"
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
     },
     "abc.life": {
         "epoch": 1600300800.0,
