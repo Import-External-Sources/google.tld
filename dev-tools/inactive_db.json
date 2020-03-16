@@ -5529,9 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581630001": {
-            "blogspot.ovh": "INACTIVE"
-        },
         "1581630002": {
             "blogspot.pa": "INACTIVE",
             "blogspot.page": "INACTIVE"
@@ -5639,9 +5636,6 @@
         },
         "1581687790": {
             "blogspot.progressive": "INACTIVE"
-        },
-        "1581724621": {
-            "blogspot.nr": "INACTIVE"
         },
         "1581732487": {
             "blogspot.promo": "INACTIVE",
@@ -36639,6 +36633,9 @@
         },
         "1584391384": {
             "android.ch": "INACTIVE"
+        },
+        "1584393175": {
+            "blogspot.ovh": "INACTIVE"
         }
     }
 }
