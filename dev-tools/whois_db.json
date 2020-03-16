@@ -1192,7 +1192,7 @@
     "abc.lgbt": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.life": {
         "epoch": 1600300800.0,
@@ -7340,8 +7340,8 @@
         "state": "future"
     },
     "appspot.ovh": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "appspot.pl": {
@@ -8865,8 +8865,8 @@
         "state": "future"
     },
     "blog.sc": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "blog.school": {
