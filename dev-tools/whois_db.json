@@ -255,9 +255,9 @@
         "state": "future"
     },
     "abc.berlin": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
-        "state": "past"
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     },
     "abc.best": {
         "epoch": 1613865600.0,
