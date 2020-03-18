@@ -257,7 +257,7 @@
     "abc.berlin": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.best": {
         "epoch": 1613865600.0,
@@ -3310,8 +3310,8 @@
         "state": "future"
     },
     "adsense.osaka": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "adsense.page": {
@@ -4885,8 +4885,8 @@
         "state": "future"
     },
     "adwords.osaka": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "adwords.page": {
@@ -6470,8 +6470,8 @@
         "state": "future"
     },
     "android.osaka": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "android.ovh": {
@@ -10245,8 +10245,8 @@
         "state": "future"
     },
     "blogger.osaka": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "blogger.ovh": {
