@@ -4090,8 +4090,8 @@
         "state": "future"
     },
     "adwords.barcelona": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "adwords.bayern": {
@@ -4435,8 +4435,8 @@
         "state": "future"
     },
     "adwords.fr": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "adwords.frl": {
@@ -5625,8 +5625,8 @@
         "state": "future"
     },
     "android.barcelona": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "android.bayern": {
@@ -6090,8 +6090,8 @@
         "state": "past"
     },
     "android.hk": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "android.horse": {
@@ -9460,8 +9460,8 @@
         "state": "future"
     },
     "blogger.barcelona": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "blogger.bayern": {
