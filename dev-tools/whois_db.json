@@ -1820,8 +1820,8 @@
         "state": "past"
     },
     "abc.tc": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "abc.team": {
@@ -2495,8 +2495,8 @@
         "state": "future"
     },
     "adsense.barcelona": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "adsense.basketball": {
@@ -2720,8 +2720,8 @@
         "state": "future"
     },
     "adsense.corsica": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "adsense.courses": {
