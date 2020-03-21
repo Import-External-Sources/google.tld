@@ -25,8 +25,8 @@
         "state": "future"
     },
     "1e100.co": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "1e100.com": {
@@ -1237,7 +1237,7 @@
     "abc.lol": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.london": {
         "epoch": 1571270400,
