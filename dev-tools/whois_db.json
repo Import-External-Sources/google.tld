@@ -100,8 +100,8 @@
         "state": "future"
     },
     "1e100.ru": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "1e100.se": {
@@ -1492,7 +1492,7 @@
     "abc.physio": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.pics": {
         "epoch": 1606089600.0,
@@ -1960,8 +1960,8 @@
         "state": "future"
     },
     "abc.uno": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "abc.us": {
@@ -2200,9 +2200,9 @@
         "state": "future"
     },
     "admob.best": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
-        "state": "past"
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
     },
     "admob.biz": {
         "epoch": 1592697600.0,
@@ -2700,8 +2700,8 @@
         "state": "future"
     },
     "adsense.college": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "adsense.cologne": {
@@ -4290,8 +4290,8 @@
         "state": "future"
     },
     "adwords.college": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "adwords.cologne": {
@@ -6877,7 +6877,7 @@
     "android.tv": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "android.tw": {
         "epoch": 1604188800.0,
@@ -7360,8 +7360,8 @@
         "state": "future"
     },
     "appspot.pw": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "appspot.ru": {
@@ -9660,8 +9660,8 @@
         "state": "future"
     },
     "blogger.college": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "blogger.cologne": {
