@@ -7964,6 +7964,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "blog.democrat": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
     "blog.dental": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
