@@ -1805,9 +1805,9 @@
         "state": "future"
     },
     "abc.support": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
-        "state": "past"
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
     },
     "abc.swiss": {
         "epoch": 1584835200.0,
