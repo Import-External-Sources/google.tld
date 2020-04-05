@@ -4094,6 +4094,11 @@
         "expiration_date": "12-jun-2024",
         "state": "future"
     },
+    "adwords.art": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "adwords.asia": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -4114,6 +4119,11 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "adwords.baby": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "adwords.bar": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -4122,6 +4132,11 @@
     "adwords.barcelona": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "adwords.basketball": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "adwords.bayern": {
@@ -4179,6 +4194,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "adwords.blog": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "adwords.blue": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
@@ -4227,6 +4247,11 @@
     "adwords.ca": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "adwords.cam": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "adwords.camp": {
@@ -4377,6 +4402,16 @@
     "adwords.date": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "adwords.desi": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "adwords.design": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "adwords.dev": {
