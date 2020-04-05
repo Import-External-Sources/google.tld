@@ -6095,9 +6095,9 @@
         "state": "future"
     },
     "android.guitars": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
     },
     "android.health": {
         "epoch": 1594425600.0,
@@ -6535,9 +6535,9 @@
         "state": "past"
     },
     "android.pics": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
     },
     "android.pink": {
         "epoch": 1616803200.0,
