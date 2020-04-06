@@ -5529,13 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1581978033": {
-            "blogspot.safe": "INACTIVE",
-            "blogspot.safety": "INACTIVE"
-        },
-        "1581978039": {
-            "blogspot.sakura": "INACTIVE"
-        },
         "1581978040": {
             "blogspot.salon": "INACTIVE",
             "blogspot.samsclub": "INACTIVE"
@@ -36582,6 +36575,13 @@
         },
         "1586199486": {
             "466453.xn--fiqs8s": "INACTIVE"
+        },
+        "1586204532": {
+            "blogspot.safe": "INACTIVE",
+            "blogspot.safety": "INACTIVE"
+        },
+        "1586204539": {
+            "blogspot.sakura": "INACTIVE"
         }
     }
 }
