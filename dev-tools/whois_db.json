@@ -1967,7 +1967,7 @@
     "abc.ug": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.uk": {
         "epoch": 1603152000.0,
@@ -2595,8 +2595,8 @@
         "state": "future"
     },
     "adsense.blue": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "adsense.boston": {
@@ -4200,8 +4200,8 @@
         "state": "future"
     },
     "adwords.blue": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "adwords.boats": {
@@ -7487,7 +7487,7 @@
     "appspot.us": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "appspot.vip": {
         "epoch": 1590105600.0,
@@ -9605,8 +9605,8 @@
         "state": "future"
     },
     "blogger.blue": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "blogger.bot": {
@@ -9862,7 +9862,7 @@
     "blogger.ee": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.email": {
         "epoch": 1613692800.0,
