@@ -11129,6 +11129,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "blogspot.chat": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "blogspot.ci": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
