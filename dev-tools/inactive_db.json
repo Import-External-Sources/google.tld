@@ -7678,9 +7678,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583726425": {
-            "blogger.lol": "INACTIVE"
-        },
         "1583734446": {
             "blogspot.hotmail": "INACTIVE",
             "blogspot.house": "INACTIVE",
@@ -36591,6 +36588,9 @@
         },
         "1586318485": {
             "blogspot.sap": "INACTIVE"
+        },
+        "1586319611": {
+            "blogger.lol": "INACTIVE"
         }
     }
 }
