@@ -7667,9 +7667,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583749038": {
-            "blogspot.kindle": "INACTIVE"
-        },
         "1583750350": {
             "blogspot.kiwi": "INACTIVE",
             "blogspot.km": "INACTIVE"
@@ -36600,6 +36597,9 @@
         },
         "1586341026": {
             "blogspot.kinder": "INACTIVE"
+        },
+        "1586342378": {
+            "blogspot.kindle": "INACTIVE"
         }
     }
 }
