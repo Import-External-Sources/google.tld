@@ -7667,9 +7667,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583788578": {
-            "blogger.ni": "INACTIVE"
-        },
         "1583791409": {
             "blogspot.lotte": "INACTIVE",
             "blogspot.lotto": "INACTIVE"
@@ -36609,6 +36606,9 @@
         },
         "1586376822": {
             "blogspot.london": "INACTIVE"
+        },
+        "1586380526": {
+            "blogger.by": "INACTIVE"
         }
     }
 }
