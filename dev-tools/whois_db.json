@@ -1965,9 +1965,9 @@
         "state": "future"
     },
     "abc.ug": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
     },
     "abc.uk": {
         "epoch": 1603152000.0,
