@@ -7645,13 +7645,7 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583880108": {
-            "blogspot.news": "INACTIVE",
-            "blogspot.next": "INACTIVE"
-        },
         "1583880109": {
-            "blogspot.nextdirect": "INACTIVE",
-            "blogspot.nexus": "INACTIVE",
             "blogspot.nfl": "INACTIVE"
         },
         "1583880110": {
@@ -36622,6 +36616,14 @@
         },
         "1586471429": {
             "blogspot.schwarz": "INACTIVE"
+        },
+        "1586475390": {
+            "blogspot.news": "INACTIVE"
+        },
+        "1586475391": {
+            "blogspot.next": "INACTIVE",
+            "blogspot.nextdirect": "INACTIVE",
+            "blogspot.nexus": "INACTIVE"
         }
     }
 }
