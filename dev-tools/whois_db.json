@@ -515,9 +515,9 @@
         "state": "future"
     },
     "abc.coffee": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
-        "state": "past"
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
     },
     "abc.cologne": {
         "epoch": 1593475200.0,
