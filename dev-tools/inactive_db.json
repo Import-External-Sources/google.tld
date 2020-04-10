@@ -7579,21 +7579,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583928329": {
-            "adsense.audio": "INACTIVE"
-        },
-        "1583928377": {
-            "adsense.hiphop": "INACTIVE"
-        },
-        "1583928387": {
-            "adsense.juegos": "INACTIVE"
-        },
-        "1583928610": {
-            "android.audio": "INACTIVE"
-        },
-        "1583928656": {
-            "android.juegos": "INACTIVE"
-        },
         "1583987834": {
             "admob.llp": "INACTIVE"
         },
@@ -36625,6 +36610,24 @@
         },
         "1586517792": {
             "blogspot.ec": "INACTIVE"
+        },
+        "1586521026": {
+            "adsense.audio": "INACTIVE"
+        },
+        "1586521076": {
+            "adsense.hiphop": "INACTIVE"
+        },
+        "1586521086": {
+            "adsense.juegos": "INACTIVE"
+        },
+        "1586521313": {
+            "android.audio": "INACTIVE"
+        },
+        "1586521365": {
+            "android.juegos": "INACTIVE"
+        },
+        "1586521385": {
+            "android.name": "INACTIVE"
         }
     }
 }
