@@ -820,8 +820,8 @@
         "state": "future"
     },
     "abc.fit": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "abc.fitness": {
@@ -4905,8 +4905,8 @@
         "state": "future"
     },
     "adwords.nu": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "adwords.nyc": {
@@ -7785,8 +7785,8 @@
         "state": "future"
     },
     "blog.cc": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "blog.center": {
