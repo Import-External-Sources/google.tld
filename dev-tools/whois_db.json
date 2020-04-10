@@ -11694,6 +11694,11 @@
         "expiration_date": "28-mar-2021",
         "state": "future"
     },
+    "blogspot.social": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
     "blogspot.solutions": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
