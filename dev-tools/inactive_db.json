@@ -5529,12 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1582081652": {
-            "blogspot.stc": "INACTIVE"
-        },
-        "1582081658": {
-            "blogspot.stcgroup": "INACTIVE"
-        },
         "1582089547": {
             "blogspot.stockholm": "INACTIVE",
             "blogspot.storage": "INACTIVE"
@@ -36628,6 +36622,12 @@
         },
         "1586629845": {
             "blogspot.statefarm": "INACTIVE"
+        },
+        "1586632558": {
+            "blogspot.stc": "INACTIVE"
+        },
+        "1586632563": {
+            "blogspot.stcgroup": "INACTIVE"
         }
     }
 }
