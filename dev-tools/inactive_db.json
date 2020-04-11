@@ -7513,15 +7513,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1583987834": {
-            "admob.llp": "INACTIVE"
-        },
-        "1584004833": {
-            "abc.gr": "INACTIVE"
-        },
-        "1584015692": {
-            "adsense.hiv": "INACTIVE"
-        },
         "1584033567": {
             "blog.qa": "INACTIVE"
         },
@@ -36635,6 +36626,9 @@
         },
         "1586568991": {
             "android.ni": "INACTIVE"
+        },
+        "1586610066": {
+            "adsense.hiv": "INACTIVE"
         }
     }
 }
