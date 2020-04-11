@@ -5529,13 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1582089547": {
-            "blogspot.stockholm": "INACTIVE",
-            "blogspot.storage": "INACTIVE"
-        },
-        "1582089548": {
-            "blogspot.stream": "INACTIVE"
-        },
         "1582089549": {
             "blogspot.studio": "INACTIVE",
             "blogspot.study": "INACTIVE"
@@ -36634,6 +36627,11 @@
         },
         "1586641366": {
             "android.bz": "INACTIVE"
+        },
+        "1586645838": {
+            "blogspot.stockholm": "INACTIVE",
+            "blogspot.storage": "INACTIVE",
+            "blogspot.stream": "INACTIVE"
         }
     }
 }
