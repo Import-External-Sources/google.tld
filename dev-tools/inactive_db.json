@@ -5529,10 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1582081649": {
-            "blogspot.statebank": "INACTIVE",
-            "blogspot.statefarm": "INACTIVE"
-        },
         "1582081652": {
             "blogspot.stc": "INACTIVE"
         },
@@ -36626,6 +36622,12 @@
         },
         "1586610066": {
             "adsense.hiv": "INACTIVE"
+        },
+        "1586629830": {
+            "blogspot.statebank": "INACTIVE"
+        },
+        "1586629845": {
+            "blogspot.statefarm": "INACTIVE"
         }
     }
 }
