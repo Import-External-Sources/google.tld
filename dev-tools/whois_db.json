@@ -8742,7 +8742,7 @@
     "blog.photography": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.photos": {
         "epoch": 1600732800.0,
