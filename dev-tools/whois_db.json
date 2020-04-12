@@ -5645,8 +5645,8 @@
         "state": "future"
     },
     "android.app": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "android.archi": {
@@ -7700,8 +7700,8 @@
         "state": "future"
     },
     "blog.builders": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "blog.business": {
@@ -9495,8 +9495,8 @@
         "state": "future"
     },
     "blogger.app": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "blogger.archi": {
@@ -9737,7 +9737,7 @@
     "blogger.cn": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.co": {
         "epoch": 1614038400.0,
