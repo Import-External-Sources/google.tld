@@ -7421,9 +7421,6 @@
         "1583574595": {
             "chromebook.bentley": "INACTIVE"
         },
-        "1584221372": {
-            "blogspot.nyc": "INACTIVE"
-        },
         "1584227990": {
             "blogspot.nz": "INACTIVE",
             "blogspot.obi": "INACTIVE"
@@ -36648,6 +36645,9 @@
         },
         "1586811156": {
             "blogspot.teva": "INACTIVE"
+        },
+        "1586815126": {
+            "blogspot.nyc": "INACTIVE"
         }
     }
 }
