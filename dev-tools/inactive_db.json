@@ -5529,18 +5529,6 @@
             "chrome.gr": "INACTIVE",
             "chrome.gt": "INACTIVE"
         },
-        "1582094801": {
-            "blogspot.team": "INACTIVE",
-            "blogspot.tech": "INACTIVE"
-        },
-        "1582094802": {
-            "blogspot.telefonica": "INACTIVE",
-            "blogspot.temasek": "INACTIVE"
-        },
-        "1582094803": {
-            "blogspot.tennis": "INACTIVE",
-            "blogspot.teva": "INACTIVE"
-        },
         "1582094805": {
             "blogspot.tf": "INACTIVE"
         },
@@ -36646,6 +36634,20 @@
         },
         "1586801630": {
             "blogger.juegos": "INACTIVE"
+        },
+        "1586811139": {
+            "blogspot.team": "INACTIVE"
+        },
+        "1586811140": {
+            "blogspot.tech": "INACTIVE",
+            "blogspot.telefonica": "INACTIVE"
+        },
+        "1586811141": {
+            "blogspot.temasek": "INACTIVE",
+            "blogspot.tennis": "INACTIVE"
+        },
+        "1586811156": {
+            "blogspot.teva": "INACTIVE"
         }
     }
 }
