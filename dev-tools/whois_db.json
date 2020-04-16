@@ -185,8 +185,8 @@
         "state": "future"
     },
     "abc.airbus": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "abc.alsace": {
@@ -590,8 +590,8 @@
         "state": "future"
     },
     "abc.cx": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "abc.cymru": {
@@ -1115,8 +1115,8 @@
         "state": "future"
     },
     "abc.itv": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "abc.jetzt": {
@@ -1285,8 +1285,8 @@
         "state": "future"
     },
     "abc.marketing": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "abc.markets": {
