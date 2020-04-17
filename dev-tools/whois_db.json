@@ -1350,9 +1350,9 @@
         "state": "future"
     },
     "abc.moscow": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
-        "state": "past"
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
     },
     "abc.movie": {
         "epoch": 1598832000.0,
