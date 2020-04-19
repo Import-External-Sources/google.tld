@@ -1,4 +1,4 @@
-#!/usr/bin/local bash
+#!/usr/bin/env bash
 
 # *********************************************
 # Get Travis CI Prepared for Committing to Repo
