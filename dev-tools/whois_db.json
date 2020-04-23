@@ -122,7 +122,7 @@
     "466453.cn": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "466453.com": {
         "epoch": 1609977600.0,
@@ -1537,7 +1537,7 @@
     "abc.porn": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.pr": {
         "epoch": 1600387200.0,
@@ -6970,8 +6970,8 @@
         "state": "future"
     },
     "android.us": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "android.uz": {
@@ -7597,7 +7597,7 @@
     "blog.associates": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.audi": {
         "epoch": 1617062400.0,
@@ -7832,7 +7832,7 @@
     "blog.claims": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.click": {
         "epoch": 1606262400.0,
@@ -7912,7 +7912,7 @@
     "blog.contractors": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.cool": {
         "epoch": 1599955200.0,
@@ -7962,7 +7962,7 @@
     "blog.delivery": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.democrat": {
         "epoch": 1616630400.0,
@@ -8152,7 +8152,7 @@
     "blog.flights": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.florist": {
         "epoch": 1592784000.0,
@@ -8392,7 +8392,7 @@
     "blog.investments": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.io": {
         "epoch": 1603756800.0,
@@ -8802,7 +8802,7 @@
     "blog.productions": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.promo": {
         "epoch": 1492041600.0,
