@@ -9005,9 +9005,9 @@
         "state": "future"
     },
     "blog.shopping": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
-        "state": "past"
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
     },
     "blog.show": {
         "epoch": 1608163200.0,
