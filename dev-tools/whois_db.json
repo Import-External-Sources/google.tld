@@ -8800,9 +8800,9 @@
         "state": "future"
     },
     "blog.productions": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
-        "state": "past"
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
     },
     "blog.promo": {
         "epoch": 1492041600.0,
@@ -8855,8 +8855,8 @@
         "state": "future"
     },
     "blog.red": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "blog.reise": {
@@ -9007,7 +9007,7 @@
     "blog.shopping": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.show": {
         "epoch": 1608163200.0,
