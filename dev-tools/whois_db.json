@@ -7680,9 +7680,9 @@
         "state": "future"
     },
     "blog.blue": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
-        "state": "past"
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
     },
     "blog.bot": {
         "epoch": 1604275200.0,
