@@ -5775,8 +5775,8 @@
         "state": "future"
     },
     "android.build": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "android.buzz": {
@@ -7080,8 +7080,8 @@
         "state": "future"
     },
     "android.xn--3ds443g": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "android.xn--45q11c": {
@@ -7130,8 +7130,8 @@
         "state": "future"
     },
     "android.xn--fiq228c5hs": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "android.xn--fiqs8s": {
@@ -9682,7 +9682,7 @@
     "blogger.cc": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.center": {
         "epoch": 1606262400.0,
@@ -10845,8 +10845,8 @@
         "state": "future"
     },
     "blogger.xn--3ds443g": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "blogger.xn--45q11c": {
@@ -10900,8 +10900,8 @@
         "state": "future"
     },
     "blogger.xn--fiq228c5hs": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "blogger.xn--fiqs8s": {
