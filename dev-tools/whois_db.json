@@ -6980,8 +6980,8 @@
         "state": "future"
     },
     "android.vc": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "android.vegas": {
@@ -7402,7 +7402,7 @@
     "appspot.one": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "appspot.online": {
         "epoch": 1617062400.0,
