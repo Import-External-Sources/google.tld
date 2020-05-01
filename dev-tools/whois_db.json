@@ -2470,8 +2470,8 @@
         "state": "future"
     },
     "adsense.amsterdam": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "adsense.app": {
@@ -4075,8 +4075,8 @@
         "state": "future"
     },
     "adwords.amsterdam": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "adwords.app": {
@@ -5640,8 +5640,8 @@
         "state": "future"
     },
     "android.amsterdam": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "android.app": {
