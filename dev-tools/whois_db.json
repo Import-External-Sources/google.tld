@@ -2360,8 +2360,8 @@
         "state": "future"
     },
     "admob.pl": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "admob.pt": {
@@ -2917,7 +2917,7 @@
     "adsense.game": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsense.ge": {
         "epoch": 1618099200.0,
@@ -4530,8 +4530,8 @@
         "state": "future"
     },
     "adwords.game": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "adwords.ge": {
@@ -4640,8 +4640,8 @@
         "state": "future"
     },
     "adwords.in": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "adwords.info": {
@@ -6077,7 +6077,7 @@
     "android.game": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "android.gay": {
         "epoch": 1613001600.0,
@@ -8352,7 +8352,7 @@
     "blog.immo": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.immobilien": {
         "epoch": 1600560000.0,
@@ -9942,7 +9942,7 @@
     "blogger.game": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.games": {
         "epoch": 1599955200.0,
