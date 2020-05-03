@@ -55,9 +55,9 @@
         "state": "future"
     },
     "1e100.info": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "1e100.io": {
         "epoch": 1590969600.0,
@@ -8545,9 +8545,9 @@
         "state": "future"
     },
     "blog.ma": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
-        "state": "past"
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
     },
     "blog.madrid": {
         "epoch": 1611964800.0,
