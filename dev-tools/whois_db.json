@@ -7580,8 +7580,8 @@
         "state": "future"
     },
     "blog.app": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1651622400.0,
+        "expiration_date": "04-may-2022",
         "state": "future"
     },
     "blog.ar": {
@@ -7882,7 +7882,7 @@
     "blog.cologne": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.com": {
         "epoch": 1744502400.0,
@@ -8405,8 +8405,8 @@
         "state": "future"
     },
     "blog.is": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "blog.ist": {
