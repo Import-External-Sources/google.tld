@@ -159,6 +159,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "abc.aero": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "abc.af": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
