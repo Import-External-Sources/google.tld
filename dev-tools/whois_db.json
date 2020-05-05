@@ -5924,6 +5924,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "android.compare": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "android.cooking": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",

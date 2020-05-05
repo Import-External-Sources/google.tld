@@ -7429,175 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586056333": {
-            "android.cityeats": "INACTIVE",
-            "android.ck": "INACTIVE"
-        },
-        "1586056334": {
-            "android.claims": "INACTIVE",
-            "android.cleaning": "INACTIVE",
-            "android.clinic": "INACTIVE"
-        },
-        "1586056337": {
-            "android.clinique": "INACTIVE",
-            "android.clothing": "INACTIVE"
-        },
-        "1586056338": {
-            "android.clubmed": "INACTIVE",
-            "android.coach": "INACTIVE"
-        },
-        "1586056339": {
-            "android.codes": "INACTIVE",
-            "android.coffee": "INACTIVE"
-        },
-        "1586056340": {
-            "android.college": "INACTIVE"
-        },
-        "1586056346": {
-            "android.comcast": "INACTIVE",
-            "android.commbank": "INACTIVE"
-        },
-        "1586056347": {
-            "android.community": "INACTIVE",
-            "android.company": "INACTIVE"
-        },
-        "1586056348": {
-            "android.compare": "INACTIVE",
-            "android.computer": "INACTIVE",
-            "android.comsec": "INACTIVE"
-        },
-        "1586056349": {
-            "android.condos": "INACTIVE",
-            "android.construction": "INACTIVE"
-        },
-        "1586056350": {
-            "android.consulting": "INACTIVE",
-            "android.contact": "INACTIVE"
-        },
-        "1586056351": {
-            "android.contractors": "INACTIVE"
-        },
-        "1586056354": {
-            "android.cookingchannel": "INACTIVE",
-            "android.cool": "INACTIVE"
-        },
-        "1586056355": {
-            "android.coop": "INACTIVE"
-        },
-        "1586056372": {
-            "android.country": "INACTIVE",
-            "android.coupon": "INACTIVE"
-        },
-        "1586056373": {
-            "android.coupons": "INACTIVE"
-        },
-        "1586056378": {
-            "android.cr": "INACTIVE"
-        },
-        "1586056379": {
-            "android.credit": "INACTIVE",
-            "android.creditcard": "INACTIVE"
-        },
-        "1586056380": {
-            "android.creditunion": "INACTIVE",
-            "android.crown": "INACTIVE",
-            "android.crs": "INACTIVE"
-        },
-        "1586056381": {
-            "android.cruise": "INACTIVE",
-            "android.cruises": "INACTIVE",
-            "android.csc": "INACTIVE"
-        },
-        "1586056382": {
-            "android.cu": "INACTIVE"
-        },
-        "1586056383": {
-            "android.cuisinella": "INACTIVE",
-            "android.cv": "INACTIVE",
-            "android.cw": "INACTIVE",
-            "android.cy": "INACTIVE"
-        },
-        "1586056384": {
-            "android.cyou": "INACTIVE",
-            "android.dabur": "INACTIVE"
-        },
-        "1586056385": {
-            "android.dad": "INACTIVE",
-            "android.dance": "INACTIVE",
-            "android.data": "INACTIVE"
-        },
-        "1586056386": {
-            "android.dating": "INACTIVE"
-        },
-        "1586056387": {
-            "android.datsun": "INACTIVE",
-            "android.day": "INACTIVE",
-            "android.dclk": "INACTIVE"
-        },
-        "1586056388": {
-            "android.dds": "INACTIVE"
-        },
-        "1586056394": {
-            "android.deal": "INACTIVE",
-            "android.dealer": "INACTIVE",
-            "android.deals": "INACTIVE"
-        },
-        "1586056395": {
-            "android.degree": "INACTIVE",
-            "android.delivery": "INACTIVE"
-        },
-        "1586056396": {
-            "android.dell": "INACTIVE"
-        },
-        "1586056402": {
-            "android.deloitte": "INACTIVE",
-            "android.delta": "INACTIVE"
-        },
-        "1586056403": {
-            "android.democrat": "INACTIVE",
-            "android.dental": "INACTIVE"
-        },
-        "1586056404": {
-            "android.dentist": "INACTIVE",
-            "android.dhl": "INACTIVE"
-        },
-        "1586056405": {
-            "android.diamonds": "INACTIVE",
-            "android.digital": "INACTIVE"
-        },
-        "1586056406": {
-            "android.direct": "INACTIVE",
-            "android.directory": "INACTIVE",
-            "android.discount": "INACTIVE"
-        },
-        "1586057267": {
-            "android.discover": "INACTIVE"
-        },
-        "1586057269": {
-            "android.dish": "INACTIVE"
-        },
-        "1586057270": {
-            "android.diy": "INACTIVE"
-        },
-        "1586057274": {
-            "android.dm": "INACTIVE"
-        },
-        "1586057275": {
-            "android.dnp": "INACTIVE",
-            "android.docs": "INACTIVE"
-        },
-        "1586057276": {
-            "android.doctor": "INACTIVE",
-            "android.dodge": "INACTIVE",
-            "android.dog": "INACTIVE"
-        },
-        "1586057277": {
-            "android.domains": "INACTIVE"
-        },
-        "1586057282": {
-            "android.dot": "INACTIVE",
-            "android.drive": "INACTIVE"
-        },
         "1586057284": {
             "android.dtv": "INACTIVE"
         },
@@ -15021,12 +14852,6 @@
         },
         "1586086809": {
             "blogger.sfr": "INACTIVE"
-        },
-        "1586087692": {
-            "adsense.vg": "INACTIVE"
-        },
-        "1586087871": {
-            "adwords.vg": "INACTIVE"
         },
         "1586088416": {
             "466453.politie": "INACTIVE"
@@ -38329,6 +38154,206 @@
         },
         "1588679914": {
             "android.city": "INACTIVE"
+        },
+        "1588680837": {
+            "android.cityeats": "INACTIVE",
+            "android.ck": "INACTIVE"
+        },
+        "1588680853": {
+            "android.claims": "INACTIVE",
+            "android.cleaning": "INACTIVE"
+        },
+        "1588680869": {
+            "android.clinic": "INACTIVE",
+            "android.clinique": "INACTIVE"
+        },
+        "1588680870": {
+            "android.clothing": "INACTIVE",
+            "android.clubmed": "INACTIVE"
+        },
+        "1588680886": {
+            "android.coach": "INACTIVE"
+        },
+        "1588680887": {
+            "android.codes": "INACTIVE"
+        },
+        "1588680902": {
+            "android.coffee": "INACTIVE"
+        },
+        "1588680903": {
+            "android.college": "INACTIVE"
+        },
+        "1588680909": {
+            "android.comcast": "INACTIVE"
+        },
+        "1588680924": {
+            "android.commbank": "INACTIVE"
+        },
+        "1588680925": {
+            "android.community": "INACTIVE"
+        },
+        "1588680940": {
+            "android.company": "INACTIVE"
+        },
+        "1588680956": {
+            "android.computer": "INACTIVE",
+            "android.comsec": "INACTIVE"
+        },
+        "1588680957": {
+            "android.condos": "INACTIVE"
+        },
+        "1588680972": {
+            "android.construction": "INACTIVE"
+        },
+        "1588680988": {
+            "android.consulting": "INACTIVE",
+            "android.contact": "INACTIVE"
+        },
+        "1588680989": {
+            "android.contractors": "INACTIVE"
+        },
+        "1588680992": {
+            "android.cookingchannel": "INACTIVE"
+        },
+        "1588680993": {
+            "android.cool": "INACTIVE",
+            "android.coop": "INACTIVE"
+        },
+        "1588681009": {
+            "android.country": "INACTIVE",
+            "android.coupon": "INACTIVE"
+        },
+        "1588681010": {
+            "android.coupons": "INACTIVE"
+        },
+        "1588681020": {
+            "android.cr": "INACTIVE"
+        },
+        "1588681035": {
+            "android.credit": "INACTIVE"
+        },
+        "1588681051": {
+            "android.creditcard": "INACTIVE",
+            "android.creditunion": "INACTIVE",
+            "android.crown": "INACTIVE"
+        },
+        "1588681052": {
+            "android.crs": "INACTIVE"
+        },
+        "1588681055": {
+            "android.cruise": "INACTIVE"
+        },
+        "1588681070": {
+            "android.cruises": "INACTIVE"
+        },
+        "1588681071": {
+            "android.csc": "INACTIVE"
+        },
+        "1588681072": {
+            "android.cu": "INACTIVE",
+            "android.cuisinella": "INACTIVE",
+            "android.cv": "INACTIVE",
+            "android.cw": "INACTIVE"
+        },
+        "1588681073": {
+            "android.cy": "INACTIVE"
+        },
+        "1588681075": {
+            "android.cyou": "INACTIVE",
+            "android.dabur": "INACTIVE"
+        },
+        "1588681076": {
+            "android.dad": "INACTIVE"
+        },
+        "1588681091": {
+            "android.dance": "INACTIVE"
+        },
+        "1588681094": {
+            "android.data": "INACTIVE",
+            "android.dating": "INACTIVE"
+        },
+        "1588681095": {
+            "android.datsun": "INACTIVE",
+            "android.day": "INACTIVE"
+        },
+        "1588681096": {
+            "android.dclk": "INACTIVE",
+            "android.dds": "INACTIVE"
+        },
+        "1588681102": {
+            "android.deal": "INACTIVE"
+        },
+        "1588681103": {
+            "android.dealer": "INACTIVE"
+        },
+        "1588681118": {
+            "android.deals": "INACTIVE"
+        },
+        "1588681119": {
+            "android.degree": "INACTIVE",
+            "android.delivery": "INACTIVE"
+        },
+        "1588681134": {
+            "android.dell": "INACTIVE"
+        },
+        "1588681140": {
+            "android.deloitte": "INACTIVE"
+        },
+        "1588681142": {
+            "android.delta": "INACTIVE"
+        },
+        "1588681143": {
+            "android.democrat": "INACTIVE",
+            "android.dental": "INACTIVE"
+        },
+        "1588681144": {
+            "android.dentist": "INACTIVE"
+        },
+        "1588681145": {
+            "android.dhl": "INACTIVE"
+        },
+        "1588681160": {
+            "android.diamonds": "INACTIVE",
+            "android.digital": "INACTIVE"
+        },
+        "1588681176": {
+            "android.direct": "INACTIVE"
+        },
+        "1588681191": {
+            "android.directory": "INACTIVE"
+        },
+        "1588681192": {
+            "android.discount": "INACTIVE"
+        },
+        "1588681207": {
+            "android.discover": "INACTIVE"
+        },
+        "1588681209": {
+            "android.dish": "INACTIVE",
+            "android.diy": "INACTIVE"
+        },
+        "1588681214": {
+            "android.dm": "INACTIVE"
+        },
+        "1588681215": {
+            "android.dnp": "INACTIVE",
+            "android.docs": "INACTIVE"
+        },
+        "1588681216": {
+            "android.doctor": "INACTIVE",
+            "android.dodge": "INACTIVE"
+        },
+        "1588681231": {
+            "android.dog": "INACTIVE"
+        },
+        "1588681232": {
+            "android.domains": "INACTIVE"
+        },
+        "1588681234": {
+            "android.dot": "INACTIVE"
+        },
+        "1588681235": {
+            "android.drive": "INACTIVE"
         }
     }
 }
