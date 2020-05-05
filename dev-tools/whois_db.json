@@ -545,9 +545,9 @@
         "state": "future"
     },
     "abc.computer": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
     },
     "abc.construction": {
         "epoch": 1602892800.0,
