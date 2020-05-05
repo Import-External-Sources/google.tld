@@ -3559,6 +3559,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "adsense.select": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "adsense.sex": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
