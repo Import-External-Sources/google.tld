@@ -5669,6 +5669,11 @@
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
+    "android.ar": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "android.archi": {
         "epoch": 1718150400.0,
         "expiration_date": "12-jun-2024",
