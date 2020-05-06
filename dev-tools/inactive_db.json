@@ -7429,31 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586084091": {
-            "blogger.pa": "INACTIVE"
-        },
-        "1586084092": {
-            "blogger.panasonic": "INACTIVE"
-        },
-        "1586084094": {
-            "blogger.pars": "INACTIVE",
-            "blogger.partners": "INACTIVE"
-        },
-        "1586084095": {
-            "blogger.parts": "INACTIVE",
-            "blogger.passagens": "INACTIVE"
-        },
-        "1586084100": {
-            "blogger.pay": "INACTIVE"
-        },
-        "1586084103": {
-            "blogger.pccw": "INACTIVE"
-        },
-        "1586084104": {
-            "blogger.pf": "INACTIVE"
-        },
         "1586084105": {
-            "blogger.pfizer": "INACTIVE",
             "blogger.pg": "INACTIVE",
             "blogger.pharmacy": "INACTIVE",
             "blogger.phd": "INACTIVE"
@@ -39172,6 +39148,32 @@
         },
         "1588785206": {
             "blogger.ott": "INACTIVE"
+        },
+        "1588786494": {
+            "blogger.pa": "INACTIVE",
+            "blogger.panasonic": "INACTIVE"
+        },
+        "1588786495": {
+            "blogger.pars": "INACTIVE"
+        },
+        "1588786496": {
+            "blogger.partners": "INACTIVE",
+            "blogger.parts": "INACTIVE"
+        },
+        "1588786511": {
+            "blogger.passagens": "INACTIVE"
+        },
+        "1588786512": {
+            "blogger.pay": "INACTIVE"
+        },
+        "1588786514": {
+            "blogger.pccw": "INACTIVE"
+        },
+        "1588786515": {
+            "blogger.pf": "INACTIVE"
+        },
+        "1588786531": {
+            "blogger.pfizer": "INACTIVE"
         }
     }
 }
