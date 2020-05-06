@@ -7429,15 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586086741": {
-            "blogger.sarl": "INACTIVE",
-            "blogger.sas": "INACTIVE"
-        },
-        "1586086749": {
-            "blogger.save": "INACTIVE"
-        },
         "1586086750": {
-            "blogger.saxo": "INACTIVE",
             "blogger.sbi": "INACTIVE"
         },
         "1586086752": {
@@ -39208,6 +39200,18 @@
         },
         "1588798536": {
             "blogger.sap": "INACTIVE"
+        },
+        "1588799829": {
+            "blogger.sarl": "INACTIVE"
+        },
+        "1588799845": {
+            "blogger.sas": "INACTIVE"
+        },
+        "1588799847": {
+            "blogger.save": "INACTIVE"
+        },
+        "1588799862": {
+            "blogger.saxo": "INACTIVE"
         }
     }
 }
