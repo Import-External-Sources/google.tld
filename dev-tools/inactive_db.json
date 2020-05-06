@@ -7429,48 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586081373": {
-            "blogger.itau": "INACTIVE",
-            "blogger.itv": "INACTIVE"
-        },
-        "1586081375": {
-            "blogger.iveco": "INACTIVE",
-            "blogger.jaguar": "INACTIVE"
-        },
-        "1586081376": {
-            "blogger.java": "INACTIVE",
-            "blogger.jcb": "INACTIVE"
-        },
-        "1586081377": {
-            "blogger.jcp": "INACTIVE"
-        },
-        "1586081378": {
-            "blogger.je": "INACTIVE",
-            "blogger.jeep": "INACTIVE"
-        },
-        "1586081379": {
-            "blogger.jetzt": "INACTIVE",
-            "blogger.jewelry": "INACTIVE"
-        },
-        "1586081380": {
-            "blogger.jio": "INACTIVE",
-            "blogger.jll": "INACTIVE",
-            "blogger.jm": "INACTIVE",
-            "blogger.jmp": "INACTIVE"
-        },
-        "1586081381": {
-            "blogger.jnj": "INACTIVE",
-            "blogger.jo": "INACTIVE"
-        },
-        "1586081382": {
-            "blogger.jot": "INACTIVE"
-        },
-        "1586081387": {
-            "blogger.joy": "INACTIVE"
-        },
-        "1586081394": {
-            "blogger.jpmorgan": "INACTIVE"
-        },
         "1586081399": {
             "blogger.jprs": "INACTIVE",
             "blogger.juniper": "INACTIVE"
@@ -10009,9 +9967,6 @@
         "1586164768": {
             "blog.shia": "INACTIVE",
             "blog.shoes": "INACTIVE"
-        },
-        "1586170398": {
-            "abc.bt": "INACTIVE"
         },
         "1586179368": {
             "blogspot.rogers": "INACTIVE"
@@ -39131,6 +39086,51 @@
         "1588762605": {
             "blogger.ir": "INACTIVE",
             "blogger.ismaili": "INACTIVE"
+        },
+        "1588762928": {
+            "abc.bt": "INACTIVE"
+        },
+        "1588763895": {
+            "blogger.itau": "INACTIVE",
+            "blogger.itv": "INACTIVE"
+        },
+        "1588763900": {
+            "blogger.iveco": "INACTIVE"
+        },
+        "1588763901": {
+            "blogger.jaguar": "INACTIVE",
+            "blogger.java": "INACTIVE"
+        },
+        "1588763902": {
+            "blogger.jcb": "INACTIVE",
+            "blogger.jcp": "INACTIVE"
+        },
+        "1588763903": {
+            "blogger.je": "INACTIVE",
+            "blogger.jeep": "INACTIVE",
+            "blogger.jetzt": "INACTIVE"
+        },
+        "1588763904": {
+            "blogger.jewelry": "INACTIVE",
+            "blogger.jio": "INACTIVE",
+            "blogger.jll": "INACTIVE"
+        },
+        "1588763905": {
+            "blogger.jm": "INACTIVE",
+            "blogger.jmp": "INACTIVE"
+        },
+        "1588763920": {
+            "blogger.jnj": "INACTIVE"
+        },
+        "1588763921": {
+            "blogger.jo": "INACTIVE"
+        },
+        "1588763926": {
+            "blogger.jot": "INACTIVE",
+            "blogger.joy": "INACTIVE"
+        },
+        "1588763948": {
+            "blogger.jpmorgan": "INACTIVE"
         }
     }
 }
