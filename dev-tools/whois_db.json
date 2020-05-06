@@ -9999,6 +9999,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "blogger.gent": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "blogger.gift": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",

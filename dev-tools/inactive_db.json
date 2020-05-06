@@ -7429,73 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586078737": {
-            "blogger.ftr": "INACTIVE"
-        },
-        "1586078738": {
-            "blogger.fujitsu": "INACTIVE",
-            "blogger.fujixerox": "INACTIVE"
-        },
-        "1586078741": {
-            "blogger.fun": "INACTIVE"
-        },
-        "1586078742": {
-            "blogger.fund": "INACTIVE",
-            "blogger.furniture": "INACTIVE"
-        },
-        "1586078743": {
-            "blogger.futbol": "INACTIVE",
-            "blogger.fyi": "INACTIVE",
-            "blogger.gallo": "INACTIVE"
-        },
-        "1586078745": {
-            "blogger.gallup": "INACTIVE"
-        },
-        "1586078746": {
-            "blogger.gap": "INACTIVE"
-        },
-        "1586078767": {
-            "blogger.garden": "INACTIVE"
-        },
-        "1586078770": {
-            "blogger.gay": "INACTIVE",
-            "blogger.gb": "INACTIVE"
-        },
-        "1586078771": {
-            "blogger.gbiz": "INACTIVE"
-        },
-        "1586078774": {
-            "blogger.gd": "INACTIVE"
-        },
-        "1586078790": {
-            "blogger.gdn": "INACTIVE",
-            "blogger.gea": "INACTIVE"
-        },
-        "1586078793": {
-            "blogger.gent": "INACTIVE"
-        },
-        "1586078794": {
-            "blogger.genting": "INACTIVE",
-            "blogger.george": "INACTIVE",
-            "blogger.gf": "INACTIVE"
-        },
-        "1586078795": {
-            "blogger.gg": "INACTIVE"
-        },
-        "1586078796": {
-            "blogger.ggee": "INACTIVE"
-        },
-        "1586078797": {
-            "blogger.gh": "INACTIVE"
-        },
-        "1586078798": {
-            "blogger.gi": "INACTIVE",
-            "blogger.gifts": "INACTIVE"
-        },
-        "1586078799": {
-            "blogger.gives": "INACTIVE",
-            "blogger.giving": "INACTIVE"
-        },
         "1586078815": {
             "blogger.gl": "INACTIVE"
         },
@@ -39115,6 +39048,76 @@
         },
         "1588754630": {
             "blogger.frontier": "INACTIVE"
+        },
+        "1588755838": {
+            "blogger.ftr": "INACTIVE"
+        },
+        "1588755839": {
+            "blogger.fujitsu": "INACTIVE",
+            "blogger.fujixerox": "INACTIVE"
+        },
+        "1588755841": {
+            "blogger.fun": "INACTIVE",
+            "blogger.fund": "INACTIVE"
+        },
+        "1588755857": {
+            "blogger.furniture": "INACTIVE",
+            "blogger.futbol": "INACTIVE"
+        },
+        "1588755858": {
+            "blogger.fyi": "INACTIVE"
+        },
+        "1588755859": {
+            "blogger.gallo": "INACTIVE"
+        },
+        "1588755860": {
+            "blogger.gallup": "INACTIVE"
+        },
+        "1588755876": {
+            "blogger.gap": "INACTIVE"
+        },
+        "1588755897": {
+            "blogger.garden": "INACTIVE"
+        },
+        "1588755900": {
+            "blogger.gay": "INACTIVE",
+            "blogger.gb": "INACTIVE"
+        },
+        "1588755901": {
+            "blogger.gbiz": "INACTIVE"
+        },
+        "1588755902": {
+            "blogger.gd": "INACTIVE"
+        },
+        "1588755917": {
+            "blogger.gdn": "INACTIVE"
+        },
+        "1588755918": {
+            "blogger.gea": "INACTIVE"
+        },
+        "1588755919": {
+            "blogger.genting": "INACTIVE",
+            "blogger.george": "INACTIVE"
+        },
+        "1588755920": {
+            "blogger.gf": "INACTIVE"
+        },
+        "1588755921": {
+            "blogger.gg": "INACTIVE",
+            "blogger.ggee": "INACTIVE"
+        },
+        "1588755923": {
+            "blogger.gh": "INACTIVE",
+            "blogger.gi": "INACTIVE"
+        },
+        "1588755940": {
+            "blogger.gifts": "INACTIVE"
+        },
+        "1588755941": {
+            "blogger.gives": "INACTIVE"
+        },
+        "1588755957": {
+            "blogger.giving": "INACTIVE"
         }
     }
 }
