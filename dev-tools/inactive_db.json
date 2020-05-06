@@ -7429,12 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586086733": {
-            "blogger.sanofi": "INACTIVE"
-        },
-        "1586086739": {
-            "blogger.sap": "INACTIVE"
-        },
         "1586086741": {
             "blogger.sarl": "INACTIVE",
             "blogger.sas": "INACTIVE"
@@ -39208,6 +39202,12 @@
         },
         "1588797196": {
             "blogger.sandvikcoromant": "INACTIVE"
+        },
+        "1588798534": {
+            "blogger.sanofi": "INACTIVE"
+        },
+        "1588798536": {
+            "blogger.sap": "INACTIVE"
         }
     }
 }
