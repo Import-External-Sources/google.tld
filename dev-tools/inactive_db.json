@@ -7429,12 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586105270": {
-            "blogger.talk": "INACTIVE"
-        },
         "1586105271": {
-            "blogger.taobao": "INACTIVE",
-            "blogger.target": "INACTIVE",
             "blogger.tatamotors": "INACTIVE"
         },
         "1586105272": {
@@ -39227,6 +39222,15 @@
         },
         "1588866346": {
             "blogger.tab": "INACTIVE"
+        },
+        "1588870289": {
+            "blogger.talk": "INACTIVE"
+        },
+        "1588870304": {
+            "blogger.taobao": "INACTIVE"
+        },
+        "1588870319": {
+            "blogger.target": "INACTIVE"
         }
     }
 }
