@@ -7429,13 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586105214": {
-            "blogger.solutions": "INACTIVE",
-            "blogger.song": "INACTIVE"
-        },
-        "1586105215": {
-            "blogger.sony": "INACTIVE"
-        },
         "1586105217": {
             "blogger.sport": "INACTIVE"
         },
@@ -39223,6 +39216,13 @@
         },
         "1588817165": {
             "blogger.solar": "INACTIVE"
+        },
+        "1588818499": {
+            "blogger.solutions": "INACTIVE"
+        },
+        "1588818500": {
+            "blogger.song": "INACTIVE",
+            "blogger.sony": "INACTIVE"
         }
     }
 }
