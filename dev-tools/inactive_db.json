@@ -7429,9 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586105256": {
-            "blogger.surf": "INACTIVE"
-        },
         "1586105257": {
             "blogger.surgery": "INACTIVE",
             "blogger.suzuki": "INACTIVE"
@@ -9710,9 +9707,6 @@
         },
         "1586254841": {
             "blogspot.cooking": "INACTIVE"
-        },
-        "1586256005": {
-            "blogger.sk": "INACTIVE"
         },
         "1586256145": {
             "blogspot.cookingchannel": "INACTIVE"
@@ -39218,6 +39212,9 @@
         },
         "1588837082": {
             "blogger.support": "INACTIVE"
+        },
+        "1588849022": {
+            "blogger.surf": "INACTIVE"
         }
     }
 }
