@@ -1062,7 +1062,7 @@
     "abc.inc": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.info": {
         "epoch": 1659312000.0,
@@ -3275,8 +3275,8 @@
         "state": "future"
     },
     "adsense.mx": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "adsense.nagoya": {
@@ -3860,8 +3860,8 @@
         "state": "future"
     },
     "adsense.wiki": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "adsense.win": {
@@ -4895,8 +4895,8 @@
         "state": "future"
     },
     "adwords.mx": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "adwords.nagoya": {
@@ -6495,8 +6495,8 @@
         "state": "future"
     },
     "android.mx": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "android.navy": {
@@ -8232,7 +8232,7 @@
     "blog.fund": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.fyi": {
         "epoch": 1609545600.0,
