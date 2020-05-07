@@ -7429,18 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586105274": {
-            "blogger.team": "INACTIVE"
-        },
-        "1586105275": {
-            "blogger.technology": "INACTIVE",
-            "blogger.telefonica": "INACTIVE",
-            "blogger.temasek": "INACTIVE"
-        },
-        "1586105276": {
-            "blogger.tennis": "INACTIVE",
-            "blogger.teva": "INACTIVE"
-        },
         "1586105277": {
             "blogger.tf": "INACTIVE"
         },
@@ -39235,6 +39223,20 @@
         },
         "1588874927": {
             "blogger.tdk": "INACTIVE"
+        },
+        "1588882917": {
+            "blogger.team": "INACTIVE",
+            "blogger.technology": "INACTIVE",
+            "blogger.telefonica": "INACTIVE"
+        },
+        "1588882918": {
+            "blogger.temasek": "INACTIVE"
+        },
+        "1588882933": {
+            "blogger.tennis": "INACTIVE"
+        },
+        "1588882948": {
+            "blogger.teva": "INACTIVE"
         }
     }
 }
