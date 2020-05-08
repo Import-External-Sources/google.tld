@@ -7429,19 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586106544": {
-            "blogger.volkswagen": "INACTIVE"
-        },
-        "1586106545": {
-            "blogger.volvo": "INACTIVE",
-            "blogger.vote": "INACTIVE"
-        },
-        "1586106546": {
-            "blogger.voting": "INACTIVE",
-            "blogger.voto": "INACTIVE"
-        },
         "1586106547": {
-            "blogger.voyage": "INACTIVE",
             "blogger.vu": "INACTIVE",
             "blogger.vuelos": "INACTIVE"
         },
@@ -39254,6 +39242,18 @@
         },
         "1588902851": {
             "blogger.pe": "INACTIVE"
+        },
+        "1588904212": {
+            "blogger.volkswagen": "INACTIVE",
+            "blogger.volvo": "INACTIVE",
+            "blogger.vote": "INACTIVE"
+        },
+        "1588904213": {
+            "blogger.voting": "INACTIVE",
+            "blogger.voto": "INACTIVE"
+        },
+        "1588904214": {
+            "blogger.voyage": "INACTIVE"
         }
     }
 }
