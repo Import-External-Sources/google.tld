@@ -7429,12 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586106610": {
-            "blogger.wow": "INACTIVE"
-        },
         "1586106611": {
-            "blogger.wtc": "INACTIVE",
-            "blogger.wtf": "INACTIVE",
             "blogger.xbox": "INACTIVE"
         },
         "1586106612": {
@@ -39271,6 +39266,13 @@
         },
         "1588922794": {
             "blogger.world": "INACTIVE"
+        },
+        "1588924111": {
+            "blogger.wow": "INACTIVE",
+            "blogger.wtc": "INACTIVE"
+        },
+        "1588924126": {
+            "blogger.wtf": "INACTIVE"
         }
     }
 }
