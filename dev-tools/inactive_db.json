@@ -7429,14 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586106547": {
-            "blogger.vu": "INACTIVE",
-            "blogger.vuelos": "INACTIVE"
-        },
-        "1586106551": {
-            "blogger.walmart": "INACTIVE",
-            "blogger.walter": "INACTIVE"
-        },
         "1586106557": {
             "blogger.wanggou": "INACTIVE"
         },
@@ -39257,6 +39249,18 @@
         },
         "1588909177": {
             "android.cd": "INACTIVE"
+        },
+        "1588910810": {
+            "blogger.vu": "INACTIVE"
+        },
+        "1588910826": {
+            "blogger.vuelos": "INACTIVE"
+        },
+        "1588910829": {
+            "blogger.walmart": "INACTIVE"
+        },
+        "1588910844": {
+            "blogger.walter": "INACTIVE"
         }
     }
 }
