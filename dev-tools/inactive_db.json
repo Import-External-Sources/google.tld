@@ -7429,14 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586109222": {
-            "blogger.za": "INACTIVE"
-        },
-        "1586109243": {
-            "blogger.zappos": "INACTIVE"
-        },
         "1586109244": {
-            "blogger.zara": "INACTIVE",
             "blogger.zero": "INACTIVE",
             "blogger.zip": "INACTIVE"
         },
@@ -39277,6 +39270,13 @@
         },
         "1589002364": {
             "blogger.yun": "INACTIVE"
+        },
+        "1589008978": {
+            "blogger.za": "INACTIVE"
+        },
+        "1589008999": {
+            "blogger.zappos": "INACTIVE",
+            "blogger.zara": "INACTIVE"
         }
     }
 }
