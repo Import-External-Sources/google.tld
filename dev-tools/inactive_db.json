@@ -7429,11 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586109212": {
-            "blogger.yamaxun": "INACTIVE"
-        },
         "1586109213": {
-            "blogger.yandex": "INACTIVE",
             "blogger.ye": "INACTIVE"
         },
         "1586109214": {
@@ -39275,6 +39271,12 @@
         },
         "1588995743": {
             "blogger.yahoo": "INACTIVE"
+        },
+        "1588997060": {
+            "blogger.yamaxun": "INACTIVE"
+        },
+        "1588997077": {
+            "blogger.yandex": "INACTIVE"
         }
     }
 }
