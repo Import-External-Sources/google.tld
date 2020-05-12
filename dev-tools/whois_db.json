@@ -280,8 +280,8 @@
         "state": "future"
     },
     "abc.bike": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "abc.bingo": {
