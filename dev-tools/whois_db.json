@@ -3230,8 +3230,8 @@
         "state": "future"
     },
     "adsense.mk": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "adsense.ml": {
@@ -4855,8 +4855,8 @@
         "state": "future"
     },
     "adwords.mk": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "adwords.ml": {
@@ -7335,8 +7335,8 @@
         "state": "future"
     },
     "appspot.fi": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "appspot.fr": {
@@ -7402,7 +7402,7 @@
     "appspot.live": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "appspot.me": {
         "epoch": 1593907200.0,
@@ -7907,7 +7907,7 @@
     "blog.coach": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.codes": {
         "epoch": 1599436800.0,
@@ -9680,8 +9680,8 @@
         "state": "past"
     },
     "blogger.ca": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "blogger.cam": {
@@ -9962,7 +9962,7 @@
     "blogger.fr": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogger.frl": {
         "epoch": 1611273600.0,
