@@ -7905,9 +7905,9 @@
         "state": "future"
     },
     "blog.coach": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "blog.codes": {
         "epoch": 1599436800.0,
