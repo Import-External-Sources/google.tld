@@ -3880,9 +3880,9 @@
         "state": "future"
     },
     "adsense.xin": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
-        "state": "past"
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "state": "future"
     },
     "adsense.xn--1ck2e1b": {
         "epoch": 1607817600.0,
@@ -9960,9 +9960,9 @@
         "state": "future"
     },
     "blogger.fr": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "blogger.frl": {
         "epoch": 1611273600.0,
