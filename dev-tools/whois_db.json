@@ -517,7 +517,7 @@
     "abc.codes": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.coffee": {
         "epoch": 1617926400.0,
@@ -7235,8 +7235,8 @@
         "state": "future"
     },
     "android.xn--t60b56a": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "android.xn--tckwe": {
@@ -7812,7 +7812,7 @@
     "blog.cash": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blog.casino": {
         "epoch": 1590796800.0,
