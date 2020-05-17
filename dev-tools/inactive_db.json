@@ -7430,7 +7430,6 @@
             "blogspot.pnc": "INACTIVE"
         },
         "1586110574": {
-            "blog.jmp": "INACTIVE",
             "blog.jnj": "INACTIVE"
         },
         "1586110575": {
@@ -39334,6 +39333,9 @@
         },
         "1589710370": {
             "blog.jm": "INACTIVE"
+        },
+        "1589722264": {
+            "blog.jmp": "INACTIVE"
         }
     }
 }
