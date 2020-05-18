@@ -7429,13 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586111841": {
-            "blog.kp": "INACTIVE",
-            "blog.kpmg": "INACTIVE"
-        },
         "1586111842": {
-            "blog.kpn": "INACTIVE",
-            "blog.krd": "INACTIVE",
             "blog.kuokgroup": "INACTIVE"
         },
         "1586111863": {
@@ -39341,6 +39335,16 @@
         },
         "1589802341": {
             "admob.vg": "INACTIVE"
+        },
+        "1589828210": {
+            "blog.kp": "INACTIVE",
+            "blog.kpmg": "INACTIVE"
+        },
+        "1589828212": {
+            "blog.kpn": "INACTIVE"
+        },
+        "1589828227": {
+            "blog.krd": "INACTIVE"
         }
     }
 }
