@@ -312,7 +312,7 @@
     "abc.blue": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.bm": {
         "epoch": 1602892800.0,
