@@ -530,8 +530,8 @@
         "state": "future"
     },
     "abc.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "abc.community": {
@@ -2037,7 +2037,7 @@
     "abc.villas": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.vip": {
         "epoch": 1593907200.0,
@@ -6422,7 +6422,7 @@
     "android.md": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "android.me": {
         "epoch": 1594944000.0,
