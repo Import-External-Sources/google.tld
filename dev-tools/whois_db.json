@@ -1195,9 +1195,9 @@
         "state": "future"
     },
     "abc.legal": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "abc.lgbt": {
         "epoch": 1615852800.0,
