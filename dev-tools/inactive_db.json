@@ -7429,12 +7429,7 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586111886": {
-            "blog.lincoln": "INACTIVE",
-            "blog.linde": "INACTIVE"
-        },
         "1586111887": {
-            "blog.lipsy": "INACTIVE",
             "blog.live": "INACTIVE"
         },
         "1586111888": {
@@ -39358,6 +39353,13 @@
         },
         "1590466177": {
             "android.hr": "INACTIVE"
+        },
+        "1590483717": {
+            "blog.lincoln": "INACTIVE"
+        },
+        "1590483718": {
+            "blog.linde": "INACTIVE",
+            "blog.lipsy": "INACTIVE"
         }
     }
 }
