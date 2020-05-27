@@ -3262,7 +3262,7 @@
     "adsense.monster": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsense.moscow": {
         "epoch": 1594080000.0,
@@ -4260,8 +4260,8 @@
         "state": "future"
     },
     "adwords.by": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "adwords.ca": {
@@ -8265,8 +8265,8 @@
         "state": "future"
     },
     "blog.ge": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "blog.gl": {
