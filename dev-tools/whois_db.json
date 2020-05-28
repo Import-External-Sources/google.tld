@@ -902,7 +902,7 @@
     "abc.gifts": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc.gl": {
         "epoch": 1590969600.0,
@@ -1405,8 +1405,8 @@
         "state": "future"
     },
     "abc.ninja": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "abc.nrw": {
@@ -3260,9 +3260,9 @@
         "state": "future"
     },
     "adsense.monster": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "adsense.moscow": {
         "epoch": 1594080000.0,
