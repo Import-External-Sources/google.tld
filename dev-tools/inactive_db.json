@@ -7429,9 +7429,6 @@
         "1584524062": {
             "blogspot.pnc": "INACTIVE"
         },
-        "1586111947": {
-            "blog.luxury": "INACTIVE"
-        },
         "1586111948": {
             "blog.macys": "INACTIVE",
             "blog.maif": "INACTIVE"
@@ -39374,6 +39371,9 @@
         },
         "1590902202": {
             "blog.luxe": "INACTIVE"
+        },
+        "1590906172": {
+            "blog.luxury": "INACTIVE"
         }
     }
 }
