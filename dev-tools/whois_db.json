@@ -6654,6 +6654,11 @@
         "expiration_date": "26-jul-2021",
         "state": "future"
     },
+    "android.pm": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "android.poker": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
@@ -6747,6 +6752,11 @@
     "android.ro": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "android.rocks": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "android.rodeo": {
