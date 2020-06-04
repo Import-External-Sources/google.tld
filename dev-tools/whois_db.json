@@ -2074,6 +2074,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "abc.voyage": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
     "abc.wales": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -2152,6 +2157,11 @@
     "abc.xn--6qq986b3xl": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "abc.xn--czr694b": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "abc.xn--fiq228c5hs": {
