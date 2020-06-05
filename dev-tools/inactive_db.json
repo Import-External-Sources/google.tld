@@ -10253,11 +10253,7 @@
         "1588490843": {
             "blog.llp": "INACTIVE"
         },
-        "1588787807": {
-            "blogger.pg": "INACTIVE"
-        },
         "1588787823": {
-            "blogger.pharmacy": "INACTIVE",
             "blogger.phd": "INACTIVE",
             "blogger.philips": "INACTIVE"
         },
@@ -38957,6 +38953,12 @@
         },
         "1591379511": {
             "blogger.pfizer": "INACTIVE"
+        },
+        "1591380873": {
+            "blogger.pg": "INACTIVE"
+        },
+        "1591380889": {
+            "blogger.pharmacy": "INACTIVE"
         }
     }
 }
