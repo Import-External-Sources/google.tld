@@ -7929,6 +7929,11 @@
         "expiration_date": "25-nov-2020",
         "state": "future"
     },
+    "blog.clinic": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "blog.clothing": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
