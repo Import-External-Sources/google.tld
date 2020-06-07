@@ -400,9 +400,9 @@
         "state": "future"
     },
     "abc.casa": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
-        "state": "past"
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
     },
     "abc.casino": {
         "epoch": 1593561600.0,
