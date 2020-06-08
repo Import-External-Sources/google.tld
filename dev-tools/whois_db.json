@@ -8349,6 +8349,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "blog.graphics": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "blog.gratis": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
