@@ -1520,9 +1520,9 @@
         "state": "future"
     },
     "abc.pizza": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
-        "state": "past"
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
     },
     "abc.pl": {
         "epoch": 1614816000.0,
