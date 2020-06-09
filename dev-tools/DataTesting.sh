@@ -24,8 +24,10 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-   PyFunceble --ci -q -ex -dbr 30 --dns 127.0.0.1 --http -h --plain \
-        --autosave-minutes 20 \
+   PyFunceble --ci -q -ex -dbr 30 --dns 95.216.209.53 --http -h --plain \
+        --autosave-minutes 38 -db --database-type mariadb \
+        --hierarchical --ci-branch processing \
+        -m -p "$(nproc --ignore=1)" \
         --ci-branch  master \
         --ci-distribution-branch master \
         --commit-autosave-message "${dateTime} ${TRAVIS_BUILD_NUMBER} [Stop Google]" \
