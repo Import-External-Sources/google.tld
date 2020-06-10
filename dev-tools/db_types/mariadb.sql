@@ -25,7 +25,7 @@
 --     https://github.com/funilrys/PyFunceble
 --
 -- Project documentation:
---     https://pyfunceble.readthedocs.io/en/dev/
+--     https://pyfunceble.readthedocs.io////en/master/
 --
 -- Project homepage:
 --     https://pyfunceble.github.io/
@@ -36,7 +36,7 @@
 --
 --     MIT License
 --
---     Copyright (c) 2017, 2018, 2019 Nissar Chababy
+--     Copyright (c) 2017, 2018, 2019, 2020 Nissar Chababy
 --
 --     Permission is hereby granted, free of charge, to any person obtaining a copy
 --     of this software and associated documentation files (the "Software"), to deal
