@@ -65,7 +65,7 @@ script:
     BY 'PyFunceble';"
   - sudo mysql -u root -h localhost -e "GRANT ALL PRIVILEGES ON *.* TO 'PyFunceble'@'localhost';"
   - sudo bash "${TRAVIS_BUILD_DIR}/dev-tools/setup_recursor.sh"
-  #- sudo systemctl restart pdns-recursor.service && sudo systemctl status pdns-recursor.service
+  - sudo systemctl restart pdns-recursor.service && sudo systemctl status pdns-recursor.service
   - bash dev-tools/domain_combine.sh && sudo mkdir -p
     ${HOME}/db/ && sudo mysqldump --user=PyFunceble --password=PyFunceble --opt PyFunceble
     > ${HOME}/db/pyfunceble.sql
