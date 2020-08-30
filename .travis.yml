@@ -24,7 +24,7 @@ env:
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
 addons:
-  mariadb: '10.4'
+  mariadb: '10.5'
   apt:
     packages:
     - dos2unix
@@ -46,7 +46,7 @@ install:
   - pip --version
   - conda --version
   - pip3 install --upgrade pip
-  #- pip install pyfunceble-dev ultimate-hosts-blacklist-whitelist
+  - pip install pyfunceble-dev ultimate-hosts-blacklist-whitelist
 
 git:
   depth: 5
