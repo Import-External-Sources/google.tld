@@ -153,7 +153,8 @@
         "neko.am",
         "net.am",
         "nyaa.am",
-        "org.am"
+        "org.am",
+        "radio.am"
     ],
     "ao": [
         "co.ao",
@@ -168,6 +169,7 @@
         "hasura.app",
         "loginline.app",
         "netlify.app",
+        "platform0.app",
         "run.app",
         "telebit.app",
         "vercel.app",
@@ -221,7 +223,8 @@
         "lima-city.at",
         "or.at",
         "priv.at",
-        "sth.ac.at"
+        "sth.ac.at",
+        "wien.funkfeuer.at"
     ],
     "au": [
         "act.au",
@@ -232,7 +235,6 @@
         "com.au",
         "conf.au",
         "edu.au",
-        "education.tas.edu.au",
         "gov.au",
         "id.au",
         "info.au",
@@ -295,6 +297,10 @@
         "mil.ba",
         "net.ba",
         "org.ba"
+    ],
+    "basketball": [
+        "aus.basketball",
+        "nz.basketball"
     ],
     "bb": [
         "biz.bb",
@@ -383,6 +389,7 @@
         "for-more.biz",
         "for-some.biz",
         "for-the.biz",
+        "jozi.biz",
         "mmafan.biz",
         "myftp.biz",
         "no-ip.biz",
@@ -472,6 +479,7 @@
         "ap.gov.br",
         "ap.leg.br",
         "aparecida.br",
+        "app.br",
         "arq.br",
         "art.br",
         "ato.br",
@@ -481,6 +489,7 @@
         "barueri.br",
         "belem.br",
         "bhz.br",
+        "bib.br",
         "bio.br",
         "blog.br",
         "blogspot.com.br",
@@ -498,16 +507,21 @@
         "com.br",
         "contagem.br",
         "coop.br",
+        "coz.br",
         "cri.br",
         "cuiaba.br",
         "curitiba.br",
         "def.br",
+        "des.br",
+        "det.br",
+        "dev.br",
         "df.gov.br",
         "df.leg.br",
         "ecn.br",
         "eco.br",
         "edu.br",
         "emp.br",
+        "enf.br",
         "eng.br",
         "es.gov.br",
         "es.leg.br",
@@ -525,6 +539,7 @@
         "foz.br",
         "fst.br",
         "g12.br",
+        "geo.br",
         "ggf.br",
         "go.gov.br",
         "go.leg.br",
@@ -542,6 +557,7 @@
         "jus.br",
         "leg.br",
         "lel.br",
+        "log.br",
         "londrina.br",
         "ma.gov.br",
         "ma.leg.br",
@@ -592,6 +608,7 @@
         "radio.br",
         "rec.br",
         "recife.br",
+        "rep.br",
         "ribeirao.br",
         "rio.br",
         "riobranco.br",
@@ -616,6 +633,7 @@
         "sc.leg.br",
         "se.gov.br",
         "se.leg.br",
+        "seg.br",
         "sjc.br",
         "slg.br",
         "slz.br",
@@ -625,6 +643,7 @@
         "srv.br",
         "taxi.br",
         "tc.br",
+        "tec.br",
         "teo.br",
         "the.br",
         "tmp.br",
@@ -707,6 +726,7 @@
     ],
     "cc": [
         "cloudns.cc",
+        "csx.cc",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
@@ -724,12 +744,15 @@
         "12hp.ch",
         "2ix.ch",
         "4lima.ch",
+        "appengine.flow.ch",
         "blogspot.ch",
         "dnsking.ch",
+        "firenet.ch",
         "gotdns.ch",
         "lima-city.ch",
         "linkyard-cloud.ch",
-        "square7.ch"
+        "square7.ch",
+        "svc.firenet.ch"
     ],
     "ci": [
         "ac.ci",
@@ -768,6 +791,7 @@
     ],
     "cloud": [
         "banzai.cloud",
+        "jele.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "on-rancher.cloud",
@@ -777,11 +801,13 @@
         "trafficplex.cloud",
         "urown.cloud",
         "vapor.cloud",
+        "vip.jelastic.cloud",
         "voorloper.cloud"
     ],
     "club": [
         "barsy.club",
         "cloudns.club",
+        "jele.club",
         "pony.club"
     ],
     "cm": [
@@ -871,6 +897,8 @@
         "owo.codes"
     ],
     "com": [
+        "!teams.algorithmia.com",
+        "!test.algorithmia.com",
         "001www.com",
         "0emm.com",
         "1kapp.com",
@@ -878,6 +906,7 @@
         "4u.com",
         "adobeaemcloud.com",
         "africa.com",
+        "algorithmia.com",
         "alpha-myqnapcloud.com",
         "alpha.bounty-full.com",
         "ap-northeast-1.elasticbeanstalk.com",
@@ -920,6 +949,7 @@
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
         "customer-oci.com",
+        "customer.mythic-beasts.com",
         "damnserver.com",
         "dattolocal.com",
         "dattorelay.com",
@@ -939,6 +969,7 @@
         "doesntexist.com",
         "dontexist.com",
         "doomdns.com",
+        "dopaas.com",
         "drayddns.com",
         "dreamhosters.com",
         "dsmynas.com",
@@ -1052,8 +1083,11 @@
         "homesecuritymac.com",
         "homesecuritypc.com",
         "homeunix.com",
+        "hostedpi.com",
         "hu.com",
         "iamallama.com",
+        "impertrix.com",
+        "impertrixcdn.com",
         "is-a-anarchist.com",
         "is-a-blogger.com",
         "is-a-bookkeeper.com",
@@ -1112,6 +1146,7 @@
         "isa-geek.com",
         "isa-hockeynut.com",
         "issmarterthanyou.com",
+        "jcloud.ik-server.com",
         "jdevcloud.com",
         "jpn.com",
         "kasserver.com",
@@ -1123,6 +1158,7 @@
         "logoip.com",
         "loseyourip.com",
         "lpusercontent.com",
+        "lynx.mythic-beasts.com",
         "members.linode.com",
         "meteorapp.com",
         "mex.com",
@@ -1144,6 +1180,7 @@
         "nfshost.com",
         "no.com",
         "nodebalancer.linode.com",
+        "ocelot.mythic-beasts.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
@@ -1151,16 +1188,21 @@
         "onfabrica.com",
         "onrender.com",
         "onthewifi.com",
+        "onza.mythic-beasts.com",
         "ooguy.com",
         "operaunite.com",
         "outsystemscloud.com",
         "ownprovider.com",
+        "paas.massivegrid.com",
         "pagefrontapp.com",
+        "pages.wiardweb.com",
         "pagespeedmobilizer.com",
+        "pagexl.com",
         "pgfog.com",
         "pixolino.com",
         "platter-app.com",
         "playstation-cloud.com",
+        "pleskns.com",
         "point2this.com",
         "publishproxy.com",
         "qa2.com",
@@ -1255,6 +1297,7 @@
         "sinaapp.com",
         "skygearapp.com",
         "space-to-rent.com",
+        "sphinx.mythic-beasts.com",
         "stackhero-network.com",
         "static.observableusercontent.com",
         "stufftoread.com",
@@ -1281,15 +1324,19 @@
         "us.com",
         "uy.com",
         "vipsinaapp.com",
+        "vs.mythic-beasts.com",
         "wafflecell.com",
         "withgoogle.com",
         "withyoutube.com",
         "workisboring.com",
         "wpdevcloud.com",
+        "wpenginepowered.com",
         "writesthisblog.com",
+        "x.mythic-beasts.com",
         "xen.prgmr.com",
         "xenapponazure.com",
         "xnbay.com",
+        "yali.mythic-beasts.com",
         "yolasite.com",
         "za.com"
     ],
@@ -1445,9 +1492,6 @@
         "cloudapps.digital",
         "london.cloudapps.digital"
     ],
-    "direct": [
-        "fastpanel.direct"
-    ],
     "dk": [
         "biz.dk",
         "blogspot.dk",
@@ -1563,6 +1607,7 @@
         "barsy.eu",
         "cloudns.eu",
         "diskstation.eu",
+        "jelastic.dogado.eu",
         "mycd.eu",
         "spdns.eu",
         "transurl.eu",
@@ -1588,7 +1633,9 @@
         "aland.fi",
         "blogspot.fi",
         "dy.fi",
+        "fi.cloudplatform.fi",
         "iki.fi",
+        "paas.datacenter.fi",
         "xn--hkkinen-5wa.fi"
     ],
     "financial": [
@@ -1611,6 +1658,13 @@
     ],
     "fk": [
         "fk"
+    ],
+    "fm": [
+        "com.fm",
+        "edu.fm",
+        "net.fm",
+        "org.fm",
+        "radio.fm"
     ],
     "football": [
         "of.football"
@@ -1647,6 +1701,8 @@
         "veterinaire.fr"
     ],
     "gd": [
+        "edu.gd",
+        "gov.gd",
         "nom.gd"
     ],
     "gdn": [
@@ -1803,6 +1859,7 @@
         "fastvps.host",
         "freesite.host",
         "half.host",
+        "jele.host",
         "mircloud.host",
         "myfast.host",
         "pcloud.host"
@@ -1877,6 +1934,7 @@
         "blogspot.co.id",
         "co.id",
         "desa.id",
+        "forte.id",
         "go.id",
         "mil.id",
         "my.id",
@@ -1930,7 +1988,8 @@
         "net.in",
         "nic.in",
         "org.in",
-        "res.in"
+        "res.in",
+        "web.in"
     ],
     "info": [
         "barrel-of-knowledge.info",
@@ -1993,7 +2052,9 @@
         "github.io",
         "gitlab.io",
         "hasura-app.io",
+        "hostyhosting.io",
         "hzc.io",
+        "jele.io",
         "loginline.io",
         "lolipop.io",
         "mo-siemens.io",
@@ -4476,6 +4537,9 @@
         "soc.lk",
         "web.lk"
     ],
+    "lol": [
+        "omg.lol"
+    ],
     "london": [
         "in.london",
         "of.london"
@@ -4581,6 +4645,7 @@
         "its.me",
         "localhost.daplie.me",
         "loginto.me",
+        "mcpe.me",
         "myds.me",
         "nctu.me",
         "net.me",
@@ -5330,6 +5395,9 @@
         "azure-mobile.net",
         "azurewebsites.net",
         "b.ssl.fastly.net",
+        "bar0.net",
+        "bar1.net",
+        "bar2.net",
         "barsy.net",
         "bitbridge.net",
         "blackbaudcdn.net",
@@ -5348,6 +5416,7 @@
         "cloudeity.net",
         "cloudfront.net",
         "cloudfunctions.net",
+        "cloudjiffy.net",
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
@@ -5398,6 +5467,7 @@
         "is-a-chef.net",
         "is-a-geek.net",
         "isa-geek.net",
+        "jelastic.saveincloud.net",
         "jls-sto1.elastx.net",
         "jp.net",
         "kicks-ass.net",
@@ -6490,6 +6560,7 @@
         "servegame.org",
         "si.eu.org",
         "sk.eu.org",
+        "small-web.org",
         "spdns.org",
         "ssl.origin.cdn77-secure.org",
         "stuff-4-sale.org",
@@ -6923,6 +6994,7 @@
     "ro": [
         "arts.ro",
         "blogspot.ro",
+        "co.ro",
         "com.ro",
         "firm.ro",
         "info.ro",
@@ -6968,15 +7040,18 @@
         "hb.cldmail.ru",
         "hosting.myjino.ru",
         "int.ru",
+        "jelastic.regruhosting.ru",
         "kalmykia.ru",
         "kustanai.ru",
         "landing.myjino.ru",
         "marine.ru",
+        "mcdir.ru",
         "mil.ru",
         "mordovia.ru",
         "msk.ru",
         "myjino.ru",
         "mytis.ru",
+        "na4u.ru",
         "nalchik.ru",
         "net.ru",
         "nov.ru",
@@ -6989,6 +7064,7 @@
         "test.ru",
         "vladikavkaz.ru",
         "vladimir.ru",
+        "vps.mcdir.ru",
         "vps.myjino.ru"
     ],
     "run": [
@@ -7109,14 +7185,17 @@
         "per.sg"
     ],
     "sh": [
+        "bc.platform.sh",
         "com.sh",
+        "ent.platform.sh",
+        "eu.platform.sh",
         "gov.sh",
         "hashbang.sh",
         "mil.sh",
         "net.sh",
         "now.sh",
         "org.sh",
-        "platform.sh",
+        "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
     ],
@@ -7125,6 +7204,7 @@
     ],
     "si": [
         "blogspot.si",
+        "gitpage.si",
         "nom.si"
     ],
     "site": [
@@ -7133,9 +7213,14 @@
         "cloudera.site",
         "cyon.site",
         "fastvps.site",
+        "fnwk.site",
+        "folionetwork.site",
+        "jele.site",
         "lelux.site",
         "loginline.site",
         "mintere.site",
+        "omniwe.site",
+        "opensocial.site",
         "platformsh.site"
     ],
     "sk": [
@@ -7295,7 +7380,8 @@
         "blogspot.td"
     ],
     "team": [
-        "discourse.team"
+        "discourse.team",
+        "jelastic.team"
     ],
     "technology": [
         "co.technology"
@@ -7375,6 +7461,7 @@
         "nyan.to",
         "org.to",
         "oya.to",
+        "rdv.to",
         "vpnplus.to"
     ],
     "top": [
@@ -7487,7 +7574,6 @@
         "dn.ua",
         "dnepropetrovsk.ua",
         "dnipropetrovsk.ua",
-        "dominic.ua",
         "donetsk.ua",
         "dp.ua",
         "edu.ua",
@@ -7574,6 +7660,7 @@
         "co.uk",
         "conn.uk",
         "copro.uk",
+        "cust.retrosnub.co.uk",
         "dh.bytemark.co.uk",
         "glug.org.uk",
         "gov.uk",
@@ -7591,6 +7678,7 @@
         "org.uk",
         "plc.uk",
         "police.uk",
+        "pymnt.uk",
         "sch.uk",
         "service.gov.uk",
         "vm.bytemark.co.uk",
@@ -7914,6 +8002,7 @@
     ],
     "vu": [
         "blog.vu",
+        "cn.vu",
         "com.vu",
         "dev.vu",
         "edu.vu",
