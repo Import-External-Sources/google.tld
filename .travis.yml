@@ -1,4 +1,5 @@
-dist: bionic
+os: linux
+dist: focal
 
 language: generic #python
 
@@ -20,6 +21,7 @@ env:
     - TRAVIS_REPO_SLUG: ${TRAVIS_REPO_SLUG}
     - GIT_BRANCH: master
     - TZ: UTC
+    - PYTHON_VERSION: 3.8.5
     - PYFUNCEBLE_CONFIG_DIR: ${TRAVIS_BUILD_DIR}/dev-tools/
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
@@ -31,6 +33,8 @@ addons:
     - msttcorefonts
     #- pdns-recursor
     update: true
+    sources:
+      - sourceline: 'ppa:git-core/ppa'
 
 install:
   - export PATH="${HOME}/miniconda/bin:${PATH}"
@@ -46,15 +50,13 @@ install:
   - pip --version
   - conda --version
   - pip install --upgrade pip
-  - pip install pyfunceble-dev ultimate-hosts-blacklist-whitelist
+  - pip install pyfunceble-dev ultimate-hosts-blacklist-whitelist-dev
 
 git:
   depth: 5
 
 matrix:
   fast_finish: true
-
-sudo: required
 
 script:
   - pyfunceble --version
