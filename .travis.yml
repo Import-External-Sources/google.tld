@@ -23,7 +23,7 @@ env:
     - TZ: UTC
     - PYTHON_VERSION: 3.8.5
     - PYFUNCEBLE_CONFIG_DIR: ${TRAVIS_BUILD_DIR}/dev-tools/
-    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+    - PYFUNCEBLE_AUTO_CONFIGURATION: yes
 
 addons:
   mariadb: '10.5'
