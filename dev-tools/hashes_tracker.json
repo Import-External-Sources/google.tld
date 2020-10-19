@@ -1,13 +1,13 @@
 {
     "/home/travis/build/Import-External-Sources/google.tld/dev-tools/domain.test": {
         "base": {
-            "datetime_iso": "2020-09-05T02:09:46.641533",
-            "hash": "6c2aff644c7967288587191e7da70bc2689e2935441035019c687382"
+            "datetime_iso": "2020-10-19T02:32:15.384246",
+            "hash": "b76b253eeebba106de91fcde25015cc9c6ba0c68b75a16e206a448e8"
         },
         "latest": {
-            "datetime_iso": "2020-09-05T02:09:46.641533",
-            "hash": "6c2aff644c7967288587191e7da70bc2689e2935441035019c687382"
+            "datetime_iso": "2020-10-19T02:32:15.384246",
+            "hash": "b76b253eeebba106de91fcde25015cc9c6ba0c68b75a16e206a448e8"
         },
-        "position": 45877
+        "position": 28428
     }
 }
